@@ -4,7 +4,8 @@ function placeBsBtn() {
 
 	$("#import.bs-btn").click(function () {
 		var pokes = document.getElementsByClassName("import-team-text")[0].value;
-		addSets(pokes);
+		var name = document.getElementsByClassName("import-name-text")[0].value.trim() === "" ? "Custom Set" : document.getElementsByClassName("import-name-text")[0].value;
+		addSets(pokes, name);
 	});
 }
 
@@ -13,21 +14,40 @@ function ExportPokemon(pokeInfo) {
 	var EV_counter = 0;
 	var finalText = "";
 	finalText = pokemon.name + (pokemon.item ? " @ " + pokemon.item : "") + "\n";
+	finalText += "Level: " + pokemon.level + "\n";
 	finalText += pokemon.nature && gen > 2 ? pokemon.nature + " Nature" + "\n" : "";
+	finalText += pokemon.teraType && gen > 8 ? "Tera Type: " + pokemon.teraType : "";
 	finalText += pokemon.ability ? "Ability: " + pokemon.ability + "\n" : "";
 	if (gen > 2) {
-		finalText += "EVs: ";
 		var EVs_Array = [];
 		for (var stat in pokemon.evs) {
-			if (pokemon.evs[stat]) {
-				EVs_Array.push(pokemon.evs[stat] + " " + calc.Stats.displayStat(stat));
-				EV_counter += pokemon.evs[stat];
-				if (EV_counter > 510) break;
+			var ev = pokemon.evs[stat] ? pokemon.evs[stat] : 0;
+			if (ev > 0) {
+				EVs_Array.push(ev + " " + calc.Stats.displayStat(stat));
 			}
+			EV_counter += ev;
+			if (EV_counter > 510) break;
 		}
-		finalText += serialize(EVs_Array, " / ");
+		if (EVs_Array.length > 0) {
+			finalText += "EVs: ";
+			finalText += serialize(EVs_Array, " / ");
+			finalText += "\n";
+		}
+	}
+
+	var IVs_Array = [];
+	for (var stat in pokemon.ivs) {
+		var iv = pokemon.ivs[stat] ? pokemon.ivs[stat] : 0;
+		if (iv < 31) {
+			IVs_Array.push(iv + " " + calc.Stats.displayStat(stat));
+		}
+	}
+	if (IVs_Array.length > 0) {
+		finalText += "IVs: ";
+		finalText += serialize(IVs_Array, " / ");
 		finalText += "\n";
 	}
+
 	for (var i = 0; i < 4; i++) {
 		var moveName = pokemon.moves[i].name;
 		if (moveName !== "(No Move)") {
@@ -35,7 +55,7 @@ function ExportPokemon(pokeInfo) {
 		}
 	}
 	finalText = finalText.trim();
-	$("textarea.import-team-text").text(finalText);
+	$("textarea.import-team-text").val(finalText);
 }
 
 $("#exportL").click(function () {
@@ -60,7 +80,12 @@ function serialize(array, separator) {
 
 function getAbility(row) {
 	var ability = row[1] ? row[1].trim() : '';
-	if (calc.ABILITIES[8].indexOf(ability) !== -1) return ability;
+	if (calc.ABILITIES[9].indexOf(ability) !== -1) return ability;
+}
+
+function getTeraType(row) {
+	var teraType = row[1] ? row[1].trim() : '';
+	if (Object.keys(calc.TYPE_CHART[9]).slice(1).indexOf(teraType) !== -1) return teraType;
 }
 
 function statToLegacyStat(stat) {
@@ -84,9 +109,11 @@ function getStats(currentPoke, rows, offset) {
 	currentPoke.nature = "Serious";
 	var currentEV;
 	var currentIV;
+	var currentAbility;
+	var currentTeraType;
 	var currentNature;
 	currentPoke.level = 100;
-	for (var x = offset; x < offset + 8; x++) {
+	for (var x = offset; x < offset + 9; x++) {
 		var currentRow = rows[x] ? rows[x].split(/[/:]/) : '';
 		var evs = {};
 		var ivs = {};
@@ -115,6 +142,16 @@ function getStats(currentPoke, rows, offset) {
 			break;
 
 		}
+		currentAbility = rows[x] ? rows[x].trim().split(":") : '';
+		if (currentAbility[0] == "Ability") {
+			currentPoke.ability = currentAbility[1].trim();
+		}
+
+		currentTeraType = rows[x] ? rows[x].trim().split(":") : '';
+		if (currentTeraType[0] == "Tera Type") {
+			currentPoke.teraType = currentTeraType[1].trim();
+		}
+
 		currentNature = rows[x] ? rows[x].trim().split(" ") : '';
 		if (currentNature[1] == "Nature") {
 			currentPoke.nature = currentNature[0];
@@ -126,7 +163,7 @@ function getStats(currentPoke, rows, offset) {
 function getItem(currentRow, j) {
 	for (;j < currentRow.length; j++) {
 		var item = currentRow[j].trim();
-		if (calc.ITEMS[8].indexOf(item) != -1) {
+		if (calc.ITEMS[9].indexOf(item) != -1) {
 			return item;
 		}
 	}
@@ -155,15 +192,17 @@ function getMoves(currentPoke, rows, offset) {
 function addToDex(poke) {
 	var dexObject = {};
 	if ($("#randoms").prop("checked")) {
-		if (RANDOM_SS[poke.name] == undefined) RANDOM_SS[poke.name] = {};
-		if (RANDOM_SM[poke.name] == undefined) RANDOM_SM[poke.name] = {};
-		if (RANDOM_XY[poke.name] == undefined) RANDOM_XY[poke.name] = {};
-		if (RANDOM_BW[poke.name] == undefined) RANDOM_BW[poke.name] = {};
-		if (RANDOM_DPP[poke.name] == undefined) RANDOM_DPP[poke.name] = {};
-		if (RANDOM_ADV[poke.name] == undefined) RANDOM_ADV[poke.name] = {};
-		if (RANDOM_GSC[poke.name] == undefined) RANDOM_GSC[poke.name] = {};
-		if (RANDOM_RBY[poke.name] == undefined) RANDOM_RBY[poke.name] = {};
+		if (GEN9RANDOMBATTLE[poke.name] == undefined) GEN9RANDOMBATTLE[poke.name] = {};
+		if (GEN8RANDOMBATTLE[poke.name] == undefined) GEN8RANDOMBATTLE[poke.name] = {};
+		if (GEN7RANDOMBATTLE[poke.name] == undefined) GEN7RANDOMBATTLE[poke.name] = {};
+		if (GEN6RANDOMBATTLE[poke.name] == undefined) GEN6RANDOMBATTLE[poke.name] = {};
+		if (GEN5RANDOMBATTLE[poke.name] == undefined) GEN5RANDOMBATTLE[poke.name] = {};
+		if (GEN4RANDOMBATTLE[poke.name] == undefined) GEN4RANDOMBATTLE[poke.name] = {};
+		if (GEN3RANDOMBATTLE[poke.name] == undefined) GEN3RANDOMBATTLE[poke.name] = {};
+		if (GEN2RANDOMBATTLE[poke.name] == undefined) GEN2RANDOMBATTLE[poke.name] = {};
+		if (GEN1RANDOMBATTLE[poke.name] == undefined) GEN1RANDOMBATTLE[poke.name] = {};
 	} else {
+		if (SETDEX_SV[poke.name] == undefined) SETDEX_SV[poke.name] = {};
 		if (SETDEX_SS[poke.name] == undefined) SETDEX_SS[poke.name] = {};
 		if (SETDEX_SM[poke.name] == undefined) SETDEX_SM[poke.name] = {};
 		if (SETDEX_XY[poke.name] == undefined) SETDEX_XY[poke.name] = {};
@@ -175,6 +214,9 @@ function addToDex(poke) {
 	}
 	if (poke.ability !== undefined) {
 		dexObject.ability = poke.ability;
+	}
+	if (poke.teraType !== undefined) {
+		dexObject.teraType = poke.teraType;
 	}
 	dexObject.level = poke.level;
 	dexObject.evs = poke.evs;
@@ -205,6 +247,8 @@ function addToDex(poke) {
 function updateDex(customsets) {
 	for (var pokemon in customsets) {
 		for (var moveset in customsets[pokemon]) {
+			if (!SETDEX_SV[pokemon]) SETDEX_SV[pokemon] = {};
+			SETDEX_SV[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!SETDEX_SS[pokemon]) SETDEX_SS[pokemon] = {};
 			SETDEX_SS[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!SETDEX_SM[pokemon]) SETDEX_SM[pokemon] = {};
@@ -221,12 +265,15 @@ function updateDex(customsets) {
 			SETDEX_GSC[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!SETDEX_RBY[pokemon]) SETDEX_RBY[pokemon] = {};
 			SETDEX_RBY[pokemon][moveset] = customsets[pokemon][moveset];
+
+			if (!CUSTOMSETDEX_HGSS[pokemon]) CUSTOMSETDEX_HGSS[pokemon] = {};
+			CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset]
 		}
 	}
 	localStorage.customsets = JSON.stringify(customsets);
 }
 
-function addSets(pokes) {
+function addSets(pokes, name) {
 	var rows = pokes.split("\n");
 	var currentRow;
 	var currentPoke;
@@ -235,17 +282,18 @@ function addSets(pokes) {
 		currentRow = rows[i].split(/[()@]/);
 		for (var j = 0; j < currentRow.length; j++) {
 			currentRow[j] = checkExeptions(currentRow[j].trim());
-			if (calc.SPECIES[8][currentRow[j].trim()] !== undefined) {
-				currentPoke = calc.SPECIES[8][currentRow[j].trim()];
+			if (calc.SPECIES[9][currentRow[j].trim()] !== undefined) {
+				currentPoke = calc.SPECIES[9][currentRow[j].trim()];
 				currentPoke.name = currentRow[j].trim();
 				currentPoke.item = getItem(currentRow, j + 1);
 				if (j === 1 && currentRow[0].trim()) {
 					currentPoke.nameProp = currentRow[0].trim();
 				} else {
-					currentPoke.nameProp = "Custom Set";
+					currentPoke.nameProp = name;
 				}
 				currentPoke.isCustomSet = true;
 				currentPoke.ability = getAbility(rows[i + 1].split(":"));
+				currentPoke.teraType = getTeraType(rows[i + 1].split(":"));
 				currentPoke = getStats(currentPoke, rows, i + 1);
 				currentPoke = getMoves(currentPoke, rows, i);
 				addToDex(currentPoke);
@@ -297,6 +345,14 @@ function checkExeptions(poke) {
 	case 'Florges-Orange':
 	case 'Florges-Yellow':
 		poke = "Florges";
+		break;
+	case 'Shellos-East':
+		poke = "Shellos";
+		break;
+	case 'Deerling-Summer':
+	case 'Deerling-Autumn':
+	case 'Deerling-Winter':
+		poke = "Deerling";
 		break;
 	}
 	return poke;

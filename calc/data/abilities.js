@@ -5,7 +5,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     function verb(n) { return function (v) { return step([n, v]); }; }
     function step(op) {
         if (f) throw new TypeError("Generator is already executing.");
-        while (_) try {
+        while (g && (g = 0, op[0] && (_ = 0)), _) try {
             if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
             if (y = 0, t) op = [op[0] & 2, t.value];
             switch (op[0]) {
@@ -26,7 +26,20 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
+var __values = (this && this.__values) || function(o) {
+    var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
+    if (m) return m.call(o);
+    if (o && typeof o.length === "number") return {
+        next: function () {
+            if (o && i >= o.length) o = void 0;
+            return { value: o && o[i++], done: !o };
+        }
+    };
+    throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
+};
+var e_1, _a, e_2, _b;
 exports.__esModule = true;
+
 var util_1 = require("../util");
 var RBY = [];
 var GSC = [];
@@ -193,7 +206,6 @@ var BW = DPP.concat([
     'Sand Rush',
     'Sap Sipper',
     'Sheer Force',
-    'Storm Drain',
     'Telepathy',
     'Teravolt',
     'Toxic Boost',
@@ -278,10 +290,16 @@ var SM = XY.concat([
     'Wimp Out',
 ]);
 var SS = SM.concat([
+    'As One (Glastrier)',
+    'As One (Spectrier)',
     'Ball Fetch',
+    'Chilling Neigh',
     'Cotton Down',
+    'Curious Medicine',
     'Dauntless Shield',
+    'Dragon\'s Maw',
     'Gorilla Tactics',
+    'Grim Neigh',
     'Gulp Missile',
     'Hunger Switch',
     'Ice Face',
@@ -296,15 +314,51 @@ var SS = SM.concat([
     'Power Spot',
     'Propeller Tail',
     'Punk Rock',
+    'Quick Draw',
     'Ripen',
     'Sand Spit',
     'Screen Cleaner',
     'Stalwart',
     'Steam Engine',
     'Steely Spirit',
+    'Transistor',
+    'Unseen Fist',
     'Wandering Spirit',
 ]);
-exports.ABILITIES = [[], RBY, GSC, ADV, DPP, BW, XY, SM, SS];
+var SV = SS.concat([
+    'Anger Shell',
+    'Armor Tail',
+    'Beads of Ruin',
+    'Commander',
+    'Costar',
+    'Cud Chew',
+    'Earth Eater',
+    'Electromorphosis',
+    'Good as Gold',
+    'Guard Dog',
+    'Hadron Engine',
+    'Lingering Aroma',
+    'Mycelium Might',
+    'Opportunist',
+    'Orichalcum Pulse',
+    'Protosynthesis',
+    'Purifying Salt',
+    'Quark Drive',
+    'Rocky Payload',
+    'Seed Sower',
+    'Sharpness',
+    'Supreme Overlord',
+    'Sword of Ruin',
+    'Tablets of Ruin',
+    'Thermal Exchange',
+    'Toxic Debris',
+    'Vessel of Ruin',
+    'Well-Baked Body',
+    'Wind Power',
+    'Wind Rider',
+    'Zero to Hero',
+]);
+exports.ABILITIES = [[], RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
 var Abilities = (function () {
     function Abilities(gen) {
         this.gen = gen;
@@ -313,22 +367,25 @@ var Abilities = (function () {
         return ABILITIES_BY_ID[this.gen][id];
     };
     Abilities.prototype[Symbol.iterator] = function () {
-        var _a, _b, _i, id;
-        return __generator(this, function (_c) {
-            switch (_c.label) {
+        var _a, _b, _c, _i, id;
+        return __generator(this, function (_d) {
+            switch (_d.label) {
                 case 0:
-                    _a = [];
-                    for (_b in ABILITIES_BY_ID[this.gen])
-                        _a.push(_b);
+                    _a = ABILITIES_BY_ID[this.gen];
+                    _b = [];
+                    for (_c in _a)
+                        _b.push(_c);
                     _i = 0;
-                    _c.label = 1;
+                    _d.label = 1;
                 case 1:
-                    if (!(_i < _a.length)) return [3, 4];
-                    id = _a[_i];
+                    if (!(_i < _b.length)) return [3, 4];
+                    _c = _b[_i];
+                    if (!(_c in _a)) return [3, 3];
+                    id = _c;
                     return [4, this.get(id)];
                 case 2:
-                    _c.sent();
-                    _c.label = 3;
+                    _d.sent();
+                    _d.label = 3;
                 case 3:
                     _i++;
                     return [3, 1];
@@ -342,20 +399,38 @@ exports.Abilities = Abilities;
 var Ability = (function () {
     function Ability(name) {
         this.kind = 'Ability';
-        this.id = util_1.toID(name);
+        this.id = (0, util_1.toID)(name);
         this.name = name;
     }
     return Ability;
 }());
 var ABILITIES_BY_ID = [];
-for (var _i = 0, ABILITIES_1 = exports.ABILITIES; _i < ABILITIES_1.length; _i++) {
-    var abilities = ABILITIES_1[_i];
-    var map = {};
-    for (var _a = 0, abilities_1 = abilities; _a < abilities_1.length; _a++) {
-        var ability = abilities_1[_a];
-        var a = new Ability(ability);
-        map[a.id] = a;
+try {
+    for (var ABILITIES_1 = __values(exports.ABILITIES), ABILITIES_1_1 = ABILITIES_1.next(); !ABILITIES_1_1.done; ABILITIES_1_1 = ABILITIES_1.next()) {
+        var abilities = ABILITIES_1_1.value;
+        var map = {};
+        try {
+            for (var abilities_1 = (e_2 = void 0, __values(abilities)), abilities_1_1 = abilities_1.next(); !abilities_1_1.done; abilities_1_1 = abilities_1.next()) {
+                var ability = abilities_1_1.value;
+                var a = new Ability(ability);
+                map[a.id] = a;
+            }
+        }
+        catch (e_2_1) { e_2 = { error: e_2_1 }; }
+        finally {
+            try {
+                if (abilities_1_1 && !abilities_1_1.done && (_b = abilities_1["return"])) _b.call(abilities_1);
+            }
+            finally { if (e_2) throw e_2.error; }
+        }
+        ABILITIES_BY_ID.push(map);
     }
-    ABILITIES_BY_ID.push(map);
+}
+catch (e_1_1) { e_1 = { error: e_1_1 }; }
+finally {
+    try {
+        if (ABILITIES_1_1 && !ABILITIES_1_1.done && (_a = ABILITIES_1["return"])) _a.call(ABILITIES_1);
+    }
+    finally { if (e_1) throw e_1.error; }
 }
 //# sourceMappingURL=abilities.js.map

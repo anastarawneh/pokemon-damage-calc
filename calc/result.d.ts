@@ -3,7 +3,7 @@ import { Generation } from './data/interface';
 import { Field } from './field';
 import { Move } from './move';
 import { Pokemon } from './pokemon';
-export declare type Damage = number | number[] | [number, number] | [number[], number[]];
+export type Damage = number | number[] | [number, number] | [number[], number[]];
 export declare class Result {
     gen: Generation;
     attacker: Pokemon;
@@ -14,11 +14,11 @@ export declare class Result {
     rawDesc: RawDesc;
     constructor(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, damage: Damage, rawDesc: RawDesc);
     desc(): string;
-    range(): number[] | [[number, number], [number, number]];
+    range(): [number, number];
     fullDesc(notation?: string, err?: boolean): string;
     moveDesc(notation?: string): string;
     recovery(notation?: string): {
-        recovery: number[];
+        recovery: [number, number];
         text: string;
     };
     recoil(notation?: string): {

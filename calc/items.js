@@ -1,5 +1,6 @@
 "use strict";
 exports.__esModule = true;
+
 var util_1 = require("./util");
 exports.SEED_BOOSTED_STAT = {
     'Electric Seed': 'def',
@@ -28,7 +29,7 @@ function getItemBoostType(item) {
         case 'Never-Melt Ice':
             return 'Ice';
         case 'Insect Plate':
-        case 'SilverPowder':
+        case 'Silver Powder':
             return 'Bug';
         case 'Iron Plate':
         case 'Metal Coat':
@@ -244,7 +245,7 @@ var FLING_30 = new Set([
     'Charcoal',
     'Deep Sea Scale',
     'Flame Orb',
-    "King's Rock",
+    'King\'s Rock',
     'Life Orb',
     'Light Ball',
     'Light Clay',
@@ -330,7 +331,7 @@ var FLING_10 = new Set([
     'Wide Lens',
     'Wise Glasses',
     'Zoom Lens',
-    'SilverPowder',
+    'Silver Powder',
     'Power Herb',
     'TR00',
     'TR07',
@@ -368,17 +369,17 @@ var FLING_10 = new Set([
 function getFlingPower(item) {
     if (!item)
         return 0;
-    if (['Iron Ball', 'TR43', 'TR71'].indexOf(item) !== -1)
+    if (['Iron Ball', 'TR43', 'TR71'].includes(item))
         return 130;
     if (FLING_120.has(item))
         return 85;
-    if (['TR03', 'TR06', 'TR09', 'TR15', 'TR89'].indexOf(item) !== -1)
+    if (['TR03', 'TR06', 'TR09', 'TR15', 'TR89'].includes(item))
         return 110;
     if (FLING_100.has(item))
         return 100;
-    if (['TR36', 'TR78', 'TR81', 'TR94'].indexOf(item) !== -1)
+    if (['TR36', 'TR78', 'TR81', 'TR94'].includes(item))
         return 95;
-    if (item.indexOf('Plate') !== -1 || FLING_90.has(item))
+    if (item.includes('Plate') || FLING_90.has(item))
         return 90;
     if (FLING_85.has(item))
         return 85;
@@ -388,22 +389,22 @@ function getFlingPower(item) {
         return 70;
     if (FLING_60.has(item))
         return 60;
-    if (['Eject Pack', 'Sharp Beak', 'Dubious Disc'].indexOf(item) !== -1)
+    if (['Eject Pack', 'Sharp Beak', 'Dubious Disc'].includes(item))
         return 50;
-    if (['Icy Rock', 'Eviolite', 'Lucky Punch'].indexOf(item) !== -1)
+    if (['Icy Rock', 'Eviolite', 'Lucky Punch'].includes(item))
         return 40;
     if (FLING_30.has(item))
         return 30;
     if (item === 'TR82')
         return 20;
-    if (item.indexOf('Berry') !== -1 || FLING_10.has(item))
+    if (item.includes('Berry') || FLING_10.has(item))
         return 10;
     return 0;
 }
 exports.getFlingPower = getFlingPower;
 function getNaturalGift(gen, item) {
     var _a;
-    var gift = (_a = gen.items.get(util_1.toID(item))) === null || _a === void 0 ? void 0 : _a.naturalGift;
+    var gift = (_a = gen.items.get((0, util_1.toID)(item))) === null || _a === void 0 ? void 0 : _a.naturalGift;
     return gift ? { t: gift.type, p: gift.basePower } : { t: 'Normal', p: 1 };
 }
 exports.getNaturalGift = getNaturalGift;
@@ -423,7 +424,7 @@ function getTechnoBlast(item) {
 }
 exports.getTechnoBlast = getTechnoBlast;
 function getMultiAttack(item) {
-    if (item.indexOf('Memory') !== -1) {
+    if (item.includes('Memory')) {
         return item.substring(0, item.indexOf(' '));
     }
     return undefined;

@@ -10,13 +10,22 @@ export interface RawDesc {
     attackerAbility?: string;
     attackerItem?: string;
     attackerName: string;
+    attackerTera?: string;
     defenderAbility?: string;
     defenderItem?: string;
     defenderName: string;
+    defenderTera?: string;
     defenseBoost?: number;
     defenseEVs?: string;
     hits?: number;
+    alliesFainted?: number;
+    isBeadsOfRuin?: boolean;
+    isSwordOfRuin?: boolean;
+    isTabletsOfRuin?: boolean;
+    isVesselOfRuin?: boolean;
     isAuroraVeil?: boolean;
+    isFlowerGiftAttacker?: boolean;
+    isFlowerGiftDefender?: boolean;
     isFriendGuard?: boolean;
     isHelpingHand?: boolean;
     isCritical?: boolean;
@@ -25,6 +34,8 @@ export interface RawDesc {
     isProtected?: boolean;
     isReflect?: boolean;
     isBattery?: boolean;
+    isPowerSpot?: boolean;
+    isWonderRoom?: boolean;
     isSwitching?: 'out' | 'in';
     moveBP?: number;
     moveName: string;
@@ -38,7 +49,7 @@ export interface RawDesc {
 export declare function display(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, damage: Damage, rawDesc: RawDesc, notation?: string, err?: boolean): string;
 export declare function displayMove(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, damage: Damage, notation?: string): string;
 export declare function getRecovery(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, damage: Damage, notation?: string): {
-    recovery: number[];
+    recovery: [number, number];
     text: string;
 };
 export declare function getRecoil(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, damage: Damage, notation?: string): {

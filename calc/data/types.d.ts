@@ -1,5 +1,5 @@
 import * as I from './interface';
-export declare type TypeChart = {
+export type TypeChart = {
     [type in I.TypeName]?: {
         [type in I.TypeName]?: number;
     };

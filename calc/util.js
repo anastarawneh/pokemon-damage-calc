@@ -1,5 +1,6 @@
 "use strict";
 exports.__esModule = true;
+
 function toID(text) {
     return ('' + text).toLowerCase().replace(/[^a-z0-9]+/g, '');
 }

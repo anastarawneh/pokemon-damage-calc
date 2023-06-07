@@ -11,7 +11,12 @@ export declare class Pokemon implements State.Pokemon {
     ability?: I.AbilityName;
     abilityOn?: boolean;
     isDynamaxed?: boolean;
+    dynamaxLevel?: number;
+    isSaltCure?: boolean;
+    alliesFainted?: number;
+    boostedStat?: I.StatIDExceptHP;
     item?: I.ItemName;
+    teraType?: I.TypeName;
     nature: I.NatureName;
     ivs: I.StatsTable;
     evs: I.StatsTable;
@@ -40,6 +45,7 @@ export declare class Pokemon implements State.Pokemon {
     hasItem(...items: string[]): boolean;
     hasStatus(...statuses: I.StatusName[]): boolean;
     hasType(...types: I.TypeName[]): boolean;
+    hasOriginalType(...types: I.TypeName[]): boolean;
     named(...names: string[]): boolean;
     clone(): Pokemon;
     private calcStat;

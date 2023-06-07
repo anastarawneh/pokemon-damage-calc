@@ -1,17 +1,44 @@
 "use strict";
+var __read = (this && this.__read) || function (o, n) {
+    var m = typeof Symbol === "function" && o[Symbol.iterator];
+    if (!m) return o;
+    var i = m.call(o), r, ar = [], e;
+    try {
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
+    }
+    catch (error) { e = { error: error }; }
+    finally {
+        try {
+            if (r && !r.done && (m = i["return"])) m.call(i);
+        }
+        finally { if (e) throw e.error; }
+    }
+    return ar;
+};
+var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
+    if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
+        if (ar || !(i in from)) {
+            if (!ar) ar = Array.prototype.slice.call(from, 0, i);
+            ar[i] = from[i];
+        }
+    }
+    return to.concat(ar || Array.prototype.slice.call(from));
+};
 exports.__esModule = true;
+
 var items_1 = require("../items");
 var result_1 = require("../result");
 var util_1 = require("./util");
 function calculateADV(gen, attacker, defender, move, field) {
-    util_1.checkAirLock(attacker, field);
-    util_1.checkAirLock(defender, field);
-    util_1.checkForecast(attacker, field.weather);
-    util_1.checkForecast(defender, field.weather);
-    util_1.checkIntimidate(gen, attacker, defender);
-    util_1.checkIntimidate(gen, defender, attacker);
-    attacker.stats.spe = util_1.getFinalSpeed(gen, attacker, field, field.attackerSide);
-    defender.stats.spe = util_1.getFinalSpeed(gen, defender, field, field.defenderSide);
+    var _a;
+    (0, util_1.checkAirLock)(attacker, field);
+    (0, util_1.checkAirLock)(defender, field);
+    (0, util_1.checkForecast)(attacker, field.weather);
+    (0, util_1.checkForecast)(defender, field.weather);
+    (0, util_1.checkIntimidate)(gen, attacker, defender);
+    (0, util_1.checkIntimidate)(gen, defender, attacker);
+    attacker.stats.spe = (0, util_1.getFinalSpeed)(gen, attacker, field, field.attackerSide);
+    defender.stats.spe = (0, util_1.getFinalSpeed)(gen, defender, field, field.defenderSide);
     var desc = {
         attackerName: attacker.name,
         moveName: move.name,
@@ -32,13 +59,42 @@ function calculateADV(gen, attacker, defender, move, field) {
                     : field.hasWeather('Sand') ? 'Rock'
                         : field.hasWeather('Hail') ? 'Ice'
                             : 'Normal';
+        move.category = move.type === 'Rock' ? 'Physical' : 'Special';
         desc.weather = field.weather;
         desc.moveType = move.type;
         desc.moveBP = move.bp;
     }
-    var type1Effectiveness = util_1.getMoveEffectiveness(gen, move, defender.types[0], field.defenderSide.isForesight);
-    var type2Effectiveness = defender.types[1]
-        ? util_1.getMoveEffectiveness(gen, move, defender.types[1], field.defenderSide.isForesight)
+    var typeEffectivenessPrecedenceRules = [
+        'Normal',
+        'Fire',
+        'Water',
+        'Electric',
+        'Grass',
+        'Ice',
+        'Fighting',
+        'Poison',
+        'Ground',
+        'Flying',
+        'Psychic',
+        'Bug',
+        'Rock',
+        'Ghost',
+        'Dragon',
+        'Dark',
+        'Steel',
+    ];
+    var firstDefenderType = defender.types[0];
+    var secondDefenderType = defender.types[1];
+    if (secondDefenderType && firstDefenderType !== secondDefenderType) {
+        var firstTypePrecedence = typeEffectivenessPrecedenceRules.indexOf(firstDefenderType);
+        var secondTypePrecedence = typeEffectivenessPrecedenceRules.indexOf(secondDefenderType);
+        if (firstTypePrecedence > secondTypePrecedence) {
+            _a = __read([secondDefenderType, firstDefenderType], 2), firstDefenderType = _a[0], secondDefenderType = _a[1];
+        }
+    }
+    var type1Effectiveness = (0, util_1.getMoveEffectiveness)(gen, move, firstDefenderType, field.defenderSide.isForesight);
+    var type2Effectiveness = secondDefenderType
+        ? (0, util_1.getMoveEffectiveness)(gen, move, secondDefenderType, field.defenderSide.isForesight)
         : 1;
     var typeEffectiveness = type1Effectiveness * type2Effectiveness;
     if (typeEffectiveness === 0) {
@@ -53,8 +109,8 @@ function calculateADV(gen, attacker, defender, move, field) {
         desc.defenderAbility = defender.ability;
         return result;
     }
-    desc.HPEVs = defender.evs.hp + " HP";
-    var fixedDamage = util_1.handleFixedDamageMoves(attacker, move);
+    desc.HPEVs = "".concat(defender.evs.hp, " HP");
+    var fixedDamage = (0, util_1.handleFixedDamageMoves)(attacker, move);
     if (fixedDamage) {
         result.damage = fixedDamage;
         return result;
@@ -62,7 +118,7 @@ function calculateADV(gen, attacker, defender, move, field) {
     if (move.hits > 1) {
         desc.hits = move.hits;
     }
-    var bp;
+    var bp = move.bp;
     switch (move.name) {
         case 'Flail':
         case 'Reversal':
@@ -80,6 +136,17 @@ function calculateADV(gen, attacker, defender, move, field) {
             bp = w >= 200 ? 120 : w >= 100 ? 100 : w >= 50 ? 80 : w >= 25 ? 60 : w >= 10 ? 40 : 20;
             desc.moveBP = bp;
             break;
+        case 'Facade':
+            if (attacker.hasStatus('par', 'psn', 'tox', 'brn')) {
+                bp = move.bp * 2;
+                desc.moveBP = bp;
+            }
+            break;
+        case 'Nature Power':
+            move.category = 'Physical';
+            bp = 60;
+            desc.moveName = 'Swift';
+            break;
         default:
             bp = move.bp;
     }
@@ -88,16 +155,16 @@ function calculateADV(gen, attacker, defender, move, field) {
     }
     var isPhysical = move.category === 'Physical';
     var attackStat = isPhysical ? 'atk' : 'spa';
-    desc.attackEVs = util_1.getEVDescriptionText(gen, attacker, attackStat, attacker.nature);
+    desc.attackEVs = (0, util_1.getEVDescriptionText)(gen, attacker, attackStat, attacker.nature);
     var defenseStat = isPhysical ? 'def' : 'spd';
-    desc.defenseEVs = util_1.getEVDescriptionText(gen, defender, defenseStat, defender.nature);
+    desc.defenseEVs = (0, util_1.getEVDescriptionText)(gen, defender, defenseStat, defender.nature);
     var at = attacker.rawStats[attackStat];
     var df = defender.rawStats[defenseStat];
     if (isPhysical && attacker.hasAbility('Huge Power', 'Pure Power')) {
         at *= 2;
         desc.attackerAbility = attacker.ability;
     }
-    if (!attacker.hasItem('Sea Incense') && move.hasType(items_1.getItemBoostType(attacker.item))) {
+    if (!attacker.hasItem('Sea Incense') && move.hasType((0, items_1.getItemBoostType)(attacker.item))) {
         at = Math.floor(at * 1.1);
         desc.attackerItem = attacker.item;
     }
@@ -154,11 +221,11 @@ function calculateADV(gen, attacker, defender, move, field) {
     var attackBoost = attacker.boosts[attackStat];
     var defenseBoost = defender.boosts[defenseStat];
     if (attackBoost > 0 || (!isCritical && attackBoost < 0)) {
-        at = util_1.getModifiedStat(at, attackBoost);
+        at = (0, util_1.getModifiedStat)(at, attackBoost);
         desc.attackBoost = attackBoost;
     }
     if (defenseBoost < 0 || (!isCritical && defenseBoost > 0)) {
-        df = util_1.getModifiedStat(df, defenseBoost);
+        df = (0, util_1.getModifiedStat)(df, defenseBoost);
         desc.defenseBoost = defenseBoost;
     }
     var lv = attacker.level;
@@ -182,7 +249,7 @@ function calculateADV(gen, attacker, defender, move, field) {
         baseDamage = Math.floor(baseDamage * 2);
         desc.isSwitching = 'out';
     }
-    if (field.gameType !== 'Singles' && ['allAdjacentFoes', 'adjacentFoe'].includes(move.target)) {
+    if (field.gameType !== 'Singles' && move.target === 'allAdjacentFoes') {
         baseDamage = Math.floor(baseDamage / 2);
     }
     if ((field.hasWeather('Sun') && move.hasType('Fire')) ||
@@ -213,7 +280,7 @@ function calculateADV(gen, attacker, defender, move, field) {
         baseDamage = Math.floor(baseDamage * 1.5);
         desc.isHelpingHand = true;
     }
-    if (move.hasType.apply(move, attacker.types)) {
+    if (move.hasType.apply(move, __spreadArray([], __read(attacker.types), false))) {
         baseDamage = Math.floor(baseDamage * 1.5);
     }
     baseDamage = Math.floor(baseDamage * typeEffectiveness);

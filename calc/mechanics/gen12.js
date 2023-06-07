@@ -1,10 +1,37 @@
 "use strict";
+var __read = (this && this.__read) || function (o, n) {
+    var m = typeof Symbol === "function" && o[Symbol.iterator];
+    if (!m) return o;
+    var i = m.call(o), r, ar = [], e;
+    try {
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
+    }
+    catch (error) { e = { error: error }; }
+    finally {
+        try {
+            if (r && !r.done && (m = i["return"])) m.call(i);
+        }
+        finally { if (e) throw e.error; }
+    }
+    return ar;
+};
+var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
+    if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
+        if (ar || !(i in from)) {
+            if (!ar) ar = Array.prototype.slice.call(from, 0, i);
+            ar[i] = from[i];
+        }
+    }
+    return to.concat(ar || Array.prototype.slice.call(from));
+};
 exports.__esModule = true;
+
 var items_1 = require("../items");
 var result_1 = require("../result");
 var util_1 = require("./util");
 function calculateRBYGSC(gen, attacker, defender, move, field) {
-    util_1.computeFinalStats(gen, attacker, defender, field, 'atk', 'def', 'spa', 'spd', 'spe');
+    var _a;
+    (0, util_1.computeFinalStats)(gen, attacker, defender, field, 'atk', 'def', 'spa', 'spd', 'spe');
     var desc = {
         attackerName: attacker.name,
         moveName: move.name,
@@ -19,22 +46,50 @@ function calculateRBYGSC(gen, attacker, defender, move, field) {
         return result;
     }
     if (gen.num === 1) {
-        var fixedDamage = util_1.handleFixedDamageMoves(attacker, move);
+        var fixedDamage = (0, util_1.handleFixedDamageMoves)(attacker, move);
         if (fixedDamage) {
             result.damage = fixedDamage;
             return result;
         }
     }
-    var type1Effectiveness = util_1.getMoveEffectiveness(gen, move, defender.types[0], field.defenderSide.isForesight);
-    var type2Effectiveness = defender.types[1]
-        ? util_1.getMoveEffectiveness(gen, move, defender.types[1], field.defenderSide.isForesight)
+    var typeEffectivenessPrecedenceRules = [
+        'Normal',
+        'Fire',
+        'Water',
+        'Electric',
+        'Grass',
+        'Ice',
+        'Fighting',
+        'Poison',
+        'Ground',
+        'Flying',
+        'Psychic',
+        'Bug',
+        'Rock',
+        'Ghost',
+        'Dragon',
+        'Dark',
+        'Steel',
+    ];
+    var firstDefenderType = defender.types[0];
+    var secondDefenderType = defender.types[1];
+    if (secondDefenderType && firstDefenderType !== secondDefenderType && gen.num === 2) {
+        var firstTypePrecedence = typeEffectivenessPrecedenceRules.indexOf(firstDefenderType);
+        var secondTypePrecedence = typeEffectivenessPrecedenceRules.indexOf(secondDefenderType);
+        if (firstTypePrecedence > secondTypePrecedence) {
+            _a = __read([secondDefenderType, firstDefenderType], 2), firstDefenderType = _a[0], secondDefenderType = _a[1];
+        }
+    }
+    var type1Effectiveness = (0, util_1.getMoveEffectiveness)(gen, move, firstDefenderType, field.defenderSide.isForesight);
+    var type2Effectiveness = secondDefenderType
+        ? (0, util_1.getMoveEffectiveness)(gen, move, secondDefenderType, field.defenderSide.isForesight)
         : 1;
     var typeEffectiveness = type1Effectiveness * type2Effectiveness;
     if (typeEffectiveness === 0) {
         return result;
     }
     if (gen.num === 2) {
-        var fixedDamage = util_1.handleFixedDamageMoves(attacker, move);
+        var fixedDamage = (0, util_1.handleFixedDamageMoves)(attacker, move);
         if (fixedDamage) {
             result.damage = fixedDamage;
             return result;
@@ -129,7 +184,7 @@ function calculateRBYGSC(gen, attacker, defender, move, field) {
     }
     var itemBoostType = attacker.hasItem('Dragon Fang')
         ? undefined
-        : items_1.getItemBoostType(attacker.hasItem('Dragon Scale') ? 'Dragon Fang' : attacker.item);
+        : (0, items_1.getItemBoostType)(attacker.hasItem('Dragon Scale') ? 'Dragon Fang' : attacker.item);
     if (move.hasType(itemBoostType)) {
         baseDamage = Math.floor(baseDamage * 1.1);
         desc.attackerItem = attacker.item;
@@ -145,17 +200,33 @@ function calculateRBYGSC(gen, attacker, defender, move, field) {
         baseDamage = Math.floor(baseDamage / 2);
         desc.weather = field.weather;
     }
-    if (move.hasType.apply(move, attacker.types)) {
+    if (move.hasType.apply(move, __spreadArray([], __read(attacker.types), false))) {
         baseDamage = Math.floor(baseDamage * 1.5);
     }
-    baseDamage = Math.floor(baseDamage * typeEffectiveness);
+    if (gen.num === 1) {
+        baseDamage = Math.floor(baseDamage * type1Effectiveness);
+        baseDamage = Math.floor(baseDamage * type2Effectiveness);
+    }
+    else {
+        baseDamage = Math.floor(baseDamage * typeEffectiveness);
+    }
     if (move.named('Flail', 'Reversal')) {
         result.damage = baseDamage;
         return result;
     }
     result.damage = [];
     for (var i = 217; i <= 255; i++) {
-        result.damage[i - 217] = Math.floor((baseDamage * i) / 255);
+        if (gen.num === 2) {
+            result.damage[i - 217] = Math.max(1, Math.floor((baseDamage * i) / 255));
+        }
+        else {
+            if (baseDamage === 1) {
+                result.damage[i - 217] = 1;
+            }
+            else {
+                result.damage[i - 217] = Math.floor((baseDamage * i) / 255);
+            }
+        }
     }
     return result;
 }

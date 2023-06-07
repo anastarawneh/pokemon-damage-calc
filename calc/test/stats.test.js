@@ -23,7 +23,7 @@ describe('Stats', function () {
             spe: 298
         };
         var ADV = { hp: 404, atk: 328, def: 299, spa: 269, spd: 299, spe: 299 };
-        for (var gen = 1; gen <= 8; gen++) {
+        for (var gen = 1; gen <= 9; gen++) {
             for (var s in ADV) {
                 var stat = s;
                 var val = stats_1.Stats.calcStat(data_1.Generations.get(gen), stat, 100, 31, 252, 100, 'Adamant');
@@ -57,8 +57,8 @@ describe('Stats', function () {
         })).toBe(13);
     });
     test('gen 2 modifications', function () {
-        expect(util_1.getModifiedStat(158, -1, data_1.Generations.get(2))).toBe(104);
-        expect(util_1.getModifiedStat(238, -1, data_1.Generations.get(2))).toBe(157);
+        expect((0, util_1.getModifiedStat)(158, -1, data_1.Generations.get(2))).toBe(104);
+        expect((0, util_1.getModifiedStat)(238, -1, data_1.Generations.get(2))).toBe(157);
     });
 });
 //# sourceMappingURL=stats.test.js.map

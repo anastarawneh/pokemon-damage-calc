@@ -28,7 +28,10 @@ export declare class Move implements State.Move {
     priority: number;
     dropsStats?: number;
     ignoreDefensive: boolean;
-    defensiveCategory: I.MoveCategory;
+    overrideOffensiveStat?: I.StatIDExceptHP;
+    overrideDefensiveStat?: I.StatIDExceptHP;
+    overrideOffensivePokemon?: 'target' | 'source';
+    overrideDefensivePokemon?: 'target' | 'source';
     breaksProtect: boolean;
     isZ: boolean;
     isMax: boolean;
@@ -42,4 +45,4 @@ export declare class Move implements State.Move {
     clone(): Move;
 }
 export declare function getZMoveName(moveName: string, moveType: I.TypeName, item?: string): string;
-export declare function getMaxMoveName(moveType: I.TypeName, pokemonSpecies?: string, isStatus?: boolean): string;
+export declare function getMaxMoveName(moveType: I.TypeName, pokemonSpecies?: string, isStatus?: boolean, pokemonAbility?: string): string;

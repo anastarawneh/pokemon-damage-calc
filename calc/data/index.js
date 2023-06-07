@@ -1,5 +1,6 @@
 "use strict";
 exports.__esModule = true;
+
 var abilities_1 = require("./abilities");
 var items_1 = require("./items");
 var moves_1 = require("./moves");
