@@ -13,7 +13,7 @@ function ExportPokemon(pokeInfo) {
 	var pokemon = createPokemon(pokeInfo);
 	var EV_counter = 0;
 	var finalText = "";
-	finalText = pokemon.name + (pokemon.item ? " @ " + pokemon.item : "") + "\n";
+	finalText = pokemon.name + (game > 0 && pokemon.gender != "N" ? " (" + pokemon.gender + ") " : "") + (pokemon.item ? " @ " + pokemon.item : "") + "\n";
 	finalText += "Level: " + pokemon.level + "\n";
 	finalText += pokemon.nature && gen > 2 ? pokemon.nature + " Nature" + "\n" : "";
 	finalText += pokemon.teraType && gen > 8 ? "Tera Type: " + pokemon.teraType : "";

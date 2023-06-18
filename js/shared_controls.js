@@ -632,7 +632,11 @@ $(".set-selector").change(function () {
 		if (pokemon.gender === "N") {
 			pokeObj.find(".gender").parent().hide();
 			pokeObj.find(".gender").val("");
-		} else pokeObj.find(".gender").parent().show();
+		} else {
+			pokeObj.find(".gender").parent().show();
+			if (regSets && setdex[pokemonName][setName].gender === "M") pokeObj.find(".gender").val("Male");
+			if (regSets && setdex[pokemonName][setName].gender === "F") pokeObj.find(".gender").val("Female");
+		}
 	}
 });
 

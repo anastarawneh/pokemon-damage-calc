@@ -4,6 +4,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Snow Warning"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -27,6 +28,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -46,6 +48,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -67,6 +70,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Super Luck"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -88,6 +92,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Super Luck"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -109,6 +114,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -132,6 +138,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -153,6 +160,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -176,6 +184,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "item": "Hard Stone",
             "ivs": {
                 "at": "0",
@@ -198,6 +207,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -221,6 +231,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -242,6 +253,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -264,6 +276,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -285,6 +298,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -307,6 +321,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -328,6 +343,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -349,6 +365,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -370,6 +387,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -391,6 +409,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -412,6 +431,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -433,6 +453,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -454,6 +475,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -477,6 +499,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -500,6 +523,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -521,6 +545,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -542,6 +567,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -565,6 +591,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -586,6 +613,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -607,6 +635,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -628,6 +657,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -649,6 +679,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -672,6 +703,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -693,6 +725,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -714,6 +747,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -735,6 +769,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -756,6 +791,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -777,6 +813,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -798,6 +835,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -819,6 +857,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -842,6 +881,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -863,6 +903,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -884,6 +925,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -905,6 +947,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -926,6 +969,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -948,6 +992,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -969,6 +1014,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -992,6 +1038,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1013,6 +1060,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1034,6 +1082,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1055,6 +1104,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1076,6 +1126,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1097,6 +1148,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1118,6 +1170,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -1139,6 +1192,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -1160,6 +1214,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -1181,6 +1236,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -1204,6 +1260,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1225,6 +1282,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1246,6 +1304,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1267,6 +1326,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -1288,6 +1348,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1309,6 +1370,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1330,6 +1392,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1353,6 +1416,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -1374,6 +1438,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -1397,6 +1462,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1418,6 +1484,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -1436,6 +1503,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1457,6 +1525,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1478,6 +1547,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1499,6 +1569,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1520,6 +1591,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1541,6 +1613,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1562,6 +1635,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1583,6 +1657,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1604,6 +1679,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1627,6 +1703,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -1648,6 +1725,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1669,6 +1747,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1690,6 +1769,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -1712,6 +1792,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -1733,6 +1814,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1754,6 +1836,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1777,6 +1860,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1796,6 +1880,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1815,6 +1900,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1833,6 +1919,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1851,6 +1938,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1869,6 +1957,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1887,6 +1976,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1905,6 +1995,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1923,6 +2014,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1941,6 +2033,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1959,6 +2052,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1977,6 +2071,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -1995,6 +2090,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2013,6 +2109,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2032,6 +2129,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2055,6 +2153,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Simple"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -2078,6 +2177,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Simple"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2101,6 +2201,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -2122,6 +2223,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -2145,6 +2247,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -2169,6 +2272,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Heal"
             ],
+            "gender": "M",
             "item": "Toxic Orb",
             "ivs": {
                 "at": "24",
@@ -2193,6 +2297,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Heatproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -2214,6 +2319,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Heatproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -2237,6 +2343,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2258,6 +2365,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Heatproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2281,6 +2389,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2304,6 +2413,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2327,6 +2437,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -2348,6 +2459,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -2369,6 +2481,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2390,6 +2503,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2411,6 +2525,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2434,6 +2549,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2457,6 +2573,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2478,6 +2595,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2499,6 +2617,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2520,6 +2639,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2541,6 +2661,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2562,6 +2683,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2583,6 +2705,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2604,6 +2727,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2625,6 +2749,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2646,6 +2771,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2667,6 +2793,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2688,6 +2815,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2709,6 +2837,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2730,6 +2859,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2751,6 +2881,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2772,6 +2903,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2793,6 +2925,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2814,6 +2947,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2835,6 +2969,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2858,6 +2993,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magma Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2879,6 +3015,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Solid Rock"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -2902,6 +3039,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2925,6 +3063,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -2944,6 +3083,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2963,6 +3103,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -2982,6 +3123,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3001,6 +3143,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3020,6 +3163,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3041,6 +3185,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -3062,6 +3207,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -3083,6 +3229,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -3104,6 +3251,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -3125,6 +3273,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -3148,6 +3297,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -3169,6 +3319,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3192,6 +3343,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -3213,6 +3365,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -3234,6 +3387,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -3255,6 +3409,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3276,6 +3431,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3299,6 +3455,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tangled Feet"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3322,6 +3479,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flower Gift"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3345,6 +3503,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3368,6 +3527,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3389,6 +3549,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3412,6 +3573,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3435,6 +3597,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3458,6 +3621,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "N",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -3482,6 +3646,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3503,6 +3668,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3524,6 +3690,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -3545,6 +3712,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3566,6 +3734,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3589,6 +3758,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3610,6 +3780,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -3631,6 +3802,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3652,6 +3824,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3673,6 +3846,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magic Guard"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3696,6 +3870,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -3717,6 +3892,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -3738,6 +3914,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3759,6 +3936,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3780,6 +3958,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Skill Link"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3801,6 +3980,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Skill Link"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3822,6 +4002,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Skill Link"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3845,6 +4026,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3866,6 +4048,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3887,6 +4070,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3908,6 +4092,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3929,6 +4114,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3952,6 +4138,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Anticipation"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -3975,6 +4162,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -3997,6 +4185,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4018,6 +4207,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -4039,6 +4229,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -4060,6 +4251,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -4081,6 +4273,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4102,6 +4295,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4123,6 +4317,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4144,6 +4339,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4165,6 +4361,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4186,6 +4383,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4207,6 +4405,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4230,6 +4429,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -4251,6 +4451,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -4274,6 +4475,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4295,6 +4497,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4318,6 +4521,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4339,6 +4543,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Normalize"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -4362,6 +4567,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4382,6 +4588,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4402,6 +4609,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4423,6 +4631,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -4444,6 +4653,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4465,6 +4675,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -4486,6 +4697,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "item": "Lum Berry",
             "ivs": {
                 "at": "24",
@@ -4508,6 +4720,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -4529,6 +4742,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4550,6 +4764,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4573,6 +4788,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4594,6 +4810,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4615,6 +4832,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4636,6 +4854,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4657,6 +4876,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4680,6 +4900,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4698,6 +4919,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4716,6 +4938,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4734,6 +4957,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4752,6 +4976,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4770,6 +4995,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -4790,6 +5016,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4811,6 +5038,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4832,6 +5060,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4855,6 +5084,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4876,6 +5106,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4897,6 +5128,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4918,6 +5150,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4939,6 +5172,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4960,6 +5194,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -4981,6 +5216,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -5004,6 +5240,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -5025,6 +5262,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -5046,6 +5284,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -5067,6 +5306,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5088,6 +5328,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5109,6 +5350,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5130,6 +5372,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5153,6 +5396,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -5174,6 +5418,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -5196,6 +5441,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -5217,6 +5463,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -5238,6 +5485,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -5260,6 +5508,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -5282,6 +5531,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5303,6 +5553,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -5326,6 +5577,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Battle Armor"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5349,6 +5601,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -5370,6 +5623,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -5391,6 +5645,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -5412,6 +5667,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5433,6 +5689,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5456,6 +5713,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Aftermath"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5477,6 +5735,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Unburden"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -5501,6 +5760,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -5522,6 +5782,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5542,6 +5803,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -5563,6 +5825,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -5586,6 +5849,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5607,6 +5871,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Arena Trap"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -5628,6 +5893,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5649,6 +5915,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5670,6 +5937,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5691,6 +5959,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5712,6 +5981,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5733,6 +6003,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5756,6 +6027,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Serene Grace"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5777,6 +6049,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Serene Grace"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5798,6 +6071,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Serene Grace"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -5821,6 +6095,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5842,6 +6117,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -5865,6 +6141,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Adaptability"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -5888,6 +6165,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -5909,6 +6187,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -5930,6 +6209,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -5951,6 +6231,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -5974,6 +6255,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -5995,6 +6277,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6016,6 +6299,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6037,6 +6321,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6058,6 +6343,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -6080,6 +6366,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6103,6 +6390,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Motor Drive"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -6127,6 +6415,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6150,6 +6439,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6171,6 +6461,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6192,6 +6483,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6213,6 +6505,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6234,6 +6527,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6255,6 +6549,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6276,6 +6571,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6297,6 +6593,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -6318,6 +6615,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -6339,6 +6637,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -6360,6 +6659,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -6381,6 +6681,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -6402,6 +6703,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6423,6 +6725,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6444,6 +6747,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6467,6 +6771,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -6490,6 +6795,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -6511,6 +6817,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -6530,6 +6837,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "Leader Sabrina #2": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -6551,6 +6859,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6574,6 +6883,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6595,6 +6905,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6616,6 +6927,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6637,6 +6949,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6658,6 +6971,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6679,6 +6993,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6702,6 +7017,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -6723,6 +7039,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -6744,6 +7061,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -6765,6 +7083,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6786,6 +7105,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6807,6 +7127,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -6830,6 +7151,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6851,6 +7173,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6872,6 +7195,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6893,6 +7217,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6914,6 +7239,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6935,6 +7261,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6956,6 +7283,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6977,6 +7305,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -6998,6 +7327,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7021,6 +7351,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7042,6 +7373,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7063,6 +7395,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7084,6 +7417,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7105,6 +7439,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7126,6 +7461,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7147,6 +7483,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7168,6 +7505,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7189,6 +7527,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7210,6 +7549,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7231,6 +7571,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7252,6 +7593,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7273,6 +7615,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7296,6 +7639,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -7317,6 +7661,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -7338,6 +7683,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -7359,6 +7705,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -7380,6 +7727,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -7403,6 +7751,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7424,6 +7773,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7445,6 +7795,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7466,6 +7817,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7487,6 +7839,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7510,6 +7863,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7531,6 +7885,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7552,6 +7907,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7573,6 +7929,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7594,6 +7951,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -7615,6 +7973,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7636,6 +7995,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7657,6 +8017,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -7680,6 +8041,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -7703,6 +8065,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -7726,6 +8089,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Snow Cloak"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -7749,6 +8113,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7770,6 +8135,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7791,6 +8157,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -7814,6 +8181,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Steadfast"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -7838,6 +8206,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -7861,6 +8230,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -7884,6 +8254,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -7905,6 +8276,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -7926,6 +8298,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -7947,6 +8320,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -7968,6 +8342,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -7989,6 +8364,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -8010,6 +8386,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -8031,6 +8408,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -8052,6 +8430,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -8073,6 +8452,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -8094,6 +8474,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -8115,6 +8496,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -8136,6 +8518,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -8157,6 +8540,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -8180,6 +8564,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8201,6 +8586,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "12",
@@ -8223,6 +8609,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -8244,6 +8631,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -8265,6 +8653,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -8286,6 +8675,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8307,6 +8697,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8328,6 +8719,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8349,6 +8741,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8370,6 +8763,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8391,6 +8785,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8412,6 +8807,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -8433,6 +8829,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -8454,6 +8851,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cursed Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -8477,6 +8875,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8498,6 +8897,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8519,6 +8919,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8540,6 +8941,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8561,6 +8963,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8582,6 +8985,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8603,6 +9007,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8624,6 +9029,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8645,6 +9051,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8666,6 +9073,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8687,6 +9095,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8708,6 +9117,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8729,6 +9139,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8750,6 +9161,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8770,6 +9182,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8790,6 +9203,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8813,6 +9227,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -8834,6 +9249,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8855,6 +9271,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8876,6 +9293,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8899,6 +9317,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -8922,6 +9341,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -8943,6 +9363,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8964,6 +9385,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -8985,6 +9407,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "0",
@@ -9007,6 +9430,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9028,6 +9452,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9049,6 +9474,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9070,6 +9496,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9091,6 +9518,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9112,6 +9540,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9135,6 +9564,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -9156,6 +9586,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -9177,6 +9608,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -9198,6 +9630,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -9219,6 +9652,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -9240,6 +9674,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -9261,6 +9696,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -9282,6 +9718,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -9303,6 +9740,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -9324,6 +9762,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -9345,6 +9784,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9366,6 +9806,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9387,6 +9828,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9408,6 +9850,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9429,6 +9872,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9450,6 +9894,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9471,6 +9916,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9492,6 +9938,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -9513,6 +9960,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9536,6 +9984,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -9557,6 +10006,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9578,6 +10028,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9599,6 +10050,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9620,6 +10072,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9641,6 +10094,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9662,6 +10116,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9683,6 +10138,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9704,6 +10160,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9725,6 +10182,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9746,6 +10204,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9767,6 +10226,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Veil"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9788,6 +10248,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9809,6 +10270,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9830,6 +10292,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9853,6 +10316,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cloud Nine"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -9874,6 +10338,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cloud Nine"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9895,6 +10360,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9916,6 +10382,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9937,6 +10404,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9958,6 +10426,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -9979,6 +10448,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -10000,6 +10470,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cloud Nine"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10021,6 +10492,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10042,6 +10514,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10063,6 +10536,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10084,6 +10558,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10107,6 +10582,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10128,6 +10604,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -10149,6 +10626,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10170,6 +10648,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10191,6 +10670,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10212,6 +10692,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10233,6 +10714,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10254,6 +10736,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10275,6 +10758,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10296,6 +10780,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -10319,6 +10804,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10340,6 +10826,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10361,6 +10848,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10384,6 +10872,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -10405,6 +10894,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10426,6 +10916,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10447,6 +10938,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10468,6 +10960,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10489,6 +10982,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10510,6 +11004,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10531,6 +11026,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10552,6 +11048,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10573,6 +11070,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10594,6 +11092,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10615,6 +11114,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10636,6 +11136,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10657,6 +11158,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10678,6 +11180,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10699,6 +11202,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10720,6 +11224,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10741,6 +11246,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10762,6 +11268,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10783,6 +11290,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10804,6 +11312,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10825,6 +11334,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -10848,6 +11358,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10869,6 +11380,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10890,6 +11402,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -10911,6 +11424,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -10932,6 +11446,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -10953,6 +11468,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -10974,6 +11490,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -10995,6 +11512,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -11016,6 +11534,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -11037,6 +11556,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -11060,6 +11580,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -11081,6 +11602,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -11102,6 +11624,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11123,6 +11646,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11144,6 +11668,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11165,6 +11690,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11186,6 +11712,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11207,6 +11734,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11228,6 +11756,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11249,6 +11778,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11270,6 +11800,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11293,6 +11824,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -11316,6 +11848,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sticky Hold"
             ],
+            "gender": "M",
             "item": "Black Sludge",
             "ivs": {
                 "at": "0",
@@ -11338,6 +11871,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Liquid Ooze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11361,6 +11895,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -11382,6 +11917,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -11403,6 +11939,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -11424,6 +11961,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11445,6 +11983,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11466,6 +12005,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11487,6 +12027,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11508,6 +12049,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11527,6 +12069,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -11548,6 +12091,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -11569,6 +12113,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "item": "Wacan Berry",
             "ivs": {
                 "at": "24",
@@ -11591,6 +12136,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11612,6 +12158,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11633,6 +12180,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11654,6 +12202,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11673,6 +12222,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11694,6 +12244,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -11715,6 +12266,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -11739,6 +12291,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -11760,6 +12313,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -11781,6 +12335,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11802,6 +12357,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -11823,6 +12379,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11844,6 +12401,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -11865,6 +12423,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -11886,6 +12445,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -11907,6 +12467,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -11928,6 +12489,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -11949,6 +12511,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -11970,6 +12533,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -11991,6 +12555,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -12012,6 +12577,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -12033,6 +12599,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -12054,6 +12621,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -12077,6 +12645,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -12100,6 +12669,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Iron Fist"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -12121,6 +12691,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Iron Fist"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "4",
                 "df": "4",
@@ -12142,6 +12713,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Iron Fist"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12163,6 +12735,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Iron Fist"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12184,6 +12757,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Iron Fist"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -12207,6 +12781,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -12228,6 +12803,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -12249,6 +12825,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -12270,6 +12847,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Reckless"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -12291,6 +12869,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Reckless"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "4",
                 "df": "4",
@@ -12312,6 +12891,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Reckless"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12333,6 +12913,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Reckless"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12354,6 +12935,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Reckless"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -12377,6 +12959,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12398,6 +12981,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12421,6 +13005,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Super Luck"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12442,6 +13027,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -12463,6 +13049,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -12486,6 +13073,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -12507,6 +13095,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -12528,6 +13117,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12549,6 +13139,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12572,6 +13163,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12593,6 +13185,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12614,6 +13207,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12634,6 +13228,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -12655,6 +13250,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -12676,6 +13272,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12698,6 +13295,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -12719,6 +13317,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -12740,6 +13339,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -12761,6 +13361,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12782,6 +13383,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12803,6 +13405,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12824,6 +13427,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12847,6 +13451,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -12869,6 +13474,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -12890,6 +13496,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -12911,6 +13518,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -12934,6 +13542,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -12957,6 +13566,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12978,6 +13588,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -12999,6 +13610,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13020,6 +13632,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Forewarn"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13041,6 +13654,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Forewarn"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13064,6 +13678,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13087,6 +13702,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -13108,6 +13724,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -13129,6 +13746,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -13150,6 +13768,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13171,6 +13790,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -13192,6 +13812,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13215,6 +13836,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -13236,6 +13858,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -13257,6 +13880,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -13278,6 +13902,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13301,6 +13926,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -13322,6 +13948,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -13343,6 +13970,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13364,6 +13992,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -13387,6 +14016,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13408,6 +14038,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13429,6 +14060,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -13450,6 +14082,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -13471,6 +14104,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13494,6 +14128,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -13515,6 +14150,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -13536,6 +14172,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -13557,6 +14194,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Forewarn"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13578,6 +14216,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -13601,6 +14240,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Battle Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -13622,6 +14262,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Battle Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -13643,6 +14284,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13666,6 +14308,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13687,6 +14330,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13707,6 +14351,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13728,6 +14373,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -13749,6 +14395,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -13770,6 +14417,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -13791,6 +14439,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13812,6 +14461,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13833,6 +14483,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13856,6 +14507,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -13874,6 +14526,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13892,6 +14545,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13912,6 +14566,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -13932,6 +14587,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Scrappy"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -13953,6 +14609,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Scrappy"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -13976,6 +14633,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -13997,6 +14655,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -14018,6 +14677,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -14042,6 +14702,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -14063,6 +14724,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -14084,6 +14746,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -14105,6 +14768,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -14126,6 +14790,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14147,6 +14812,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14170,6 +14836,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14191,6 +14858,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14212,6 +14880,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14233,6 +14902,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14254,6 +14924,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14275,6 +14946,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14296,6 +14968,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14317,6 +14990,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14338,6 +15012,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14359,6 +15034,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14380,6 +15056,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14401,6 +15078,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14422,6 +15100,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14443,6 +15122,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14464,6 +15144,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -14485,6 +15166,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -14506,6 +15188,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -14527,6 +15210,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -14548,6 +15232,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -14569,6 +15254,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -14590,6 +15276,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -14611,6 +15298,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -14632,6 +15320,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14652,6 +15341,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14672,6 +15362,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14693,6 +15384,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14714,6 +15406,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14735,6 +15428,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14756,6 +15450,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14777,6 +15472,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14798,6 +15494,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -14819,6 +15516,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -14840,6 +15538,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -14861,6 +15560,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -14882,6 +15582,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -14903,6 +15604,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -14924,6 +15626,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -14947,6 +15650,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14968,6 +15672,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -14989,6 +15694,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15010,6 +15716,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15031,6 +15738,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15054,6 +15762,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15075,6 +15784,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15096,6 +15806,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15117,6 +15828,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Volt Absorb"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -15140,6 +15852,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15161,6 +15874,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -15182,6 +15896,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -15203,6 +15918,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -15224,6 +15940,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15247,6 +15964,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15270,6 +15988,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15289,6 +16008,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -15311,6 +16031,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -15332,6 +16053,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -15355,6 +16077,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15376,6 +16099,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15397,6 +16121,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15419,6 +16144,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Gluttony"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "0",
@@ -15443,6 +16169,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rain Dish"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15466,6 +16193,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -15487,6 +16215,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Steadfast"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -15511,6 +16240,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15532,6 +16262,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15553,6 +16284,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15576,6 +16308,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -15597,6 +16330,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -15618,6 +16352,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -15640,6 +16375,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -15661,6 +16397,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15682,6 +16419,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15703,6 +16441,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -15724,6 +16463,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "item": "Iron Ball",
             "ivs": {
                 "at": "30",
@@ -15748,6 +16488,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -15769,6 +16510,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -15790,6 +16532,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -15811,6 +16554,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "4",
                 "df": "4",
@@ -15832,6 +16576,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -15853,6 +16598,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -15874,6 +16620,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15895,6 +16642,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15916,6 +16664,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15937,6 +16686,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -15960,6 +16710,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "4",
                 "df": "4",
@@ -15981,6 +16732,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16002,6 +16754,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16023,6 +16776,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16044,6 +16798,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16065,6 +16820,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16086,6 +16842,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16107,6 +16864,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16128,6 +16886,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16149,6 +16908,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16170,6 +16930,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "No Guard"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16193,6 +16954,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16216,6 +16978,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magma Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16237,6 +17000,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magma Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16258,6 +17022,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "item": "White Herb",
             "ivs": {
                 "at": "24",
@@ -16280,6 +17045,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magma Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -16301,6 +17067,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16324,6 +17091,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16342,6 +17110,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16360,6 +17129,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16379,6 +17149,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16397,6 +17168,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16416,6 +17188,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16435,6 +17208,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16454,6 +17228,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16473,6 +17248,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16492,6 +17268,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16511,6 +17288,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16530,6 +17308,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16549,6 +17328,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16568,6 +17348,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16587,6 +17368,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16606,6 +17388,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16625,6 +17408,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16644,6 +17428,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16663,6 +17448,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16682,6 +17468,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16701,6 +17488,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16720,6 +17508,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16739,6 +17528,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16758,6 +17548,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16777,6 +17568,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16796,6 +17588,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16815,6 +17608,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16834,6 +17628,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16853,6 +17648,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16875,6 +17671,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16896,6 +17693,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16917,6 +17715,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16938,6 +17737,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16959,6 +17759,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -16980,6 +17781,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17001,6 +17803,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -17022,6 +17825,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17043,6 +17847,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17064,6 +17869,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17085,6 +17891,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17106,6 +17913,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17127,6 +17935,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17148,6 +17957,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17169,6 +17979,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17190,6 +18001,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17211,6 +18023,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "item": "White Herb",
             "ivs": {
                 "at": "24",
@@ -17233,6 +18046,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17254,6 +18068,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17275,6 +18090,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17298,6 +18114,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17319,6 +18136,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flame Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -17342,6 +18160,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -17363,6 +18182,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17384,6 +18204,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -17405,6 +18226,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -17426,6 +18248,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -17447,6 +18270,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -17468,6 +18292,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -17489,6 +18314,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -17510,6 +18336,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -17531,6 +18358,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -17552,6 +18380,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17573,6 +18402,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17594,6 +18424,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17615,6 +18446,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17636,6 +18468,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17657,6 +18490,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17678,6 +18512,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17699,6 +18534,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17720,6 +18556,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17741,6 +18578,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17762,6 +18600,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17782,6 +18621,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17802,6 +18642,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17822,6 +18663,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17843,6 +18685,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17864,6 +18707,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17887,6 +18731,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -17908,6 +18753,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -17929,6 +18775,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -17950,6 +18797,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -17971,6 +18819,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -17992,6 +18841,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -18013,6 +18863,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -18034,6 +18885,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -18055,6 +18907,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -18076,6 +18929,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -18097,6 +18951,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -18118,6 +18973,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -18139,6 +18995,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18160,6 +19017,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18181,6 +19039,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18204,6 +19063,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -18225,6 +19085,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -18246,6 +19107,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magnet Pull"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -18269,6 +19131,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18292,6 +19155,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Snow Cloak"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -18316,6 +19180,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "item": "Pinap Berry",
             "ivs": {
                 "at": "24",
@@ -18340,6 +19205,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "4",
                 "df": "4",
@@ -18361,6 +19227,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Anger Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "4",
                 "df": "4",
@@ -18382,6 +19249,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Anger Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18403,6 +19271,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18424,6 +19293,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18447,6 +19317,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18470,6 +19341,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -18491,6 +19363,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -18512,6 +19385,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -18533,6 +19407,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18553,6 +19428,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18574,6 +19450,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18597,6 +19474,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -18618,6 +19496,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18639,6 +19518,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18660,6 +19540,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18681,6 +19562,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18702,6 +19584,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18723,6 +19606,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18744,6 +19628,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18765,6 +19650,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Huge Power"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18786,6 +19672,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18807,6 +19694,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18830,6 +19718,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18851,6 +19740,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18872,6 +19762,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18893,6 +19784,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -18916,6 +19808,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pure Power"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -18940,6 +19833,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pure Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -18963,6 +19857,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -18984,6 +19879,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -19005,6 +19901,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -19026,6 +19923,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -19047,6 +19945,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -19070,6 +19969,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -19091,6 +19991,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -19112,6 +20013,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19133,6 +20035,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19154,6 +20057,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19175,6 +20079,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19198,6 +20103,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -19219,6 +20125,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -19242,6 +20149,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19260,6 +20168,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19278,6 +20187,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19296,6 +20206,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19315,6 +20226,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19334,6 +20246,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -19354,6 +20267,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Marvel Scale"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -19377,6 +20291,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Scrappy"
             ],
+            "gender": "F",
             "item": "Lum Berry",
             "ivs": {
                 "at": "12",
@@ -19399,6 +20314,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Scrappy"
             ],
+            "gender": "F",
             "item": "Lum Berry",
             "ivs": {
                 "at": "24",
@@ -19423,6 +20339,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Minus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19446,6 +20363,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -19467,6 +20385,7 @@ var CUSTOMSETDEX_HGSS = {
     "Mr. Mime": {
         "Juggler Fritz": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19486,6 +20405,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "Leader Sabrina": {
             "ability": null,
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -19505,6 +20425,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "Leader Sabrina #2": {
             "ability": null,
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -19524,6 +20445,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "Psychic Jared": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19543,6 +20465,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "School Kid Billy #4": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19561,6 +20484,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "School Kid Chad": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19575,6 +20499,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "School Kid Chad #2": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19589,6 +20514,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "School Kid Chad #3": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19603,6 +20529,7 @@ var CUSTOMSETDEX_HGSS = {
         },
         "School Kid Chad #4": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19626,6 +20553,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sticky Hold"
             ],
+            "gender": "M",
             "item": "Black Sludge",
             "ivs": {
                 "at": "30",
@@ -19648,6 +20576,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sticky Hold"
             ],
+            "gender": "M",
             "item": "Black Sludge",
             "ivs": {
                 "at": "30",
@@ -19670,6 +20599,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "item": "Toxic Orb",
             "ivs": {
                 "at": "0",
@@ -19692,6 +20622,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "item": "Nugget",
             "ivs": {
                 "at": "0",
@@ -19714,6 +20645,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -19735,6 +20667,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -19756,6 +20689,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Stench"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -19779,6 +20713,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Super Luck"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -19800,6 +20735,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Super Luck"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -19821,6 +20757,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Super Luck"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -19844,6 +20781,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19867,6 +20805,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19888,6 +20827,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19909,6 +20849,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19930,6 +20871,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19951,6 +20893,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19972,6 +20915,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -19993,6 +20937,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20014,6 +20959,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -20037,6 +20983,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20058,6 +21005,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20079,6 +21027,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20100,6 +21049,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20121,6 +21071,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20142,6 +21093,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20163,6 +21115,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20184,6 +21137,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -20205,6 +21159,7 @@ var CUSTOMSETDEX_HGSS = {
     "Nidoran_f": {
         "Picnicker Liz": {
             "ability": null,
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20221,6 +21176,7 @@ var CUSTOMSETDEX_HGSS = {
     "Nidoran_m": {
         "Camper Roland": {
             "ability": null,
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20239,6 +21195,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20260,6 +21217,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20281,6 +21239,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20302,6 +21261,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rivalry"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20323,6 +21283,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20344,6 +21305,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20365,6 +21327,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20386,6 +21349,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20409,6 +21373,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20430,6 +21395,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20451,6 +21417,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20472,6 +21439,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20493,6 +21461,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20516,6 +21485,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20539,6 +21509,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20560,6 +21531,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20581,6 +21553,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20604,6 +21577,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Speed Boost"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -20627,6 +21601,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20648,6 +21623,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20669,6 +21645,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20690,6 +21667,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -20711,6 +21689,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20732,6 +21711,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20753,6 +21733,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20774,6 +21755,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20795,6 +21777,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -20818,6 +21801,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Simple"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20841,6 +21825,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20862,6 +21847,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Suction Cups"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20883,6 +21869,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20906,6 +21893,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20927,6 +21915,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20948,6 +21937,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -20969,6 +21959,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "0",
@@ -20991,6 +21982,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21011,6 +22003,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -21034,6 +22027,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -21055,6 +22049,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -21078,6 +22073,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -21099,6 +22095,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -21120,6 +22117,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -21141,6 +22139,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -21162,6 +22161,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -21183,6 +22183,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -21204,6 +22205,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -21225,6 +22227,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21246,6 +22249,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21267,6 +22271,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21288,6 +22293,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21309,6 +22315,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21330,6 +22337,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21351,6 +22359,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -21373,6 +22382,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -21395,6 +22405,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21418,6 +22429,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -21441,6 +22453,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21462,6 +22475,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -21483,6 +22497,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21503,6 +22518,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21524,6 +22540,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Dry Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21547,6 +22564,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Dry Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -21568,6 +22586,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21589,6 +22608,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21610,6 +22630,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Dry Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21631,6 +22652,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21652,6 +22674,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21673,6 +22696,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21694,6 +22718,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21717,6 +22742,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -21740,6 +22766,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Limber"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21763,6 +22790,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21784,6 +22812,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21807,6 +22836,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21828,6 +22858,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -21851,6 +22882,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -21872,6 +22904,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tangled Feet"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -21893,6 +22926,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -21914,6 +22948,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -21935,6 +22970,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -21956,6 +22992,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -21978,6 +23015,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -22000,6 +23038,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -22021,6 +23060,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22044,6 +23084,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22065,6 +23106,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22086,6 +23128,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22107,6 +23150,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22128,6 +23172,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22149,6 +23194,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tangled Feet"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22170,6 +23216,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22192,6 +23239,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22212,6 +23260,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22233,6 +23282,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22252,6 +23302,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tangled Feet"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22271,6 +23322,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -22290,6 +23342,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -22309,6 +23362,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22330,6 +23384,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tangled Feet"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22351,6 +23406,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22372,6 +23428,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tangled Feet"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22393,6 +23450,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22414,6 +23472,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22433,6 +23492,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22453,6 +23513,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22474,6 +23535,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22495,6 +23557,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22516,6 +23579,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22537,6 +23601,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22558,6 +23623,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22579,6 +23645,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22600,6 +23667,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22621,6 +23689,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22642,6 +23711,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22663,6 +23733,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22684,6 +23755,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22705,6 +23777,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22726,6 +23799,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22747,6 +23821,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22768,6 +23843,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "item": "Light Ball",
             "ivs": {
                 "at": "30",
@@ -22792,6 +23868,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Snow Cloak"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "18",
@@ -22816,6 +23893,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Mold Breaker"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22837,6 +23915,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hyper Cutter"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -22860,6 +23939,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Plus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22883,6 +23963,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22906,6 +23987,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22926,6 +24008,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22946,6 +24029,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -22969,6 +24053,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -22990,6 +24075,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23011,6 +24097,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23032,6 +24119,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23053,6 +24141,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23074,6 +24163,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23095,6 +24185,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23116,6 +24207,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23137,6 +24229,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23158,6 +24251,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23179,6 +24273,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23200,6 +24295,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23221,6 +24317,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23244,6 +24341,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -23265,6 +24363,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23286,6 +24385,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "18",
@@ -23308,6 +24408,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -23330,6 +24431,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23351,6 +24453,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23372,6 +24475,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23393,6 +24497,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23416,6 +24521,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23439,6 +24545,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Download"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23460,6 +24567,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Download"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -23483,6 +24591,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Adaptability"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -23506,6 +24615,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Download"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -23529,6 +24639,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -23550,6 +24661,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Anger Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "4",
                 "df": "4",
@@ -23571,6 +24683,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23592,6 +24705,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Anger Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23613,6 +24727,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -23634,6 +24749,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -23655,6 +24771,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23676,6 +24793,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Vital Spirit"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23699,6 +24817,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23720,6 +24839,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23741,6 +24861,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23762,6 +24883,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23783,6 +24905,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cloud Nine"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23804,6 +24927,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cloud Nine"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23825,6 +24949,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23846,6 +24971,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23869,6 +24995,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -23890,6 +25017,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23911,6 +25039,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -23932,6 +25061,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -23953,6 +25083,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23974,6 +25105,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -23995,6 +25127,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24016,6 +25149,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24037,6 +25171,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24058,6 +25193,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24078,6 +25214,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24098,6 +25235,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24118,6 +25256,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24139,6 +25278,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24160,6 +25300,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24181,6 +25322,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24202,6 +25344,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Damp"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24224,6 +25367,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -24245,6 +25389,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -24266,6 +25411,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -24289,6 +25435,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24310,6 +25457,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24331,6 +25479,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24352,6 +25501,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24373,6 +25523,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24394,6 +25545,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24415,6 +25567,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24436,6 +25589,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24457,6 +25611,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24478,6 +25633,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24499,6 +25655,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24520,6 +25677,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24541,6 +25699,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24562,6 +25721,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24585,6 +25745,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -24606,6 +25767,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -24627,6 +25789,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24648,6 +25811,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24671,6 +25835,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Mold Breaker"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -24694,6 +25859,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -24715,6 +25881,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -24736,6 +25903,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -24757,6 +25925,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -24778,6 +25947,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "item": "White Herb",
             "ivs": {
                 "at": "24",
@@ -24800,6 +25970,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -24821,6 +25992,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24842,6 +26014,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24863,6 +26036,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24884,6 +26058,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24907,6 +26082,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -24928,6 +26104,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24949,6 +26126,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -24970,6 +26148,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -24991,6 +26170,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25012,6 +26192,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25033,6 +26214,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25054,6 +26236,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25075,6 +26258,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25096,6 +26280,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25117,6 +26302,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25138,6 +26324,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25159,6 +26346,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25182,6 +26370,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25202,6 +26391,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25222,6 +26412,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25242,6 +26433,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25262,6 +26454,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25283,6 +26476,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25304,6 +26498,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25325,6 +26520,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25346,6 +26542,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25367,6 +26564,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25388,6 +26586,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25409,6 +26608,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25430,6 +26630,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25451,6 +26652,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25472,6 +26674,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25493,6 +26696,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25514,6 +26718,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25535,6 +26740,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25556,6 +26762,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25577,6 +26784,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25598,6 +26806,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25619,6 +26828,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -25640,6 +26850,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25660,6 +26871,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25680,6 +26892,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Run Away"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25700,6 +26913,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25720,6 +26934,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25743,6 +26958,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "item": "Lum Berry",
             "ivs": {
                 "at": "24",
@@ -25767,6 +26983,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25788,6 +27005,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25809,6 +27027,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25830,6 +27049,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25851,6 +27071,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25872,6 +27093,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25895,6 +27117,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -25916,6 +27139,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Lightning Rod"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25937,6 +27161,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -25958,6 +27183,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -25981,6 +27207,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -26002,6 +27229,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Lightning Rod"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -26023,6 +27251,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26044,6 +27273,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Lightning Rod"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26067,6 +27297,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Solid Rock"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -26090,6 +27321,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26113,6 +27345,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -26136,6 +27369,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -26159,6 +27393,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "item": "Lum Berry",
             "ivs": {
                 "at": "30",
@@ -26181,6 +27416,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -26204,6 +27440,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26225,6 +27462,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26246,6 +27484,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26269,6 +27508,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26290,6 +27530,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26311,6 +27552,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26332,6 +27574,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26353,6 +27596,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26374,6 +27618,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26395,6 +27640,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26416,6 +27662,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26437,6 +27684,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26458,6 +27706,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26479,6 +27728,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Veil"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26502,6 +27752,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -26526,6 +27777,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Technician"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "9",
@@ -26550,6 +27802,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -26571,6 +27824,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -26592,6 +27846,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -26613,6 +27868,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -26634,6 +27890,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26655,6 +27912,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26676,6 +27934,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26697,6 +27956,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Poison Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26718,6 +27978,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26739,6 +28000,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26760,6 +28022,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26783,6 +28046,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -26804,6 +28068,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26825,6 +28090,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26846,6 +28112,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26867,6 +28134,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26888,6 +28156,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26909,6 +28178,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26930,6 +28200,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26951,6 +28222,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26972,6 +28244,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -26993,6 +28266,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27014,6 +28288,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27035,6 +28310,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27056,6 +28332,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27077,6 +28354,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27098,6 +28376,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27119,6 +28398,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27140,6 +28420,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27161,6 +28442,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27182,6 +28464,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27203,6 +28486,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Veil"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27224,6 +28508,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Veil"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27245,6 +28530,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Veil"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27266,6 +28552,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Veil"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27287,6 +28574,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swift Swim"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27310,6 +28598,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27333,6 +28622,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27354,6 +28644,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -27375,6 +28666,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -27396,6 +28688,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -27417,6 +28710,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -27438,6 +28732,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27459,6 +28754,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27482,6 +28778,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -27503,6 +28800,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -27524,6 +28822,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -27545,6 +28844,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27566,6 +28866,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27587,6 +28888,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27608,6 +28910,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27631,6 +28934,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shed Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27654,6 +28958,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Wonder Guard"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -27677,6 +28982,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -27698,6 +29004,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -27719,6 +29026,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27740,6 +29048,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27761,6 +29070,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Skill Link"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27782,6 +29092,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Skill Link"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27803,6 +29114,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27824,6 +29136,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Skill Link"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27845,6 +29158,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shell Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27868,6 +29182,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -27891,6 +29206,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27914,6 +29230,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Effect Spore"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -27937,6 +29254,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -27960,6 +29278,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -27981,6 +29300,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -28002,6 +29322,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -28023,6 +29344,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -28046,6 +29368,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Leaf Guard"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28067,6 +29390,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28088,6 +29412,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28109,6 +29434,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28130,6 +29456,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28151,6 +29478,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28172,6 +29500,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28193,6 +29522,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Leaf Guard"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28214,6 +29544,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28237,6 +29568,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sniper"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28260,6 +29592,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Aftermath"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -28283,6 +29616,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Truant"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28306,6 +29640,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -28327,6 +29662,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -28348,6 +29684,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28369,6 +29706,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28392,6 +29730,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "F",
             "item": "Oran Berry",
             "ivs": {
                 "at": "7",
@@ -28414,6 +29753,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28435,6 +29775,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28458,6 +29799,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28479,6 +29821,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28500,6 +29843,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28521,6 +29865,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28542,6 +29887,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28562,6 +29908,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28583,6 +29930,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28606,6 +29954,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Magma Armor"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28629,6 +29978,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -28650,6 +30000,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -28671,6 +30022,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "14",
                 "df": "14",
@@ -28692,6 +30044,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -28713,6 +30066,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -28734,6 +30088,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -28755,6 +30110,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -28776,6 +30132,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -28797,6 +30154,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -28818,6 +30176,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -28839,6 +30198,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -28860,6 +30220,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -28883,6 +30244,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -28906,6 +30268,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -28927,6 +30290,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28948,6 +30312,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28969,6 +30334,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -28992,6 +30358,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -29013,6 +30380,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29034,6 +30402,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29055,6 +30424,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29076,6 +30446,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29096,6 +30467,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29116,6 +30488,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29138,6 +30511,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Insomnia"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -29161,6 +30535,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -29182,6 +30557,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29203,6 +30579,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Own Tempo"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29226,6 +30603,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -29249,6 +30627,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Thick Fat"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29272,6 +30651,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29293,6 +30673,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29316,6 +30697,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -29339,6 +30721,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -29362,6 +30745,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29385,6 +30769,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29406,6 +30791,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Illuminate"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29427,6 +30813,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29448,6 +30835,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29469,6 +30857,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29490,6 +30879,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -29512,6 +30902,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "item": "Colbur Berry",
             "ivs": {
                 "at": "24",
@@ -29534,6 +30925,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Illuminate"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29555,6 +30947,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29576,6 +30969,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29597,6 +30991,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29618,6 +31013,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29641,6 +31037,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Illuminate"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29662,6 +31059,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Illuminate"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29683,6 +31081,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -29704,6 +31103,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29725,6 +31125,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29746,6 +31147,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29767,6 +31169,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Natural Cure"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29790,6 +31193,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29811,6 +31215,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29832,6 +31237,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29853,6 +31259,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29874,6 +31281,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -29895,6 +31303,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "18",
@@ -29919,6 +31328,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Rock Head"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -29940,6 +31350,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29961,6 +31372,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -29982,6 +31394,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30003,6 +31416,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sturdy"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30026,6 +31440,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30047,6 +31462,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Solar Power"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30068,6 +31484,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30089,6 +31506,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30110,6 +31528,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30131,6 +31550,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Solar Power"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30154,6 +31574,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Solar Power"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30177,6 +31598,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sticky Hold"
             ],
+            "gender": "M",
             "item": "Leftovers",
             "ivs": {
                 "at": "30",
@@ -30201,6 +31623,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "item": "Flame Orb",
             "ivs": {
                 "at": "24",
@@ -30225,6 +31648,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -30246,6 +31670,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Oblivious"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -30269,6 +31694,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -30292,6 +31718,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -30313,6 +31740,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -30334,6 +31762,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30355,6 +31784,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30376,6 +31806,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "0",
@@ -30400,6 +31831,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -30421,6 +31853,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30442,6 +31875,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30465,6 +31899,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "7",
                 "df": "7",
@@ -30486,6 +31921,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Anger Point"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -30507,6 +31943,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Intimidate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30530,6 +31967,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Quick Feet"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30551,6 +31989,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30572,6 +32011,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30593,6 +32033,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Quick Feet"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30614,6 +32055,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30635,6 +32077,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30656,6 +32099,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30677,6 +32121,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pickup"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30698,6 +32143,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Quick Feet"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30721,6 +32167,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30742,6 +32189,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30763,6 +32211,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Liquid Ooze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30784,6 +32233,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30805,6 +32255,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30826,6 +32277,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30847,6 +32299,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30868,6 +32321,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Liquid Ooze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30891,6 +32345,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Liquid Ooze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30912,6 +32367,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30933,6 +32389,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30954,6 +32411,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30975,6 +32433,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -30996,6 +32455,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Liquid Ooze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31017,6 +32477,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31038,6 +32499,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Liquid Ooze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31059,6 +32521,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31080,6 +32543,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Clear Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31103,6 +32567,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Hustle"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -31126,6 +32591,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "White Smoke"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -31147,6 +32613,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "White Smoke"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -31168,6 +32635,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "White Smoke"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31191,6 +32659,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31212,6 +32681,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Dry Skin"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31233,6 +32703,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Dry Skin"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -31256,6 +32727,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31277,6 +32749,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31298,6 +32771,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -31319,6 +32793,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Blaze"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "19",
                 "df": "19",
@@ -31342,6 +32817,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Sand Stream"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31365,6 +32841,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -31386,6 +32863,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31407,6 +32885,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -31429,6 +32908,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -31452,6 +32932,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31473,6 +32954,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31494,6 +32976,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Guts"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -31517,6 +33000,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -31538,6 +33022,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -31559,6 +33044,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "18",
                 "df": "18",
@@ -31580,6 +33066,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31603,6 +33090,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31624,6 +33112,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31645,6 +33134,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31666,6 +33156,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31687,6 +33178,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -31709,6 +33201,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -31733,6 +33226,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31754,6 +33248,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31775,6 +33270,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Compound Eyes"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -31796,6 +33292,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tinted Lens"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -31819,6 +33316,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -31840,6 +33338,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31861,6 +33360,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -31882,6 +33382,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Overgrow"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -31905,6 +33406,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "24",
@@ -31929,6 +33431,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -31950,6 +33453,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -31971,6 +33475,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -31992,6 +33497,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -32013,6 +33519,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -32034,6 +33541,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "item": "Kelpsy Berry",
             "ivs": {
                 "at": "24",
@@ -32056,6 +33564,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32077,6 +33586,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32098,6 +33608,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32119,6 +33630,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32142,6 +33654,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32163,6 +33676,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -32184,6 +33698,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -32205,6 +33720,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32226,6 +33742,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32247,6 +33764,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32268,6 +33786,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32289,6 +33808,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32310,6 +33830,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32333,6 +33854,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Swarm"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32356,6 +33878,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32377,6 +33900,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32395,6 +33919,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32416,6 +33941,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32437,6 +33963,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32458,6 +33985,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32479,6 +34007,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32500,6 +34029,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32521,6 +34051,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32542,6 +34073,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32563,6 +34095,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32584,6 +34117,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32603,6 +34137,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32623,6 +34158,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32644,6 +34180,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32665,6 +34202,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32686,6 +34224,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Static"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32707,6 +34246,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32728,6 +34268,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "N",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32750,6 +34291,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32770,6 +34312,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32791,6 +34334,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32812,6 +34356,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32833,6 +34378,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Flash Fire"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -32856,6 +34402,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Veil"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -32879,6 +34426,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Ice Body"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -32902,6 +34450,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -32923,6 +34472,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -32944,6 +34494,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -32965,6 +34516,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -32986,6 +34538,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Torrent"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33009,6 +34562,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -33030,6 +34584,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Pressure"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -33053,6 +34608,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -33072,6 +34628,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "1",
                 "df": "1",
@@ -33091,6 +34648,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33111,6 +34669,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shield Dust"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33132,6 +34691,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33153,6 +34713,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33174,6 +34735,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Chlorophyll"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33197,6 +34759,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33218,6 +34781,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33239,6 +34803,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33260,6 +34825,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33281,6 +34847,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33302,6 +34869,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33323,6 +34891,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33344,6 +34913,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33365,6 +34935,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -33386,6 +34957,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -33407,6 +34979,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33428,6 +35001,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33449,6 +35023,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -33470,6 +35045,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -33491,6 +35067,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -33512,6 +35089,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Levitate"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -33535,6 +35113,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Soundproof"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33558,6 +35137,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33579,6 +35159,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33600,6 +35181,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Cute Charm"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33623,6 +35205,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Keen Eye"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -33646,6 +35229,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shadow Tag"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -33667,6 +35251,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Shadow Tag"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -33690,6 +35275,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33711,6 +35297,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Water Absorb"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33734,6 +35321,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "6",
                 "df": "6",
@@ -33755,6 +35343,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -33776,6 +35365,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -33798,6 +35388,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "30",
@@ -33820,6 +35411,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Early Bird"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33841,6 +35433,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33862,6 +35455,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33883,6 +35477,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Synchronize"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33906,6 +35501,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Speed Boost"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33929,6 +35525,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Tinted Lens"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "24",
                 "df": "24",
@@ -33950,6 +35547,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Speed Boost"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33971,6 +35569,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Speed Boost"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -33994,6 +35593,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Gluttony"
             ],
+            "gender": "M",
             "item": "Chesto Berry",
             "ivs": {
                 "at": "0",
@@ -34016,6 +35616,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Gluttony"
             ],
+            "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
                 "at": "0",
@@ -34040,6 +35641,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -34060,6 +35662,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
@@ -34081,6 +35684,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -34102,6 +35706,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "12",
                 "df": "12",
@@ -34121,6 +35726,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34142,6 +35748,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34163,6 +35770,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34184,6 +35792,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -34205,6 +35814,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -34226,6 +35836,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "9",
                 "df": "9",
@@ -34247,6 +35858,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "F",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34267,6 +35879,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34287,6 +35900,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34307,6 +35921,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34328,6 +35943,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34349,6 +35965,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34370,6 +35987,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34391,6 +36009,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34412,6 +36031,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34433,6 +36053,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "3",
                 "df": "3",
@@ -34454,6 +36075,7 @@ var CUSTOMSETDEX_HGSS = {
             "ability": [
                 "Inner Focus"
             ],
+            "gender": "M",
             "ivs": {
                 "at": "0",
                 "df": "0",
