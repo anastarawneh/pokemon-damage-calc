@@ -1,9 +1,7 @@
 var CUSTOMSETDEX_HGSS = {
     "Abomasnow": {
         "Leader Pryce #2": {
-            "ability": [
-                "Snow Warning"
-            ],
+            "ability": "Snow Warning",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -25,9 +23,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Abra": {
         "Psychic Mark": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -45,9 +41,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Psychic Mark*": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -67,9 +61,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Absol": {
         "Ace Trainer French": {
-            "ability": [
-                "Super Luck"
-            ],
+            "ability": "Super Luck",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -89,9 +81,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Elite Four Karen #2": {
-            "ability": [
-                "Super Luck"
-            ],
+            "ability": "Super Luck",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -110,10 +100,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Riley": {
-            "ability": [
-                "Pressure"
-            ],
+        "Pokémon Trainer Riley": {
+            "ability": "Pressure",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -135,9 +123,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Aerodactyl": {
         "Champion Lance*": {
-            "ability": [
-                "Pressure"
-            ],
+            "ability": "Pressure",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -157,9 +143,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Leader Clair #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -181,9 +165,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Aipom": {
         "School Kid Ricky": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "item": "Hard Stone",
             "ivs": {
@@ -204,9 +186,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Teacher Hillary": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -228,9 +208,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Alakazam": {
         "Ace Trainer French": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -250,9 +228,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Leader Sabrina": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -273,9 +249,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Sabrina #2": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -294,10 +268,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Mira": {
-            "ability": [
-                "Synchronize"
-            ],
+        "Pokémon Trainer Mira": {
+            "ability": "Synchronize",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -318,9 +290,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Rival Silver @ Indigo Plateau (Feraligatr)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -340,9 +310,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Rival Silver @ Indigo Plateau (Meganium)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -362,9 +330,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Rival Silver @ Indigo Plateau (Typhlosion)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -384,9 +350,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Rival Silver @ Mt. Moon (Feraligatr)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -406,9 +370,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Rival Silver @ Mt. Moon (Meganium)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -428,9 +390,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Rival Silver @ Mt. Moon (Typhlosion)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -450,9 +410,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "School Kid Tommy": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -472,9 +430,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Young Couple Tim & Sue #4": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -496,9 +452,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Altaria": {
         "Champion Lance #2": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -520,9 +474,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ambipom": {
         "Teacher Hillary #2": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -542,9 +494,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Teacher Hillary #3": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -564,9 +514,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Teacher Hillary #4": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -588,9 +536,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ampharos": {
         "Ace Trainer Jamie #2": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -610,9 +556,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Ace Trainer Jamie #3": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -632,9 +576,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Ace Trainer Jamie #4": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -654,9 +596,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Lass Dana #3": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -676,9 +616,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Lass Dana #4": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -700,9 +638,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Arbok": {
         "Biker Reese #2": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -722,9 +658,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Biker Reese #3": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -744,9 +678,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Biker Reese #4": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -766,9 +698,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Executive Ariana @ Goldenrod Radio Tower": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -788,9 +718,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Executive Ariana @ Team Rocket HQ": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -810,9 +738,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Lass Alice": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -832,9 +758,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Team Rocket Grunt 2 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -854,9 +778,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Youngster Jimmy": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -878,9 +800,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Arcanine": {
         "Ace Trainer Reena #3": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -900,9 +820,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Ace Trainer Reena #4": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -922,9 +840,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Blue": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -944,9 +860,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Leader Blue #2": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -965,10 +879,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naughty"
         },
-        "Marley": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Pokémon Trainer Marley": {
+            "ability": "Intimidate",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -989,9 +901,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "School Kid Jack #4": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1011,9 +921,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Scientist Lowell": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1035,9 +943,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ariados": {
         "Bug Catcher Dion": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1057,9 +963,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Bug Catcher Doug": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1079,9 +983,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Bug Catcher Doug #2": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1101,9 +1003,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Bug Catcher Doug #3": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1123,9 +1023,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Bug Catcher Doug #4": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1145,9 +1043,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bug Catcher Ken": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1167,9 +1063,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Elite Four Koga": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -1189,9 +1083,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Leader Janine": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -1211,9 +1103,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Leader Janine #2": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -1233,9 +1123,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Leader Janine*": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -1257,9 +1145,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Azumarill": {
         "Biker Ernest #2": {
-            "ability": [
-                "Huge Power"
-            ],
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1279,9 +1165,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Biker Ernest #3": {
-            "ability": [
-                "Huge Power"
-            ],
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1301,9 +1185,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Biker Ernest #4": {
-            "ability": [
-                "Huge Power"
-            ],
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1323,9 +1205,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Double Team Elan & Ida": {
-            "ability": [
-                "Huge Power"
-            ],
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -1345,9 +1225,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Sailor Eddie": {
-            "ability": [
-                "Huge Power"
-            ],
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1366,10 +1244,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Swimmer\u2640 Chelan": {
-            "ability": [
-                "Huge Power"
-            ],
+        "Swimmer♀ Chelan": {
+            "ability": "Huge Power",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -1388,10 +1264,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Swimmer\u2642 Frankie": {
-            "ability": [
-                "Huge Power"
-            ],
+        "Swimmer♂ Frankie": {
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1413,9 +1287,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Bayleef": {
         "Rival Silver @ Azalea Town (Bayleef)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -1435,9 +1307,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Rival Silver @ Burned Tower (Bayleef)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -1459,9 +1329,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Beedrill": {
         "Bug Catcher Abner": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1481,9 +1349,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Bug Catcher Benny": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -1500,9 +1366,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bug Catcher Dane": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1522,9 +1386,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Bug Catcher Ed": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1544,9 +1406,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Bug Catcher Ellis": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1566,9 +1426,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Bug Catcher Rob": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1588,9 +1446,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Bug Catcher Rob #2": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1610,9 +1466,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bug Catcher Rob #3": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1632,9 +1486,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Bug Catcher Rob #4": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1654,9 +1506,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Bug Catcher Wade #3*": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1676,9 +1526,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Bug Catcher Wade #4*": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1700,9 +1548,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Bellossom": {
         "Ace Trainer Cybil": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -1722,9 +1568,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Beauty Charlotte": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -1744,9 +1588,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Lass Laura": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -1766,9 +1608,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Leader Erika": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -1789,9 +1629,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Leader Erika #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -1811,9 +1649,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Picnicker Erin #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -1833,9 +1669,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Picnicker Erin #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -1857,9 +1691,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Bellsprout": {
         "Elder Li": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1877,9 +1709,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Elder Li*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1897,9 +1727,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Sage Chow": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1916,9 +1744,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Sage Chow*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1935,9 +1761,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Sage Chow**": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1954,9 +1778,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Sage Edmond": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1973,9 +1795,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Sage Edmond*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -1992,9 +1812,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Sage Edmond**": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2011,9 +1829,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Sage Jin": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2030,9 +1846,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Sage Neal": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2049,9 +1863,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Sage Nico": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2068,9 +1880,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Sage Nico*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2087,9 +1897,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Sage Nico**": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2106,9 +1914,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Sage Troy": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2126,9 +1932,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "School Kid Johnny": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2150,9 +1954,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Bibarel": {
         "Leader Whitney #2": {
-            "ability": [
-                "Simple"
-            ],
+            "ability": "Simple",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -2173,10 +1975,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Bidoof": {
-        "Swimmer\u2640 Leona": {
-            "ability": [
-                "Simple"
-            ],
+        "Swimmer♀ Leona": {
+            "ability": "Simple",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -2198,9 +1998,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Blastoise": {
         "Ace Trainer Joyce": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -2219,10 +2017,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Pok\u00e9mon Trainer Red": {
-            "ability": [
-                "Torrent"
-            ],
+        "Pokémon Trainer Red": {
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -2243,10 +2039,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Blissey": {
-        "Cheryl": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Pokémon Trainer Cheryl": {
+            "ability": "Natural Cure",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -2269,9 +2063,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Breloom": {
         "Leader Chuck #2": {
-            "ability": [
-                "Poison Heal"
-            ],
+            "ability": "Poison Heal",
             "gender": "M",
             "item": "Toxic Orb",
             "ivs": {
@@ -2294,9 +2086,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Bronzong": {
         "Elite Four Will #2": {
-            "ability": [
-                "Heatproof"
-            ],
+            "ability": "Heatproof",
             "gender": "N",
             "ivs": {
                 "at": "30",
@@ -2316,9 +2106,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Leader Jasmine #2": {
-            "ability": [
-                "Heatproof"
-            ],
+            "ability": "Heatproof",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -2340,9 +2128,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Bronzor": {
         "Hiker Noland": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -2362,9 +2148,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Medium Rebecca": {
-            "ability": [
-                "Heatproof"
-            ],
+            "ability": "Heatproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -2386,9 +2170,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Budew": {
         "School Kid Travis": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2410,9 +2192,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Buizel": {
         "Camper Clark": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2434,9 +2214,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Bulbasaur": {
         "Ace Trainer Megan": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -2456,9 +2234,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Ace Trainer Nick": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -2478,9 +2254,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Lass Linda": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2500,9 +2274,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Picnicker Gina*": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2521,10 +2293,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Pok\u00e9fan Carter": {
-            "ability": [
-                "Overgrow"
-            ],
+        "Pokéfan Carter": {
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2546,9 +2316,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Burmy": {
         "Bug Catcher Ed": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2570,9 +2338,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Butterfree": {
         "Beauty Cassie": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -2592,9 +2358,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Bug Catcher Abner": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2614,9 +2378,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Bug Catcher Dane": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2636,9 +2398,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Bug Catcher Doug": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2658,9 +2418,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Bug Catcher Doug #2": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2680,9 +2438,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Bug Catcher Doug #3": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2702,9 +2458,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Bug Catcher Doug #4": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2724,9 +2478,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Bug Catcher Ed": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2746,9 +2498,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Bug Catcher Rob": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2768,9 +2518,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Bug Catcher Rob #2": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2790,9 +2538,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Bug Catcher Rob #3": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2812,9 +2558,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bug Catcher Rob #4": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2834,9 +2578,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Bug Catcher Wade #2": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2856,9 +2598,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Bug Catcher Wade #3": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2878,9 +2618,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Bug Catcher Wade #3*": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2900,9 +2638,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Bug Catcher Wade #3**": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2922,9 +2658,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Bug Catcher Wade #4": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2944,9 +2678,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Bug Catcher Wade #4*": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2966,9 +2698,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Bug Catcher Wade #4**": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -2990,9 +2720,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Camerupt": {
         "Firebreather Otis": {
-            "ability": [
-                "Magma Armor"
-            ],
+            "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3012,9 +2740,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Leader Blaine #2": {
-            "ability": [
-                "Solid Rock"
-            ],
+            "ability": "Solid Rock",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -3036,9 +2762,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Carnivine": {
         "Beauty Julia": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3060,9 +2784,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Caterpie": {
         "Bug Catcher Al": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -3080,9 +2802,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Bug Catcher Don": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3100,9 +2820,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Bug Catcher Don*": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3120,9 +2838,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Bug Catcher Wade": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3140,9 +2856,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Bug Catcher Wade*": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3160,9 +2874,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Bug Catcher Wade**": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3182,9 +2894,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Charizard": {
         "Champion Lance #2": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -3204,9 +2914,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Champion Lance (with Clair)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -3226,9 +2934,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Champion Lance*": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -3248,9 +2954,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Clair #2": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -3269,10 +2973,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Pok\u00e9mon Trainer Red": {
-            "ability": [
-                "Blaze"
-            ],
+        "Pokémon Trainer Red": {
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -3294,9 +2996,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Charmander": {
         "Ace Trainer Nick": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -3315,10 +3015,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Carter": {
-            "ability": [
-                "Blaze"
-            ],
+        "Pokéfan Carter": {
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3340,9 +3038,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Charmeleon": {
         "Ace Trainer Allen": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -3362,9 +3058,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Ace Trainer Alton": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -3384,9 +3078,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Ace Trainer Kevin": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -3406,9 +3098,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Biker Charles": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3428,9 +3118,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Firebreather Richard": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3452,9 +3140,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Chatot": {
         "Teacher Shirley": {
-            "ability": [
-                "Tangled Feet"
-            ],
+            "ability": "Tangled Feet",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3476,9 +3162,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Cherrim": {
         "Picnicker Erin #4": {
-            "ability": [
-                "Flower Gift"
-            ],
+            "ability": "Flower Gift",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3500,9 +3184,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Cherubi": {
         "Picnicker Selina": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3524,9 +3206,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Chikorita": {
         "Passerby Boy (Chikorita)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3546,9 +3226,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Chinchou": {
         "Camper Tanner #2": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3570,9 +3248,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Chingling": {
         "Psychic Rodney": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3593,10 +3269,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Clamperl": {
-        "Swimmer\u2640 Debbie": {
-            "ability": [
-                "Shell Armor"
-            ],
+        "Swimmer♀ Debbie": {
+            "ability": "Shell Armor",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3617,10 +3291,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Claydol": {
-        "Buck": {
-            "ability": [
-                "Levitate"
-            ],
+        "Pokémon Trainer Buck": {
+            "ability": "Levitate",
             "gender": "N",
             "item": "Sitrus Berry",
             "ivs": {
@@ -3643,9 +3315,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Clefable": {
         "Beauty Callie": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3665,9 +3335,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Beauty Kassandra": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3687,9 +3355,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Whitney #2": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -3709,9 +3375,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Picnicker Tiffany #3": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3731,9 +3395,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Picnicker Tiffany #4": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3755,9 +3417,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Clefairy": {
         "Hiker Bruce": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3777,9 +3437,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Leader Whitney": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -3799,9 +3457,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Picnicker Tiffany": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3821,9 +3477,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Picnicker Tiffany #2": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3843,9 +3497,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Teacher Colette": {
-            "ability": [
-                "Magic Guard"
-            ],
+            "ability": "Magic Guard",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3867,9 +3519,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Cloyster": {
         "Ace Trainer Kate": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -3889,9 +3539,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Boarder Gerardo": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -3911,9 +3559,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Boarder Shaun": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3933,9 +3579,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Fisherman Jonah": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3954,10 +3598,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Swimmer\u2640 Joy": {
-            "ability": [
-                "Skill Link"
-            ],
+        "Swimmer♀ Joy": {
+            "ability": "Skill Link",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -3976,10 +3618,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Swimmer\u2642 Tucker": {
-            "ability": [
-                "Skill Link"
-            ],
+        "Swimmer♂ Tucker": {
+            "ability": "Skill Link",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -3999,9 +3639,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Young Couple Duff & Eda": {
-            "ability": [
-                "Skill Link"
-            ],
+            "ability": "Skill Link",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4023,9 +3661,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Corsola": {
         "Beauty Kimberly": {
-            "ability": [
-                "Hustle"
-            ],
+            "ability": "Hustle",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4045,9 +3681,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Fisherman Murphy": {
-            "ability": [
-                "Hustle"
-            ],
+            "ability": "Hustle",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4067,9 +3701,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Fisherman Murphy*": {
-            "ability": [
-                "Hustle"
-            ],
+            "ability": "Hustle",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4089,9 +3721,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Fisherman Murphy**": {
-            "ability": [
-                "Hustle"
-            ],
+            "ability": "Hustle",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4111,9 +3741,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Fisherman Murphy***": {
-            "ability": [
-                "Hustle"
-            ],
+            "ability": "Hustle",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4135,9 +3763,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Croagunk": {
         "Biker Theron": {
-            "ability": [
-                "Anticipation"
-            ],
+            "ability": "Anticipation",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4159,9 +3785,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Crobat": {
         "Elite Four Koga": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -4182,9 +3806,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Elite Four Koga #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -4204,9 +3826,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Leader Janine": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -4226,9 +3846,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Leader Janine #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -4247,10 +3865,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Marley": {
-            "ability": [
-                "Inner Focus"
-            ],
+        "Pokémon Trainer Marley": {
+            "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -4270,9 +3886,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Rival Silver @ Dragon's Den (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -4292,9 +3906,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Rival Silver @ Dragon's Den (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -4314,9 +3926,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Rival Silver @ Dragon's Den (Typhlosion)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -4336,9 +3946,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Rival Silver @ Indigo Plateau (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -4358,9 +3966,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Rival Silver @ Indigo Plateau (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -4380,9 +3986,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Rival Silver @ Indigo Plateau (Typhlosion)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -4402,9 +4006,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Youngster Jason": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4426,9 +4028,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Croconaw": {
         "Rival Silver @ Azalea Town (Croconaw)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -4448,9 +4048,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Rival Silver @ Burned Tower (Croconaw)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -4472,9 +4070,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Cubone": {
         "Lass Krise": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4494,9 +4090,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Lass Krise #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4518,9 +4112,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Cyndaquil": {
         "Passerby Boy (Cyndaquil)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4540,9 +4132,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Delcatty": {
         "Leader Whitney #2": {
-            "ability": [
-                "Normalize"
-            ],
+            "ability": "Normalize",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -4563,10 +4153,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Delibird": {
-        "Pok\u00e9fan Colin": {
-            "ability": [
-                "Hustle"
-            ],
+        "Pokéfan Colin": {
+            "ability": "Hustle",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4585,9 +4173,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Skier Cady": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4606,9 +4192,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Dewgong": {
         "Boarder Bryce": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4628,9 +4212,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Boarder Deandre": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -4650,9 +4232,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Boarder Shaun": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4672,9 +4252,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Leader Pryce": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -4694,9 +4272,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Leader Pryce #2": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "item": "Lum Berry",
             "ivs": {
@@ -4717,9 +4293,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Skier Jill": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -4738,10 +4312,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Swimmer\u2640 Katie": {
-            "ability": [
-                "Thick Fat"
-            ],
+        "Swimmer♀ Katie": {
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4760,10 +4332,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Swimmer\u2640 Nikki": {
-            "ability": [
-                "Thick Fat"
-            ],
+        "Swimmer♀ Nikki": {
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -4785,9 +4355,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Diglett": {
         "Camper Ivan": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4807,9 +4375,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Camper Ivan*": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4829,9 +4395,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Hiker Benjamin": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4851,9 +4415,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Hiker Timothy": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4873,9 +4435,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Youngster Ian": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -4897,9 +4457,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ditto": {
         "School Kid Billy": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -4916,9 +4474,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "School Kid Billy #2": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -4935,9 +4491,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "School Kid Billy #3": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -4954,9 +4508,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "School Kid Billy #4": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -4973,9 +4525,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "School Kid Ricky": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -4992,9 +4542,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Scientist Mitch": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -5013,9 +4561,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Dodrio": {
         "Bird Keeper Boris*": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5035,9 +4581,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Bird Keeper Easton*": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5057,9 +4601,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Bird Keeper Easton**": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5081,9 +4623,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Doduo": {
         "Bird Keeper Boris": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5103,9 +4643,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Bird Keeper Boris*": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5125,9 +4663,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Bird Keeper Easton": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5147,9 +4683,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Bird Keeper Easton*": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5169,9 +4703,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Bird Keeper Toby": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5191,9 +4723,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Bird Keeper Toby*": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5213,9 +4743,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Bird Keeper Toby**": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5237,9 +4765,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Dragonair": {
         "Ace Trainer Kobe": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5259,9 +4785,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Ace Trainer Lola": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "7",
@@ -5281,9 +4805,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Ace Trainer Mike": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -5303,9 +4825,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Clair": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -5325,9 +4845,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Clair #2": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -5347,9 +4865,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Leader Clair (with Lance)": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -5369,9 +4885,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Leader Clair*": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -5393,9 +4907,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Dragonite": {
         "Champion Lance": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -5415,9 +4927,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Champion Lance #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -5438,9 +4948,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Champion Lance (with Clair)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -5460,9 +4968,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Champion Lance*": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -5482,9 +4988,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Champion Lance**": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -5505,9 +5009,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Clair #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -5528,9 +5030,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Leader Clair (with Lance)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -5549,10 +5049,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Pok\u00e9mon Trainer Lance": {
-            "ability": [
-                "Inner Focus"
-            ],
+        "Pokémon Trainer Lance": {
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -5574,9 +5072,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Drapion": {
         "Leader Janine #2": {
-            "ability": [
-                "Battle Armor"
-            ],
+            "ability": "Battle Armor",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -5598,9 +5094,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Dratini": {
         "Ace Trainer Lola": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "7",
@@ -5620,9 +5114,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Ace Trainer Paulo": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -5642,9 +5134,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Ace Trainer Paulo*": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -5664,9 +5154,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Twins Clea & Gil": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -5686,9 +5174,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Twins Clea & Gil*": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -5709,32 +5195,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Drifblim": {
-        "Cheryl": {
-            "ability": [
-                "Aftermath"
-            ],
-            "gender": "F",
-            "ivs": {
-                "at": "24",
-                "df": "24",
-                "hp": "24",
-                "sa": "24",
-                "sd": "24",
-                "sp": "24"
-            },
-            "level": 61,
-            "moves": [
-                "Toxic",
-                "Ominous Wind",
-                "Fly",
-                "Protect"
-            ],
-            "nature": "Mild"
-        },
         "Leader Morty #2": {
-            "ability": [
-                "Unburden"
-            ],
+            "ability": "Unburden",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -5753,13 +5215,31 @@ var CUSTOMSETDEX_HGSS = {
                 "Shadow Ball"
             ],
             "nature": "Calm"
+        },
+        "Pokémon Trainer Cheryl": {
+            "ability": "Aftermath",
+            "gender": "F",
+            "ivs": {
+                "at": "24",
+                "df": "24",
+                "hp": "24",
+                "sa": "24",
+                "sd": "24",
+                "sp": "24"
+            },
+            "level": 61,
+            "moves": [
+                "Toxic",
+                "Ominous Wind",
+                "Fly",
+                "Protect"
+            ],
+            "nature": "Mild"
         }
     },
     "Drowzee": {
         "Mystery Man Eusine": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -5779,9 +5259,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Psychic Greg": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -5800,9 +5278,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Team Rocket Grunt @ Team Rocket HQ (with Ariana)": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -5822,9 +5298,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Team Rocket Grunt S1 @ Team Rocket HQ": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -5846,9 +5320,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Dugtrio": {
         "Camper Sid": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -5868,9 +5340,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Double Team Zac & Jen": {
-            "ability": [
-                "Arena Trap"
-            ],
+            "ability": "Arena Trap",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -5890,9 +5360,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Hiker Benjamin": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -5912,9 +5380,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Hiker Clarke": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -5934,9 +5400,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Hiker Timothy": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -5956,9 +5420,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Youngster Ian #2": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -5978,9 +5440,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Youngster Ian #3": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6000,9 +5460,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Youngster Ian #4": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6024,9 +5482,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Dunsparce": {
         "Hiker Devin": {
-            "ability": [
-                "Serene Grace"
-            ],
+            "ability": "Serene Grace",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6046,9 +5502,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Hiker Devin*": {
-            "ability": [
-                "Serene Grace"
-            ],
+            "ability": "Serene Grace",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6068,9 +5522,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Hiker Devin**": {
-            "ability": [
-                "Serene Grace"
-            ],
+            "ability": "Serene Grace",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6091,32 +5543,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Dusknoir": {
-        "Buck": {
-            "ability": [
-                "Pressure"
-            ],
-            "gender": "M",
-            "ivs": {
-                "at": "24",
-                "df": "24",
-                "hp": "24",
-                "sa": "24",
-                "sd": "24",
-                "sp": "24"
-            },
-            "level": 63,
-            "moves": [
-                "Fire Punch",
-                "Ice Punch",
-                "ThunderPunch",
-                "Shadow Ball"
-            ],
-            "nature": "Timid"
-        },
         "Leader Morty #2": {
-            "ability": [
-                "Pressure"
-            ],
+            "ability": "Pressure",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -6134,13 +5562,31 @@ var CUSTOMSETDEX_HGSS = {
                 "Payback"
             ],
             "nature": "Lax"
+        },
+        "Pokémon Trainer Buck": {
+            "ability": "Pressure",
+            "gender": "M",
+            "ivs": {
+                "at": "24",
+                "df": "24",
+                "hp": "24",
+                "sa": "24",
+                "sd": "24",
+                "sp": "24"
+            },
+            "level": 63,
+            "moves": [
+                "Fire Punch",
+                "Ice Punch",
+                "ThunderPunch",
+                "Shadow Ball"
+            ],
+            "nature": "Timid"
         }
     },
     "Eevee": {
         "Ace Trainer Gwen": {
-            "ability": [
-                "Adaptability"
-            ],
+            "ability": "Adaptability",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -6162,9 +5608,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ekans": {
         "Team Rocket Grunt 2 @ Slowpoke Well": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -6184,9 +5628,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Team Rocket Grunt 5 @ Team Rocket HQ": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -6206,9 +5648,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Team Rocket Grunt 9 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -6228,9 +5668,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Team Rocket Grunt 9 @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -6252,9 +5690,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Electabuzz": {
         "Ace Trainer Ryan": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -6274,9 +5710,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Double Team Thom & Kae": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -6296,9 +5730,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Double Team Zac & Jen": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -6318,9 +5750,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Guitarist Clyde": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6340,9 +5770,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Lt. Surge*": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -6363,9 +5791,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "School Kid Danny": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6387,9 +5813,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Electivire": {
         "Leader Lt. Surge #2": {
-            "ability": [
-                "Motor Drive"
-            ],
+            "ability": "Motor Drive",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -6412,9 +5836,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Electrike": {
         "Gentleman Gregory": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6436,9 +5858,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Electrode": {
         "Ace Trainer Carol": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -6458,9 +5878,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Juggler Horton": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6480,9 +5898,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Juggler Horton*": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6502,9 +5918,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Juggler Horton**": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6524,9 +5938,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Juggler Irwin #3**": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6546,9 +5958,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Juggler Irwin #4*": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6568,9 +5978,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Juggler Irwin #4**": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6590,9 +5998,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Leader Lt. Surge": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -6612,9 +6018,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Leader Lt. Surge #2": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -6634,9 +6038,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Leader Lt. Surge*": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -6655,32 +6057,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Marley": {
-            "ability": [
-                "Soundproof"
-            ],
-            "gender": "N",
-            "ivs": {
-                "at": "24",
-                "df": "24",
-                "hp": "24",
-                "sa": "24",
-                "sd": "24",
-                "sp": "24"
-            },
-            "level": 61,
-            "moves": [
-                "Hyper Beam",
-                "Thunder",
-                "Thunder Wave",
-                "Double Team"
-            ],
-            "nature": "Bold"
-        },
         "Mystery Man Eusine": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "18",
@@ -6699,10 +6077,28 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "School Kid Jack #3": {
-            "ability": [
-                "Soundproof"
+        "Pokémon Trainer Marley": {
+            "ability": "Soundproof",
+            "gender": "N",
+            "ivs": {
+                "at": "24",
+                "df": "24",
+                "hp": "24",
+                "sa": "24",
+                "sd": "24",
+                "sp": "24"
+            },
+            "level": 61,
+            "moves": [
+                "Hyper Beam",
+                "Thunder",
+                "Thunder Wave",
+                "Double Team"
             ],
+            "nature": "Bold"
+        },
+        "School Kid Jack #3": {
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6722,9 +6118,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "School Kid Jack #4": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6744,9 +6138,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Youngster Regis": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -6768,9 +6160,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Empoleon": {
         "Leader Jasmine #2": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -6792,9 +6182,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Espeon": {
         "Kimono Girl Naoko": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -6814,9 +6202,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Leader Sabrina": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -6836,7 +6222,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Leader Sabrina #2": {
-            "ability": null,
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -6856,9 +6242,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Psychic Vernon": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6880,9 +6264,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Exeggcute": {
         "Ace Trainer Blake": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -6902,9 +6284,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Psychic Eli": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6924,9 +6304,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Psychic Herman": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6946,9 +6324,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Psychic Herman*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6968,9 +6344,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Psychic Jared": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -6990,9 +6364,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Psychic Jared*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -7014,9 +6386,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Exeggutor": {
         "Elite Four Will": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -7036,9 +6406,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Leader Blue": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -7058,9 +6426,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Leader Blue #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -7080,9 +6446,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Picnicker Tanya": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -7102,9 +6466,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Psychic Herman*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -7124,9 +6486,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "School Kid Nate": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -7148,9 +6508,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Farfetchd": {
         "Bird Keeper Jose": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7170,9 +6528,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bird Keeper Jose #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7192,9 +6548,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Bird Keeper Jose #3": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7214,9 +6568,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Bird Keeper Jose #4": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7236,9 +6588,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Bird Keeper Jose #4*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7258,9 +6608,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Bird Keeper Jose #4**": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7280,9 +6628,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Bird Keeper Jose*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7302,9 +6648,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Bird Keeper Kinsley": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7324,9 +6668,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Bird Keeper Perry": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7348,9 +6690,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Fearow": {
         "Bird Keeper Bert": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7370,9 +6710,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Bird Keeper Bret": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7392,9 +6730,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Bird Keeper Denis": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7414,9 +6750,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Bird Keeper Gail": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7436,9 +6770,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Bird Keeper Josh": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7458,9 +6790,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Bird Keeper Josh #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7480,9 +6810,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Bird Keeper Josh #3": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7502,9 +6830,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bird Keeper Josh #4": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7524,9 +6850,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Bird Keeper Kinsley": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7546,9 +6870,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Bird Keeper Roy": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7568,9 +6890,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Bird Keeper Roy*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7590,9 +6910,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Camper Bertrand": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -7612,9 +6930,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Youngster Warren": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -7636,9 +6952,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Feraligatr": {
         "Rival Silver @ Dragon's Den (Feraligatr)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -7658,9 +6972,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -7680,9 +6992,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Rival Silver @ Indigo Plateau (Feraligatr)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -7702,9 +7012,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Rival Silver @ Mt. Moon (Feraligatr)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -7724,9 +7032,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Rival Silver @ Victory Road (Feraligatr)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -7748,9 +7054,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Flaaffy": {
         "Ace Trainer Jamie": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -7770,9 +7074,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Gentleman Gregory": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -7792,9 +7094,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Lass Dana": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -7814,9 +7114,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Lass Dana #2": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -7836,9 +7134,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Picnicker Hope": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -7860,9 +7156,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Flareon": {
         "Ace Trainer Gaven": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7882,9 +7176,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Ace Trainer Gaven #2": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7904,9 +7196,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Ace Trainer Gaven #3": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7926,9 +7216,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Ace Trainer Gaven #4": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7948,9 +7236,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Ace Trainer Gwen": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -7970,9 +7256,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Biker Harris": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -7992,9 +7276,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Firebreather Lyle": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -8014,9 +7296,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Kimono Girl Miki": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -8038,9 +7318,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Floatzel": {
         "Leader Misty #2": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -8062,9 +7340,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Forretress": {
         "Elite Four Koga": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8086,9 +7362,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Froslass": {
         "Leader Pryce #2": {
-            "ability": [
-                "Snow Cloak"
-            ],
+            "ability": "Snow Cloak",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -8110,9 +7384,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Furret": {
         "Picnicker Sharon": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -8131,10 +7403,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Georgia**": {
-            "ability": [
-                "Keen Eye"
-            ],
+        "Pokéfan Georgia**": {
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -8154,9 +7424,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "School Kid Sherman": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -8178,9 +7446,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Gallade": {
         "Leader Sabrina #2": {
-            "ability": [
-                "Steadfast"
-            ],
+            "ability": "Steadfast",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -8203,9 +7469,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Garchomp": {
         "Champion Lance #2": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8227,9 +7491,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Gardevoir": {
         "Elite Four Will #2": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -8251,9 +7513,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Gastly": {
         "Leader Morty": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -8273,9 +7533,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Medium Georgina": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -8295,9 +7553,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Medium Georgina*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -8317,9 +7573,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Medium Georgina**": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -8339,9 +7593,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Medium Georgina***": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -8361,9 +7613,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Medium Georgina****": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -8383,9 +7633,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Medium Martha": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -8405,9 +7653,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Medium Martha*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -8427,9 +7673,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Rival Silver @ Azalea Town (Bayleef)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -8449,9 +7693,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Rival Silver @ Azalea Town (Croconaw)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -8471,9 +7713,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Rival Silver @ Azalea Town (Quilava)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -8493,9 +7733,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Rival Silver @ Burned Tower (Bayleef)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -8515,9 +7753,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Rival Silver @ Burned Tower (Croconaw)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -8537,9 +7773,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Rival Silver @ Burned Tower (Quilava)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -8561,9 +7795,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Gengar": {
         "Elite Four Karen": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -8583,9 +7815,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Morty": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -8606,9 +7836,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Leader Morty #2": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -8628,9 +7856,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Leader Morty #2*": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -8649,10 +7875,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Mira": {
-            "ability": [
-                "Cursed Body"
-            ],
+        "Pokémon Trainer Mira": {
+            "ability": "Cursed Body",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -8672,9 +7896,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Rival Silver @ Dragon's Den (Feraligatr)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8694,9 +7916,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Rival Silver @ Dragon's Den (Meganium)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8716,9 +7936,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Rival Silver @ Dragon's Den (Typhlosion)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8738,9 +7956,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Rival Silver @ Indigo Plateau (Feraligatr)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8760,9 +7976,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Rival Silver @ Indigo Plateau (Meganium)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8782,9 +7996,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Rival Silver @ Indigo Plateau (Typhlosion)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -8804,9 +8016,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Rival Silver @ Mt. Moon (Feraligatr)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -8826,9 +8036,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Rival Silver @ Mt. Moon (Meganium)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -8848,9 +8056,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Rival Silver @ Mt. Moon (Typhlosion)": {
-            "ability": [
-                "Cursed Body"
-            ],
+            "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -8872,9 +8078,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Geodude": {
         "Camper Todd #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -8894,9 +8098,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Camper Todd #2*": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -8916,9 +8118,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Camper Todd #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -8938,9 +8138,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Anthony": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -8960,9 +8158,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Hiker Bailey": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -8982,9 +8178,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Hiker Bailey*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9004,9 +8198,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Hiker Bailey**": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9026,9 +8218,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Hiker Bailey***": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9048,9 +8238,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Hiker Bailey****": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9070,9 +8258,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Hiker Benjamin": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9092,9 +8278,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Hiker Leonard": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9114,9 +8298,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Hiker Michael": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9136,9 +8318,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Hiker Phillip": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9158,9 +8338,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Hiker Russel": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9179,9 +8357,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Hiker Russel*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9200,9 +8376,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Hiker Russel**": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9224,9 +8398,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Girafarig": {
         "Leader Whitney #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -9246,9 +8418,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Psychic Eli": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9268,9 +8438,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Psychic Franklin": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9290,9 +8458,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Psychic Nathan": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9314,9 +8480,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Glalie": {
         "Leader Pryce #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -9338,9 +8502,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Gloom": {
         "Executive Ariana @ Team Rocket HQ": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -9360,9 +8522,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Lass Alice": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -9382,9 +8542,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Lass Krise #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -9404,9 +8562,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Lass Laura": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -9427,9 +8583,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Picnicker Erin #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -9449,9 +8603,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "School Kid Jack #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9471,9 +8623,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Team Rocket Grunt 4 @ Goldenrod Tunnel": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -9493,9 +8643,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Team Rocket Grunt 4 @ Goldenrod Tunnel*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -9515,9 +8663,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Team Rocket Grunt 5 @ Team Rocket HQ": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -9537,9 +8683,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Team Rocket Grunt 9 @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -9561,9 +8705,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Golbat": {
         "Executive Proton @ Goldenrod Radio Tower": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -9583,9 +8725,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -9605,9 +8745,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Rival Silver @ Goldenrod Tunnel (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -9627,9 +8765,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Rival Silver @ Goldenrod Tunnel (Quilava)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -9649,9 +8785,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Rival Silver @ Mt. Moon (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -9671,9 +8805,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Rival Silver @ Mt. Moon (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -9693,9 +8825,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Rival Silver @ Mt. Moon (Typhlosion)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -9715,9 +8845,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Rival Silver @ Victory Road (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -9737,9 +8865,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Rival Silver @ Victory Road (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -9759,9 +8885,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Rival Silver @ Victory Road (Typhlosion)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -9781,9 +8905,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "School Kid Torin": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9803,9 +8925,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "School Kid Torin #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9825,9 +8945,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "School Kid Torin #3": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9847,9 +8965,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "School Kid Torin #4": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9869,9 +8985,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Team Rocket Grunt 3 @ Team Rocket HQ": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -9891,9 +9005,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Team Rocket Grunt 5 @ Goldenrod Tunnel": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -9913,9 +9025,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Team Rocket Grunt 8 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -9935,9 +9045,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Team Rocket Grunt @ Route 24": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -9957,9 +9065,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Youngster Regis": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -9981,9 +9087,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Goldeen": {
         "Ace Trainer Irene": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -10003,9 +9107,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Fisherman Kyle": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10025,9 +9127,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Fisherman Kyle*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10047,9 +9147,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Fisherman Ralph": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10069,9 +9167,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Fisherman Tully #3": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10091,9 +9187,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Fisherman Tully #3*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10113,9 +9207,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Fisherman Wilton": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10135,9 +9227,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Fisherman Wilton #2": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10157,9 +9247,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Wilton #2*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10179,9 +9267,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Wilton #3": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10201,9 +9287,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Fisherman Wilton*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10222,10 +9306,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Swimmer\u2640 Kaylee": {
-            "ability": [
-                "Water Veil"
-            ],
+        "Swimmer♀ Kaylee": {
+            "ability": "Water Veil",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10244,10 +9326,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naughty"
         },
-        "Swimmer\u2640 Kaylee*": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♀ Kaylee*": {
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10266,10 +9346,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Swimmer\u2640 Susie": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♀ Susie": {
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10288,10 +9366,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Swimmer\u2642 Jerome": {
-            "ability": [
-                "Water Veil"
-            ],
+        "Swimmer♂ Jerome": {
+            "ability": "Water Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10313,9 +9389,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Golduck": {
         "Ace Trainer Jake": {
-            "ability": [
-                "Cloud Nine"
-            ],
+            "ability": "Cloud Nine",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -10335,9 +9409,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Camper Dean": {
-            "ability": [
-                "Cloud Nine"
-            ],
+            "ability": "Cloud Nine",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10357,9 +9429,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Camper Todd #3": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10379,9 +9449,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Camper Todd #4*": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10401,9 +9469,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Lass Dana #3": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10423,9 +9489,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Lass Dana #4": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10445,9 +9509,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Leader Misty": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -10466,10 +9528,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Swimmer\u2640 Diana": {
-            "ability": [
-                "Cloud Nine"
-            ],
+        "Swimmer♀ Diana": {
+            "ability": "Cloud Nine",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10488,10 +9548,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2642 Esteban": {
-            "ability": [
-                "Damp"
-            ],
+        "Swimmer♂ Esteban": {
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10511,9 +9569,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Young Couple Tim & Sue #2": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10533,9 +9589,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Young Couple Tim & Sue #3": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10555,9 +9609,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Young Couple Tim & Sue #4": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10579,9 +9631,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Golem": {
         "Hiker Anthony #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10601,9 +9651,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Hiker Edwin": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -10623,9 +9671,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Hiker Kenny": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10645,9 +9691,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Hiker Kenny #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10667,9 +9711,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Hiker Kenny #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10689,9 +9731,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Hiker Kenny #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10711,9 +9751,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Hiker Michael": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10733,9 +9771,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Noland": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10755,9 +9791,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Parry #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10777,9 +9811,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Brock #2": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -10801,9 +9833,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Granbull": {
         "Lass Ellen": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10822,10 +9852,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Pok\u00e9fan Beverly #3": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Pokéfan Beverly #3": {
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10844,10 +9872,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Pok\u00e9fan Beverly #4": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Pokéfan Beverly #4": {
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -10869,9 +9895,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Graveler": {
         "Black Belt Ander": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -10891,9 +9915,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Camper Todd #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10913,9 +9935,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Camper Todd #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10935,9 +9955,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Camper Todd #4*": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10957,9 +9975,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Hiker Anthony #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -10979,9 +9995,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Hiker Anthony #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11001,9 +10015,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Anthony #3*": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11023,9 +10035,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Hiker Anthony #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11045,9 +10055,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Hiker Bruce": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11067,9 +10075,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Hiker Eoin": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11089,9 +10095,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Hiker Eoin*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11111,9 +10115,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Hiker Eoin**": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11133,9 +10135,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Hiker Erik": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11155,9 +10155,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Kenny": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11177,9 +10175,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Hiker Kenny #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11199,9 +10195,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Hiker Kenny #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11221,9 +10215,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Hiker Kenny #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11243,9 +10235,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Hiker Michael": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11265,9 +10255,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Hiker Parry #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11287,9 +10275,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Hiker Parry #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11309,9 +10295,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Hiker Phillip": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11331,9 +10315,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Leader Brock": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -11355,9 +10337,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Grimer": {
         "Super Nerd Eric": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11377,9 +10357,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Super Nerd Eric*": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11399,9 +10377,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Super Nerd Sam": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11421,9 +10397,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Team Rocket Grunt 5 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -11443,9 +10417,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Team Rocket Grunt 5 @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -11465,9 +10437,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Team Rocket Grunt 6 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -11487,9 +10457,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Team Rocket Grunt 6 @ Goldenrod Tunnel": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -11509,9 +10477,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Team Rocket Grunt 8 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -11531,9 +10497,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Team Rocket Grunt @ Team Rocket HQ (with Ariana)": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -11553,9 +10517,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Team Rocket Grunt S2 @ Team Rocket HQ": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -11577,9 +10539,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Growlithe": {
         "Ace Trainer Reena": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -11599,9 +10559,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Ace Trainer Reena #2": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -11621,9 +10579,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Burglar Orson": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11643,9 +10599,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Firebreather Ned": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11665,9 +10619,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Gentleman Milton": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11687,9 +10639,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Gentleman Preston": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11709,9 +10659,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Gentleman Preston*": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11731,9 +10679,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Policeman Dirk": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11753,9 +10699,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Policeman Dirk*": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11775,9 +10719,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Policeman Keith": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11797,9 +10739,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Youngster Owen": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11821,9 +10761,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Grumpig": {
         "Elite Four Will #2": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -11845,9 +10783,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Gulpin": {
         "Biker Dale": {
-            "ability": [
-                "Sticky Hold"
-            ],
+            "ability": "Sticky Hold",
             "gender": "M",
             "item": "Black Sludge",
             "ivs": {
@@ -11868,9 +10804,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Biker Dan": {
-            "ability": [
-                "Liquid Ooze"
-            ],
+            "ability": "Liquid Ooze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11892,9 +10826,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Gyarados": {
         "Champion Lance": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -11914,9 +10846,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Champion Lance #2": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -11936,9 +10866,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Champion Lance (with Clair)": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -11958,9 +10886,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Andre": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -11980,9 +10906,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Fisherman Barney": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12002,9 +10926,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Fisherman Barney*": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12024,9 +10946,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Barney**": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12046,9 +10966,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Marvin": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12066,9 +10984,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Leader Blue": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -12088,9 +11004,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Clair": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -12110,9 +11024,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Leader Clair #2": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "item": "Wacan Berry",
             "ivs": {
@@ -12132,10 +11044,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Pok\u00e9 Maniac Brent #2": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Poké Maniac Brent #2": {
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12154,10 +11064,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Pok\u00e9 Maniac Brent #3": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Poké Maniac Brent #3": {
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12176,10 +11084,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9 Maniac Brent #4": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Poké Maniac Brent #4": {
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12198,10 +11104,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Swimmer\u2642 Ronald": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Swimmer♂ Ronald": {
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12218,10 +11122,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Swimmer\u2642 Ronald*": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Swimmer♂ Ronald*": {
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -12240,32 +11142,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Hariyama": {
-        "Cheryl": {
-            "ability": [
-                "Thick Fat"
-            ],
-            "gender": "M",
-            "ivs": {
-                "at": "24",
-                "df": "24",
-                "hp": "24",
-                "sa": "24",
-                "sd": "24",
-                "sp": "24"
-            },
-            "level": 62,
-            "moves": [
-                "Close Combat",
-                "Earthquake",
-                "Bullet Punch",
-                "Stone Edge"
-            ],
-            "nature": "Hasty"
-        },
         "Elite Four Bruno #2": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -12284,13 +11162,31 @@ var CUSTOMSETDEX_HGSS = {
                 "Bulk Up"
             ],
             "nature": "Adamant"
+        },
+        "Pokémon Trainer Cheryl": {
+            "ability": "Thick Fat",
+            "gender": "M",
+            "ivs": {
+                "at": "24",
+                "df": "24",
+                "hp": "24",
+                "sa": "24",
+                "sd": "24",
+                "sp": "24"
+            },
+            "level": 62,
+            "moves": [
+                "Close Combat",
+                "Earthquake",
+                "Bullet Punch",
+                "Stone Edge"
+            ],
+            "nature": "Hasty"
         }
     },
     "Haunter": {
         "Leader Morty": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -12310,9 +11206,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Leader Morty*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -12332,9 +11226,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Medium Bethany": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -12354,9 +11246,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Medium Edith": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -12376,9 +11266,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Medium Ethel": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -12398,9 +11286,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Medium Grace": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -12420,9 +11306,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Medium Grace*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -12442,9 +11326,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Medium Margaret": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -12464,9 +11346,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Medium Martha": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -12486,9 +11366,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Mystery Man Eusine": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -12508,9 +11386,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -12530,9 +11406,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Rival Silver @ Goldenrod Tunnel (Meganium)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -12552,9 +11426,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Rival Silver @ Goldenrod Tunnel (Quilava)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -12574,9 +11446,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Rival Silver @ Victory Road (Feraligatr)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -12596,9 +11466,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Rival Silver @ Victory Road (Meganium)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -12618,9 +11486,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Rival Silver @ Victory Road (Typhlosion)": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -12642,9 +11508,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Heracross": {
         "Leader Bugsy #2": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -12666,9 +11530,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Hitmonchan": {
         "Black Belt Kiyo": {
-            "ability": [
-                "Iron Fist"
-            ],
+            "ability": "Iron Fist",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -12688,9 +11550,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Black Belt Lao": {
-            "ability": [
-                "Iron Fist"
-            ],
+            "ability": "Iron Fist",
             "gender": "M",
             "ivs": {
                 "at": "4",
@@ -12710,9 +11570,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Elite Four Bruno": {
-            "ability": [
-                "Iron Fist"
-            ],
+            "ability": "Iron Fist",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -12732,9 +11590,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Elite Four Bruno #2": {
-            "ability": [
-                "Iron Fist"
-            ],
+            "ability": "Iron Fist",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -12754,9 +11610,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Leader Chuck #2": {
-            "ability": [
-                "Iron Fist"
-            ],
+            "ability": "Iron Fist",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -12778,9 +11632,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Hitmonlee": {
         "Black Belt Kenji #2": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -12800,9 +11652,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Black Belt Kenji #3*": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -12822,9 +11672,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Black Belt Kenji #4*": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -12844,9 +11692,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Black Belt Kiyo": {
-            "ability": [
-                "Reckless"
-            ],
+            "ability": "Reckless",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -12866,9 +11712,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Black Belt Yoshi": {
-            "ability": [
-                "Reckless"
-            ],
+            "ability": "Reckless",
             "gender": "M",
             "ivs": {
                 "at": "4",
@@ -12888,9 +11732,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Elite Four Bruno": {
-            "ability": [
-                "Reckless"
-            ],
+            "ability": "Reckless",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -12910,9 +11752,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Elite Four Bruno #2": {
-            "ability": [
-                "Reckless"
-            ],
+            "ability": "Reckless",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -12932,9 +11772,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Chuck #2": {
-            "ability": [
-                "Reckless"
-            ],
+            "ability": "Reckless",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -12956,9 +11794,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Hitmontop": {
         "Elite Four Bruno": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -12978,9 +11814,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Elite Four Bruno #2": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -13002,9 +11836,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Honchkrow": {
         "Elite Four Karen #2": {
-            "ability": [
-                "Super Luck"
-            ],
+            "ability": "Super Luck",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -13024,9 +11856,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Leader Falkner #2": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -13046,9 +11876,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Rocket Boss Giovanni": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -13070,9 +11898,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Hoothoot": {
         "Bird Keeper Vance": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -13092,9 +11918,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Bird Keeper Vance #2": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -13114,9 +11938,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Elder Li*": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13136,9 +11958,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Sage Troy": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13160,9 +11980,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Hoppip": {
         "Beauty Valerie": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13182,9 +12000,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Lass Michelle": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13204,9 +12020,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Picnicker Gina": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13225,9 +12039,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Picnicker Gina #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -13247,9 +12059,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Picnicker Gina #2*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -13269,9 +12079,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Picnicker Gina*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13292,9 +12100,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Horsea": {
         "Ace Trainer Cody": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -13314,9 +12120,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Ace Trainer Piper": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -13336,9 +12140,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Ace Trainer Piper*": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -13358,9 +12160,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Sailor Parker": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13379,10 +12179,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Swimmer\u2640 Wendy": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♀ Wendy": {
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13401,10 +12199,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Swimmer\u2640 Wendy*": {
-            "ability": [
-                "Sniper"
-            ],
+        "Swimmer♀ Wendy*": {
+            "ability": "Sniper",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13423,10 +12219,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2642 Parker": {
-            "ability": [
-                "Sniper"
-            ],
+        "Swimmer♂ Parker": {
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13448,9 +12242,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Houndoom": {
         "Elite Four Karen": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -13471,9 +12263,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Elite Four Karen #2": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -13493,9 +12283,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Executive Archer": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -13515,9 +12303,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Leader Blaine #2": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -13539,9 +12325,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Houndour": {
         "Executive Archer": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -13563,9 +12347,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Hypno": {
         "Biker Aiden #2": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13585,9 +12367,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Biker Aiden #3": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13607,9 +12387,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Biker Aiden #4": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13629,9 +12407,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Medium Rebecca": {
-            "ability": [
-                "Forewarn"
-            ],
+            "ability": "Forewarn",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13651,9 +12427,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Psychic Rodney": {
-            "ability": [
-                "Forewarn"
-            ],
+            "ability": "Forewarn",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13674,10 +12448,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Illumise": {
-        "Pok\u00e9fan Eleanor": {
-            "ability": [
-                "Oblivious"
-            ],
+        "Pokéfan Eleanor": {
+            "ability": "Oblivious",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13699,9 +12471,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ivysaur": {
         "Ace Trainer Alton": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -13721,9 +12491,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Ace Trainer Megan": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -13743,9 +12511,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Ace Trainer Quinn": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -13765,9 +12531,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Lass Linda": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13787,9 +12551,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Picnicker Gina #2*": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -13809,9 +12571,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Picnicker Gina #3*": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13833,9 +12593,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Jigglypuff": {
         "Lass Cathy": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -13855,9 +12613,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Lass Cathy*": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -13877,9 +12633,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Lass Cathy**": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -13899,9 +12653,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Teacher Shirley": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -13923,9 +12675,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Jolteon": {
         "Ace Trainer Gwen": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -13945,9 +12695,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Ace Trainer Shaye": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -13967,9 +12715,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Guitarist Vincent": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -13989,9 +12735,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Kimono Girl Sayo": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -14013,9 +12757,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Jumpluff": {
         "Camper Tanner #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14035,9 +12777,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Lass Michelle": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -14057,9 +12797,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Leader Erika": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -14079,9 +12817,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Erika #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -14101,9 +12837,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Picnicker Gina #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -14125,9 +12859,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Jynx": {
         "Elite Four Will": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -14147,9 +12879,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Elite Four Will #2": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -14169,9 +12899,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Leader Sabrina #2": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -14191,9 +12919,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "School Kid Danny": {
-            "ability": [
-                "Forewarn"
-            ],
+            "ability": "Forewarn",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -14213,9 +12939,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Skier Diana": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -14237,9 +12961,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Kabutops": {
         "Leader Brock": {
-            "ability": [
-                "Battle Armor"
-            ],
+            "ability": "Battle Armor",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -14259,9 +12981,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Leader Brock #2": {
-            "ability": [
-                "Battle Armor"
-            ],
+            "ability": "Battle Armor",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -14280,10 +13000,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2642 Duane": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♂ Duane": {
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14305,9 +13023,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Kadabra": {
         "Psychic Franklin": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14327,9 +13043,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Psychic Mark*": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14348,9 +13062,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Psychic Phil": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14370,9 +13082,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Rival Silver @ Victory Road (Feraligatr)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -14392,9 +13102,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Rival Silver @ Victory Road (Meganium)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -14414,9 +13122,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Rival Silver @ Victory Road (Typhlosion)": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -14436,9 +13142,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Young Couple Tim & Sue": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14458,9 +13162,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Young Couple Tim & Sue #2": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14480,9 +13182,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Young Couple Tim & Sue #3": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14504,9 +13204,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Kakuna": {
         "Bug Catcher Benny": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -14523,9 +13221,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Bug Catcher Ellis": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14542,9 +13238,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Bug Catcher Wade #2": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14563,9 +13257,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Leader Bugsy": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "9",
@@ -14583,10 +13275,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Kangaskhan": {
-        "Pok\u00e9 Maniac Calvin": {
-            "ability": [
-                "Scrappy"
-            ],
+        "Poké Maniac Calvin": {
+            "ability": "Scrappy",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -14606,9 +13296,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Rocket Boss Giovanni": {
-            "ability": [
-                "Scrappy"
-            ],
+            "ability": "Scrappy",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -14630,9 +13318,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Kingdra": {
         "Leader Clair #2": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -14652,9 +13338,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Leader Clair (with Lance)": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -14674,9 +13358,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Leader Clair*": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -14699,9 +13381,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Kingler": {
         "Ace Trainer Gaven": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -14721,9 +13401,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Ace Trainer Gaven #2": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -14743,9 +13421,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Ace Trainer Gaven #3": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -14765,9 +13441,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Ace Trainer Gaven #4": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -14787,9 +13461,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Fisherman Kyle #4*": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14809,9 +13481,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Sailor Garrett": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14833,9 +13503,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Koffing": {
         "Biker Charles": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14855,9 +13523,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Biker Dwayne": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14877,9 +13543,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Biker Dwayne*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14899,9 +13563,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Biker Dwayne**": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14921,9 +13583,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Biker Dwayne***": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14943,9 +13603,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Biker Glenn": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14965,9 +13623,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Biker Zeke": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -14987,9 +13643,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Biker Zeke*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15009,9 +13663,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Burglar Corey": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15031,9 +13683,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Burglar Corey*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15053,9 +13703,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Burglar Corey**": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15075,9 +13723,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Burglar Duncan": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15097,9 +13743,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Burglar Duncan*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15119,9 +13763,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Burglar Orson": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15141,9 +13783,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Executive Archer": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -15163,9 +13803,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Executive Petrel @ Goldenrod Radio Tower": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -15185,9 +13823,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Executive Petrel @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -15207,9 +13843,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Executive Petrel @ Goldenrod Radio Tower**": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -15229,9 +13863,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Executive Petrel @ Goldenrod Radio Tower***": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -15251,9 +13883,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Executive Petrel @ Goldenrod Radio Tower****": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -15273,9 +13903,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Executive Petrel @ Team Rocket HQ": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -15295,9 +13923,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Executive Proton @ Slowpoke Well": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -15317,9 +13943,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Firebreather Bill": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15338,9 +13962,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Firebreather Bill*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15359,9 +13981,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Firebreather Lyle": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15381,9 +14001,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Firebreather Lyle*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15403,9 +14021,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Firebreather Ned": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15425,9 +14041,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Firebreather Ned*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15447,9 +14061,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Scientist Ross": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15469,9 +14081,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Scientist Ross*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15491,9 +14101,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Team Rocket Grunt 10 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -15513,9 +14121,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Team Rocket Grunt 2 @ Goldenrod Tunnel": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -15535,9 +14141,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Team Rocket Grunt 3 @ Goldenrod Tunnel": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -15557,9 +14161,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Team Rocket Grunt 6 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -15579,9 +14181,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Team Rocket Grunt 7 @ Goldenrod Tunnel": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -15601,9 +14201,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Team Rocket Grunt 7 @ Goldenrod Tunnel*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -15623,9 +14221,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Team Rocket Grunt @ Ecruteak City": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -15647,9 +14243,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Krabby": {
         "Fisherman Kyle #3*": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15669,9 +14263,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Sailor Eugene": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15691,9 +14283,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Sailor Kent": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15713,9 +14303,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Sailor Kent*": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15734,10 +14322,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Swimmer\u2642 Matthew": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+        "Swimmer♂ Matthew": {
+            "ability": "Hyper Cutter",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15759,9 +14345,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Lanturn": {
         "Camper Tanner #3": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15781,9 +14365,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Camper Tanner #4": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15803,9 +14385,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Gideon": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15825,9 +14405,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Leader Misty #2": {
-            "ability": [
-                "Volt Absorb"
-            ],
+            "ability": "Volt Absorb",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -15849,9 +14427,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Lapras": {
         "Boarder Bryce": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15871,9 +14447,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Leader Misty": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -15893,9 +14467,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Leader Misty #2": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -15914,10 +14486,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Pok\u00e9mon Trainer Red": {
-            "ability": [
-                "Shell Armor"
-            ],
+        "Pokémon Trainer Red": {
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -15936,10 +14506,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Swimmer\u2640 Nicole*": {
-            "ability": [
-                "Shell Armor"
-            ],
+        "Swimmer♀ Nicole*": {
+            "ability": "Shell Armor",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -15961,9 +14529,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ledian": {
         "School Kid Nate": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -15985,9 +14551,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ledyba": {
         "Bug Catcher Wayne": {
-            "ability": [
-                "Swarm"
-            ],
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16005,9 +14569,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Twins Amy & Mimi": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -16028,9 +14590,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Lickilicky": {
         "Ace Trainer Salma": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "F",
             "ivs": {
                 "at": "7",
@@ -16050,9 +14610,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Whitney #2": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -16073,10 +14631,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Lickitung": {
-        "Pok\u00e9 Maniac Brent #3": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Poké Maniac Brent #3": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16095,10 +14651,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Pok\u00e9 Maniac Brent #4": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Poké Maniac Brent #4": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16117,10 +14671,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Pok\u00e9 Maniac Issac": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Poké Maniac Issac": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16141,9 +14693,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Linoone": {
         "Camper Pedro": {
-            "ability": [
-                "Gluttony"
-            ],
+            "ability": "Gluttony",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -16166,9 +14716,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Lotad": {
         "Young Couple Moe & Lulu": {
-            "ability": [
-                "Rain Dish"
-            ],
+            "ability": "Rain Dish",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16190,9 +14738,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Lucario": {
         "Elite Four Bruno #2": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -16211,10 +14757,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Riley": {
-            "ability": [
-                "Steadfast"
-            ],
+        "Pokémon Trainer Riley": {
+            "ability": "Steadfast",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -16236,10 +14780,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Luvdisc": {
-        "Swimmer\u2640 Mina": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♀ Mina": {
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -16258,10 +14800,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Swimmer\u2640 Mina*": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♀ Mina*": {
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -16280,10 +14820,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2640 Mina**": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♀ Mina**": {
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -16305,9 +14843,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Machamp": {
         "Black Belt Kenji #3": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -16327,9 +14863,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Black Belt Kenji #4": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -16349,9 +14883,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Elite Four Bruno": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -16372,9 +14904,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Elite Four Bruno #2": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -16394,9 +14924,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Anthony #4": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16416,9 +14944,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Hiker Jim": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16438,9 +14964,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Blue": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -16460,9 +14984,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Blue #2": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "item": "Iron Ball",
             "ivs": {
@@ -16485,9 +15007,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Machoke": {
         "Black Belt Ander": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -16507,9 +15027,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Black Belt Kenji": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -16529,9 +15047,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Black Belt Kenji #2*": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -16551,9 +15067,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Black Belt Nob": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "4",
@@ -16573,9 +15087,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Black Belt Wai": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -16595,9 +15107,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Black Belt Wai*": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -16617,9 +15127,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Hiker Anthony #2": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16639,9 +15147,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Hiker Anthony #3*": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16661,9 +15167,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Juggler Fritz": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16683,9 +15187,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Sailor Stanly": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16707,9 +15209,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Machop": {
         "Black Belt Nob": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "4",
@@ -16729,9 +15229,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Hiker Anthony": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16751,9 +15249,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Hiker Erik": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16773,9 +15269,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Hiker Erik*": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16795,9 +15289,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Hiker Leonard": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16817,9 +15309,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Sailor Kenneth": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16839,9 +15329,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Sailor Kenneth*": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16861,9 +15349,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Sailor Kenneth**": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16883,9 +15369,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Sailor Roberto": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16905,9 +15389,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Sailor Roberto*": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16927,9 +15409,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Sailor Stanly": {
-            "ability": [
-                "No Guard"
-            ],
+            "ability": "No Guard",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16951,9 +15431,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magby": {
         "Firebreather Walt #4": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16975,9 +15453,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magcargo": {
         "Camper Todd #4*": {
-            "ability": [
-                "Magma Armor"
-            ],
+            "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -16997,9 +15473,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Firebreather Burt": {
-            "ability": [
-                "Magma Armor"
-            ],
+            "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17019,9 +15493,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Leader Blaine": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "item": "White Herb",
             "ivs": {
@@ -17042,9 +15514,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Leader Blaine #2": {
-            "ability": [
-                "Magma Armor"
-            ],
+            "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -17064,9 +15534,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Super Nerd Merle": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17088,9 +15556,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magikarp": {
         "Fisherman Justin": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17107,9 +15573,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Justin*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17126,9 +15590,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Justin**": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17146,9 +15608,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Fisherman Justin***": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17165,9 +15625,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Kyler": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17185,9 +15643,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Fisherman Kyler #2": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17205,9 +15661,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Fisherman Kyler #2*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17225,9 +15679,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Fisherman Kyler #2**": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17245,9 +15697,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Fisherman Kyler #2***": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17265,9 +15715,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Fisherman Kyler #3": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17285,9 +15733,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Kyler #3*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17305,9 +15751,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Kyler #3**": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17325,9 +15769,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Kyler #3***": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17345,9 +15787,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Kyler #3****": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17365,9 +15805,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Kyler #4": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17385,9 +15823,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Kyler #4*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17405,9 +15841,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Kyler #4**": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17425,9 +15859,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Kyler #4***": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17445,9 +15877,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Kyler #4****": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17465,9 +15895,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Kyler #4*****": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17485,9 +15913,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Kyler*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17505,9 +15931,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Fisherman Kyler**": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17525,9 +15949,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Fisherman Marvin": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17545,9 +15967,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Marvin*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17565,9 +15985,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Fisherman Raymond": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17585,9 +16003,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Fisherman Raymond*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17605,9 +16021,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Fisherman Raymond**": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17625,9 +16039,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Fisherman Raymond***": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17644,10 +16056,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Pok\u00e9fan Alex": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Pokéfan Alex": {
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17668,9 +16078,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magmar": {
         "Biker Glenn": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17690,9 +16098,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Biker Jacob": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17712,9 +16118,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Biker Joel": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17734,9 +16138,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Biker Joel*": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17756,9 +16158,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Burglar Corey": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17778,9 +16178,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Burglar Duncan": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17800,9 +16198,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Double Team Thom & Kae": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -17822,9 +16218,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Firebreather Otis": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17844,9 +16238,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Firebreather Walt": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17866,9 +16258,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Firebreather Walt #2": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17888,9 +16278,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Firebreather Walt #2*": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17910,9 +16298,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Firebreather Walt #3": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17932,9 +16318,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Firebreather Walt #3*": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17954,9 +16338,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Firebreather Walt #4": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17976,9 +16358,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Firebreather Walt*": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -17998,9 +16378,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Juggler Fritz": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -18020,9 +16398,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Leader Blaine": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "item": "White Herb",
             "ivs": {
@@ -18043,9 +16419,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "School Kid Danny": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -18065,9 +16439,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Scientist Linden": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -18087,9 +16459,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Young Couple Vic & Tara": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -18111,9 +16481,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magmortar": {
         "Firebreather Walt #4": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -18133,9 +16501,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Leader Blaine #2": {
-            "ability": [
-                "Flame Body"
-            ],
+            "ability": "Flame Body",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -18157,9 +16523,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magnemite": {
         "Ace Trainer Allen": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -18179,9 +16543,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Guitarist Vincent": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18201,9 +16563,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Leader Jasmine": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "18",
@@ -18223,9 +16583,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Jasmine*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "18",
@@ -18245,9 +16603,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Rival Silver @ Burned Tower (Bayleef)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "9",
@@ -18267,9 +16623,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Rival Silver @ Burned Tower (Croconaw)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "9",
@@ -18289,9 +16643,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Rival Silver @ Burned Tower (Quilava)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "9",
@@ -18311,9 +16663,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "14",
@@ -18333,9 +16683,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Rival Silver @ Goldenrod Tunnel (Meganium)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "14",
@@ -18355,9 +16703,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Rival Silver @ Goldenrod Tunnel (Quilava)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "14",
@@ -18377,9 +16723,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "School Kid Chad #2": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18399,9 +16743,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "School Kid Kipp": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18421,9 +16763,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Scientist Garett": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18443,9 +16783,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Scientist Garett*": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18465,9 +16803,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Scientist Garett**": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18487,9 +16823,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Scientist Gregg": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18509,9 +16843,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Scientist Gregg*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18531,9 +16863,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Scientist Gregg**": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18553,9 +16883,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Super Nerd Shawn": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18575,9 +16903,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Super Nerd Shawn*": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18597,9 +16923,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Super Nerd Teru": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18618,9 +16942,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Super Nerd Teru*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18639,9 +16961,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Super Nerd Teru**": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18660,9 +16980,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Super Nerd Tyrone": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18682,9 +17000,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Super Nerd Tyrone*": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18704,9 +17020,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Super Nerd Tyrone**": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18728,9 +17042,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magneton": {
         "Ace Trainer Blake": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -18750,9 +17062,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Hiker Dwight": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -18772,9 +17082,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Lt. Surge": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -18794,9 +17102,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Rival Silver @ Indigo Plateau (Feraligatr)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "30",
@@ -18816,9 +17122,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Rival Silver @ Indigo Plateau (Meganium)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "30",
@@ -18838,9 +17142,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Rival Silver @ Indigo Plateau (Typhlosion)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "30",
@@ -18860,9 +17162,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Rival Silver @ Mt. Moon (Feraligatr)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -18882,9 +17182,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Rival Silver @ Mt. Moon (Meganium)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -18904,9 +17202,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Rival Silver @ Mt. Moon (Typhlosion)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -18926,9 +17222,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Rival Silver @ Victory Road (Feraligatr)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "19",
@@ -18948,9 +17242,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Rival Silver @ Victory Road (Meganium)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "19",
@@ -18970,9 +17262,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Rival Silver @ Victory Road (Typhlosion)": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "19",
@@ -18992,9 +17282,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "School Kid Chad #3": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -19014,9 +17302,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "School Kid Chad #4": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -19036,9 +17322,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "School Kid Kipp*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -19060,9 +17344,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Magnezone": {
         "Leader Jasmine #2": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -19082,9 +17364,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Leader Lt. Surge #2": {
-            "ability": [
-                "Magnet Pull"
-            ],
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -19103,10 +17383,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Mira": {
-            "ability": [
-                "Magnet Pull"
-            ],
+        "Pokémon Trainer Mira": {
+            "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -19128,9 +17406,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Makuhita": {
         "Sailor Jeff": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19152,9 +17428,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Mamoswine": {
         "Leader Pryce #2": {
-            "ability": [
-                "Snow Cloak"
-            ],
+            "ability": "Snow Cloak",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -19177,9 +17451,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Manectric": {
         "Leader Lt. Surge #2": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "item": "Pinap Berry",
             "ivs": {
@@ -19202,9 +17474,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Mankey": {
         "Black Belt Lung": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "4",
@@ -19224,9 +17494,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Black Belt Lung*": {
-            "ability": [
-                "Anger Point"
-            ],
+            "ability": "Anger Point",
             "gender": "M",
             "ivs": {
                 "at": "4",
@@ -19246,9 +17514,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Camper Ted": {
-            "ability": [
-                "Anger Point"
-            ],
+            "ability": "Anger Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19268,9 +17534,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Youngster Ian": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19290,9 +17554,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Youngster Ian #2": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19314,9 +17576,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Mantine": {
         "Fisherman Gideon": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19338,9 +17598,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Mareep": {
         "Ace Trainer Brian": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -19360,9 +17618,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Ace Trainer Cybil": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -19382,9 +17638,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Ace Trainer Lois": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -19403,10 +17657,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Pok\u00e9fan Brandon": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Brandon": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19425,9 +17677,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Twins Dara & Dia": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19447,9 +17697,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Twins Tori & Til": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19471,9 +17719,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Marill": {
         "Ace Trainer Kelly": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -19493,9 +17739,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Beauty Caroline": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19515,9 +17759,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Beauty Caroline*": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19537,9 +17779,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Biker Ernest": {
-            "ability": [
-                "Huge Power"
-            ],
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19559,9 +17799,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Camper Elliot": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19581,9 +17819,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Camper Grant": {
-            "ability": [
-                "Huge Power"
-            ],
+            "ability": "Huge Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19603,9 +17839,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Lass Connie": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19624,10 +17858,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Swimmer\u2640 Nicole": {
-            "ability": [
-                "Huge Power"
-            ],
+        "Swimmer♀ Nicole": {
+            "ability": "Huge Power",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19646,10 +17878,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2640 Nicole*": {
-            "ability": [
-                "Huge Power"
-            ],
+        "Swimmer♀ Nicole*": {
+            "ability": "Huge Power",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19669,9 +17899,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Twins Dara & Dia": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19691,9 +17919,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Twins Tori & Til": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19715,9 +17941,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Marowak": {
         "Lass Krise #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19737,9 +17961,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Lass Krise #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -19758,10 +17980,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naughty"
         },
-        "Pok\u00e9 Maniac Andrew": {
-            "ability": [
-                "Rock Head"
-            ],
+        "Poké Maniac Andrew": {
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19780,10 +18000,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Pok\u00e9 Maniac Andrew*": {
-            "ability": [
-                "Rock Head"
-            ],
+        "Poké Maniac Andrew*": {
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -19805,9 +18023,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Medicham": {
         "Leader Chuck #2": {
-            "ability": [
-                "Pure Power"
-            ],
+            "ability": "Pure Power",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -19830,9 +18046,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Meditite": {
         "Black Belt Wai*": {
-            "ability": [
-                "Pure Power"
-            ],
+            "ability": "Pure Power",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -19854,9 +18068,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Meganium": {
         "Rival Silver @ Dragon's Den (Meganium)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -19876,9 +18088,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Rival Silver @ Goldenrod Tunnel (Meganium)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -19898,9 +18108,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Rival Silver @ Indigo Plateau (Meganium)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -19920,9 +18128,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Rival Silver @ Mt. Moon (Meganium)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -19942,9 +18148,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Rival Silver @ Victory Road (Meganium)": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -19966,9 +18170,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Meowth": {
         "Beauty Samantha": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -19988,9 +18190,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Beauty Samantha*": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -20009,10 +18209,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Pok\u00e9fan Jeremy": {
-            "ability": [
-                "Technician"
-            ],
+        "Pokéfan Jeremy": {
+            "ability": "Technician",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20031,10 +18229,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Pok\u00e9fan Jeremy*": {
-            "ability": [
-                "Technician"
-            ],
+        "Pokéfan Jeremy*": {
+            "ability": "Technician",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20053,10 +18249,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Pok\u00e9fan Jeremy**": {
-            "ability": [
-                "Technician"
-            ],
+        "Pokéfan Jeremy**": {
+            "ability": "Technician",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20075,10 +18269,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Pok\u00e9fan Marigold": {
-            "ability": [
-                "Technician"
-            ],
+        "Pokéfan Marigold": {
+            "ability": "Technician",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -20100,9 +18292,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Metagross": {
         "Leader Jasmine #2": {
-            "ability": [
-                "Clear Body"
-            ],
+            "ability": "Clear Body",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -20121,10 +18311,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Riley": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Pokémon Trainer Riley": {
+            "ability": "Clear Body",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -20146,9 +18334,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Metapod": {
         "Bug Catcher Stacey": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20165,9 +18351,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Bug Catcher Stacey*": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20184,9 +18368,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Bug Catcher Stacey**": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20203,9 +18385,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Bug Catcher Wade #2": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20223,9 +18403,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Bug Catcher Wade #2*": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20243,9 +18421,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Leader Bugsy": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
                 "at": "9",
@@ -20264,9 +18440,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Milotic": {
         "Leader Misty #2": {
-            "ability": [
-                "Marvel Scale"
-            ],
+            "ability": "Marvel Scale",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -20288,9 +18462,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Miltank": {
         "Leader Whitney": {
-            "ability": [
-                "Scrappy"
-            ],
+            "ability": "Scrappy",
             "gender": "F",
             "item": "Lum Berry",
             "ivs": {
@@ -20311,9 +18483,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Leader Whitney #2": {
-            "ability": [
-                "Scrappy"
-            ],
+            "ability": "Scrappy",
             "gender": "F",
             "item": "Lum Berry",
             "ivs": {
@@ -20336,9 +18506,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Minun": {
         "Twins Day & Dani": {
-            "ability": [
-                "Minus"
-            ],
+            "ability": "Minus",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -20360,9 +18528,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Mismagius": {
         "Leader Morty #2": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -20384,7 +18550,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Mr. Mime": {
         "Juggler Fritz": {
-            "ability": null,
+            "ability": "Filter",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20404,7 +18570,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Leader Sabrina": {
-            "ability": null,
+            "ability": "Filter",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -20424,7 +18590,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Leader Sabrina #2": {
-            "ability": null,
+            "ability": "Soundproof",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -20444,7 +18610,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Psychic Jared": {
-            "ability": null,
+            "ability": "Filter",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20464,7 +18630,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "School Kid Billy #4": {
-            "ability": null,
+            "ability": "Soundproof",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20483,7 +18649,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "School Kid Chad": {
-            "ability": null,
+            "ability": "Soundproof",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20494,11 +18660,16 @@ var CUSTOMSETDEX_HGSS = {
                 "sp": "0"
             },
             "level": 20,
-            "moves": [],
+            "moves": [
+                "Mimic",
+                "Double Slap",
+                "Encore",
+                "Meditate"
+            ],
             "nature": "Relaxed"
         },
         "School Kid Chad #2": {
-            "ability": null,
+            "ability": "Soundproof",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20509,11 +18680,16 @@ var CUSTOMSETDEX_HGSS = {
                 "sp": "0"
             },
             "level": 29,
-            "moves": [],
+            "moves": [
+                "Substitute",
+                "Psybeam",
+                "Light Screen",
+                "Reflect"
+            ],
             "nature": "Modest"
         },
         "School Kid Chad #3": {
-            "ability": null,
+            "ability": "Soundproof",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20524,11 +18700,16 @@ var CUSTOMSETDEX_HGSS = {
                 "sp": "0"
             },
             "level": 39,
-            "moves": [],
+            "moves": [
+                "Psychic",
+                "Trick",
+                "Recycle",
+                "Substitute"
+            ],
             "nature": "Naughty"
         },
         "School Kid Chad #4": {
-            "ability": null,
+            "ability": "Soundproof",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20550,9 +18731,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Muk": {
         "Elite Four Koga": {
-            "ability": [
-                "Sticky Hold"
-            ],
+            "ability": "Sticky Hold",
             "gender": "M",
             "item": "Black Sludge",
             "ivs": {
@@ -20573,9 +18752,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Elite Four Koga #2": {
-            "ability": [
-                "Sticky Hold"
-            ],
+            "ability": "Sticky Hold",
             "gender": "M",
             "item": "Black Sludge",
             "ivs": {
@@ -20596,9 +18773,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Super Nerd Sam": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "item": "Toxic Orb",
             "ivs": {
@@ -20619,9 +18794,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Super Nerd Shawn": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "item": "Nugget",
             "ivs": {
@@ -20642,9 +18815,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Team Rocket Grunt 2 @ Goldenrod Tunnel": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -20664,9 +18835,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Team Rocket Grunt 3 @ Goldenrod Tunnel": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -20686,9 +18855,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Team Rocket Grunt 5 @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Stench"
-            ],
+            "ability": "Stench",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -20710,9 +18877,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Murkrow": {
         "Elite Four Karen": {
-            "ability": [
-                "Super Luck"
-            ],
+            "ability": "Super Luck",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -20732,9 +18897,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Executive Ariana @ Goldenrod Radio Tower": {
-            "ability": [
-                "Super Luck"
-            ],
+            "ability": "Super Luck",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -20754,9 +18917,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Executive Ariana @ Team Rocket HQ": {
-            "ability": [
-                "Super Luck"
-            ],
+            "ability": "Super Luck",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -20778,9 +18939,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Natu": {
         "Psychic Phil": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20802,9 +18961,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Nidoking": {
         "Camper Barry": {
-            "ability": [
-                "Rivalry"
-            ],
+            "ability": "Rivalry",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20824,9 +18981,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Camper Lloyd": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20846,9 +19001,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Picnicker Liz #4": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20867,10 +19020,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Pok\u00e9 Maniac Brent #4": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent #4": {
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20889,10 +19040,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Docile"
         },
-        "Pok\u00e9 Maniac Harrison": {
-            "ability": [
-                "Rivalry"
-            ],
+        "Poké Maniac Harrison": {
+            "ability": "Rivalry",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20911,10 +19060,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Pok\u00e9 Maniac Ron": {
-            "ability": [
-                "Rivalry"
-            ],
+        "Poké Maniac Ron": {
+            "ability": "Rivalry",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20933,10 +19080,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quirky"
         },
-        "Pok\u00e9fan Alex": {
-            "ability": [
-                "Rivalry"
-            ],
+        "Pokéfan Alex": {
+            "ability": "Rivalry",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -20956,9 +19101,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Rocket Boss Giovanni": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -20980,9 +19123,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Nidoqueen": {
         "Ace Trainer Reena #3": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -21002,9 +19143,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Ace Trainer Reena #4": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -21024,9 +19163,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Picnicker Cindy": {
-            "ability": [
-                "Rivalry"
-            ],
+            "ability": "Rivalry",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21046,9 +19183,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Picnicker Liz #3": {
-            "ability": [
-                "Rivalry"
-            ],
+            "ability": "Rivalry",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21068,9 +19203,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Picnicker Liz #4": {
-            "ability": [
-                "Rivalry"
-            ],
+            "ability": "Rivalry",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21089,10 +19222,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Pok\u00e9 Maniac Brent #4": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent #4": {
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21111,10 +19242,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Pok\u00e9 Maniac Harrison": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Harrison": {
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21134,9 +19263,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Rocket Boss Giovanni": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -21158,7 +19285,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Nidoran_f": {
         "Picnicker Liz": {
-            "ability": null,
+            "ability": "Rivalry",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21169,13 +19296,17 @@ var CUSTOMSETDEX_HGSS = {
                 "sp": "0"
             },
             "level": 8,
-            "moves": [],
+            "moves": [
+                "Tail Whip",
+                "Scratch",
+                "Growl"
+            ],
             "nature": "Relaxed"
         }
     },
     "Nidoran_m": {
         "Camper Roland": {
-            "ability": null,
+            "ability": "Rivalry",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21186,15 +19317,18 @@ var CUSTOMSETDEX_HGSS = {
                 "sp": "0"
             },
             "level": 9,
-            "moves": [],
+            "moves": [
+                "Double Kick",
+                "Focus Energy",
+                "Leer",
+                "Peck"
+            ],
             "nature": "Serious"
         }
     },
     "Nidorina": {
         "Ace Trainer Reena": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -21214,9 +19348,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Ace Trainer Reena #2": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -21236,9 +19368,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Picnicker Edna": {
-            "ability": [
-                "Rivalry"
-            ],
+            "ability": "Rivalry",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21258,9 +19388,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Picnicker Liz #2": {
-            "ability": [
-                "Rivalry"
-            ],
+            "ability": "Rivalry",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21279,10 +19407,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Pok\u00e9 Maniac Brent": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent": {
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21301,10 +19427,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Pok\u00e9 Maniac Brent #2": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent #2": {
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21323,10 +19447,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Pok\u00e9 Maniac Brent #3": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent #3": {
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21345,10 +19467,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Pok\u00e9 Maniac Shane": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Shane": {
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21370,9 +19490,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Nidorino": {
         "Picnicker Liz #3": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21391,10 +19509,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Pok\u00e9 Maniac Brent": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent": {
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21413,10 +19529,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Pok\u00e9 Maniac Brent #2": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent #2": {
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21435,10 +19549,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Pok\u00e9 Maniac Brent #3": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Brent #3": {
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21457,10 +19569,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Pok\u00e9 Maniac Shane": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Poké Maniac Shane": {
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21482,9 +19592,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Nincada": {
         "Bug Catcher Arnie #4": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21506,9 +19614,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ninetales": {
         "Ace Trainer Carol": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -21528,9 +19634,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Ace Trainer Lois": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -21550,9 +19654,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Scientist Daniel": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21573,10 +19675,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Ninjask": {
-        "Marley": {
-            "ability": [
-                "Speed Boost"
-            ],
+        "Pokémon Trainer Marley": {
+            "ability": "Speed Boost",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -21598,9 +19698,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Noctowl": {
         "Bird Keeper Bob": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -21620,9 +19718,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Bird Keeper Justin": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -21642,9 +19738,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Bird Keeper Vance #3": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -21664,9 +19758,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Bird Keeper Vance #4*": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -21686,9 +19778,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Gentleman Alfred": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21708,9 +19798,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Gentleman Alfred #2": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21730,9 +19818,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Gentleman Alfred #3": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21752,9 +19838,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Gentleman Alfred #4": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21774,9 +19858,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Leader Falkner #2": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -21798,9 +19880,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Numel": {
         "Super Nerd Waldo": {
-            "ability": [
-                "Simple"
-            ],
+            "ability": "Simple",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21822,9 +19902,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Octillery": {
         "Fisherman Jonah": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21844,9 +19922,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Fisherman Martin": {
-            "ability": [
-                "Suction Cups"
-            ],
+            "ability": "Suction Cups",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21865,10 +19941,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2642 Tyson": {
-            "ability": [
-                "Sniper"
-            ],
+        "Swimmer♂ Tyson": {
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -21890,9 +19964,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Oddish": {
         "Lass Krise": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21912,9 +19984,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Lass Krise #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21934,9 +20004,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Picnicker Erin": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -21956,9 +20024,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "School Kid Dudley": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -21979,9 +20045,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "School Kid Jack": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22000,9 +20064,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Team Rocket Grunt 9 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -22024,9 +20086,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Omastar": {
         "Leader Brock": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -22046,9 +20106,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Leader Brock #2": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -22070,9 +20128,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Onix": {
         "Black Belt Kenji #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -22092,9 +20148,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Black Belt Kenji #2*": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -22114,9 +20168,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Black Belt Kenji #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -22136,9 +20188,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Black Belt Kenji #3*": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -22158,9 +20208,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Black Belt Kenji #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -22180,9 +20228,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Black Belt Kenji #4*": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -22202,9 +20248,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Elite Four Bruno": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -22224,9 +20268,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Hiker Clarke": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22246,9 +20288,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Daniel": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22268,9 +20308,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Kenny #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22290,9 +20328,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Hiker Kenny #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22312,9 +20348,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Hiker Parry": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22334,9 +20368,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Hiker Parry #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22356,9 +20388,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Leader Brock": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -22379,9 +20409,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Brock #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -22402,9 +20430,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Young Couple Duff & Eda": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22426,9 +20452,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Pachirisu": {
         "Leader Lt. Surge #2": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -22450,9 +20474,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Paras": {
         "Beauty Julia": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -22472,9 +20494,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Bug Catcher Josh": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -22494,9 +20514,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Bug Catcher Wayne": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22515,9 +20533,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Lass Shannon": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -22537,9 +20553,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Lass Shannon*": {
-            "ability": [
-                "Dry Skin"
-            ],
+            "ability": "Dry Skin",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -22561,9 +20575,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Parasect": {
         "Ace Trainer Jake": {
-            "ability": [
-                "Dry Skin"
-            ],
+            "ability": "Dry Skin",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -22583,9 +20595,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Beauty Julia": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -22605,9 +20615,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Lass Shannon*": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -22627,9 +20635,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "School Kid Billy": {
-            "ability": [
-                "Dry Skin"
-            ],
+            "ability": "Dry Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22649,9 +20655,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "School Kid Billy #2": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22671,9 +20675,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "School Kid Billy #3": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22693,9 +20695,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "School Kid Billy #4": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22715,9 +20715,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Youngster Jimmy": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22739,9 +20737,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Pelipper": {
         "Leader Falkner #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -22763,9 +20759,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Persian": {
         "Gentleman Edward": {
-            "ability": [
-                "Limber"
-            ],
+            "ability": "Limber",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22786,10 +20780,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Phanpy": {
-        "Pok\u00e9fan Rex": {
-            "ability": [
-                "Pickup"
-            ],
+        "Pokéfan Rex": {
+            "ability": "Pickup",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22809,9 +20801,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Twins Meg & Peg": {
-            "ability": [
-                "Pickup"
-            ],
+            "ability": "Pickup",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -22832,10 +20822,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Pichu": {
-        "Pok\u00e9fan Derek #3": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Derek #3": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22854,10 +20842,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naughty"
         },
-        "Pok\u00e9fan Derek #4": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Derek #4": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -22879,9 +20865,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Pidgeot": {
         "Ace Trainer Ryan": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -22901,9 +20885,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Bird Keeper Hank": {
-            "ability": [
-                "Tangled Feet"
-            ],
+            "ability": "Tangled Feet",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -22923,9 +20905,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Bird Keeper Vance #3": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -22945,9 +20925,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Bird Keeper Vance #4": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -22967,9 +20945,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Bird Keeper Vance #4*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -22989,9 +20965,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Blue": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -23012,9 +20986,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Blue #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -23035,9 +21007,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Leader Falkner #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -23057,9 +21027,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "School Kid Sherman": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23081,9 +21049,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Pidgeotto": {
         "Bird Keeper Bryan": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23103,9 +21069,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Bird Keeper Kinsley": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23125,9 +21089,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Bird Keeper Vance": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23147,9 +21109,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Bird Keeper Vance #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23169,9 +21129,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Bird Keeper Vance #3": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23191,9 +21149,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Lass Laura": {
-            "ability": [
-                "Tangled Feet"
-            ],
+            "ability": "Tangled Feet",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -23213,9 +21169,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Leader Falkner": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23236,9 +21190,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Pidgey": {
         "Bird Keeper Bryan": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23257,9 +21209,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Bird Keeper Hank": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23279,9 +21229,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Bird Keeper Peter": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23299,9 +21247,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Bird Keeper Peter*": {
-            "ability": [
-                "Tangled Feet"
-            ],
+            "ability": "Tangled Feet",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23319,9 +21265,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Bird Keeper Rod": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -23339,9 +21283,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Bird Keeper Rod*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -23359,9 +21301,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Bird Keeper Theo": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23381,9 +21321,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Bird Keeper Theo*": {
-            "ability": [
-                "Tangled Feet"
-            ],
+            "ability": "Tangled Feet",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23403,9 +21341,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Bird Keeper Theo**": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23425,9 +21361,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Bird Keeper Theo***": {
-            "ability": [
-                "Tangled Feet"
-            ],
+            "ability": "Tangled Feet",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23447,9 +21381,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Bird Keeper Theo****": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23469,9 +21401,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Leader Falkner": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -23489,9 +21419,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Youngster Mikey": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23510,9 +21438,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Pikachu": {
         "Ace Trainer Joyce": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -23532,9 +21458,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Bug Catcher Abner": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23554,9 +21478,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Gentleman Gregory": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23576,9 +21498,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Picnicker Brooke": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -23597,10 +21517,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Pok\u00e9fan Derek": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Derek": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23619,10 +21537,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Derek #2": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Derek #2": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23641,10 +21557,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Pok\u00e9fan Derek #3": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Derek #3": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23663,10 +21577,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quirky"
         },
-        "Pok\u00e9fan Derek #4": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Derek #4": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23685,10 +21597,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Pok\u00e9fan Joshua": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Joshua": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23707,10 +21617,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Joshua*": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Joshua*": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23729,10 +21637,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Joshua**": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Joshua**": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23751,10 +21657,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Joshua***": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Joshua***": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23773,10 +21677,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Joshua****": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Joshua****": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23795,10 +21697,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Joshua*****": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Joshua*****": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23817,10 +21717,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Pok\u00e9fan Ruth": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan Ruth": {
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -23839,10 +21737,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Pok\u00e9mon Trainer Red": {
-            "ability": [
-                "Static"
-            ],
+        "Pokémon Trainer Red": {
+            "ability": "Static",
             "gender": "M",
             "item": "Light Ball",
             "ivs": {
@@ -23865,9 +21761,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Piloswine": {
         "Leader Pryce": {
-            "ability": [
-                "Snow Cloak"
-            ],
+            "ability": "Snow Cloak",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -23890,9 +21784,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Pinsir": {
         "Bug Catcher Ken": {
-            "ability": [
-                "Mold Breaker"
-            ],
+            "ability": "Mold Breaker",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23912,9 +21804,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Leader Bugsy #2": {
-            "ability": [
-                "Hyper Cutter"
-            ],
+            "ability": "Hyper Cutter",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -23936,9 +21826,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Plusle": {
         "Twins Day & Dani": {
-            "ability": [
-                "Plus"
-            ],
+            "ability": "Plus",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -23960,9 +21848,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Politoed": {
         "Sailor Huey #4": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -23984,9 +21870,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Poliwag": {
         "Fisherman Henry": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24005,9 +21889,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Fisherman Henry*": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24026,9 +21908,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Sailor Huey": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24050,9 +21930,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Poliwhirl": {
         "Ace Trainer Emma": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -24072,9 +21950,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Sailor Eugene": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24094,9 +21970,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Sailor Huey": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24116,9 +21990,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Sailor Huey #2": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24138,9 +22010,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Sailor Huey #2*": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24160,9 +22030,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Sailor Huey #3": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24182,9 +22050,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Sailor Roberto*": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24204,9 +22070,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Sailor Terrell": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24226,9 +22090,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "School Kid Billy": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24248,9 +22110,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "School Kid Billy #2": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24270,9 +22130,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "School Kid Billy #3": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24291,10 +22149,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Swimmer\u2642 Elmo": {
-            "ability": [
-                "Water Absorb"
-            ],
+        "Swimmer♂ Elmo": {
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24313,10 +22169,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Swimmer\u2642 Esteban": {
-            "ability": [
-                "Water Absorb"
-            ],
+        "Swimmer♂ Esteban": {
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24338,9 +22192,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Poliwrath": {
         "Black Belt Manford": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -24360,9 +22212,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Camper Sid": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24382,9 +22232,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Leader Chuck": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -24405,9 +22253,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Leader Chuck #2": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -24428,9 +22274,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Sailor Huey #3": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24450,9 +22294,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Sailor Huey #4": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24472,9 +22314,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Sailor Kenneth*": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24494,9 +22334,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "School Kid Billy #4": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24518,9 +22356,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Ponyta": {
         "Picnicker Erin": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -24542,9 +22378,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Porygon": {
         "Scientist Trenton": {
-            "ability": [
-                "Download"
-            ],
+            "ability": "Download",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -24564,9 +22398,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Super Nerd Pat": {
-            "ability": [
-                "Download"
-            ],
+            "ability": "Download",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -24587,10 +22419,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Porygon-Z": {
-        "Mira": {
-            "ability": [
-                "Adaptability"
-            ],
+        "Pokémon Trainer Mira": {
+            "ability": "Adaptability",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -24612,9 +22442,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Porygon2": {
         "Double Team Elan & Ida": {
-            "ability": [
-                "Download"
-            ],
+            "ability": "Download",
             "gender": "N",
             "ivs": {
                 "at": "7",
@@ -24636,9 +22464,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Primeape": {
         "Black Belt Ander": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -24658,9 +22484,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Black Belt Lung*": {
-            "ability": [
-                "Anger Point"
-            ],
+            "ability": "Anger Point",
             "gender": "M",
             "ivs": {
                 "at": "4",
@@ -24680,9 +22504,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Camper Bertrand": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24702,9 +22524,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Camper Sid": {
-            "ability": [
-                "Anger Point"
-            ],
+            "ability": "Anger Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24724,9 +22544,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Leader Chuck": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -24746,9 +22564,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Leader Chuck #2": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -24768,9 +22584,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Youngster Ian #3": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24790,9 +22604,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Youngster Ian #4": {
-            "ability": [
-                "Vital Spirit"
-            ],
+            "ability": "Vital Spirit",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24814,9 +22626,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Psyduck": {
         "Camper Todd": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24836,9 +22646,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Camper Todd #2*": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24858,9 +22666,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Lass Dana": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -24880,9 +22686,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Lass Dana #2": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -24901,10 +22705,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Pok\u00e9fan Trevor": {
-            "ability": [
-                "Cloud Nine"
-            ],
+        "Pokéfan Trevor": {
+            "ability": "Cloud Nine",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24924,9 +22726,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Sailor Stanly": {
-            "ability": [
-                "Cloud Nine"
-            ],
+            "ability": "Cloud Nine",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24945,10 +22745,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Swimmer\u2640 Susie": {
-            "ability": [
-                "Damp"
-            ],
+        "Swimmer♀ Susie": {
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -24968,9 +22766,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Young Couple Tim & Sue": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -24992,9 +22788,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Quagsire": {
         "Ace Trainer Blake": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -25014,9 +22808,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Fisherman Stephen": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25036,9 +22828,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Leader Misty": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -25058,9 +22848,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Leader Misty #2": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -25079,10 +22867,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naughty"
         },
-        "Pok\u00e9fan Robert": {
-            "ability": [
-                "Water Absorb"
-            ],
+        "Pokéfan Robert": {
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25102,9 +22888,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "School Kid Alan #3": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25124,9 +22908,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "School Kid Alan #4": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25145,10 +22927,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Swimmer\u2642 Luis": {
-            "ability": [
-                "Water Absorb"
-            ],
+        "Swimmer♂ Luis": {
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25167,10 +22947,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Swimmer\u2642 Tyson": {
-            "ability": [
-                "Water Absorb"
-            ],
+        "Swimmer♂ Tyson": {
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25190,9 +22968,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Twins Kay & Tia": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25211,9 +22987,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Twins Kay & Tia #2": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25232,9 +23006,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Twins Kay & Tia #2*": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25253,9 +23025,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Twins Kay & Tia #3": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25275,9 +23045,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Twins Kay & Tia #3*": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25297,9 +23065,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Twins Kay & Tia #4": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25319,9 +23085,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Twins Kay & Tia #4*": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25341,9 +23105,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Twins Kay & Tia*": {
-            "ability": [
-                "Damp"
-            ],
+            "ability": "Damp",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25364,9 +23126,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Quilava": {
         "Rival Silver @ Azalea Town (Quilava)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -25386,9 +23146,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Rival Silver @ Burned Tower (Quilava)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -25408,9 +23166,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Rival Silver @ Goldenrod Tunnel (Quilava)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -25432,9 +23188,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Qwilfish": {
         "Fisherman  #4": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25454,9 +23208,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Fisherman Kyle": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25476,9 +23228,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Fisherman Kyle #2": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25498,9 +23248,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Fisherman Kyle #3": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25520,9 +23268,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Fisherman Kyle #4": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25542,9 +23288,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Fisherman Ralph #3": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25564,9 +23308,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Scott": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25586,9 +23328,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Fisherman Scott*": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25608,9 +23348,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Fisherman Stephen": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25630,9 +23368,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Fisherman Tully": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25652,9 +23388,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Fisherman Tully #2": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25674,9 +23408,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Fisherman Tully #3*": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25696,9 +23428,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Fisherman Tully #4*": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25717,10 +23447,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Swimmer\u2642 Berke": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Swimmer♂ Berke": {
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25742,9 +23470,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Raichu": {
         "Leader Lt. Surge": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -25764,9 +23490,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Leader Lt. Surge #2": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -25786,9 +23510,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Picnicker Edna": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -25807,10 +23529,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Pok\u00e9fan William": {
-            "ability": [
-                "Static"
-            ],
+        "Pokéfan William": {
+            "ability": "Static",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -25832,9 +23552,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Rampardos": {
         "Leader Brock #2": {
-            "ability": [
-                "Mold Breaker"
-            ],
+            "ability": "Mold Breaker",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -25856,9 +23574,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Rapidash": {
         "Ace Trainer Jamie": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -25878,9 +23594,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Ace Trainer Jamie #2": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -25900,9 +23614,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Ace Trainer Jamie #3": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -25922,9 +23634,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Ace Trainer Jamie #4": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -25944,9 +23654,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Leader Blaine": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "item": "White Herb",
             "ivs": {
@@ -25967,9 +23675,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Leader Blaine #2": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -25989,9 +23695,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Picnicker Erin #2": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -26011,9 +23715,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Picnicker Erin #3": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -26033,9 +23735,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Picnicker Erin #4": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -26055,9 +23755,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Picnicker Sharon": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -26079,9 +23777,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Raticate": {
         "Executive Petrel @ Team Rocket HQ": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -26101,9 +23797,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Sailor Eugene": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26123,9 +23817,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Sailor Jeff": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26145,9 +23837,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Team Rocket Grunt 1 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26167,9 +23857,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Team Rocket Grunt 1 @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26189,9 +23877,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Team Rocket Grunt 10 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26211,9 +23897,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Team Rocket Grunt 5 @ Goldenrod Tunnel": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26233,9 +23917,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Team Rocket Grunt 6 @ Team Rocket Hideout": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26255,9 +23937,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Youngster Jimmy": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26277,9 +23957,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Youngster Joey #2": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26299,9 +23977,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Youngster Joey #3": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26321,9 +23997,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Youngster Joey #4": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26343,9 +24017,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Youngster Warren": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26366,31 +24038,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Rattata": {
-        "Argenta": {
-            "ability": [
-                "Run Away"
-            ],
-            "gender": "F",
-            "ivs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "level": 5,
-            "moves": [
-                "Quick Attack",
-                "Tackle",
-                "Tail Whip"
-            ],
-            "nature": "Hardy"
-        },
-        "Dahlia": {
-            "ability": [
-                "Run Away"
-            ],
+        "Arcade Star Dahlia": {
+            "ability": "Run Away",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -26408,10 +24057,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Darach": {
-            "ability": [
-                "Run Away"
-            ],
+        "Castle Valet Darach": {
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26429,10 +24076,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naive"
         },
-        "Palmer": {
-            "ability": [
-                "Run Away"
-            ],
+        "Factory Head Thorton": {
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26448,12 +24093,29 @@ var CUSTOMSETDEX_HGSS = {
                 "Tackle",
                 "Tail Whip"
             ],
-            "nature": "Impish"
+            "nature": "Bold"
+        },
+        "Hall Matron Argenta": {
+            "ability": "Run Away",
+            "gender": "F",
+            "ivs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "level": 5,
+            "moves": [
+                "Quick Attack",
+                "Tackle",
+                "Tail Whip"
+            ],
+            "nature": "Hardy"
         },
         "Team Rocket Grunt 1 @ Goldenrod Tunnel": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26473,9 +24135,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Team Rocket Grunt 1 @ Slowpoke Well": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26495,9 +24155,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Team Rocket Grunt 1 @ Slowpoke Well*": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26517,9 +24175,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Team Rocket Grunt 1 @ Team Rocket HQ": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26539,9 +24195,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Team Rocket Grunt 1 @ Team Rocket HQ*": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26561,9 +24215,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Team Rocket Grunt 1 @ Team Rocket HQ**": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26583,9 +24235,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Team Rocket Grunt 1 @ Team Rocket HQ***": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26605,9 +24255,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Team Rocket Grunt 2 @ Goldenrod Tunnel": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26627,9 +24275,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Team Rocket Grunt 3 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26649,9 +24295,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Team Rocket Grunt 3 @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26671,9 +24315,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Team Rocket Grunt 3 @ Goldenrod Radio Tower**": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26693,9 +24335,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Team Rocket Grunt 3 @ Goldenrod Radio Tower***": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26715,9 +24355,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Team Rocket Grunt 3 @ Goldenrod Radio Tower****": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26737,9 +24375,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Team Rocket Grunt 3 @ Slowpoke Well": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26759,9 +24395,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Team Rocket Grunt 4 @ Team Rocket HQ": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26781,9 +24415,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Team Rocket Grunt 4 @ Team Rocket HQ*": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26803,9 +24435,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Team Rocket Grunt 6 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26825,9 +24455,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Team Rocket Grunt S2 @ Team Rocket HQ": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -26846,10 +24474,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Thorton": {
-            "ability": [
-                "Run Away"
-            ],
+        "Tower Tycoon Palmer": {
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26865,12 +24491,10 @@ var CUSTOMSETDEX_HGSS = {
                 "Tackle",
                 "Tail Whip"
             ],
-            "nature": "Bold"
+            "nature": "Impish"
         },
         "Youngster Albert": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26889,9 +24513,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Youngster Joey": {
-            "ability": [
-                "Run Away"
-            ],
+            "ability": "Run Away",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26910,9 +24532,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Youngster Mikey": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26931,9 +24551,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Youngster Samuel": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -26955,9 +24573,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Relicanth": {
         "Leader Brock #2": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "item": "Lum Berry",
             "ivs": {
@@ -26980,9 +24596,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Remoraid": {
         "Fisherman Edgar": {
-            "ability": [
-                "Hustle"
-            ],
+            "ability": "Hustle",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27002,9 +24616,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Fisherman Edgar*": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27024,9 +24636,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Fisherman Jonah": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27046,9 +24656,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Fisherman Martin": {
-            "ability": [
-                "Hustle"
-            ],
+            "ability": "Hustle",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27067,10 +24675,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Swimmer\u2642 George***": {
-            "ability": [
-                "Hustle"
-            ],
+        "Swimmer♂ George***": {
+            "ability": "Hustle",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27089,10 +24695,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Swimmer\u2642 Harold": {
-            "ability": [
-                "Sniper"
-            ],
+        "Swimmer♂ Harold": {
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27114,9 +24718,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Rhydon": {
         "Camper Jerry": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -27136,9 +24738,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Hiker Bruce": {
-            "ability": [
-                "Lightning Rod"
-            ],
+            "ability": "Lightning Rod",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27158,9 +24758,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Leader Blue": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -27179,10 +24777,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Pok\u00e9 Maniac Morgan": {
-            "ability": [
-                "Rock Head"
-            ],
+        "Poké Maniac Morgan": {
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27204,9 +24800,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Rhyhorn": {
         "Ace Trainer Kevin": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -27226,9 +24820,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Brock": {
-            "ability": [
-                "Lightning Rod"
-            ],
+            "ability": "Lightning Rod",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -27247,10 +24839,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Pok\u00e9 Maniac Morgan": {
-            "ability": [
-                "Rock Head"
-            ],
+        "Poké Maniac Morgan": {
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27269,10 +24859,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Pok\u00e9 Maniac Zach": {
-            "ability": [
-                "Lightning Rod"
-            ],
+        "Poké Maniac Zach": {
+            "ability": "Lightning Rod",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27294,9 +24882,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Rhyperior": {
         "Leader Blue #2": {
-            "ability": [
-                "Solid Rock"
-            ],
+            "ability": "Solid Rock",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -27318,9 +24904,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Roselia": {
         "Teacher Clarice": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -27342,9 +24926,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Roserade": {
         "Leader Erika #2": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -27366,9 +24948,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sableye": {
         "Leader Morty #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -27390,9 +24970,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Salamence": {
         "Champion Lance #2": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "item": "Lum Berry",
             "ivs": {
@@ -27412,10 +24990,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Riley": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Pokémon Trainer Riley": {
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -27437,9 +25013,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sandshrew": {
         "Camper Elliot": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27459,9 +25033,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Camper Spencer": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27481,9 +25053,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Youngster Samuel": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27505,9 +25075,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sandslash": {
         "Camper Dean": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27527,9 +25095,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Camper Spencer": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27549,9 +25115,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Hiker Kenny": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27571,9 +25135,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Hiker Kenny #2": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27593,9 +25155,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Hiker Kenny #3": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27615,9 +25175,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Hiker Kenny #4": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27637,9 +25195,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "School Kid Torin": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27659,9 +25215,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "School Kid Torin #2": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27681,9 +25235,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "School Kid Torin #3": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27703,9 +25255,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "School Kid Torin #4": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27725,9 +25275,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Youngster Jason": {
-            "ability": [
-                "Sand Veil"
-            ],
+            "ability": "Sand Veil",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27749,9 +25297,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Scizor": {
         "Leader Bugsy #2": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -27774,9 +25320,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Scyther": {
         "Leader Bugsy": {
-            "ability": [
-                "Technician"
-            ],
+            "ability": "Technician",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -27799,9 +25343,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Seadra": {
         "Ace Trainer Cody": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -27821,9 +25363,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Ace Trainer Fran": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "F",
             "ivs": {
                 "at": "7",
@@ -27843,9 +25383,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Ace Trainer Paulo": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -27865,9 +25403,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Ace Trainer Piper*": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -27887,9 +25423,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Fisherman Liam": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27909,9 +25443,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Sailor Parker": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27931,9 +25463,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Super Nerd Hugh": {
-            "ability": [
-                "Poison Point"
-            ],
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27952,10 +25482,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2642 Harold": {
-            "ability": [
-                "Poison Point"
-            ],
+        "Swimmer♂ Harold": {
+            "ability": "Poison Point",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27974,10 +25502,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Swimmer\u2642 Jerome": {
-            "ability": [
-                "Sniper"
-            ],
+        "Swimmer♂ Jerome": {
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -27996,10 +25522,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Swimmer\u2642 Luis": {
-            "ability": [
-                "Sniper"
-            ],
+        "Swimmer♂ Luis": {
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28018,10 +25542,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Swimmer\u2642 Parker": {
-            "ability": [
-                "Sniper"
-            ],
+        "Swimmer♂ Parker": {
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28043,9 +25565,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Seaking": {
         "Ace Trainer Irene": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -28065,9 +25585,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Fisherman  #4": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28087,9 +25605,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Fisherman Kyle #2": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28109,9 +25625,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Fisherman Kyle #2*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28131,9 +25645,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Fisherman Kyle #3": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28153,9 +25665,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Fisherman Kyle #3*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28175,9 +25685,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Fisherman Kyle #4": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28197,9 +25705,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Fisherman Kyle #4*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28219,9 +25725,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Fisherman Ralph #2": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28241,9 +25745,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Fisherman Ralph #3": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28263,9 +25765,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Fisherman Scott*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28285,9 +25785,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Fisherman Tully #4": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28307,9 +25805,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Fisherman Tully #4*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28329,9 +25825,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Fisherman Wilton #2*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28351,9 +25845,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Fisherman Wilton #3": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28373,9 +25865,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Fisherman Wilton #3*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28395,9 +25885,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Fisherman Wilton #4": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28417,9 +25905,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Fisherman Wilton #4*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28439,9 +25925,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Fisherman Wilton #4**": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28461,9 +25945,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Fisherman Wilton*": {
-            "ability": [
-                "Swift Swim"
-            ],
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28483,9 +25965,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Picnicker Debra": {
-            "ability": [
-                "Water Veil"
-            ],
+            "ability": "Water Veil",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28504,10 +25984,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Swimmer\u2640 Briana": {
-            "ability": [
-                "Water Veil"
-            ],
+        "Swimmer♀ Briana": {
+            "ability": "Water Veil",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28526,10 +26004,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Swimmer\u2640 Briana*": {
-            "ability": [
-                "Water Veil"
-            ],
+        "Swimmer♀ Briana*": {
+            "ability": "Water Veil",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28548,10 +26024,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Swimmer\u2640 Kaylee*": {
-            "ability": [
-                "Water Veil"
-            ],
+        "Swimmer♀ Kaylee*": {
+            "ability": "Water Veil",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28570,10 +26044,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Swimmer\u2642 Duane": {
-            "ability": [
-                "Swift Swim"
-            ],
+        "Swimmer♂ Duane": {
+            "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28595,9 +26067,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Seedot": {
         "Young Couple Moe & Lulu": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28619,9 +26089,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Seel": {
         "Beauty Caroline": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28641,9 +26109,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Boarder Deandre": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -28663,9 +26129,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Boarder Deandre*": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -28685,9 +26149,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Boarder Gerardo": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -28707,9 +26169,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Leader Pryce": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -28728,10 +26188,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Swimmer\u2640 Denise": {
-            "ability": [
-                "Thick Fat"
-            ],
+        "Swimmer♀ Denise": {
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28750,10 +26208,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Swimmer\u2640 Nikki": {
-            "ability": [
-                "Thick Fat"
-            ],
+        "Swimmer♀ Nikki": {
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28775,9 +26231,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sentret": {
         "Beauty Victoria": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -28797,9 +26251,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Beauty Victoria*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -28819,9 +26271,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Beauty Victoria**": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -28840,10 +26290,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Pok\u00e9fan Georgia": {
-            "ability": [
-                "Keen Eye"
-            ],
+        "Pokéfan Georgia": {
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28862,10 +26310,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Pok\u00e9fan Georgia*": {
-            "ability": [
-                "Keen Eye"
-            ],
+        "Pokéfan Georgia*": {
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28884,10 +26330,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Pok\u00e9fan Georgia**": {
-            "ability": [
-                "Keen Eye"
-            ],
+        "Pokéfan Georgia**": {
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28906,10 +26350,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Pok\u00e9fan Georgia***": {
-            "ability": [
-                "Keen Eye"
-            ],
+        "Pokéfan Georgia***": {
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -28931,9 +26373,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Seviper": {
         "Biker Teddy": {
-            "ability": [
-                "Shed Skin"
-            ],
+            "ability": "Shed Skin",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -28955,9 +26395,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Shedinja": {
         "Leader Bugsy #2": {
-            "ability": [
-                "Wonder Guard"
-            ],
+            "ability": "Wonder Guard",
             "gender": "N",
             "ivs": {
                 "at": "24",
@@ -28979,9 +26417,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Shellder": {
         "Ace Trainer Kate": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "F",
             "ivs": {
                 "at": "6",
@@ -29001,9 +26437,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Boarder Gerardo": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -29023,9 +26457,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Fisherman Arnold": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29045,9 +26477,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Jonah": {
-            "ability": [
-                "Shell Armor"
-            ],
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29066,10 +26496,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Swimmer\u2640 Paula": {
-            "ability": [
-                "Skill Link"
-            ],
+        "Swimmer♀ Paula": {
+            "ability": "Skill Link",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29088,10 +26516,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Docile"
         },
-        "Swimmer\u2642 Charlie": {
-            "ability": [
-                "Skill Link"
-            ],
+        "Swimmer♂ Charlie": {
+            "ability": "Skill Link",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29110,10 +26536,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Swimmer\u2642 Randall": {
-            "ability": [
-                "Shell Armor"
-            ],
+        "Swimmer♂ Randall": {
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29132,10 +26556,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Swimmer\u2642 Randall*": {
-            "ability": [
-                "Skill Link"
-            ],
+        "Swimmer♂ Randall*": {
+            "ability": "Skill Link",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29154,10 +26576,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Swimmer\u2642 Tucker": {
-            "ability": [
-                "Shell Armor"
-            ],
+        "Swimmer♂ Tucker": {
+            "ability": "Shell Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29179,9 +26599,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Shiftry": {
         "Leader Erika #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -29203,9 +26621,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Shinx": {
         "Picnicker Cheyenne": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29227,9 +26643,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Shroomish": {
         "Picnicker Adrian": {
-            "ability": [
-                "Effect Spore"
-            ],
+            "ability": "Effect Spore",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29250,10 +26664,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Shuckle": {
-        "Buck": {
-            "ability": [
-                "Sturdy"
-            ],
+        "Pokémon Trainer Buck": {
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -29275,9 +26687,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Skarmory": {
         "Bird Keeper Josh #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -29297,9 +26707,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Bird Keeper Josh #3": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -29319,9 +26727,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Bird Keeper Josh #4": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -29341,9 +26747,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Leader Jasmine #2": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -29365,9 +26769,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Skiploom": {
         "Beauty Valerie": {
-            "ability": [
-                "Leaf Guard"
-            ],
+            "ability": "Leaf Guard",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29387,9 +26789,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Camper Grant": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29409,9 +26809,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Camper Tanner #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29431,9 +26829,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Lass Michelle": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29453,9 +26849,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Picnicker Gina #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29475,9 +26869,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Picnicker Gina #3*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29497,9 +26889,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Picnicker Gina #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29519,9 +26909,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Picnicker Heidi": {
-            "ability": [
-                "Leaf Guard"
-            ],
+            "ability": "Leaf Guard",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29541,9 +26929,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Picnicker Heidi*": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29565,9 +26951,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Skorupi": {
         "Biker Markey": {
-            "ability": [
-                "Sniper"
-            ],
+            "ability": "Sniper",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29589,9 +26973,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Skuntank": {
         "Elite Four Koga #2": {
-            "ability": [
-                "Aftermath"
-            ],
+            "ability": "Aftermath",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -29613,9 +26995,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Slakoth": {
         "Camper Virgil": {
-            "ability": [
-                "Truant"
-            ],
+            "ability": "Truant",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29637,9 +27017,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Slowbro": {
         "Elite Four Will": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -29659,9 +27037,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Elite Four Will #2": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -29681,9 +27057,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Medium Darcy": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29702,10 +27076,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Pok\u00e9 Maniac Beckett": {
-            "ability": [
-                "Oblivious"
-            ],
+        "Poké Maniac Beckett": {
+            "ability": "Oblivious",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29727,9 +27099,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Slowking": {
         "Ace Trainer Salma": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "F",
             "item": "Oran Berry",
             "ivs": {
@@ -29749,10 +27119,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Pok\u00e9fan Alex": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Pokéfan Alex": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29771,10 +27139,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Swimmer\u2640 Kendra": {
-            "ability": [
-                "Oblivious"
-            ],
+        "Swimmer♀ Kendra": {
+            "ability": "Oblivious",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29796,9 +27162,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Slowpoke": {
         "Medium Darcy": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -29817,10 +27181,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Pok\u00e9 Maniac Donald": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Poké Maniac Donald": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29839,10 +27201,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Pok\u00e9 Maniac Donald*": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Poké Maniac Donald*": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29861,10 +27221,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Pok\u00e9 Maniac Larry": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Poké Maniac Larry": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29884,9 +27242,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Psychic Nelson": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29905,9 +27261,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Psychic Nelson*": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29927,9 +27281,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Super Nerd Markus": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29951,9 +27303,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Slugma": {
         "Camper Todd #3": {
-            "ability": [
-                "Magma Armor"
-            ],
+            "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -29975,9 +27325,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sneasel": {
         "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -29997,9 +27345,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Rival Silver @ Goldenrod Tunnel (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -30019,9 +27365,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Rival Silver @ Goldenrod Tunnel (Quilava)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "14",
@@ -30041,9 +27385,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Rival Silver @ Indigo Plateau (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -30063,9 +27405,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Rival Silver @ Indigo Plateau (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -30085,9 +27425,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Rival Silver @ Indigo Plateau (Typhlosion)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -30107,9 +27445,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Rival Silver @ Mt. Moon (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -30129,9 +27465,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Rival Silver @ Mt. Moon (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -30151,9 +27485,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Rival Silver @ Mt. Moon (Typhlosion)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -30173,9 +27505,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Rival Silver @ Victory Road (Feraligatr)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -30195,9 +27525,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Rival Silver @ Victory Road (Meganium)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -30217,9 +27545,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Rival Silver @ Victory Road (Typhlosion)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -30240,10 +27566,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Snorlax": {
-        "Pok\u00e9mon Trainer Red": {
-            "ability": [
-                "Thick Fat"
-            ],
+        "Pokémon Trainer Red": {
+            "ability": "Thick Fat",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -30265,9 +27589,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Snubbull": {
         "Lass Carrie": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -30286,10 +27608,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Pok\u00e9fan Beverly": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Pokéfan Beverly": {
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -30308,10 +27628,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Pok\u00e9fan Beverly #2": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Pokéfan Beverly #2": {
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -30330,10 +27648,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Pok\u00e9fan Brandon": {
-            "ability": [
-                "Intimidate"
-            ],
+        "Pokéfan Brandon": {
+            "ability": "Intimidate",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -30355,9 +27671,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Spearow": {
         "Bird Keeper Abe": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -30377,9 +27691,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bird Keeper Denis": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -30399,9 +27711,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Bird Keeper Denis*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -30421,9 +27731,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Bird Keeper Gail": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -30443,9 +27751,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Bird Keeper Peter*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -30464,9 +27770,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Youngster Samuel": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -30485,9 +27789,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Serious"
         },
         "Youngster Samuel*": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -30508,9 +27810,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Spinarak": {
         "Twins Amy & Mimi": {
-            "ability": [
-                "Insomnia"
-            ],
+            "ability": "Insomnia",
             "gender": "F",
             "ivs": {
                 "at": "1",
@@ -30532,9 +27832,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Spinda": {
         "Ace Trainer Bonita": {
-            "ability": [
-                "Own Tempo"
-            ],
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -30553,10 +27851,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Pok\u00e9fan Boone": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Pokéfan Boone": {
+            "ability": "Own Tempo",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -30575,10 +27871,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Pok\u00e9fan Eleanor": {
-            "ability": [
-                "Own Tempo"
-            ],
+        "Pokéfan Eleanor": {
+            "ability": "Own Tempo",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -30600,9 +27894,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Spiritomb": {
         "Elite Four Karen #2": {
-            "ability": [
-                "Pressure"
-            ],
+            "ability": "Pressure",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -30624,9 +27916,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Spoink": {
         "Picnicker Piper #2": {
-            "ability": [
-                "Thick Fat"
-            ],
+            "ability": "Thick Fat",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -30648,9 +27938,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Squirtle": {
         "Ace Trainer Nick": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -30669,10 +27957,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Pok\u00e9fan Carter": {
-            "ability": [
-                "Torrent"
-            ],
+        "Pokéfan Carter": {
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -30694,9 +27980,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Stantler": {
         "Ace Trainer Arabella": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -30718,9 +28002,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Staraptor": {
         "Leader Falkner #2": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -30742,9 +28024,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Starly": {
         "Bird Keeper Ernie": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -30766,9 +28046,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Starmie": {
         "Ace Trainer Carol": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -30788,9 +28066,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Ace Trainer Jenn": {
-            "ability": [
-                "Illuminate"
-            ],
+            "ability": "Illuminate",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -30810,9 +28086,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Ace Trainer Quinn": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -30832,9 +28106,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Ace Trainer Reena #3": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -30854,9 +28126,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Ace Trainer Reena #4": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -30876,9 +28146,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Leader Misty": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "N",
             "item": "Sitrus Berry",
             "ivs": {
@@ -30899,9 +28167,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Leader Misty #2": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "N",
             "item": "Colbur Berry",
             "ivs": {
@@ -30922,9 +28188,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Psychic Eli": {
-            "ability": [
-                "Illuminate"
-            ],
+            "ability": "Illuminate",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -30943,10 +28207,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Swimmer\u2640 Kara": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♀ Kara": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -30965,10 +28227,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Swimmer\u2640 Lori": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♀ Lori": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -30987,10 +28247,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Swimmer\u2640 Lori*": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♀ Lori*": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -31009,10 +28267,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Swimmer\u2640 Lori**": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♀ Lori**": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -31034,9 +28290,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Staryu": {
         "Ace Trainer Jenn": {
-            "ability": [
-                "Illuminate"
-            ],
+            "ability": "Illuminate",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -31056,9 +28310,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Ace Trainer Reena": {
-            "ability": [
-                "Illuminate"
-            ],
+            "ability": "Illuminate",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -31078,9 +28330,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Ace Trainer Reena #2": {
-            "ability": [
-                "Natural Cure"
-            ],
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "6",
@@ -31099,10 +28349,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Swimmer\u2640 Elaine": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♀ Elaine": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -31121,10 +28369,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Swimmer\u2640 Kara": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♀ Kara": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -31143,10 +28389,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Swimmer\u2640 Paula": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♀ Paula": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -31165,10 +28409,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Swimmer\u2642 George**": {
-            "ability": [
-                "Natural Cure"
-            ],
+        "Swimmer♂ George**": {
+            "ability": "Natural Cure",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -31190,9 +28432,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Steelix": {
         "Hiker Dwight": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31212,9 +28452,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Hiker Kenny #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31234,9 +28472,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Hiker Parry #3": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31256,9 +28492,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Hiker Parry #4": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31278,9 +28512,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Leader Jasmine #2": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -31300,9 +28532,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Leader Jasmine*": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -31325,9 +28555,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sudowoodo": {
         "Ace Trainer Bonita": {
-            "ability": [
-                "Rock Head"
-            ],
+            "ability": "Rock Head",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -31347,9 +28575,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Camper Tanner": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31369,9 +28595,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Camper Tanner #2": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31391,9 +28615,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Camper Tanner #3": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31413,9 +28635,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Camper Tanner #4": {
-            "ability": [
-                "Sturdy"
-            ],
+            "ability": "Sturdy",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31437,9 +28657,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sunflora": {
         "Picnicker Erin #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -31459,9 +28677,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Picnicker Erin #4": {
-            "ability": [
-                "Solar Power"
-            ],
+            "ability": "Solar Power",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -31481,9 +28697,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Teacher Hillary #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -31503,9 +28717,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Teacher Hillary #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -31525,9 +28737,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Teacher Hillary #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -31547,9 +28757,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Young Couple Vic & Tara": {
-            "ability": [
-                "Solar Power"
-            ],
+            "ability": "Solar Power",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31571,9 +28779,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Sunkern": {
         "Teacher Hillary": {
-            "ability": [
-                "Solar Power"
-            ],
+            "ability": "Solar Power",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -31595,9 +28801,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Swalot": {
         "Elite Four Koga #2": {
-            "ability": [
-                "Sticky Hold"
-            ],
+            "ability": "Sticky Hold",
             "gender": "M",
             "item": "Leftovers",
             "ivs": {
@@ -31620,9 +28824,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Swellow": {
         "Leader Falkner #2": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "item": "Flame Orb",
             "ivs": {
@@ -31645,9 +28847,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Swinub": {
         "Boarder Patton": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -31667,9 +28867,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Boarder Patton*": {
-            "ability": [
-                "Oblivious"
-            ],
+            "ability": "Oblivious",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -31691,9 +28889,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Taillow": {
         "Bird Keeper Bret": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -31715,9 +28911,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Tangela": {
         "Ace Trainer Shaye": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -31737,9 +28931,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Leader Erika": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -31759,9 +28951,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "School Kid Alan": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31781,9 +28971,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "School Kid Alan #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31803,9 +28991,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "School Kid Joe": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -31828,9 +29014,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Tangrowth": {
         "Leader Erika #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -31850,9 +29034,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "School Kid Alan #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31872,9 +29054,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "School Kid Alan #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31896,9 +29076,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Tauros": {
         "Ace Trainer Arabella": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "7",
@@ -31918,9 +29096,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Ace Trainer Shaye": {
-            "ability": [
-                "Anger Point"
-            ],
+            "ability": "Anger Point",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -31940,9 +29116,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Camper Bertrand": {
-            "ability": [
-                "Intimidate"
-            ],
+            "ability": "Intimidate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31964,9 +29138,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Teddiursa": {
         "Biker Ernest": {
-            "ability": [
-                "Quick Feet"
-            ],
+            "ability": "Quick Feet",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -31986,9 +29158,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Biker Ernest #2": {
-            "ability": [
-                "Pickup"
-            ],
+            "ability": "Pickup",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32008,9 +29178,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Biker Ernest #3": {
-            "ability": [
-                "Pickup"
-            ],
+            "ability": "Pickup",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32029,10 +29197,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Pok\u00e9fan Andy": {
-            "ability": [
-                "Quick Feet"
-            ],
+        "Pokéfan Andy": {
+            "ability": "Quick Feet",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32051,10 +29217,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Pok\u00e9fan Derek #2": {
-            "ability": [
-                "Pickup"
-            ],
+        "Pokéfan Derek #2": {
+            "ability": "Pickup",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32073,10 +29237,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Pok\u00e9fan Derek #3": {
-            "ability": [
-                "Pickup"
-            ],
+        "Pokéfan Derek #3": {
+            "ability": "Pickup",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32095,10 +29257,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Pok\u00e9fan Derek #3*": {
-            "ability": [
-                "Pickup"
-            ],
+        "Pokéfan Derek #3*": {
+            "ability": "Pickup",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32117,10 +29277,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Pok\u00e9fan Derek #4": {
-            "ability": [
-                "Pickup"
-            ],
+        "Pokéfan Derek #4": {
+            "ability": "Pickup",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32140,9 +29298,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Twins Meg & Peg": {
-            "ability": [
-                "Quick Feet"
-            ],
+            "ability": "Quick Feet",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -32163,10 +29319,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Tentacool": {
-        "Swimmer\u2642 Charlie": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ Charlie": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32185,10 +29339,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Swimmer\u2642 George": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ George": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32207,10 +29359,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Swimmer\u2642 George*": {
-            "ability": [
-                "Liquid Ooze"
-            ],
+        "Swimmer♂ George*": {
+            "ability": "Liquid Ooze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32229,10 +29379,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Swimmer\u2642 George**": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ George**": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32251,10 +29399,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Swimmer\u2642 George***": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ George***": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32273,10 +29419,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Swimmer\u2642 Jerome": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ Jerome": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32295,10 +29439,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Swimmer\u2642 Simon": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ Simon": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32317,10 +29459,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Swimmer\u2642 Simon*": {
-            "ability": [
-                "Liquid Ooze"
-            ],
+        "Swimmer♂ Simon*": {
+            "ability": "Liquid Ooze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32342,9 +29482,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Tentacruel": {
         "Biker Aiden": {
-            "ability": [
-                "Liquid Ooze"
-            ],
+            "ability": "Liquid Ooze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32364,9 +29502,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Biker Aiden #2": {
-            "ability": [
-                "Clear Body"
-            ],
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32386,9 +29522,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Biker Aiden #3": {
-            "ability": [
-                "Clear Body"
-            ],
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32408,9 +29542,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Biker Aiden #4": {
-            "ability": [
-                "Clear Body"
-            ],
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32430,9 +29562,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Biker Aiden #4*": {
-            "ability": [
-                "Clear Body"
-            ],
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32452,9 +29582,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Biker Jacob": {
-            "ability": [
-                "Liquid Ooze"
-            ],
+            "ability": "Liquid Ooze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32474,9 +29602,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Fisherman Stephen": {
-            "ability": [
-                "Clear Body"
-            ],
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32495,10 +29621,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Swimmer\u2642 Charlie": {
-            "ability": [
-                "Liquid Ooze"
-            ],
+        "Swimmer♂ Charlie": {
+            "ability": "Liquid Ooze",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32517,10 +29641,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Swimmer\u2642 Elmo": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ Elmo": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32539,10 +29661,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Swimmer\u2642 Jerome": {
-            "ability": [
-                "Clear Body"
-            ],
+        "Swimmer♂ Jerome": {
+            "ability": "Clear Body",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32563,10 +29683,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Togekiss": {
-        "Mira": {
-            "ability": [
-                "Hustle"
-            ],
+        "Pokémon Trainer Mira": {
+            "ability": "Hustle",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -32587,32 +29705,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Torkoal": {
-        "Buck": {
-            "ability": [
-                "White Smoke"
-            ],
-            "gender": "M",
-            "ivs": {
-                "at": "24",
-                "df": "24",
-                "hp": "24",
-                "sa": "24",
-                "sd": "24",
-                "sp": "24"
-            },
-            "level": 61,
-            "moves": [
-                "Earthquake",
-                "Will-O-Wisp",
-                "Eruption",
-                "Protect"
-            ],
-            "nature": "Impish"
-        },
         "Leader Blaine #2": {
-            "ability": [
-                "White Smoke"
-            ],
+            "ability": "White Smoke",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -32631,10 +29725,28 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Super Nerd Cary": {
-            "ability": [
-                "White Smoke"
+        "Pokémon Trainer Buck": {
+            "ability": "White Smoke",
+            "gender": "M",
+            "ivs": {
+                "at": "24",
+                "df": "24",
+                "hp": "24",
+                "sa": "24",
+                "sd": "24",
+                "sp": "24"
+            },
+            "level": 61,
+            "moves": [
+                "Earthquake",
+                "Will-O-Wisp",
+                "Eruption",
+                "Protect"
             ],
+            "nature": "Impish"
+        },
+        "Super Nerd Cary": {
+            "ability": "White Smoke",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32656,9 +29768,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Totodile": {
         "Passerby Boy (Totodile)": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32678,9 +29788,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Toxicroak": {
         "Elite Four Koga #2": {
-            "ability": [
-                "Dry Skin"
-            ],
+            "ability": "Dry Skin",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -32700,9 +29808,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Leader Janine #2": {
-            "ability": [
-                "Dry Skin"
-            ],
+            "ability": "Dry Skin",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -32724,9 +29830,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Typhlosion": {
         "Rival Silver @ Dragon's Den (Typhlosion)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -32746,9 +29850,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Rival Silver @ Indigo Plateau (Typhlosion)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -32768,9 +29870,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Rival Silver @ Mt. Moon (Typhlosion)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -32790,9 +29890,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Rival Silver @ Victory Road (Typhlosion)": {
-            "ability": [
-                "Blaze"
-            ],
+            "ability": "Blaze",
             "gender": "M",
             "ivs": {
                 "at": "19",
@@ -32814,9 +29912,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Tyranitar": {
         "Leader Blue #2": {
-            "ability": [
-                "Sand Stream"
-            ],
+            "ability": "Sand Stream",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -32837,32 +29933,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Umbreon": {
-        "Buck": {
-            "ability": [
-                "Synchronize"
-            ],
-            "gender": "M",
-            "ivs": {
-                "at": "24",
-                "df": "24",
-                "hp": "24",
-                "sa": "24",
-                "sd": "24",
-                "sp": "24"
-            },
-            "level": 62,
-            "moves": [
-                "Dark Pulse",
-                "Psychic",
-                "Confuse Ray",
-                "Double Team"
-            ],
-            "nature": "Bashful"
-        },
         "Elite Four Karen": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -32882,9 +29954,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Elite Four Karen #2": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "item": "Sitrus Berry",
             "ivs": {
@@ -32905,9 +29975,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Kimono Girl Zuki": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -32925,13 +29993,31 @@ var CUSTOMSETDEX_HGSS = {
                 "Shadow Ball"
             ],
             "nature": "Timid"
+        },
+        "Pokémon Trainer Buck": {
+            "ability": "Synchronize",
+            "gender": "M",
+            "ivs": {
+                "at": "24",
+                "df": "24",
+                "hp": "24",
+                "sa": "24",
+                "sd": "24",
+                "sp": "24"
+            },
+            "level": 62,
+            "moves": [
+                "Dark Pulse",
+                "Psychic",
+                "Confuse Ray",
+                "Double Team"
+            ],
+            "nature": "Bashful"
         }
     },
     "Ursaring": {
         "Biker Ernest #4": {
-            "ability": [
-                "Guts"
-            ],
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32950,10 +30036,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Pok\u00e9fan Derek #4": {
-            "ability": [
-                "Guts"
-            ],
+        "Pokéfan Derek #4": {
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -32972,10 +30056,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Riley": {
-            "ability": [
-                "Guts"
-            ],
+        "Pokémon Trainer Riley": {
+            "ability": "Guts",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -32997,9 +30079,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Vaporeon": {
         "Ace Trainer Gwen": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -33019,9 +30099,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Ace Trainer Jake": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -33041,9 +30119,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Kimono Girl Kuni": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "18",
@@ -33063,9 +30139,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "School Kid Joe": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33087,9 +30161,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Venomoth": {
         "Bug Catcher Arnie #3": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33109,9 +30181,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bug Catcher Arnie #4": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33131,9 +30201,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Elite Four Koga": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -33153,9 +30221,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Elite Four Koga #2": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -33175,9 +30241,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Leader Janine #2": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -33198,9 +30262,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Leader Janine*": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -33223,9 +30285,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Venonat": {
         "Bug Catcher Arnie": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33245,9 +30305,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Bug Catcher Arnie #2": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33267,9 +30325,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Team Rocket Grunt 2 @ Team Rocket HQ": {
-            "ability": [
-                "Compound Eyes"
-            ],
+            "ability": "Compound Eyes",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -33289,9 +30345,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Team Rocket Grunt 2 @ Team Rocket HQ*": {
-            "ability": [
-                "Tinted Lens"
-            ],
+            "ability": "Tinted Lens",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -33313,9 +30367,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Venusaur": {
         "Ace Trainer Megan": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -33335,9 +30387,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Lass Linda": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33357,9 +30407,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Picnicker Gina #4": {
-            "ability": [
-                "Overgrow"
-            ],
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33378,10 +30426,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Pok\u00e9mon Trainer Red": {
-            "ability": [
-                "Overgrow"
-            ],
+        "Pokémon Trainer Red": {
+            "ability": "Overgrow",
             "gender": "M",
             "ivs": {
                 "at": "30",
@@ -33403,9 +30449,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Vespiquen": {
         "Leader Bugsy #2": {
-            "ability": [
-                "Pressure"
-            ],
+            "ability": "Pressure",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -33428,9 +30472,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Victreebel": {
         "Ace Trainer Gaven": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -33450,9 +30492,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Ace Trainer Gaven #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -33472,9 +30512,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Ace Trainer Gaven #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -33494,9 +30532,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Ace Trainer Gaven #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -33516,9 +30552,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Leader Erika": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -33538,9 +30572,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Leader Erika #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "item": "Kelpsy Berry",
             "ivs": {
@@ -33561,9 +30593,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Picnicker Liz #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33583,9 +30613,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "School Kid Johnny": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33605,9 +30633,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Twins Jo & Zoe": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33627,9 +30653,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Twins Jo & Zoe #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33651,9 +30675,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Vileplume": {
         "Beauty Cassie": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33673,9 +30695,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Elite Four Karen": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -33695,9 +30715,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Executive Ariana @ Goldenrod Radio Tower": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "12",
@@ -33717,9 +30735,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Lass Alice": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33739,9 +30755,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Lass Krise #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33761,9 +30775,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "School Kid Jack #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33783,9 +30795,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "School Kid Jack #4": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33805,9 +30815,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Twins Jo & Zoe": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33827,9 +30835,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lonely"
         },
         "Twins Jo & Zoe #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -33850,10 +30856,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Volbeat": {
-        "Pok\u00e9fan Boone": {
-            "ability": [
-                "Swarm"
-            ],
+        "Pokéfan Boone": {
+            "ability": "Swarm",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -33875,9 +30879,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Voltorb": {
         "Guitarist Vincent": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -33897,9 +30899,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Juggler Irwin": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -33916,9 +30916,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Juggler Irwin #2": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -33938,9 +30936,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Juggler Irwin #2*": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -33960,9 +30956,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Juggler Irwin #2**": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -33982,9 +30976,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Juggler Irwin #2***": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34004,9 +30996,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Juggler Irwin #3": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34026,9 +31016,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Juggler Irwin #3*": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34048,9 +31036,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Juggler Irwin #3**": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34070,9 +31056,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Juggler Irwin #4": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34092,9 +31076,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Juggler Irwin #4*": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34114,9 +31096,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Juggler Irwin*": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34134,9 +31114,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "Juggler Irwin**": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34155,9 +31133,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Modest"
         },
         "Juggler Irwin***": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34177,9 +31153,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "School Kid Jack": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34199,9 +31173,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "School Kid Jack #2": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34221,9 +31193,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "School Kid Kipp": {
-            "ability": [
-                "Static"
-            ],
+            "ability": "Static",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34243,9 +31213,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "School Kid Kipp*": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34265,9 +31233,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Super Nerd Teru": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "N",
             "ivs": {
                 "at": "0",
@@ -34288,9 +31254,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Vulpix": {
         "Firebreather Ray": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -34309,9 +31273,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Picnicker Kim": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -34331,9 +31293,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Rash"
         },
         "School Kid Torin #2": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -34353,9 +31313,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "School Kid Torin #3": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -34375,9 +31333,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "School Kid Torin #4": {
-            "ability": [
-                "Flash Fire"
-            ],
+            "ability": "Flash Fire",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -34398,10 +31354,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Wailord": {
-        "Cheryl": {
-            "ability": [
-                "Water Veil"
-            ],
+        "Pokémon Trainer Cheryl": {
+            "ability": "Water Veil",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -34423,9 +31377,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Walrein": {
         "Leader Pryce #2": {
-            "ability": [
-                "Ice Body"
-            ],
+            "ability": "Ice Body",
             "gender": "M",
             "ivs": {
                 "at": "24",
@@ -34447,9 +31399,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Wartortle": {
         "Ace Trainer Alton": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -34469,9 +31419,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Ace Trainer Kelly": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -34491,9 +31439,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Ace Trainer Kelly*": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -34513,9 +31459,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Ace Trainer Kevin": {
-            "ability": [
-                "Torrent"
-            ],
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -34534,10 +31478,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Swimmer\u2642 Randall": {
-            "ability": [
-                "Torrent"
-            ],
+        "Swimmer♂ Randall": {
+            "ability": "Torrent",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34559,9 +31501,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Weavile": {
         "Elite Four Karen #2": {
-            "ability": [
-                "Pressure"
-            ],
+            "ability": "Pressure",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -34580,10 +31520,8 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Marley": {
-            "ability": [
-                "Pressure"
-            ],
+        "Pokémon Trainer Marley": {
+            "ability": "Pressure",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -34605,9 +31543,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Weedle": {
         "Bug Catcher Al": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -34625,9 +31561,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Bug Catcher Benny": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "1",
@@ -34645,9 +31579,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Bug Catcher Ellis": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34666,9 +31598,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Bug Catcher Wade*": {
-            "ability": [
-                "Shield Dust"
-            ],
+            "ability": "Shield Dust",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34688,9 +31618,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Weepinbell": {
         "Picnicker Liz #2": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -34710,9 +31638,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Picnicker Liz #3": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -34732,9 +31658,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "School Kid Johnny": {
-            "ability": [
-                "Chlorophyll"
-            ],
+            "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34756,9 +31680,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Weezing": {
         "Biker Charles": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34778,9 +31700,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Biker Dan": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34800,9 +31720,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Biker Dan*": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34822,9 +31740,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Biker Glenn": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34844,9 +31760,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Biker Reese": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34866,9 +31780,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bold"
         },
         "Biker Reese #2": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34888,9 +31800,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Biker Reese #3": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34910,9 +31820,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "Biker Reese #4": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34932,9 +31840,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Executive Petrel @ Goldenrod Radio Tower**": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -34954,9 +31860,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Executive Proton @ Goldenrod Radio Tower": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -34976,9 +31880,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naughty"
         },
         "Firebreather Burt": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -34998,9 +31900,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Calm"
         },
         "Firebreather Otis": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35020,9 +31920,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Leader Janine": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -35042,9 +31940,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Leader Janine #2": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -35064,9 +31960,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quiet"
         },
         "Team Rocket Grunt 6 @ Goldenrod Tunnel": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35086,9 +31980,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Team Rocket Grunt 7 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Levitate"
-            ],
+            "ability": "Levitate",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35110,9 +32002,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Whismur": {
         "Picnicker Ginger": {
-            "ability": [
-                "Soundproof"
-            ],
+            "ability": "Soundproof",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -35134,9 +32024,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Wigglytuff": {
         "Beauty Callie": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -35156,9 +32044,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Beauty Kassandra": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -35178,9 +32064,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Lass Ellen": {
-            "ability": [
-                "Cute Charm"
-            ],
+            "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
                 "at": "0",
@@ -35202,9 +32086,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Wingull": {
         "Bird Keeper Bert": {
-            "ability": [
-                "Keen Eye"
-            ],
+            "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -35225,32 +32107,8 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Wobbuffet": {
-        "Cheryl": {
-            "ability": [
-                "Shadow Tag"
-            ],
-            "gender": "F",
-            "ivs": {
-                "at": "24",
-                "df": "24",
-                "hp": "24",
-                "sa": "24",
-                "sd": "24",
-                "sp": "24"
-            },
-            "level": 61,
-            "moves": [
-                "Counter",
-                "Mirror Coat",
-                "Safeguard",
-                "Encore"
-            ],
-            "nature": "Hardy"
-        },
         "Leader Sabrina #2": {
-            "ability": [
-                "Shadow Tag"
-            ],
+            "ability": "Shadow Tag",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -35268,13 +32126,31 @@ var CUSTOMSETDEX_HGSS = {
                 "Encore"
             ],
             "nature": "Relaxed"
+        },
+        "Pokémon Trainer Cheryl": {
+            "ability": "Shadow Tag",
+            "gender": "F",
+            "ivs": {
+                "at": "24",
+                "df": "24",
+                "hp": "24",
+                "sa": "24",
+                "sd": "24",
+                "sp": "24"
+            },
+            "level": 61,
+            "moves": [
+                "Counter",
+                "Mirror Coat",
+                "Safeguard",
+                "Encore"
+            ],
+            "nature": "Hardy"
         }
     },
     "Wooper": {
         "Sailor Harry": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35294,9 +32170,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Bashful"
         },
         "Youngster Gordon": {
-            "ability": [
-                "Water Absorb"
-            ],
+            "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35318,9 +32192,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Xatu": {
         "Bird Keeper Justin": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "6",
@@ -35340,9 +32212,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Elite Four Will": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "F",
             "ivs": {
                 "at": "30",
@@ -35362,9 +32232,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Elite Four Will #2": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -35385,9 +32253,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hasty"
         },
         "Elite Four Will*": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -35408,9 +32274,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "Psychic Fidel": {
-            "ability": [
-                "Early Bird"
-            ],
+            "ability": "Early Bird",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35430,9 +32294,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Mild"
         },
         "School Kid Alan #3": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35452,9 +32314,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "School Kid Alan #4": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35474,9 +32334,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "School Kid Tommy": {
-            "ability": [
-                "Synchronize"
-            ],
+            "ability": "Synchronize",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35498,9 +32356,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Yanma": {
         "School Kid Alan #2": {
-            "ability": [
-                "Speed Boost"
-            ],
+            "ability": "Speed Boost",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35522,9 +32378,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Yanmega": {
         "Leader Bugsy #2": {
-            "ability": [
-                "Tinted Lens"
-            ],
+            "ability": "Tinted Lens",
             "gender": "F",
             "ivs": {
                 "at": "24",
@@ -35544,9 +32398,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Quirky"
         },
         "School Kid Alan #3": {
-            "ability": [
-                "Speed Boost"
-            ],
+            "ability": "Speed Boost",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35566,9 +32418,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "School Kid Alan #4": {
-            "ability": [
-                "Speed Boost"
-            ],
+            "ability": "Speed Boost",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35590,9 +32440,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Zigzagoon": {
         "School Kid Connor": {
-            "ability": [
-                "Gluttony"
-            ],
+            "ability": "Gluttony",
             "gender": "M",
             "item": "Chesto Berry",
             "ivs": {
@@ -35613,9 +32461,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Docile"
         },
         "Teacher Clarice": {
-            "ability": [
-                "Gluttony"
-            ],
+            "ability": "Gluttony",
             "gender": "F",
             "item": "Sitrus Berry",
             "ivs": {
@@ -35638,9 +32484,7 @@ var CUSTOMSETDEX_HGSS = {
     },
     "Zubat": {
         "Camper Ivan": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35659,9 +32503,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Sassy"
         },
         "Camper Spencer": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
@@ -35681,9 +32523,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Executive Petrel @ Team Rocket HQ": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -35703,9 +32543,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Executive Proton @ Slowpoke Well": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "12",
@@ -35723,9 +32561,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Impish"
         },
         "Rival Silver @ Azalea Town (Bayleef)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35745,9 +32581,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Brave"
         },
         "Rival Silver @ Azalea Town (Croconaw)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35767,9 +32601,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Careful"
         },
         "Rival Silver @ Azalea Town (Quilava)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35789,9 +32621,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Gentle"
         },
         "Rival Silver @ Burned Tower (Bayleef)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -35811,9 +32641,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Hardy"
         },
         "Rival Silver @ Burned Tower (Croconaw)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -35833,9 +32661,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Rival Silver @ Burned Tower (Quilava)": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "9",
@@ -35855,9 +32681,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Team Rocket Grunt 2 @ Slowpoke Well": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
                 "at": "3",
@@ -35876,9 +32700,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Jolly"
         },
         "Team Rocket Grunt 3 @ Slowpoke Well": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35897,9 +32719,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Team Rocket Grunt 3 @ Slowpoke Well*": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35918,9 +32738,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Timid"
         },
         "Team Rocket Grunt 4 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35940,9 +32758,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Team Rocket Grunt 4 @ Goldenrod Radio Tower*": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35962,9 +32778,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Team Rocket Grunt 4 @ Team Rocket HQ": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -35984,9 +32798,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Team Rocket Grunt 6 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -36006,9 +32818,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Adamant"
         },
         "Team Rocket Grunt 8 @ Goldenrod Radio Tower": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -36028,9 +32838,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Naive"
         },
         "Team Rocket Grunt S1 @ Team Rocket HQ": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -36050,9 +32858,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Lax"
         },
         "Team Rocket Grunt S2 @ Team Rocket HQ": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "3",
@@ -36072,9 +32878,7 @@ var CUSTOMSETDEX_HGSS = {
             "nature": "Relaxed"
         },
         "Youngster Albert": {
-            "ability": [
-                "Inner Focus"
-            ],
+            "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
                 "at": "0",
