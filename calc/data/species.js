@@ -8887,7 +8887,7 @@ var PLA_PATCH = {
     },
     Kleavor: {
         types: ['Bug', 'Rock'],
-        bs: { hp: 70, at: 130, df: 95, sa: 45, sd: 75, sp: 85 },
+        bs: { hp: 70, at: 135, df: 95, sa: 45, sd: 70, sp: 85 },
         weightkg: 89,
         abilities: { 0: 'Swarm' }
     },
@@ -9297,6 +9297,12 @@ var SV_PATCH = {
         weightkg: 35,
         abilities: { 0: 'Pickup' },
         nfe: true
+    },
+    Hemogoblin: {
+        types: ['Fairy', 'Fire'],
+        bs: { hp: 90, at: 99, df: 89, sa: 99, sd: 97, sp: 55 },
+        weightkg: 85,
+        abilities: { 0: 'Pixilate' }
     },
     Houndstone: {
         types: ['Ghost'],
