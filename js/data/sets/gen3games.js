@@ -3837,7 +3837,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Combusken": {
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3857,7 +3857,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Combusken team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Combusken)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3877,7 +3877,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Combusken team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Combusken)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3897,7 +3897,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quirky"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer May @ Lilycove City (Combusken)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3917,7 +3917,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer May @ Route 110 (Combusken team)": {
+        "Pokémon Trainer May @ Route 110 (Combusken)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3937,7 +3937,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer May @ Route 119 (Combusken team)": {
+        "Pokémon Trainer May @ Route 119 (Combusken)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -7716,7 +7716,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Grovyle": {
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7736,7 +7736,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Grovyle)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7756,7 +7756,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Grovyle)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7776,7 +7776,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7796,7 +7796,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Careful"
         },
-        "Pokémon Trainer May @ Route 110 (Grovyle team)": {
+        "Pokémon Trainer May @ Route 110 (Grovyle)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7816,7 +7816,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer May @ Route 119 (Grovyle team)": {
+        "Pokémon Trainer May @ Route 119 (Grovyle)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -12144,7 +12144,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quirky"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Combusken team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Combusken)": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12164,7 +12164,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Marshtomp)": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12184,7 +12184,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Combusken team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Combusken)": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12204,7 +12204,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Marshtomp)": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12224,7 +12224,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Pokémon Trainer May @ Route 110 (Combusken team)": {
+        "Pokémon Trainer May @ Route 110 (Combusken)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12244,7 +12244,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer May @ Route 110 (Marshtomp team)": {
+        "Pokémon Trainer May @ Route 110 (Marshtomp)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12264,7 +12264,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Jolly"
         },
-        "Pokémon Trainer May @ Route 119 (Combusken team)": {
+        "Pokémon Trainer May @ Route 119 (Combusken)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12284,7 +12284,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 119 (Grovyle team)": {
+        "Pokémon Trainer May @ Route 119 (Grovyle)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12304,7 +12304,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naughty"
         },
-        "Pokémon Trainer May @ Route 119 (Marshtomp team)": {
+        "Pokémon Trainer May @ Route 119 (Marshtomp)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12423,7 +12423,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Docile"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Torchic team)": {
+        "Pokémon Trainer Brendan @ Rustboro City (Torchic)": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12443,7 +12443,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Jolly"
         },
-        "Pokémon Trainer May @ Rustboro City (Torchic team)": {
+        "Pokémon Trainer May @ Rustboro City (Torchic)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -13024,7 +13024,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -13044,7 +13044,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -13064,7 +13064,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer May @ Lilycove City (Combusken)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -13084,7 +13084,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -17875,7 +17875,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Marshtomp": {
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17895,7 +17895,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Marshtomp)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17915,7 +17915,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Marshtomp)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17935,7 +17935,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17955,7 +17955,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Impish"
         },
-        "Pokémon Trainer May @ Route 110 (Marshtomp team)": {
+        "Pokémon Trainer May @ Route 110 (Marshtomp)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17975,7 +17975,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Route 119 (Marshtomp team)": {
+        "Pokémon Trainer May @ Route 119 (Marshtomp)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19857,7 +19857,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Mudkip": {
-        "Pokémon Trainer Brendan @ Route 103 (Mudkip team)": {
+        "Pokémon Trainer Brendan @ Route 103 (Mudkip)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19875,7 +19875,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Mudkip team)": {
+        "Pokémon Trainer Brendan @ Rustboro City (Mudkip)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19895,7 +19895,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 103 (Mudkip team)": {
+        "Pokémon Trainer May @ Route 103 (Mudkip)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19913,7 +19913,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Pokémon Trainer May @ Rustboro City (Mudkip team)": {
+        "Pokémon Trainer May @ Rustboro City (Mudkip)": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -22272,7 +22272,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22292,7 +22292,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22312,7 +22312,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Combusken team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Combusken)": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22332,7 +22332,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Docile"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Grovyle)": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22352,7 +22352,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer May @ Lilycove City (Combusken)": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -22372,7 +22372,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -22392,7 +22392,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 119 (Combusken team)": {
+        "Pokémon Trainer May @ Route 119 (Combusken)": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -28285,7 +28285,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28305,7 +28305,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Timid"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28325,7 +28325,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Rash"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Grovyle)": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28345,7 +28345,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Marshtomp)": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28365,7 +28365,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Grovyle)": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28385,7 +28385,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Route 119 (Marshtomp)": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28405,7 +28405,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Mudkip team)": {
+        "Pokémon Trainer Brendan @ Rustboro City (Mudkip)": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28424,7 +28424,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28444,7 +28444,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Jolly"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28464,7 +28464,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Rash"
         },
-        "Pokémon Trainer May @ Route 110 (Grovyle team)": {
+        "Pokémon Trainer May @ Route 110 (Grovyle)": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28484,7 +28484,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Route 110 (Marshtomp team)": {
+        "Pokémon Trainer May @ Route 110 (Marshtomp)": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28504,7 +28504,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naughty"
         },
-        "Pokémon Trainer May @ Route 119 (Grovyle team)": {
+        "Pokémon Trainer May @ Route 119 (Grovyle)": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28524,7 +28524,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer May @ Route 119 (Marshtomp team)": {
+        "Pokémon Trainer May @ Route 119 (Marshtomp)": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -32260,7 +32260,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Torchic": {
-        "Pokémon Trainer Brendan @ Route 103 (Torchic team)": {
+        "Pokémon Trainer Brendan @ Route 103 (Torchic)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32278,7 +32278,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Torchic team)": {
+        "Pokémon Trainer Brendan @ Rustboro City (Torchic)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32298,7 +32298,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer May @ Route 103 (Torchic team)": {
+        "Pokémon Trainer May @ Route 103 (Torchic)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32316,7 +32316,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer May @ Rustboro City (Torchic team)": {
+        "Pokémon Trainer May @ Rustboro City (Torchic)": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32463,7 +32463,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Rustboro City (Mudkip team)": {
+        "Pokémon Trainer May @ Rustboro City (Mudkip)": {
             "ability": "White Smoke",
             "gender": "F",
             "ivs": {
@@ -32525,7 +32525,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Treecko": {
-        "Pokémon Trainer Brendan @ Route 103 (Treecko team)": {
+        "Pokémon Trainer Brendan @ Route 103 (Treecko)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32543,7 +32543,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Treecko team)": {
+        "Pokémon Trainer Brendan @ Rustboro City (Treecko)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32563,7 +32563,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 103 (Treecko team)": {
+        "Pokémon Trainer May @ Route 103 (Treecko)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32581,7 +32581,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer May @ Rustboro City (Treecko team)": {
+        "Pokémon Trainer May @ Rustboro City (Treecko)": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32843,7 +32843,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Timid"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
             "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
@@ -32863,7 +32863,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
             "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
@@ -32883,7 +32883,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
             "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
@@ -32903,7 +32903,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken team)": {
+        "Pokémon Trainer May @ Lilycove City (Combusken)": {
             "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
@@ -32923,7 +32923,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Sassy"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle team)": {
+        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
             "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
@@ -32943,7 +32943,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Sassy"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp team)": {
+        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
             "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
@@ -34651,7 +34651,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Combusken team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Combusken)": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -34671,7 +34671,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Grovyle team)": {
+        "Pokémon Trainer Brendan @ Route 110 (Grovyle)": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -34691,7 +34691,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Modest"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Treecko team)": {
+        "Pokémon Trainer Brendan @ Rustboro City (Treecko)": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -34711,7 +34711,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Pokémon Trainer May @ Route 110 (Combusken team)": {
+        "Pokémon Trainer May @ Route 110 (Combusken)": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -34731,7 +34731,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Pokémon Trainer May @ Route 110 (Grovyle team)": {
+        "Pokémon Trainer May @ Route 110 (Grovyle)": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -34751,7 +34751,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Pokémon Trainer May @ Rustboro City (Treecko team)": {
+        "Pokémon Trainer May @ Rustboro City (Treecko)": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
