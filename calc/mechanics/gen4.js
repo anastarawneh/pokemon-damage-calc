@@ -97,7 +97,7 @@ function calculateDPP(gen, attacker, defender, move, field) {
         desc.moveBP = move.bp;
         desc.moveType = move.type;
     }
-    if (attacker.hasAbility('Normalize')) {
+    if (attacker.hasAbility('Normalize') && !move.named('Struggle')) {
         move.type = 'Normal';
         desc.attackerAbility = attacker.ability;
     }

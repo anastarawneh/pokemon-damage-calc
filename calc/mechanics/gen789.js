@@ -103,7 +103,12 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         desc.moveType = type;
     }
     else if (move.named('Revelation Dance')) {
-        type = attacker.types[0];
+        if (attacker.teraType) {
+            type = attacker.teraType;
+        }
+        else {
+            type = attacker.types[0];
+        }
     }
     else if (move.named('Aura Wheel')) {
         if (attacker.named('Morpeko')) {
@@ -131,7 +136,7 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
     var isGalvanize = false;
     var isLiquidVoice = false;
     var isNormalize = false;
-    var noTypeChange = move.named('Revelation Dance', 'Judgment', 'Nature Power', 'Techno Blast', 'Multi Attack', 'Natural Gift', 'Weather Ball', 'Terrain Pulse') || (move.named('Tera Blast') && attacker.teraType);
+    var noTypeChange = move.named('Revelation Dance', 'Judgment', 'Nature Power', 'Techno Blast', 'Multi Attack', 'Natural Gift', 'Weather Ball', 'Terrain Pulse', 'Struggle') || (move.named('Tera Blast') && attacker.teraType);
     if (!move.isZ && !noTypeChange) {
         var normal = move.hasType('Normal');
         if ((isAerilate = attacker.hasAbility('Aerilate') && normal)) {

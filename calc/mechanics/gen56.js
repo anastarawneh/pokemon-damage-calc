@@ -84,7 +84,7 @@ function calculateBWXY(gen, attacker, defender, move, field) {
     var isPixilate = false;
     var isRefrigerate = false;
     var isNormalize = false;
-    var noTypeChange = move.named('Judgment', 'Nature Power', 'Techo Blast', 'Natural Gift', 'Weather Ball');
+    var noTypeChange = move.named('Judgment', 'Nature Power', 'Techo Blast', 'Natural Gift', 'Weather Ball', 'Struggle');
     if (!move.isZ && !noTypeChange) {
         var normal = move.hasType('Normal');
         if ((isAerilate = attacker.hasAbility('Aerilate') && normal)) {
