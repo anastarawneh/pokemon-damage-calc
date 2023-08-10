@@ -370,6 +370,7 @@ $(allPokemon("#clearSets")).click(function () {
 		alert("Custom Sets successfully cleared. Please refresh the page.");
 		$(allPokemon("#importedSetsOptions")).hide();
 		loadDefaultLists();
+		$('.player-pokes').html("");
 	}
 });
 
