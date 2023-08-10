@@ -1429,7 +1429,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Serious"
         },
-        "Team Magma Grunt 11 (Team Magma Hideout)": {
+        "Team Magma Grunt 11 @ Team Magma Hideout": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -1449,7 +1449,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Team Magma Grunt 16 (Team Magma Hideout)": {
+        "Team Magma Grunt 16 @ Team Magma Hideout": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -1469,7 +1469,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Team Magma Grunt 4 (Mossdeep Space Center)": {
+        "Team Magma Grunt 4 @ Mossdeep Space Center": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -1489,7 +1489,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Team Magma Grunt 4 (Team Magma Hideout)": {
+        "Team Magma Grunt 4 @ Team Magma Hideout": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -1509,7 +1509,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Team Magma Grunt 5 (Team Magma Hideout)": {
+        "Team Magma Grunt 5 @ Team Magma Hideout": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -1529,7 +1529,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Team Magma Grunt 7 (Mossdeep Space Center)": {
+        "Team Magma Grunt 7 @ Mossdeep Space Center": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -3148,7 +3148,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Team Aqua Grunt 1 (Oceanic Museum)": {
+        "Team Aqua Grunt 1 @ Oceanic Museum": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3168,7 +3168,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Team Aqua Grunt 2 (Mt. Pyre)": {
+        "Team Aqua Grunt 2 @ Mt. Pyre": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3188,7 +3188,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Team Aqua Grunt 2 (Oceanic Museum)": {
+        "Team Aqua Grunt 2 @ Oceanic Museum": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3208,7 +3208,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Team Aqua Grunt 2 (Seafloor Cavern)": {
+        "Team Aqua Grunt 2 @ Seafloor Cavern": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3228,7 +3228,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Team Aqua Grunt 2 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 2 @ Team Aqua Hideout": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3248,7 +3248,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Team Aqua Grunt 2 (Weather Institute)": {
+        "Team Aqua Grunt 2 @ Weather Institute": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3268,7 +3268,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Careful"
         },
-        "Team Aqua Grunt 3 (Mt. Pyre)": {
+        "Team Aqua Grunt 3 @ Mt. Pyre": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3288,7 +3288,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Careful"
         },
-        "Team Aqua Grunt 3 (Weather Institute)": {
+        "Team Aqua Grunt 3 @ Weather Institute": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3308,7 +3308,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Impish"
         },
-        "Team Aqua Grunt 4 (Mossdeep Weather Institute)": {
+        "Team Aqua Grunt 4 @ Weather Institute": {
             "ability": "Rough Skin",
             "gender": "F",
             "ivs": {
@@ -3328,7 +3328,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Team Aqua Grunt 4 (Seafloor Cavern)": {
+        "Team Aqua Grunt 4 @ Seafloor Cavern": {
             "ability": "Rough Skin",
             "gender": "F",
             "ivs": {
@@ -3348,7 +3348,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Team Aqua Grunt 4 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 4 @ Team Aqua Hideout": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3368,7 +3368,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Team Aqua Grunt 5 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 5 @ Team Aqua Hideout": {
             "ability": "Rough Skin",
             "gender": "F",
             "ivs": {
@@ -3388,7 +3388,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Team Aqua Grunt 8 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 8 @ Team Aqua Hideout": {
             "ability": "Rough Skin",
             "gender": "M",
             "ivs": {
@@ -3837,7 +3837,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Combusken": {
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Combusken]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3857,7 +3857,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Combusken)": {
+        "Pokémon Trainer Brendan @ Route 110 [Combusken]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3877,7 +3877,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Combusken)": {
+        "Pokémon Trainer Brendan @ Route 119 [Combusken]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3897,7 +3897,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quirky"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken)": {
+        "Pokémon Trainer May @ Lilycove City [Combusken]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3917,7 +3917,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer May @ Route 110 (Combusken)": {
+        "Pokémon Trainer May @ Route 110 [Combusken]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3937,7 +3937,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer May @ Route 119 (Combusken)": {
+        "Pokémon Trainer May @ Route 119 [Combusken]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -6906,7 +6906,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quirky"
         },
-        "Team Aqua Grunt 5 (Seafloor Cavern)": {
+        "Team Aqua Grunt 5 @ Seafloor Cavern": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -7716,7 +7716,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Grovyle": {
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Grovyle]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7736,7 +7736,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Grovyle)": {
+        "Pokémon Trainer Brendan @ Route 110 [Grovyle]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7756,7 +7756,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Grovyle)": {
+        "Pokémon Trainer Brendan @ Route 119 [Grovyle]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7776,7 +7776,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer May @ Lilycove City [Grovyle]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7796,7 +7796,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Careful"
         },
-        "Pokémon Trainer May @ Route 110 (Grovyle)": {
+        "Pokémon Trainer May @ Route 110 [Grovyle]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -7816,7 +7816,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer May @ Route 119 (Grovyle)": {
+        "Pokémon Trainer May @ Route 119 [Grovyle]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -12144,7 +12144,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quirky"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Combusken)": {
+        "Pokémon Trainer Brendan @ Route 110 [Combusken]": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12164,7 +12164,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Route 110 [Marshtomp]": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12184,7 +12184,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Combusken)": {
+        "Pokémon Trainer Brendan @ Route 119 [Combusken]": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12204,7 +12204,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Route 119 [Marshtomp]": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12224,7 +12224,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Pokémon Trainer May @ Route 110 (Combusken)": {
+        "Pokémon Trainer May @ Route 110 [Combusken]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12244,7 +12244,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer May @ Route 110 (Marshtomp)": {
+        "Pokémon Trainer May @ Route 110 [Marshtomp]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12264,7 +12264,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Jolly"
         },
-        "Pokémon Trainer May @ Route 119 (Combusken)": {
+        "Pokémon Trainer May @ Route 119 [Combusken]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12284,7 +12284,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 119 (Grovyle)": {
+        "Pokémon Trainer May @ Route 119 [Grovyle]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12304,7 +12304,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naughty"
         },
-        "Pokémon Trainer May @ Route 119 (Marshtomp)": {
+        "Pokémon Trainer May @ Route 119 [Marshtomp]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -12423,7 +12423,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Docile"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Torchic)": {
+        "Pokémon Trainer Brendan @ Rustboro City [Torchic]": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -12443,7 +12443,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Jolly"
         },
-        "Pokémon Trainer May @ Rustboro City (Torchic)": {
+        "Pokémon Trainer May @ Rustboro City [Torchic]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -13024,7 +13024,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Combusken]": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -13044,7 +13044,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Marshtomp]": {
             "ability": "Swift Swim",
             "gender": "M",
             "ivs": {
@@ -13064,7 +13064,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken)": {
+        "Pokémon Trainer May @ Lilycove City [Combusken]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -13084,7 +13084,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer May @ Lilycove City [Marshtomp]": {
             "ability": "Swift Swim",
             "gender": "F",
             "ivs": {
@@ -17875,7 +17875,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Marshtomp": {
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Marshtomp]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17895,7 +17895,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Route 110 [Marshtomp]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17915,7 +17915,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Route 119 [Marshtomp]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17935,7 +17935,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer May @ Lilycove City [Marshtomp]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17955,7 +17955,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Impish"
         },
-        "Pokémon Trainer May @ Route 110 (Marshtomp)": {
+        "Pokémon Trainer May @ Route 110 [Marshtomp]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -17975,7 +17975,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Route 119 (Marshtomp)": {
+        "Pokémon Trainer May @ Route 119 [Marshtomp]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19366,7 +19366,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Team Aqua Grunt 5 (Seafloor Cavern)": {
+        "Team Aqua Grunt 5 @ Seafloor Cavern": {
             "ability": "Intimidate",
             "gender": "M",
             "ivs": {
@@ -19386,7 +19386,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Magma Grunt 10 (Team Magma Hideout)": {
+        "Team Magma Grunt 10 @ Team Magma Hideout": {
             "ability": "Intimidate",
             "gender": "M",
             "ivs": {
@@ -19406,7 +19406,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Magma Grunt 14 (Team Magma Hideout)": {
+        "Team Magma Grunt 14 @ Team Magma Hideout": {
             "ability": "Intimidate",
             "gender": "F",
             "ivs": {
@@ -19426,7 +19426,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Team Magma Grunt 2 (Mossdeep Space Center)": {
+        "Team Magma Grunt 2 @ Mossdeep Space Center": {
             "ability": "Intimidate",
             "gender": "M",
             "ivs": {
@@ -19446,7 +19446,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Magma Grunt 2 (Mossdeep Space Center)*": {
+        "Team Magma Grunt 2 @ Mossdeep Space Center*": {
             "ability": "Intimidate",
             "gender": "M",
             "ivs": {
@@ -19466,7 +19466,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Team Magma Grunt 6 (Mossdeep Space Center)": {
+        "Team Magma Grunt 6 @ Mossdeep Space Center": {
             "ability": "Intimidate",
             "gender": "M",
             "ivs": {
@@ -19486,7 +19486,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Magma Grunt 6 (Team Magma Hideout)": {
+        "Team Magma Grunt 6 @ Team Magma Hideout": {
             "ability": "Intimidate",
             "gender": "M",
             "ivs": {
@@ -19857,7 +19857,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Mudkip": {
-        "Pokémon Trainer Brendan @ Route 103 (Mudkip)": {
+        "Pokémon Trainer Brendan @ Route 103 [Mudkip]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19875,7 +19875,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Mudkip)": {
+        "Pokémon Trainer Brendan @ Rustboro City [Mudkip]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19895,7 +19895,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 103 (Mudkip)": {
+        "Pokémon Trainer May @ Route 103 [Mudkip]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -19913,7 +19913,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Quiet"
         },
-        "Pokémon Trainer May @ Rustboro City (Mudkip)": {
+        "Pokémon Trainer May @ Rustboro City [Mudkip]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -21244,7 +21244,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Team Magma Grunt (Jagged Pass)": {
+        "Team Magma Grunt @ Jagged Pass": {
             "ability": "Oblivious",
             "gender": "M",
             "ivs": {
@@ -21264,7 +21264,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Relaxed"
         },
-        "Team Magma Grunt 1 (Mossdeep Space Center)": {
+        "Team Magma Grunt 1 @ Mossdeep Space Center": {
             "ability": "Oblivious",
             "gender": "M",
             "ivs": {
@@ -21284,7 +21284,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Team Magma Grunt 1 (Mt. Chimney)": {
+        "Team Magma Grunt 1 @ Mt. Chimney": {
             "ability": "Oblivious",
             "gender": "F",
             "ivs": {
@@ -21304,7 +21304,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hardy"
         },
-        "Team Magma Grunt 12 (Team Magma Hideout)": {
+        "Team Magma Grunt 12 @ Team Magma Hideout": {
             "ability": "Oblivious",
             "gender": "M",
             "ivs": {
@@ -21324,7 +21324,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Team Magma Grunt 15 (Team Magma Hideout)": {
+        "Team Magma Grunt 15 @ Team Magma Hideout": {
             "ability": "Oblivious",
             "gender": "F",
             "ivs": {
@@ -21344,7 +21344,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hardy"
         },
-        "Team Magma Grunt 2 (Mossdeep Space Center)": {
+        "Team Magma Grunt 2 @ Mossdeep Space Center": {
             "ability": "Oblivious",
             "gender": "M",
             "ivs": {
@@ -21364,7 +21364,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Careful"
         },
-        "Team Magma Grunt 3 (Team Magma Hideout)": {
+        "Team Magma Grunt 3 @ Team Magma Hideout": {
             "ability": "Oblivious",
             "gender": "M",
             "ivs": {
@@ -21384,7 +21384,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Team Magma Grunt 5 (Team Magma Hideout)": {
+        "Team Magma Grunt 5 @ Team Magma Hideout": {
             "ability": "Oblivious",
             "gender": "M",
             "ivs": {
@@ -22272,7 +22272,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Combusken]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22292,7 +22292,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Grovyle]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22312,7 +22312,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Combusken)": {
+        "Pokémon Trainer Brendan @ Route 119 [Combusken]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22332,7 +22332,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Docile"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Grovyle)": {
+        "Pokémon Trainer Brendan @ Route 119 [Grovyle]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -22352,7 +22352,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken)": {
+        "Pokémon Trainer May @ Lilycove City [Combusken]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -22372,7 +22372,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer May @ Lilycove City [Grovyle]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -22392,7 +22392,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 119 (Combusken)": {
+        "Pokémon Trainer May @ Route 119 [Combusken]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -23188,7 +23188,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Timid"
         },
-        "Team Aqua Grunt (Petalburg Woods)": {
+        "Team Aqua Grunt @ Petalburg Woods": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23207,7 +23207,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Aqua Grunt (Rusturf Tunnel)": {
+        "Team Aqua Grunt @ Rusturf Tunnel": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23226,7 +23226,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Aqua Grunt 1 (Seafloor Cavern)": {
+        "Team Aqua Grunt 1 @ Seafloor Cavern": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23246,7 +23246,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Aqua Grunt 1 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 1 @ Team Aqua Hideout": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23266,7 +23266,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Aqua Grunt 1 (Weather Institute)": {
+        "Team Aqua Grunt 1 @ Weather Institute": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23286,7 +23286,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Serious"
         },
-        "Team Aqua Grunt 2 (Weather Institute)": {
+        "Team Aqua Grunt 2 @ Weather Institute": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23306,7 +23306,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Aqua Grunt 3 (Mt. Pyre)": {
+        "Team Aqua Grunt 3 @ Mt. Pyre": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23326,7 +23326,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Aqua Grunt 3 (Weather Institute)": {
+        "Team Aqua Grunt 3 @ Weather Institute": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23346,7 +23346,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Aqua Grunt 5 (Weather Institute)": {
+        "Team Aqua Grunt 5 @ Weather Institute": {
             "ability": "Run Away",
             "gender": "F",
             "ivs": {
@@ -23366,7 +23366,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 7 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 7 @ Team Aqua Hideout": {
             "ability": "Run Away",
             "gender": "F",
             "ivs": {
@@ -23386,7 +23386,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Team Magma Grunt (Jagged Pass)": {
+        "Team Magma Grunt @ Jagged Pass": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23406,7 +23406,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Magma Grunt 2 (Team Magma Hideout)": {
+        "Team Magma Grunt 2 @ Team Magma Hideout": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -23426,7 +23426,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Magma Grunt 3 (Mossdeep Space Center)": {
+        "Team Magma Grunt 3 @ Mossdeep Space Center": {
             "ability": "Run Away",
             "gender": "F",
             "ivs": {
@@ -23446,7 +23446,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Magma Grunt 8 (Team Magma Hideout)": {
+        "Team Magma Grunt 8 @ Team Magma Hideout": {
             "ability": "Run Away",
             "gender": "M",
             "ivs": {
@@ -28285,7 +28285,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Grovyle]": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28305,7 +28305,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Timid"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Marshtomp]": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28325,7 +28325,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Rash"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Grovyle)": {
+        "Pokémon Trainer Brendan @ Route 110 [Grovyle]": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28345,7 +28345,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Route 110 [Marshtomp]": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28365,7 +28365,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Grovyle)": {
+        "Pokémon Trainer Brendan @ Route 119 [Grovyle]": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28385,7 +28385,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer Brendan @ Route 119 (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Route 119 [Marshtomp]": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28405,7 +28405,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Mudkip)": {
+        "Pokémon Trainer Brendan @ Rustboro City [Mudkip]": {
             "ability": "Magma Armor",
             "gender": "M",
             "ivs": {
@@ -28424,7 +28424,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer May @ Lilycove City [Grovyle]": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28444,7 +28444,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Jolly"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer May @ Lilycove City [Marshtomp]": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28464,7 +28464,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Rash"
         },
-        "Pokémon Trainer May @ Route 110 (Grovyle)": {
+        "Pokémon Trainer May @ Route 110 [Grovyle]": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28484,7 +28484,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Route 110 (Marshtomp)": {
+        "Pokémon Trainer May @ Route 110 [Marshtomp]": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28504,7 +28504,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naughty"
         },
-        "Pokémon Trainer May @ Route 119 (Grovyle)": {
+        "Pokémon Trainer May @ Route 119 [Grovyle]": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -28524,7 +28524,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Hasty"
         },
-        "Pokémon Trainer May @ Route 119 (Marshtomp)": {
+        "Pokémon Trainer May @ Route 119 [Marshtomp]": {
             "ability": "Magma Armor",
             "gender": "F",
             "ivs": {
@@ -32260,7 +32260,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Torchic": {
-        "Pokémon Trainer Brendan @ Route 103 (Torchic)": {
+        "Pokémon Trainer Brendan @ Route 103 [Torchic]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32278,7 +32278,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Naive"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Torchic)": {
+        "Pokémon Trainer Brendan @ Rustboro City [Torchic]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32298,7 +32298,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer May @ Route 103 (Torchic)": {
+        "Pokémon Trainer May @ Route 103 [Torchic]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32316,7 +32316,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer May @ Rustboro City (Torchic)": {
+        "Pokémon Trainer May @ Rustboro City [Torchic]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32463,7 +32463,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bashful"
         },
-        "Pokémon Trainer May @ Rustboro City (Mudkip)": {
+        "Pokémon Trainer May @ Rustboro City [Mudkip]": {
             "ability": "White Smoke",
             "gender": "F",
             "ivs": {
@@ -32525,7 +32525,7 @@ var CUSTOMSETDEX_E = {
         }
     },
     "Treecko": {
-        "Pokémon Trainer Brendan @ Route 103 (Treecko)": {
+        "Pokémon Trainer Brendan @ Route 103 [Treecko]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32543,7 +32543,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Treecko)": {
+        "Pokémon Trainer Brendan @ Rustboro City [Treecko]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32563,7 +32563,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Pokémon Trainer May @ Route 103 (Treecko)": {
+        "Pokémon Trainer May @ Route 103 [Treecko]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32581,7 +32581,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Pokémon Trainer May @ Rustboro City (Treecko)": {
+        "Pokémon Trainer May @ Rustboro City [Treecko]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -32843,7 +32843,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Timid"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Combusken)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Combusken]": {
             "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
@@ -32863,7 +32863,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Grovyle]": {
             "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
@@ -32883,7 +32883,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer Brendan @ Lilycove City [Marshtomp]": {
             "ability": "Chlorophyll",
             "gender": "M",
             "ivs": {
@@ -32903,7 +32903,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer May @ Lilycove City (Combusken)": {
+        "Pokémon Trainer May @ Lilycove City [Combusken]": {
             "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
@@ -32923,7 +32923,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Sassy"
         },
-        "Pokémon Trainer May @ Lilycove City (Grovyle)": {
+        "Pokémon Trainer May @ Lilycove City [Grovyle]": {
             "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
@@ -32943,7 +32943,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Sassy"
         },
-        "Pokémon Trainer May @ Lilycove City (Marshtomp)": {
+        "Pokémon Trainer May @ Lilycove City [Marshtomp]": {
             "ability": "Chlorophyll",
             "gender": "F",
             "ivs": {
@@ -33960,7 +33960,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 4 (Mt. Pyre)": {
+        "Team Aqua Grunt 4 @ Mt. Pyre": {
             "ability": "Water Veil",
             "gender": "F",
             "ivs": {
@@ -34651,7 +34651,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Mild"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Combusken)": {
+        "Pokémon Trainer Brendan @ Route 110 [Combusken]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -34671,7 +34671,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Pokémon Trainer Brendan @ Route 110 (Grovyle)": {
+        "Pokémon Trainer Brendan @ Route 110 [Grovyle]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -34691,7 +34691,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Modest"
         },
-        "Pokémon Trainer Brendan @ Rustboro City (Treecko)": {
+        "Pokémon Trainer Brendan @ Rustboro City [Treecko]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -34711,7 +34711,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Pokémon Trainer May @ Route 110 (Combusken)": {
+        "Pokémon Trainer May @ Route 110 [Combusken]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -34731,7 +34731,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Pokémon Trainer May @ Route 110 (Grovyle)": {
+        "Pokémon Trainer May @ Route 110 [Grovyle]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -34751,7 +34751,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Pokémon Trainer May @ Rustboro City (Treecko)": {
+        "Pokémon Trainer May @ Rustboro City [Treecko]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -36322,7 +36322,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Lonely"
         },
-        "Team Aqua Grunt 1 (Mt. Pyre)": {
+        "Team Aqua Grunt 1 @ Mt. Pyre": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36342,7 +36342,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 1 (Weather Institute)": {
+        "Team Aqua Grunt 1 @ Weather Institute": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36362,7 +36362,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 2 (Oceanic Museum)": {
+        "Team Aqua Grunt 2 @ Oceanic Museum": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36381,7 +36381,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 2 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 2 @ Team Aqua Hideout": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36401,7 +36401,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 3 (Seafloor Cavern)": {
+        "Team Aqua Grunt 3 @ Seafloor Cavern": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36421,7 +36421,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 3 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 3 @ Team Aqua Hideout": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36441,7 +36441,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Aqua Grunt 3 (Weather Institute)": {
+        "Team Aqua Grunt 3 @ Weather Institute": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36461,7 +36461,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Serious"
         },
-        "Team Aqua Grunt 4 (Mt. Pyre)": {
+        "Team Aqua Grunt 4 @ Mt. Pyre": {
             "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
@@ -36481,7 +36481,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Jolly"
         },
-        "Team Aqua Grunt 5 (Weather Institute)": {
+        "Team Aqua Grunt 5 @ Weather Institute": {
             "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
@@ -36501,7 +36501,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Team Aqua Grunt 6 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 6 @ Team Aqua Hideout": {
             "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
@@ -36521,7 +36521,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Team Aqua Grunt 7 (Team Aqua Hideout)": {
+        "Team Aqua Grunt 7 @ Team Aqua Hideout": {
             "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
@@ -36541,7 +36541,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Magma Grunt 1 (Team Magma Hideout)": {
+        "Team Magma Grunt 1 @ Team Magma Hideout": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36561,7 +36561,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Magma Grunt 13 (Team Magma Hideout)": {
+        "Team Magma Grunt 13 @ Team Magma Hideout": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36581,7 +36581,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Magma Grunt 2 (Mt. Chimney)": {
+        "Team Magma Grunt 2 @ Mt. Chimney": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36601,7 +36601,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Magma Grunt 3 (Mossdeep Space Center)": {
+        "Team Magma Grunt 3 @ Mossdeep Space Center": {
             "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
@@ -36621,7 +36621,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Bold"
         },
-        "Team Magma Grunt 4 (Team Magma Hideout)": {
+        "Team Magma Grunt 4 @ Team Magma Hideout": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36641,7 +36641,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Brave"
         },
-        "Team Magma Grunt 5 (Mossdeep Space Center)": {
+        "Team Magma Grunt 5 @ Mossdeep Space Center": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36661,7 +36661,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Magma Grunt 7 (Team Magma Hideout)": {
+        "Team Magma Grunt 7 @ Team Magma Hideout": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -36681,7 +36681,7 @@ var CUSTOMSETDEX_E = {
             ],
             "nature": "Gentle"
         },
-        "Team Magma Grunt 9 (Team Magma Hideout)": {
+        "Team Magma Grunt 9 @ Team Magma Hideout": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {

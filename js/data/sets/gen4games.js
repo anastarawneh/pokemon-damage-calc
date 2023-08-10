@@ -289,7 +289,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Rival Silver @ Indigo Plateau (Feraligatr)": {
+        "Rival Silver @ Indigo Plateau [Feraligatr]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -309,7 +309,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Rival Silver @ Indigo Plateau (Meganium)": {
+        "Rival Silver @ Indigo Plateau [Meganium]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -329,7 +329,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Rival Silver @ Indigo Plateau (Typhlosion)": {
+        "Rival Silver @ Indigo Plateau [Typhlosion]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -349,7 +349,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Rival Silver @ Mt. Moon (Feraligatr)": {
+        "Rival Silver @ Mt. Moon [Feraligatr]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -369,7 +369,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Rival Silver @ Mt. Moon (Meganium)": {
+        "Rival Silver @ Mt. Moon [Meganium]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -389,7 +389,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Rival Silver @ Mt. Moon (Typhlosion)": {
+        "Rival Silver @ Mt. Moon [Typhlosion]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -1286,7 +1286,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Bayleef": {
-        "Rival Silver @ Azalea Town (Bayleef)": {
+        "Rival Silver @ Azalea Town [Bayleef]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -1306,7 +1306,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Rival Silver @ Burned Tower (Bayleef)": {
+        "Rival Silver @ Burned Tower [Bayleef]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -2913,7 +2913,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Champion Lance (with Clair)": {
+        "Champion Lance [with Clair]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3205,7 +3205,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Chikorita": {
-        "Passerby Boy (Chikorita)": {
+        "Passerby Boy [Chikorita]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3885,7 +3885,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Rival Silver @ Dragon's Den (Feraligatr)": {
+        "Rival Silver @ Dragon's Den [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -3905,7 +3905,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Rival Silver @ Dragon's Den (Meganium)": {
+        "Rival Silver @ Dragon's Den [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -3925,7 +3925,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Rival Silver @ Dragon's Den (Typhlosion)": {
+        "Rival Silver @ Dragon's Den [Typhlosion]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -3945,7 +3945,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Rival Silver @ Indigo Plateau (Feraligatr)": {
+        "Rival Silver @ Indigo Plateau [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -3965,7 +3965,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Rival Silver @ Indigo Plateau (Meganium)": {
+        "Rival Silver @ Indigo Plateau [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -3985,7 +3985,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Rival Silver @ Indigo Plateau (Typhlosion)": {
+        "Rival Silver @ Indigo Plateau [Typhlosion]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -4027,7 +4027,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Croconaw": {
-        "Rival Silver @ Azalea Town (Croconaw)": {
+        "Rival Silver @ Azalea Town [Croconaw]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -4047,7 +4047,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Rival Silver @ Burned Tower (Croconaw)": {
+        "Rival Silver @ Burned Tower [Croconaw]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -4111,7 +4111,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Cyndaquil": {
-        "Passerby Boy (Cyndaquil)": {
+        "Passerby Boy [Cyndaquil]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4864,7 +4864,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Leader Clair (with Lance)": {
+        "Leader Clair [with Lance]": {
             "ability": "Shed Skin",
             "gender": "F",
             "ivs": {
@@ -4947,7 +4947,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Champion Lance (with Clair)": {
+        "Champion Lance [with Clair]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -5029,7 +5029,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Leader Clair (with Lance)": {
+        "Leader Clair [with Lance]": {
             "ability": "Inner Focus",
             "gender": "F",
             "ivs": {
@@ -5277,7 +5277,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Team Rocket Grunt @ Team Rocket HQ (with Ariana)": {
+        "Team Rocket Grunt @ Team Rocket HQ [with Ariana]": {
             "ability": "Insomnia",
             "gender": "M",
             "ivs": {
@@ -6951,7 +6951,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Feraligatr": {
-        "Rival Silver @ Dragon's Den (Feraligatr)": {
+        "Rival Silver @ Dragon's Den [Feraligatr]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6971,7 +6971,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
+        "Rival Silver @ Goldenrod Tunnel [Feraligatr]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6991,7 +6991,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Rival Silver @ Indigo Plateau (Feraligatr)": {
+        "Rival Silver @ Indigo Plateau [Feraligatr]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7011,7 +7011,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Rival Silver @ Mt. Moon (Feraligatr)": {
+        "Rival Silver @ Mt. Moon [Feraligatr]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7031,7 +7031,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Rival Silver @ Victory Road (Feraligatr)": {
+        "Rival Silver @ Victory Road [Feraligatr]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7672,7 +7672,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Rival Silver @ Azalea Town (Bayleef)": {
+        "Rival Silver @ Azalea Town [Bayleef]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -7692,7 +7692,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Modest"
         },
-        "Rival Silver @ Azalea Town (Croconaw)": {
+        "Rival Silver @ Azalea Town [Croconaw]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -7712,7 +7712,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Rival Silver @ Azalea Town (Quilava)": {
+        "Rival Silver @ Azalea Town [Quilava]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -7732,7 +7732,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Rival Silver @ Burned Tower (Bayleef)": {
+        "Rival Silver @ Burned Tower [Bayleef]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -7752,7 +7752,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Rival Silver @ Burned Tower (Croconaw)": {
+        "Rival Silver @ Burned Tower [Croconaw]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -7772,7 +7772,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Rival Silver @ Burned Tower (Quilava)": {
+        "Rival Silver @ Burned Tower [Quilava]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -7895,7 +7895,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Rival Silver @ Dragon's Den (Feraligatr)": {
+        "Rival Silver @ Dragon's Den [Feraligatr]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -7915,7 +7915,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Rival Silver @ Dragon's Den (Meganium)": {
+        "Rival Silver @ Dragon's Den [Meganium]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -7935,7 +7935,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Docile"
         },
-        "Rival Silver @ Dragon's Den (Typhlosion)": {
+        "Rival Silver @ Dragon's Den [Typhlosion]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -7955,7 +7955,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Rival Silver @ Indigo Plateau (Feraligatr)": {
+        "Rival Silver @ Indigo Plateau [Feraligatr]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -7975,7 +7975,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Rival Silver @ Indigo Plateau (Meganium)": {
+        "Rival Silver @ Indigo Plateau [Meganium]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -7995,7 +7995,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naughty"
         },
-        "Rival Silver @ Indigo Plateau (Typhlosion)": {
+        "Rival Silver @ Indigo Plateau [Typhlosion]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -8015,7 +8015,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Rival Silver @ Mt. Moon (Feraligatr)": {
+        "Rival Silver @ Mt. Moon [Feraligatr]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -8035,7 +8035,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Rival Silver @ Mt. Moon (Meganium)": {
+        "Rival Silver @ Mt. Moon [Meganium]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -8055,7 +8055,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Rival Silver @ Mt. Moon (Typhlosion)": {
+        "Rival Silver @ Mt. Moon [Typhlosion]": {
             "ability": "Cursed Body",
             "gender": "M",
             "ivs": {
@@ -8724,7 +8724,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Docile"
         },
-        "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
+        "Rival Silver @ Goldenrod Tunnel [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8744,7 +8744,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Rival Silver @ Goldenrod Tunnel (Meganium)": {
+        "Rival Silver @ Goldenrod Tunnel [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8764,7 +8764,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Rival Silver @ Goldenrod Tunnel (Quilava)": {
+        "Rival Silver @ Goldenrod Tunnel [Quilava]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8784,7 +8784,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Serious"
         },
-        "Rival Silver @ Mt. Moon (Feraligatr)": {
+        "Rival Silver @ Mt. Moon [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8804,7 +8804,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Rival Silver @ Mt. Moon (Meganium)": {
+        "Rival Silver @ Mt. Moon [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8824,7 +8824,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Rival Silver @ Mt. Moon (Typhlosion)": {
+        "Rival Silver @ Mt. Moon [Typhlosion]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8844,7 +8844,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Rival Silver @ Victory Road (Feraligatr)": {
+        "Rival Silver @ Victory Road [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8864,7 +8864,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Rival Silver @ Victory Road (Meganium)": {
+        "Rival Silver @ Victory Road [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -8884,7 +8884,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Rival Silver @ Victory Road (Typhlosion)": {
+        "Rival Silver @ Victory Road [Typhlosion]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -10496,7 +10496,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lonely"
         },
-        "Team Rocket Grunt @ Team Rocket HQ (with Ariana)": {
+        "Team Rocket Grunt @ Team Rocket HQ [with Ariana]": {
             "ability": "Stench",
             "gender": "M",
             "ivs": {
@@ -10865,7 +10865,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naive"
         },
-        "Champion Lance (with Clair)": {
+        "Champion Lance [with Clair]": {
             "ability": "Intimidate",
             "gender": "M",
             "ivs": {
@@ -11385,7 +11385,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
+        "Rival Silver @ Goldenrod Tunnel [Feraligatr]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -11405,7 +11405,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Rival Silver @ Goldenrod Tunnel (Meganium)": {
+        "Rival Silver @ Goldenrod Tunnel [Meganium]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -11425,7 +11425,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quirky"
         },
-        "Rival Silver @ Goldenrod Tunnel (Quilava)": {
+        "Rival Silver @ Goldenrod Tunnel [Quilava]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -11445,7 +11445,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Rival Silver @ Victory Road (Feraligatr)": {
+        "Rival Silver @ Victory Road [Feraligatr]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -11465,7 +11465,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bashful"
         },
-        "Rival Silver @ Victory Road (Meganium)": {
+        "Rival Silver @ Victory Road [Meganium]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -11485,7 +11485,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Rival Silver @ Victory Road (Typhlosion)": {
+        "Rival Silver @ Victory Road [Typhlosion]": {
             "ability": "Levitate",
             "gender": "M",
             "ivs": {
@@ -13081,7 +13081,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Calm"
         },
-        "Rival Silver @ Victory Road (Feraligatr)": {
+        "Rival Silver @ Victory Road [Feraligatr]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -13101,7 +13101,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quirky"
         },
-        "Rival Silver @ Victory Road (Meganium)": {
+        "Rival Silver @ Victory Road [Meganium]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -13121,7 +13121,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Rival Silver @ Victory Road (Typhlosion)": {
+        "Rival Silver @ Victory Road [Typhlosion]": {
             "ability": "Synchronize",
             "gender": "M",
             "ivs": {
@@ -13337,7 +13337,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Leader Clair (with Lance)": {
+        "Leader Clair [with Lance]": {
             "ability": "Sniper",
             "gender": "F",
             "ivs": {
@@ -16602,7 +16602,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Rival Silver @ Burned Tower (Bayleef)": {
+        "Rival Silver @ Burned Tower [Bayleef]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -16622,7 +16622,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Rival Silver @ Burned Tower (Croconaw)": {
+        "Rival Silver @ Burned Tower [Croconaw]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -16642,7 +16642,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Rival Silver @ Burned Tower (Quilava)": {
+        "Rival Silver @ Burned Tower [Quilava]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -16662,7 +16662,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
+        "Rival Silver @ Goldenrod Tunnel [Feraligatr]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -16682,7 +16682,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Rival Silver @ Goldenrod Tunnel (Meganium)": {
+        "Rival Silver @ Goldenrod Tunnel [Meganium]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -16702,7 +16702,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Docile"
         },
-        "Rival Silver @ Goldenrod Tunnel (Quilava)": {
+        "Rival Silver @ Goldenrod Tunnel [Quilava]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17101,7 +17101,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Rival Silver @ Indigo Plateau (Feraligatr)": {
+        "Rival Silver @ Indigo Plateau [Feraligatr]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17121,7 +17121,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Rival Silver @ Indigo Plateau (Meganium)": {
+        "Rival Silver @ Indigo Plateau [Meganium]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17141,7 +17141,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Rival Silver @ Indigo Plateau (Typhlosion)": {
+        "Rival Silver @ Indigo Plateau [Typhlosion]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17161,7 +17161,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Rival Silver @ Mt. Moon (Feraligatr)": {
+        "Rival Silver @ Mt. Moon [Feraligatr]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17181,7 +17181,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Jolly"
         },
-        "Rival Silver @ Mt. Moon (Meganium)": {
+        "Rival Silver @ Mt. Moon [Meganium]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17201,7 +17201,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Rival Silver @ Mt. Moon (Typhlosion)": {
+        "Rival Silver @ Mt. Moon [Typhlosion]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17221,7 +17221,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Rival Silver @ Victory Road (Feraligatr)": {
+        "Rival Silver @ Victory Road [Feraligatr]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17241,7 +17241,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Rival Silver @ Victory Road (Meganium)": {
+        "Rival Silver @ Victory Road [Meganium]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -17261,7 +17261,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Rival Silver @ Victory Road (Typhlosion)": {
+        "Rival Silver @ Victory Road [Typhlosion]": {
             "ability": "Magnet Pull",
             "gender": "N",
             "ivs": {
@@ -18067,7 +18067,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Meganium": {
-        "Rival Silver @ Dragon's Den (Meganium)": {
+        "Rival Silver @ Dragon's Den [Meganium]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -18087,7 +18087,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quiet"
         },
-        "Rival Silver @ Goldenrod Tunnel (Meganium)": {
+        "Rival Silver @ Goldenrod Tunnel [Meganium]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -18107,7 +18107,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Rival Silver @ Indigo Plateau (Meganium)": {
+        "Rival Silver @ Indigo Plateau [Meganium]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -18127,7 +18127,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Docile"
         },
-        "Rival Silver @ Mt. Moon (Meganium)": {
+        "Rival Silver @ Mt. Moon [Meganium]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -18147,7 +18147,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Relaxed"
         },
-        "Rival Silver @ Victory Road (Meganium)": {
+        "Rival Silver @ Victory Road [Meganium]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -23125,7 +23125,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Quilava": {
-        "Rival Silver @ Azalea Town (Quilava)": {
+        "Rival Silver @ Azalea Town [Quilava]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -23145,7 +23145,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Quirky"
         },
-        "Rival Silver @ Burned Tower (Quilava)": {
+        "Rival Silver @ Burned Tower [Quilava]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -23165,7 +23165,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Timid"
         },
-        "Rival Silver @ Goldenrod Tunnel (Quilava)": {
+        "Rival Silver @ Goldenrod Tunnel [Quilava]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -27324,7 +27324,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Sneasel": {
-        "Rival Silver @ Goldenrod Tunnel (Feraligatr)": {
+        "Rival Silver @ Goldenrod Tunnel [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27344,7 +27344,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Rival Silver @ Goldenrod Tunnel (Meganium)": {
+        "Rival Silver @ Goldenrod Tunnel [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27364,7 +27364,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Rival Silver @ Goldenrod Tunnel (Quilava)": {
+        "Rival Silver @ Goldenrod Tunnel [Quilava]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27384,7 +27384,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Sassy"
         },
-        "Rival Silver @ Indigo Plateau (Feraligatr)": {
+        "Rival Silver @ Indigo Plateau [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27404,7 +27404,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Rival Silver @ Indigo Plateau (Meganium)": {
+        "Rival Silver @ Indigo Plateau [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27424,7 +27424,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Rival Silver @ Indigo Plateau (Typhlosion)": {
+        "Rival Silver @ Indigo Plateau [Typhlosion]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27444,7 +27444,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Rival Silver @ Mt. Moon (Feraligatr)": {
+        "Rival Silver @ Mt. Moon [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27464,7 +27464,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Mild"
         },
-        "Rival Silver @ Mt. Moon (Meganium)": {
+        "Rival Silver @ Mt. Moon [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27484,7 +27484,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Rival Silver @ Mt. Moon (Typhlosion)": {
+        "Rival Silver @ Mt. Moon [Typhlosion]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27504,7 +27504,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hasty"
         },
-        "Rival Silver @ Victory Road (Feraligatr)": {
+        "Rival Silver @ Victory Road [Feraligatr]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27524,7 +27524,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Adamant"
         },
-        "Rival Silver @ Victory Road (Meganium)": {
+        "Rival Silver @ Victory Road [Meganium]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -27544,7 +27544,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Rival Silver @ Victory Road (Typhlosion)": {
+        "Rival Silver @ Victory Road [Typhlosion]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -29767,7 +29767,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Totodile": {
-        "Passerby Boy (Totodile)": {
+        "Passerby Boy [Totodile]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -29829,7 +29829,7 @@ var CUSTOMSETDEX_HGSS = {
         }
     },
     "Typhlosion": {
-        "Rival Silver @ Dragon's Den (Typhlosion)": {
+        "Rival Silver @ Dragon's Den [Typhlosion]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -29849,7 +29849,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Bold"
         },
-        "Rival Silver @ Indigo Plateau (Typhlosion)": {
+        "Rival Silver @ Indigo Plateau [Typhlosion]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -29869,7 +29869,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Rash"
         },
-        "Rival Silver @ Mt. Moon (Typhlosion)": {
+        "Rival Silver @ Mt. Moon [Typhlosion]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -29889,7 +29889,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Naive"
         },
-        "Rival Silver @ Victory Road (Typhlosion)": {
+        "Rival Silver @ Victory Road [Typhlosion]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -32560,7 +32560,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Impish"
         },
-        "Rival Silver @ Azalea Town (Bayleef)": {
+        "Rival Silver @ Azalea Town [Bayleef]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -32580,7 +32580,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Brave"
         },
-        "Rival Silver @ Azalea Town (Croconaw)": {
+        "Rival Silver @ Azalea Town [Croconaw]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -32600,7 +32600,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Careful"
         },
-        "Rival Silver @ Azalea Town (Quilava)": {
+        "Rival Silver @ Azalea Town [Quilava]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -32620,7 +32620,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Gentle"
         },
-        "Rival Silver @ Burned Tower (Bayleef)": {
+        "Rival Silver @ Burned Tower [Bayleef]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -32640,7 +32640,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Hardy"
         },
-        "Rival Silver @ Burned Tower (Croconaw)": {
+        "Rival Silver @ Burned Tower [Croconaw]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {
@@ -32660,7 +32660,7 @@ var CUSTOMSETDEX_HGSS = {
             ],
             "nature": "Lax"
         },
-        "Rival Silver @ Burned Tower (Quilava)": {
+        "Rival Silver @ Burned Tower [Quilava]": {
             "ability": "Inner Focus",
             "gender": "M",
             "ivs": {

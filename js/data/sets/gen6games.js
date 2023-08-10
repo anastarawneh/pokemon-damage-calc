@@ -41,7 +41,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Anistar City [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -61,7 +61,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Anistar City (Delphox)": {
+        "Pokémon Trainer Calem @ Anistar City [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -81,7 +81,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Anistar City (Greninja)": {
+        "Pokémon Trainer Calem @ Anistar City [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -101,7 +101,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Coumarine City (Braixen)": {
+        "Pokémon Trainer Calem @ Coumarine City [Braixen]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -120,7 +120,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Coumarine City (Frogadier)": {
+        "Pokémon Trainer Calem @ Coumarine City [Frogadier]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -139,7 +139,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Coumarine City (Quilladin)": {
+        "Pokémon Trainer Calem @ Coumarine City [Quilladin]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -158,7 +158,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Braixen)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Braixen]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -178,7 +178,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Frogadier)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Frogadier]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -198,7 +198,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Quilladin)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Quilladin]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -218,7 +218,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Kiloude City [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "item": "Absolite",
@@ -239,7 +239,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Calem @ Kiloude City [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "item": "Absolite",
@@ -260,7 +260,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Calem @ Kiloude City [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "item": "Absolite",
@@ -281,7 +281,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Chesnaught)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -301,7 +301,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Delphox)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -321,7 +321,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Greninja)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -341,7 +341,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Chesnaught)": {
+        "Pokémon Trainer Calem @ Route 14 [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -361,7 +361,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Delphox)": {
+        "Pokémon Trainer Calem @ Route 14 [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -381,7 +381,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Greninja)": {
+        "Pokémon Trainer Calem @ Route 14 [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -401,7 +401,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -421,7 +421,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -441,7 +441,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -461,7 +461,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Braixen)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Braixen]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -480,7 +480,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Frogadier)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Frogadier]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -499,7 +499,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Quilladin)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Quilladin]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -518,7 +518,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Calem @ Victory Road [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -538,7 +538,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Delphox)": {
+        "Pokémon Trainer Calem @ Victory Road [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -558,7 +558,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Greninja)": {
+        "Pokémon Trainer Calem @ Victory Road [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -578,7 +578,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Anistar City [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -598,7 +598,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Delphox)": {
+        "Pokémon Trainer Serena @ Anistar City [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -618,7 +618,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Greninja)": {
+        "Pokémon Trainer Serena @ Anistar City [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -638,7 +638,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Braixen)": {
+        "Pokémon Trainer Serena @ Coumarine City [Braixen]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -657,7 +657,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Frogadier)": {
+        "Pokémon Trainer Serena @ Coumarine City [Frogadier]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -676,7 +676,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Quilladin)": {
+        "Pokémon Trainer Serena @ Coumarine City [Quilladin]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -695,7 +695,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Braixen)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Braixen]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -715,7 +715,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Frogadier)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Frogadier]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -735,7 +735,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Quilladin)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Quilladin]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -755,7 +755,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Kiloude City [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "item": "Absolite",
@@ -776,7 +776,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Serena @ Kiloude City [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "item": "Absolite",
@@ -797,7 +797,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Serena @ Kiloude City [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "item": "Absolite",
@@ -818,7 +818,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Chesnaught)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -838,7 +838,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Delphox)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -858,7 +858,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Greninja)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -878,7 +878,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Chesnaught)": {
+        "Pokémon Trainer Serena @ Route 14 [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -898,7 +898,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Delphox)": {
+        "Pokémon Trainer Serena @ Route 14 [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -918,7 +918,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Greninja)": {
+        "Pokémon Trainer Serena @ Route 14 [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -938,7 +938,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -958,7 +958,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -978,7 +978,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -998,7 +998,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Braixen)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Braixen]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -1017,7 +1017,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Frogadier)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Frogadier]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -1036,7 +1036,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Quilladin)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Quilladin]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -1055,7 +1055,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Serena @ Victory Road [Chesnaught]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -1075,7 +1075,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Delphox)": {
+        "Pokémon Trainer Serena @ Victory Road [Delphox]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -1095,7 +1095,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Greninja)": {
+        "Pokémon Trainer Serena @ Victory Road [Greninja]": {
             "ability": "Super Luck",
             "gender": "M",
             "ivs": {
@@ -1117,7 +1117,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Absol-Mega": {
-        "Pokémon Trainer Calem @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Kiloude City [Chesnaught]": {
             "ability": "Magic Bounce",
             "gender": "M",
             "item": "Absolite",
@@ -1138,7 +1138,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Calem @ Kiloude City [Delphox]": {
             "ability": "Magic Bounce",
             "gender": "M",
             "item": "Absolite",
@@ -1159,7 +1159,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Calem @ Kiloude City [Greninja]": {
             "ability": "Magic Bounce",
             "gender": "M",
             "item": "Absolite",
@@ -1180,7 +1180,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Kiloude City [Chesnaught]": {
             "ability": "Magic Bounce",
             "gender": "M",
             "item": "Absolite",
@@ -1201,7 +1201,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Serena @ Kiloude City [Delphox]": {
             "ability": "Magic Bounce",
             "gender": "M",
             "item": "Absolite",
@@ -1222,7 +1222,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Serena @ Kiloude City [Greninja]": {
             "ability": "Magic Bounce",
             "gender": "M",
             "item": "Absolite",
@@ -1433,7 +1433,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Kiloude City [Chesnaught]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1452,7 +1452,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Calem @ Kiloude City [Delphox]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1471,7 +1471,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Calem @ Kiloude City [Greninja]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1490,7 +1490,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Calem @ Victory Road [Chesnaught]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1509,7 +1509,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Delphox)": {
+        "Pokémon Trainer Calem @ Victory Road [Delphox]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1528,7 +1528,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Greninja)": {
+        "Pokémon Trainer Calem @ Victory Road [Greninja]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1547,7 +1547,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Kiloude City [Chesnaught]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1566,7 +1566,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Serena @ Kiloude City [Delphox]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1585,7 +1585,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Serena @ Kiloude City [Greninja]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1604,7 +1604,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Serena @ Victory Road [Chesnaught]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1623,7 +1623,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Delphox)": {
+        "Pokémon Trainer Serena @ Victory Road [Delphox]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -1642,7 +1642,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Greninja)": {
+        "Pokémon Trainer Serena @ Victory Road [Greninja]": {
             "ability": "Natural Cure",
             "gender": "F",
             "ivs": {
@@ -2391,7 +2391,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Braixen": {
-        "Pokémon Trainer Calem @ Coumarine City (Braixen)": {
+        "Pokémon Trainer Calem @ Coumarine City [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -2409,7 +2409,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Braixen)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -2429,7 +2429,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 7 (Braixen)": {
+        "Pokémon Trainer Calem @ Route 7 [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -2447,7 +2447,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Braixen)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -2465,7 +2465,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Braixen)": {
+        "Pokémon Trainer Serena @ Coumarine City [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -2483,7 +2483,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Braixen)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -2503,7 +2503,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 7 (Braixen)": {
+        "Pokémon Trainer Serena @ Route 7 [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -2521,7 +2521,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Braixen)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Braixen]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -3035,7 +3035,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Chesnaught": {
-        "Pokémon Trainer Calem @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Anistar City [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3053,7 +3053,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Kiloude City [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3072,7 +3072,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Chesnaught)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3090,7 +3090,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Chesnaught)": {
+        "Pokémon Trainer Calem @ Route 14 [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3108,7 +3108,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3126,7 +3126,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Calem @ Victory Road [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3145,7 +3145,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Anistar City [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3163,7 +3163,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Kiloude City [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3182,7 +3182,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Chesnaught)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3200,7 +3200,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Chesnaught)": {
+        "Pokémon Trainer Serena @ Route 14 [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3218,7 +3218,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3236,7 +3236,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Serena @ Victory Road [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -3255,7 +3255,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Chesnaught)": {
+        "Pokémon Trainer Shauna @ Route 19 [Chesnaught]": {
             "ability": "Overgrow",
             "gender": "F",
             "ivs": {
@@ -3276,7 +3276,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Chespin": {
-        "Pokémon Trainer Shauna @ Aquacorde Town (Chespin)": {
+        "Pokémon Trainer Shauna @ Aquacorde Town [Chespin]": {
             "ability": "Overgrow",
             "gender": "F",
             "ivs": {
@@ -3422,7 +3422,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Clefable": {
-        "Pokémon Trainer Calem @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Kiloude City [Chesnaught]": {
             "ability": "Magic Guard",
             "gender": "F",
             "ivs": {
@@ -3442,7 +3442,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Calem @ Kiloude City [Delphox]": {
             "ability": "Magic Guard",
             "gender": "F",
             "ivs": {
@@ -3462,7 +3462,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Calem @ Kiloude City [Greninja]": {
             "ability": "Magic Guard",
             "gender": "F",
             "ivs": {
@@ -3482,7 +3482,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Kiloude City [Chesnaught]": {
             "ability": "Magic Guard",
             "gender": "F",
             "ivs": {
@@ -3502,7 +3502,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Serena @ Kiloude City [Delphox]": {
             "ability": "Magic Guard",
             "gender": "F",
             "ivs": {
@@ -3522,7 +3522,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Serena @ Kiloude City [Greninja]": {
             "ability": "Magic Guard",
             "gender": "F",
             "ivs": {
@@ -4256,7 +4256,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Delcatty": {
-        "Pokémon Trainer Shauna @ Route 19 (Chesnaught)": {
+        "Pokémon Trainer Shauna @ Route 19 [Chesnaught]": {
             "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
@@ -4276,7 +4276,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Delphox)": {
+        "Pokémon Trainer Shauna @ Route 19 [Delphox]": {
             "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
@@ -4296,7 +4296,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Greninja)": {
+        "Pokémon Trainer Shauna @ Route 19 [Greninja]": {
             "ability": "Cute Charm",
             "gender": "F",
             "ivs": {
@@ -4357,7 +4357,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Delphox": {
-        "Pokémon Trainer Calem @ Anistar City (Delphox)": {
+        "Pokémon Trainer Calem @ Anistar City [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4375,7 +4375,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Calem @ Kiloude City [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4394,7 +4394,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Delphox)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4412,7 +4412,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Delphox)": {
+        "Pokémon Trainer Calem @ Route 14 [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4430,7 +4430,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4448,7 +4448,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Delphox)": {
+        "Pokémon Trainer Calem @ Victory Road [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4467,7 +4467,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Delphox)": {
+        "Pokémon Trainer Serena @ Anistar City [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4485,7 +4485,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Serena @ Kiloude City [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4504,7 +4504,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Delphox)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4522,7 +4522,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Delphox)": {
+        "Pokémon Trainer Serena @ Route 14 [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4540,7 +4540,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4558,7 +4558,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Delphox)": {
+        "Pokémon Trainer Serena @ Victory Road [Delphox]": {
             "ability": "Blaze",
             "gender": "M",
             "ivs": {
@@ -4577,7 +4577,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Delphox)": {
+        "Pokémon Trainer Shauna @ Route 19 [Delphox]": {
             "ability": "Blaze",
             "gender": "F",
             "ivs": {
@@ -5351,7 +5351,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Braixen)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Braixen]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -5371,7 +5371,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Frogadier)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Frogadier]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -5391,7 +5391,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Quilladin)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Quilladin]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -5411,7 +5411,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Braixen)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Braixen]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -5431,7 +5431,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Frogadier)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Frogadier]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -5451,7 +5451,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Quilladin)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Quilladin]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -5532,7 +5532,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Fennekin": {
-        "Pokémon Trainer Shauna @ Aquacorde Town (Fennekin)": {
+        "Pokémon Trainer Shauna @ Aquacorde Town [Fennekin]": {
             "ability": "Blaze",
             "gender": "F",
             "ivs": {
@@ -5632,7 +5632,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Flareon": {
-        "Pokémon Trainer Calem @ Anistar City (Greninja)": {
+        "Pokémon Trainer Calem @ Anistar City [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5651,7 +5651,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Calem @ Kiloude City [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5670,7 +5670,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5689,7 +5689,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Greninja)": {
+        "Pokémon Trainer Calem @ Victory Road [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5708,7 +5708,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Greninja)": {
+        "Pokémon Trainer Serena @ Anistar City [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5727,7 +5727,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Serena @ Kiloude City [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5746,7 +5746,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5765,7 +5765,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Greninja)": {
+        "Pokémon Trainer Serena @ Victory Road [Greninja]": {
             "ability": "Flash Fire",
             "gender": "M",
             "ivs": {
@@ -5846,7 +5846,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 7 (Braixen)": {
+        "Pokémon Trainer Calem @ Route 7 [Braixen]": {
             "ability": "Gale Wings",
             "gender": "M",
             "ivs": {
@@ -5865,7 +5865,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 7 (Frogadier)": {
+        "Pokémon Trainer Calem @ Route 7 [Frogadier]": {
             "ability": "Gale Wings",
             "gender": "M",
             "ivs": {
@@ -5884,7 +5884,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 7 (Quilladin)": {
+        "Pokémon Trainer Calem @ Route 7 [Quilladin]": {
             "ability": "Gale Wings",
             "gender": "M",
             "ivs": {
@@ -5903,7 +5903,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 7 (Braixen)": {
+        "Pokémon Trainer Serena @ Route 7 [Braixen]": {
             "ability": "Gale Wings",
             "gender": "F",
             "ivs": {
@@ -5922,7 +5922,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 7 (Frogadier)": {
+        "Pokémon Trainer Serena @ Route 7 [Frogadier]": {
             "ability": "Gale Wings",
             "gender": "F",
             "ivs": {
@@ -5941,7 +5941,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 7 (Quilladin)": {
+        "Pokémon Trainer Serena @ Route 7 [Quilladin]": {
             "ability": "Gale Wings",
             "gender": "F",
             "ivs": {
@@ -6148,7 +6148,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Froakie": {
-        "Pokémon Trainer Shauna @ Aquacorde Town (Froakie)": {
+        "Pokémon Trainer Shauna @ Aquacorde Town [Froakie]": {
             "ability": "Torrent",
             "gender": "F",
             "ivs": {
@@ -6169,7 +6169,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Frogadier": {
-        "Pokémon Trainer Calem @ Coumarine City (Frogadier)": {
+        "Pokémon Trainer Calem @ Coumarine City [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6187,7 +6187,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Frogadier)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6207,7 +6207,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 7 (Frogadier)": {
+        "Pokémon Trainer Calem @ Route 7 [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6225,7 +6225,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Frogadier)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6243,7 +6243,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Frogadier)": {
+        "Pokémon Trainer Serena @ Coumarine City [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6261,7 +6261,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Frogadier)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6281,7 +6281,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 7 (Frogadier)": {
+        "Pokémon Trainer Serena @ Route 7 [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -6299,7 +6299,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Frogadier)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Frogadier]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7048,7 +7048,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Chesnaught)": {
+        "Pokémon Trainer Shauna @ Route 19 [Chesnaught]": {
             "ability": "Sap Sipper",
             "gender": "M",
             "ivs": {
@@ -7068,7 +7068,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Delphox)": {
+        "Pokémon Trainer Shauna @ Route 19 [Delphox]": {
             "ability": "Sap Sipper",
             "gender": "M",
             "ivs": {
@@ -7088,7 +7088,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Greninja)": {
+        "Pokémon Trainer Shauna @ Route 19 [Greninja]": {
             "ability": "Sap Sipper",
             "gender": "M",
             "ivs": {
@@ -7358,7 +7358,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Greninja": {
-        "Pokémon Trainer Calem @ Anistar City (Greninja)": {
+        "Pokémon Trainer Calem @ Anistar City [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7376,7 +7376,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Calem @ Kiloude City [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7395,7 +7395,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Greninja)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7413,7 +7413,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Greninja)": {
+        "Pokémon Trainer Calem @ Route 14 [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7431,7 +7431,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7449,7 +7449,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Greninja)": {
+        "Pokémon Trainer Calem @ Victory Road [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7468,7 +7468,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Greninja)": {
+        "Pokémon Trainer Serena @ Anistar City [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7486,7 +7486,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Serena @ Kiloude City [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7505,7 +7505,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Greninja)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7523,7 +7523,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Greninja)": {
+        "Pokémon Trainer Serena @ Route 14 [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7541,7 +7541,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7559,7 +7559,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Greninja)": {
+        "Pokémon Trainer Serena @ Victory Road [Greninja]": {
             "ability": "Torrent",
             "gender": "M",
             "ivs": {
@@ -7578,7 +7578,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Shauna @ Route 19 (Greninja)": {
+        "Pokémon Trainer Shauna @ Route 19 [Greninja]": {
             "ability": "Torrent",
             "gender": "F",
             "ivs": {
@@ -8598,7 +8598,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Jolteon": {
-        "Pokémon Trainer Calem @ Anistar City (Delphox)": {
+        "Pokémon Trainer Calem @ Anistar City [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -8617,7 +8617,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Calem @ Kiloude City [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -8636,7 +8636,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -8655,7 +8655,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Delphox)": {
+        "Pokémon Trainer Calem @ Victory Road [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -8674,7 +8674,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Delphox)": {
+        "Pokémon Trainer Serena @ Anistar City [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -8693,7 +8693,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Serena @ Kiloude City [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -8712,7 +8712,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -8731,7 +8731,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Delphox)": {
+        "Pokémon Trainer Serena @ Victory Road [Delphox]": {
             "ability": "Volt Absorb",
             "gender": "M",
             "ivs": {
@@ -10966,7 +10966,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Anistar City [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -10986,7 +10986,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Anistar City (Delphox)": {
+        "Pokémon Trainer Calem @ Anistar City [Delphox]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11006,7 +11006,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Anistar City (Greninja)": {
+        "Pokémon Trainer Calem @ Anistar City [Greninja]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11026,7 +11026,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Coumarine City (Braixen)": {
+        "Pokémon Trainer Calem @ Coumarine City [Braixen]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11046,7 +11046,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Coumarine City (Frogadier)": {
+        "Pokémon Trainer Calem @ Coumarine City [Frogadier]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11066,7 +11066,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Coumarine City (Quilladin)": {
+        "Pokémon Trainer Calem @ Coumarine City [Quilladin]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11086,7 +11086,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Kiloude City [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11106,7 +11106,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Calem @ Kiloude City [Delphox]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11126,7 +11126,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Calem @ Kiloude City [Greninja]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11146,7 +11146,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Chesnaught)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11166,7 +11166,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Delphox)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Delphox]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11186,7 +11186,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Poké Ball Factory (Greninja)": {
+        "Pokémon Trainer Calem @ Poké Ball Factory [Greninja]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11206,7 +11206,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Chesnaught)": {
+        "Pokémon Trainer Calem @ Route 14 [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11226,7 +11226,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Delphox)": {
+        "Pokémon Trainer Calem @ Route 14 [Delphox]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11246,7 +11246,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 14 (Greninja)": {
+        "Pokémon Trainer Calem @ Route 14 [Greninja]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11266,7 +11266,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11286,7 +11286,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Delphox]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11306,7 +11306,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Greninja]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11326,7 +11326,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Braixen)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Braixen]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11346,7 +11346,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Frogadier)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Frogadier]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11366,7 +11366,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Quilladin)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Quilladin]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11386,7 +11386,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Calem @ Victory Road [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11406,7 +11406,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Delphox)": {
+        "Pokémon Trainer Calem @ Victory Road [Delphox]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11426,7 +11426,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Greninja)": {
+        "Pokémon Trainer Calem @ Victory Road [Greninja]": {
             "ability": "Keen Eye",
             "gender": "M",
             "ivs": {
@@ -11446,7 +11446,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Anistar City [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11466,7 +11466,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Delphox)": {
+        "Pokémon Trainer Serena @ Anistar City [Delphox]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11486,7 +11486,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Greninja)": {
+        "Pokémon Trainer Serena @ Anistar City [Greninja]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11506,7 +11506,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Braixen)": {
+        "Pokémon Trainer Serena @ Coumarine City [Braixen]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11526,7 +11526,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Frogadier)": {
+        "Pokémon Trainer Serena @ Coumarine City [Frogadier]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11546,7 +11546,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Quilladin)": {
+        "Pokémon Trainer Serena @ Coumarine City [Quilladin]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11566,7 +11566,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Kiloude City [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11586,7 +11586,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Delphox)": {
+        "Pokémon Trainer Serena @ Kiloude City [Delphox]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11606,7 +11606,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Greninja)": {
+        "Pokémon Trainer Serena @ Kiloude City [Greninja]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11626,7 +11626,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Chesnaught)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11646,7 +11646,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Delphox)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Delphox]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11666,7 +11666,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Poké Ball Factory (Greninja)": {
+        "Pokémon Trainer Serena @ Poké Ball Factory [Greninja]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11686,7 +11686,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Chesnaught)": {
+        "Pokémon Trainer Serena @ Route 14 [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11706,7 +11706,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Delphox)": {
+        "Pokémon Trainer Serena @ Route 14 [Delphox]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11726,7 +11726,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 14 (Greninja)": {
+        "Pokémon Trainer Serena @ Route 14 [Greninja]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11746,7 +11746,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11766,7 +11766,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Delphox)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Delphox]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11786,7 +11786,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Greninja)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Greninja]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11806,7 +11806,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Braixen)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Braixen]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11826,7 +11826,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Frogadier)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Frogadier]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11846,7 +11846,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Quilladin)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Quilladin]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11866,7 +11866,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Serena @ Victory Road [Chesnaught]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11886,7 +11886,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Delphox)": {
+        "Pokémon Trainer Serena @ Victory Road [Delphox]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -11906,7 +11906,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Greninja)": {
+        "Pokémon Trainer Serena @ Victory Road [Greninja]": {
             "ability": "Keen Eye",
             "gender": "F",
             "ivs": {
@@ -13932,7 +13932,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Quilladin": {
-        "Pokémon Trainer Calem @ Coumarine City (Quilladin)": {
+        "Pokémon Trainer Calem @ Coumarine City [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -13950,7 +13950,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Glittering Cave (Quilladin)": {
+        "Pokémon Trainer Calem @ Glittering Cave [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -13970,7 +13970,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Route 7 (Quilladin)": {
+        "Pokémon Trainer Calem @ Route 7 [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -13988,7 +13988,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Tower of Mastery (Quilladin)": {
+        "Pokémon Trainer Calem @ Tower of Mastery [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -14006,7 +14006,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Coumarine City (Quilladin)": {
+        "Pokémon Trainer Serena @ Coumarine City [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -14024,7 +14024,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Glittering Cave (Quilladin)": {
+        "Pokémon Trainer Serena @ Glittering Cave [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -14044,7 +14044,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Route 7 (Quilladin)": {
+        "Pokémon Trainer Serena @ Route 7 [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -14062,7 +14062,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Tower of Mastery (Quilladin)": {
+        "Pokémon Trainer Serena @ Tower of Mastery [Quilladin]": {
             "ability": "Overgrow",
             "gender": "M",
             "ivs": {
@@ -17147,7 +17147,7 @@ var CUSTOMSETDEX_XY = {
         }
     },
     "Vaporeon": {
-        "Pokémon Trainer Calem @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Anistar City [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
@@ -17166,7 +17166,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Calem @ Kiloude City [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
@@ -17185,7 +17185,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Calem @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
@@ -17204,7 +17204,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Calem @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Calem @ Victory Road [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
@@ -17223,7 +17223,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Anistar City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Anistar City [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
@@ -17242,7 +17242,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Kiloude City (Chesnaught)": {
+        "Pokémon Trainer Serena @ Kiloude City [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
@@ -17261,7 +17261,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Team Flare Secret HQ (Chesnaught)": {
+        "Pokémon Trainer Serena @ Team Flare Secret HQ [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {
@@ -17280,7 +17280,7 @@ var CUSTOMSETDEX_XY = {
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Serena @ Victory Road (Chesnaught)": {
+        "Pokémon Trainer Serena @ Victory Road [Chesnaught]": {
             "ability": "Water Absorb",
             "gender": "M",
             "ivs": {

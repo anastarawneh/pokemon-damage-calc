@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <title>Pok&eacute;mon Damage Calculator</title>
     <link type="text/css" rel="stylesheet" href="./js/vendor/select2/select2.css" />
-    <link type="text/css" rel="stylesheet" href="./css/main.css?f9a86f41" />
+    <link type="text/css" rel="stylesheet" href="./css/main.css?d9132602" />
     <link type="text/css" rel="stylesheet" href="./css/vendor/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="./css/dark-theme.css" id="dark-theme-styles">
     <!-- Immediately loads the dark theme in order to reduce FOIT -->
@@ -148,7 +148,7 @@
     <div aria-label="Pok&eacute;mon 1" class="panel" role="region">
         <fieldset class="poke-info" id="p1">
             <legend align="center">Pok&eacute;mon 1</legend>
-            <input type="text" class="set-selector calc-trigger" />
+            <input type="text" class="set-selector calc-trigger player" />
             <span id="importedSetsOptions" style="width:auto; display:none">
                 <input type="checkbox" id="importedSets" /> Only show imported sets <br />
                 <button id="clearSets">Clear Imported Sets</button>
@@ -674,6 +674,12 @@
                     <option value="5">5 times</option>
                 </select>
             </div>
+            <hr>
+            <div class="trainer-pokes">
+                <div class="trainer-poke-list player-pokes">
+                        <img class="trainer-poke-onside" src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png">
+                </div>
+            </div>
         </fieldset>
     </div>
 
@@ -1029,7 +1035,7 @@
     <div aria-label="Pok&eacute;mon 2" role="region" class="panel">
         <fieldset class="poke-info" id="p2">
             <legend align="center">Pok&eacute;mon 2</legend>
-            <input type="text" class="set-selector calc-trigger" />
+            <input type="text" class="set-selector calc-trigger opposing" />
             <span id="importedSetsOptions" style="width:auto; display:none">
                 <input type="checkbox" id="importedSets" /> Only show imported sets <br />
                 <button id="clearSets">Clear Imported Sets</button>
@@ -1553,6 +1559,14 @@
                     <option value="5">5 times</option>
                 </select>
             </div>
+            <hr>
+            <div class="trainer-pokes">
+                <div class="trainer-poke-list-opposing">
+                    <div class="trainer-poke-container">
+                        <img class="trainer-poke-opposing" src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png" title="Focus Blast 120">
+                    </div>
+                </div>
+            </div>
         </fieldset>
     </div>
     <script type="text/javascript">
@@ -1604,9 +1618,9 @@
     <script type="text/javascript" src="./calc/result.js?9f8881b5"></script>
     <script type="text/javascript" src="./calc/adaptable.js?92e49194"></script>
     <script type="text/javascript" src="./calc/index.js?0b1745b9"></script>
-    <script type="text/javascript" src="./js/shared_controls.js?4a47295a"></script>
+    <script type="text/javascript" src="./js/shared_controls.js?71f12b78"></script>
     <script type="text/javascript" src="./js/index_randoms_controls.js?87d3bda8"></script>
-    <script type="text/javascript" src="./js/moveset_import.js?c09c5175"></script>
+    <script type="text/javascript" src="./js/moveset_import.js?8a4ad895"></script>
 
     <script type="text/javascript" src="./js/game_controls.js"></script>
 </div>

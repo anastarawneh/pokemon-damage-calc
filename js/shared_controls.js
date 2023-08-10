@@ -468,6 +468,22 @@ function smogonAnalysis(pokemonName) {
 // auto-update set details on select
 $(".set-selector").change(function () {
 	var fullSetName = $(this).val();
+
+	if ($(this).hasClass('opposing')) {
+		var nextPokemon = getTrainerPokemon(fullSetName);
+		var trainerHTML = "";
+		for (i in nextPokemon) {
+			if (nextPokemon[i][0].includes($('input.opposing').val())){
+				continue;
+			}
+			var pokemonName = nextPokemon[i].split(" (")[0];
+			var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextPokemon[i]}" title="${nextPokemon[i]}">`;
+			trainerHTML += pokemonHTML;
+		}
+	}
+
+	$('.trainer-poke-list-opposing').html(trainerHTML);
+
 	var pokemonName = fullSetName.substring(0, fullSetName.indexOf(" ("));
 	var setName = fullSetName.substring(fullSetName.indexOf("(") + 1, fullSetName.lastIndexOf(")"));
 	var pokemon = pokedex[pokemonName];
@@ -1400,6 +1416,134 @@ function loadCustomList(id) {
 		}
 	});
 }
+
+function getTrainerNames() {
+	var allPokemon = [];
+	var params = new URLSearchParams(window.location.search);
+	var game = params.get("game");
+	switch (game) {
+		case "1":
+			allPokemon = CUSTOMSETDEX_RB;
+			break;
+		case "2":
+			allPokemon = CUSTOMSETDEX_Y;
+			break;
+		case "3":
+			allPokemon = CUSTOMSETDEX_GS;
+			break;
+		case "4":
+			allPokemon = CUSTOMSETDEX_C;
+			break;
+		case "5":
+			allPokemon = CUSTOMSETDEX_RS;
+			break;
+		case "6":
+			allPokemon = CUSTOMSETDEX_E;
+			break;
+		case "7":
+			allPokemon = CUSTOMSETDEX_FRLG;
+			break;
+		case "8":
+			allPokemon = CUSTOMSETDEX_DP;
+			break;
+		case "9":
+			allPokemon = CUSTOMSETDEX_Pl;
+			break;
+		case "10":
+			allPokemon = CUSTOMSETDEX_HGSS;
+			break;
+		case "11":
+			allPokemon = CUSTOMSETDEX_BW;
+			break;
+		case "14":
+			allPokemon = CUSTOMSETDEX_B2W2;
+			break;
+		case "15":
+			allPokemon = CUSTOMSETDEX_XY;
+			break;
+		case "16":
+			allPokemon = CUSTOMSETDEX_ORAS;
+			break;
+		default:
+			return [];
+	}
+	var trainerNames = [];
+
+	for (const [pokemonName, sets] of Object.entries(allPokemon)) {
+	    var setNames = Object.keys(sets);
+	    for (i in setNames) {
+	       var setName = setNames[i];
+	       trainerNames.push(`${pokemonName} (${setName})`);
+	    }
+	}
+	return trainerNames;
+}
+
+function getBoxMonNames() {
+	if (localStorage.customsets) {
+		console.log(localStorage.customsets);
+	    var allPokemon = JSON.parse(localStorage.customsets);
+	    var boxMonNames = [];
+
+	    for (const [pokemonName, sets] of Object.entries(allPokemon)) {
+	        var setNames = Object.keys(sets);
+	        for (i in setNames) {
+	           var setName = setNames[i];
+	           boxMonNames.push(`${pokemonName} (${setName})`);
+	        }
+	    }
+	    return boxMonNames;
+	} else {
+		return [];
+	}
+}
+
+function getBox() {
+    var names = getBoxMonNames();
+    var box = [];
+    var boxHTML = "";
+
+    for (i in names) {
+        box.push(names[i].split("[")[0]);
+
+        var pokemonName = names[i].split(" (")[0];
+        var pokemonHTML = `<img class="trainer-poke left-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${names[i].split("[")[0]}">`;
+
+        boxHTML += pokemonHTML;
+    }
+
+    $('.player-pokes').html(boxHTML);
+    return box;
+}
+
+function getTrainerPokemon(trainerName) {
+	TR_NAMES = getTrainerNames();
+	var trueName = trainerName.split("(")[1].replaceAll("*", "");
+    var matches = [];
+    for (i in TR_NAMES) {
+        if (TR_NAMES[i].replaceAll("*", "").includes(trueName)) {
+            matches.push(TR_NAMES[i]);
+        }
+    }
+    return matches;
+}
+
+$(document).on('click', '.right-side', function() {
+	var set = $(this).attr('data-id');
+	$('.opposing').val(set);
+
+	$('.opposing').change();
+	$('.opposing .select2-chosen').text(set);
+})
+
+$(document).on('click', '.left-side', function() {
+	var set = $(this).attr('data-id');
+	$('.player').val(set);
+
+	$('.player').change();
+	$('.player .select2-chosen').text(set);
+	getBox();
+})
 
 var READY;
 $(document).ready(function () {

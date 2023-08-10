@@ -299,7 +299,6 @@ th {
 }
 
 .game.visually-hidden:disabled + .btn {
-    color: #999999;
     background-color: #d3d3d3;
 }
 
@@ -510,4 +509,31 @@ table.field {
 .extraSetItems,
 .extraSetMoves {
     width: 100%;
+}
+
+
+
+
+
+.trainer-poke-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.trainer-poke-list-opposing {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.trainer-poke {
+    height: 100%;
+    width: auto;
+    margin-right: 10px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.trainer-poke:hover {
+    outline: 2px solid;
+    outline-color: #1abc9c;
 }
