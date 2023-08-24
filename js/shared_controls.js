@@ -519,14 +519,14 @@ $(".set-selector").change(function () {
 			$(this).closest('.poke-info').find(".extraSetAbilities").text(listAbilities.join(', '));
 			if (gen >= 2) $(this).closest('.poke-info').find(".item-pool").show();
 			$(this).closest('.poke-info').find(".extraSetItems").text(listItems.join(', '));
-			if (gen >= 9) {
+			if (gen >= 9 || gen === 7) {
 				$(this).closest('.poke-info').find(".role-pool").show();
-				$(this).closest('.poke-info').find(".tera-type-pool").show();
+				if (gen >= 9) $(this).closest('.poke-info').find(".tera-type-pool").show();
 			}
 			var listRoles = randdex[pokemonName].roles ? Object.keys(randdex[pokemonName].roles) : [];
 			$(this).closest('.poke-info').find(".extraSetRoles").text(listRoles.join(', '));
 			var listTeraTypes = [];
-			if (randdex[pokemonName].roles) {
+			if (randdex[pokemonName].roles && gen >= 9) {
 				for (var roleName in randdex[pokemonName].roles) {
 					var role = randdex[pokemonName].roles[roleName];
 					for (var q = 0; q < role.teraTypes.length; q++) {
@@ -573,7 +573,7 @@ $(".set-selector").change(function () {
 			}
 			var setMoves = set.moves;
 			if (randset) {
-				if (gen < 9) {
+				if (gen < 9 && gen !== 7) {
 					setMoves = randset.moves;
 				} else {
 					setMoves = [];
@@ -811,7 +811,7 @@ function createPokemon(pokeInfo) {
 			evs[stat] = (set.evs && typeof set.evs[legacyStat] !== "undefined") ? set.evs[legacyStat] : 0;
 		}
 		var moveNames = set.moves;
-		if (isRandoms && gen >= 9) {
+		if (isRandoms && (gen >= 9 || gen === 7)) {
 			moveNames = [];
 			for (var role in set.roles) {
 				for (var q = 0; q < set.roles[role].moves.length; q++) {
