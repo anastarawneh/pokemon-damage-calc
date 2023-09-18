@@ -4152,7 +4152,7 @@ var SV_PATCH = {
     'Fairy Wind': { isWind: true },
     'Fury Cutter': { isSlicing: true },
     'Glacial Lance': { bp: 120, zp: 190 },
-    'Grassy Glide': { bp: 60, zp: 120, maxPower: 110 },
+    'Grassy Glide': { bp: 55, zp: 100, maxPower: 110 },
     Gust: { isWind: true },
     'Heat Wave': { isWind: true },
     Hurricane: { isWind: true },
@@ -4249,6 +4249,13 @@ var SV_PATCH = {
         secondaries: true,
         isWind: true,
         target: 'allAdjacentFoes'
+    },
+    'Blood Moon': {
+        bp: 140,
+        type: 'Normal',
+        category: 'Special',
+        zp: 200,
+        maxPower: 140
     },
     'Ceaseless Edge': {
         bp: 65,
@@ -4412,6 +4419,13 @@ var SV_PATCH = {
         maxPower: 110,
         secondaries: true
     },
+    'Ivy Cudgel': {
+        bp: 100,
+        type: 'Grass',
+        category: 'Physical',
+        zp: 180,
+        maxPower: 130
+    },
     'Jet Punch': {
         bp: 60,
         type: 'Water',
@@ -4467,6 +4481,16 @@ var SV_PATCH = {
         maxPower: 140,
         target: 'allAdjacentFoes',
         self: { boosts: { spa: -1 } }
+    },
+    'Matcha Gotcha': {
+        bp: 80,
+        type: 'Grass',
+        category: 'Special',
+        target: 'allAdjacentFoes',
+        zp: 160,
+        maxPower: 130,
+        secondaries: true,
+        drain: [1, 2]
     },
     'Mortal Spin': {
         bp: 30,
@@ -4658,6 +4682,15 @@ var SV_PATCH = {
         maxPower: 120,
         makesContact: true,
         isSlicing: true,
+        secondaries: true
+    },
+    'Syrup Bomb': {
+        bp: 60,
+        type: 'Grass',
+        category: 'Special',
+        zp: 120,
+        maxPower: 110,
+        isBullet: true,
         secondaries: true
     },
     'Take Heart': {

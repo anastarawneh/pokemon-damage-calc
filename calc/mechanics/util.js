@@ -281,6 +281,25 @@ function checkDauntlessShield(source, gen) {
     }
 }
 exports.checkDauntlessShield = checkDauntlessShield;
+function checkEmbody(source, gen) {
+    if (gen.num < 9)
+        return;
+    switch (source.ability) {
+        case 'Embody Aspect (Cornerstone)':
+            source.boosts.def = Math.min(6, source.boosts.def + 1);
+            break;
+        case 'Embody Aspect (Hearthflame)':
+            source.boosts.atk = Math.min(6, source.boosts.atk + 1);
+            break;
+        case 'Embody Aspect (Teal)':
+            source.boosts.spe = Math.min(6, source.boosts.spe + 1);
+            break;
+        case 'Embody Aspect (Wellspring)':
+            source.boosts.spd = Math.min(6, source.boosts.spd + 1);
+            break;
+    }
+}
+exports.checkEmbody = checkEmbody;
 function checkInfiltrator(pokemon, affectedSide) {
     if (pokemon.hasAbility('Infiltrator')) {
         affectedSide.isReflect = false;
