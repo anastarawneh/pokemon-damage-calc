@@ -484,6 +484,7 @@ function smogonAnalysis(pokemonName) {
 
 // auto-update set details on select
 $(".set-selector").change(function () {
+	window.NO_CALC = true;
 	var fullSetName = $(this).val();
 
 	if ($(this).hasClass('opposing')) {
@@ -675,6 +676,7 @@ $(".set-selector").change(function () {
 			if (regSets && setdex[pokemonName][setName].gender === "M") pokeObj.find(".gender").val("Male");
 			if (regSets && setdex[pokemonName][setName].gender === "F") pokeObj.find(".gender").val("Female");
 		}
+		window.NO_CALC = false;
 	}
 });
 
@@ -877,7 +879,8 @@ function createPokemon(pokeInfo) {
 		var pokemonMoves = [];
 		for (var i = 0; i < 4; i++) {
 			var moveName = moveNames[i];
-			pokemonMoves.push(new calc.Move(gen, moves[moveName] ? moveName : "(No Move)", {ability: ability, item: item}));
+			var isCrit = $('.move-crit')[i].checked;
+			pokemonMoves.push(new calc.Move(gen, moves[moveName] ? moveName : "(No Move)", { ability: ability, item: item, isCrit: isCrit, }));
 		}
 
 		if (isRandoms) {
@@ -1551,7 +1554,7 @@ function getBoxMonNames() {
 	}
 }
 
-function getBox() {
+/*function getBox() {
     var names = getBoxMonNames();
     var box = [];
     var boxHTML = "";
@@ -1567,6 +1570,32 @@ function getBox() {
 
     $('.player-pokes').html(boxHTML);
     return box;
+}*/
+
+function addBoxed(poke) {
+	if (document.getElementById(`${poke.name}${poke.nameProp}`)) {
+		//nothing to do it already exist
+		return
+	}
+	var newPoke = document.createElement("img");
+	newPoke.id = `${poke.name}${poke.nameProp}`
+	newPoke.className = "trainer-poke left-side";
+	newPoke.src = getSrcImgPokemon(poke);
+	newPoke.dataset.id = `${poke.name} (${poke.nameProp})`
+	newPoke.addEventListener("dragstart", dragstart_handler);
+	$('#box-poke-list')[0].appendChild(newPoke)
+}
+
+function getSrcImgPokemon(poke) {
+	//edge case
+	if (!poke) {
+		return
+	}
+	if (poke.name == "Aegislash-Shield") {
+		return `https://raw.githubusercontent.com/May8th1995/sprites/master/Aegislash.png`
+	} else {
+		return `https://raw.githubusercontent.com/May8th1995/sprites/master/${poke.name}.png`
+	}
 }
 
 function getTrainerPokemon(trainerName) {
@@ -1595,8 +1624,162 @@ $(document).on('click', '.left-side', function() {
 
 	$('.player').change();
 	$('.player .select2-chosen').text(set);
-	getBox();
 })
+
+function selectFirstMon() {
+	var pMons = document.getElementsByClassName("trainer-poke left-side");
+	let set = pMons[0].getAttribute("data-id");
+	$('.player').val(set);
+	$('.player').change();
+	$('.player .select2-chosen').text(set);
+}
+
+function hideShowCCSettings() {
+	$('#show-cc')[0].toggleAttribute("hidden");
+	$('#hide-cc')[0].toggleAttribute("hidden");
+	$('#refr-cc')[0].toggleAttribute("hidden");
+	$('#info-cc')[0].toggleAttribute("hidden");
+	$('#cc-sets')[0].toggleAttribute("hidden");
+}
+
+function colorCodeUpdate() {
+	var speCheck = document.getElementById("cc-spe-border").checked;
+	var ohkoCheck = document.getElementById("cc-ohko-color").checked;
+	if (!speCheck && !ohkoCheck){
+		return
+	}
+	var pMons = document.getElementsByClassName("trainer-poke left-side");
+	// i calc here to alleviate some calculation
+	var p2info = $("#p2");
+	var p2 = createPokemon(p2info);
+	for (let i = 0; i < pMons.length; i++) {
+		let set = pMons[i].getAttribute("data-id");
+		let idColor = calculationsColors(set, p2);
+		if (speCheck && ohkoCheck){
+			pMons[i].className = `trainer-poke left-side mon-speed-${idColor.speed} mon-dmg-${idColor.code}`;
+		}
+		else if (speCheck){
+			pMons[i].className = `trainer-poke left-side mon-speed-${idColor.speed}`;
+		}
+		else if (ohkoCheck){
+			pMons[i].className = `trainer-poke left-side mon-dmg-${idColor.code}`;
+		}
+	}
+}
+
+function showColorCodes() {
+	colorCodeUpdate();
+	hideShowCCSettings();
+
+}
+
+function refreshColorCode() {
+	colorCodeUpdate();
+}
+
+function hideColorCodes() {
+	var pMons = document.getElementsByClassName("trainer-poke left-side");
+	for (let i = 0; i < pMons.length; i++) {
+		pMons[i].className = "trainer-poke left-side";
+	}
+	hideShowCCSettings();
+}
+
+function toggleInfoColorCode(){
+	document.getElementById("info-cc-field").toggleAttribute("hidden");
+}
+
+function trashPokemon() {
+	var maybeMultiple = document.getElementById("trash-box").getElementsByClassName("trainer-poke");
+	if (maybeMultiple.length == 0){
+		return; //nothing to delete
+	}
+	var numberPKM = maybeMultiple.length > 1 ? `${maybeMultiple.length} Pokémon` : "this Pokémon"; 
+	var yes = confirm(`Do you really want to remove ${numberPKM}?`);
+	if (!yes) {
+		return;
+	}
+	var customSets = JSON.parse(localStorage.customsets);
+	var length = maybeMultiple.length;
+	for( let i = 0; i<length; i++){
+		var pokeTrashed = maybeMultiple[i];
+		var name = pokeTrashed.getAttribute("data-id").split(" (")[0];
+		delete customSets[name];
+	}
+	document.getElementById("trash-box").innerHTML="";
+	localStorage.setItem("customsets", JSON.stringify(customSets));
+	$('#box-poke-list')[0].click();
+	//switch to the next pokemon automatically
+	$('.box-poke-list')[0].click()
+}
+
+function allowDrop(ev) {
+	ev.preventDefault();
+}
+
+var pokeDragged = null;
+function dragstart_handler(ev) {
+	pokeDragged = ev.target;
+}
+
+function drop(ev) {
+	ev.preventDefault();
+	if (ev.target.classList.contains("dropzone")) {
+		pokeDragged.parentNode.removeChild(pokeDragged);
+		ev.target.appendChild(pokeDragged);
+	}
+	// if it's a pokemon
+	else if (ev.target.classList.contains("left-side")) {
+		//And if a sibling switch them
+		if (ev.target.parentNode == pokeDragged.parentNode) {
+			let prev1 = ev.target.previousSibling || ev.target;
+			let prev2 = pokeDragged.previousSibling || pokeDragged;
+
+			prev1.after(pokeDragged);
+			prev2.after(ev.target);
+		}
+		//if not just append to the box it belongs
+		else {
+			let prev1 = ev.target.previousSibling || ev.target;
+			prev1.after(pokeDragged);
+		}
+	}
+	ev.target.classList.remove('over');
+}
+
+function handleDragEnter(ev) {
+	ev.target.classList.add('over');
+}
+
+function handleDragLeave(ev) {
+	ev.target.classList.remove('over');
+}
+
+function speedBorderSetsChange(ev){
+	var monImgs = document.getElementsByClassName("left-side");
+	if (ev.target.checked){
+		for (let monImg of monImgs){
+			monImg.classList.remove("mon-speed-none")
+		}
+	}else{
+		for (let monImg of monImgs){
+			monImg.classList.add("mon-speed-none")
+		}
+	}
+}
+
+function colorCodeSetsChange(ev){
+	var monImgs = document.getElementsByClassName("left-side");
+	if (ev.target.checked){
+		for (let monImg of monImgs){
+			monImg.classList.remove("mon-dmg-none")
+		}
+	}else{
+		for (let monImg of monImgs){
+			monImg.classList.add("mon-dmg-none")
+		}
+	}
+}
 
 var READY;
 $(document).ready(function () {
@@ -1622,6 +1805,23 @@ $(document).ready(function () {
 	$(".set-selector").val(getFirstValidSetOption().id);
 	$(".set-selector").change();
 	$(".terrain-trigger").bind("change keyup", getTerrainEffects);
+
+	$('#show-cc').click(showColorCodes);
+	$('#hide-cc').click(hideColorCodes);
+	$('#refr-cc').click(refreshColorCode);
+	$('#info-cc').click(toggleInfoColorCode);
+	$('#trash-poke').click(trashPokemon);
+	$('#cc-spe-border').change(speedBorderSetsChange);
+	$('#cc-ohko-color').change(colorCodeSetsChange);
+	$('#cc-spe-border')[0].checked=true;
+	$('#cc-ohko-color')[0].checked=true;
+
+	for (let dropzone of document.getElementsByClassName("dropzone")){
+		dropzone.ondragenter=handleDragEnter;
+		dropzone.ondragleave=handleDragLeave;
+		dropzone.ondrop=drop;
+		dropzone.ondragover=allowDrop;
+	}
 
 	READY = true;
 });
