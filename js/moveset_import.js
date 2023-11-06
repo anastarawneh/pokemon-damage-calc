@@ -270,6 +270,8 @@ function updateDex(customsets, callback = null) {
 
 			if (!CUSTOMSETDEX_E[pokemon]) CUSTOMSETDEX_E[pokemon] = {};
 			CUSTOMSETDEX_E[pokemon][moveset] = customsets[pokemon][moveset];
+			if (!CUSTOMSETDEX_Pl[pokemon]) CUSTOMSETDEX_Pl[pokemon] = {};
+			CUSTOMSETDEX_Pl[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!CUSTOMSETDEX_HGSS[pokemon]) CUSTOMSETDEX_HGSS[pokemon] = {};
 			CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!CUSTOMSETDEX_XY[pokemon]) CUSTOMSETDEX_XY[pokemon] = {};
