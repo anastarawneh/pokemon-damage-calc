@@ -276,6 +276,8 @@ function updateDex(customsets, callback = null) {
 			CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset];
 			if (!CUSTOMSETDEX_XY[pokemon]) CUSTOMSETDEX_XY[pokemon] = {};
 			CUSTOMSETDEX_XY[pokemon][moveset] = customsets[pokemon][moveset];
+			if (!CUSTOMSETDEX_SM[pokemon]) CUSTOMSETDEX_SM[pokemon] = {};
+			CUSTOMSETDEX_SM[pokemon][moveset] = customsets[pokemon][moveset];
 
 			var poke = {name: pokemon, nameProp: moveset};	
 			addBoxed(poke);

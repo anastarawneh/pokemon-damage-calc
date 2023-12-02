@@ -57,7 +57,8 @@ var CUSTOMSETDEX = [
 	undefined, // XD
 	typeof CUSTOMSETDEX_B2W2 === 'undefined' ? {} : CUSTOMSETDEX_B2W2,
 	typeof CUSTOMSETDEX_XY === 'undefined' ? {} : CUSTOMSETDEX_XY,
-	typeof CUSTOMSETDEX_ORAS === 'undefined' ? {} : CUSTOMSETDEX_ORAS
+	typeof CUSTOMSETDEX_ORAS === 'undefined' ? {} : CUSTOMSETDEX_ORAS,
+	typeof CUSTOMSETDEX_SM === 'undefined' ? {} : CUSTOMSETDEX_SM
 ];
 
 var GAMEGEN = {
@@ -74,7 +75,8 @@ var GAMEGEN = {
 	11: 5,
     14: 5,
     15: 6,
-    16: 6
+    16: 6,
+	17: 7
 }
 
 function updateGenOptions() {

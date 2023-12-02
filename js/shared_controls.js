@@ -1520,6 +1520,9 @@ function getTrainerNames() {
 		case "16":
 			allPokemon = CUSTOMSETDEX_ORAS;
 			break;
+		case "17":
+			allPokemon = CUSTOMSETDEX_SM;
+			break;
 		default:
 			return [];
 	}
