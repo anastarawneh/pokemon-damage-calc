@@ -29,7 +29,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Island Kahuna Nanu #2": {
+        "Island Kahuna Nanu @ Seafolk Village": {
             "ability": "Super Luck",
             "evs": {
                 "at": "252",
@@ -263,7 +263,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Dexio #2": {
+        "Pokémon Trainer Dexio @ Ancient Poni Path": {
             "ability": "Synchronize",
             "evs": {
                 "at": "0",
@@ -294,7 +294,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Alakazam-Mega": {
-        "Pokémon Trainer Dexio #2": {
+        "Pokémon Trainer Dexio @ Ancient Poni Path": {
             "ability": "Trace",
             "evs": {
                 "at": "0",
@@ -496,9 +496,9 @@ var CUSTOMSETDEX_SM = {
             "level": 55,
             "moves": [
                 "Extreme Speed",
-                "Bite",
-                "Roar",
-                "Odor Sleuth"
+                "Fire Fang",
+                "Odor Sleuth",
+                "Roar"
             ],
             "nature": "Hardy"
         },
@@ -652,7 +652,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Ariados": {
-        "Pokémon Trainer Guzma": {
+        "Pokémon Trainer Guzma @ Hau'oli City": {
             "ability": "Swarm",
             "evs": {
                 "at": "252",
@@ -710,7 +710,35 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Boss Guzma": {
+        "Team Skull Boss Guzma @ Aether Paradise": {
+            "ability": "Swarm",
+            "evs": {
+                "at": "252",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "252"
+            },
+            "gender": "M",
+            "item": "",
+            "ivs": {
+                "at": "31",
+                "df": "31",
+                "hp": "31",
+                "sa": "31",
+                "sd": "31",
+                "sp": "31"
+            },
+            "level": 40,
+            "moves": [
+                "Fell Stinger",
+                "Sucker Punch",
+                "Shadow Sneak"
+            ],
+            "nature": "Adamant"
+        },
+        "Team Skull Boss Guzma @ Malie Garden": {
             "ability": "Swarm",
             "evs": {
                 "at": "252",
@@ -739,7 +767,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Team Skull Boss Guzma #2": {
+        "Team Skull Boss Guzma @ Shady House": {
             "ability": "Swarm",
             "evs": {
                 "at": "252",
@@ -765,34 +793,6 @@ var CUSTOMSETDEX_SM = {
                 "Sucker Punch",
                 "Shadow Sneak",
                 "Infestation"
-            ],
-            "nature": "Adamant"
-        },
-        "Team Skull Boss Guzma #3": {
-            "ability": "Swarm",
-            "evs": {
-                "at": "252",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "252"
-            },
-            "gender": "M",
-            "item": "",
-            "ivs": {
-                "at": "31",
-                "df": "31",
-                "hp": "31",
-                "sa": "31",
-                "sd": "31",
-                "sp": "31"
-            },
-            "level": 40,
-            "moves": [
-                "Fell Stinger",
-                "Sucker Punch",
-                "Shadow Sneak"
             ],
             "nature": "Adamant"
         }
@@ -883,7 +883,7 @@ var CUSTOMSETDEX_SM = {
                 "Amnesia",
                 "Mud Bomb",
                 "Water Gun",
-                "Mud Sport"
+                "Water Sport"
             ],
             "nature": "Serious"
         },
@@ -938,8 +938,8 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 25,
             "moves": [
-                "Rest",
                 "Snore",
+                "Rest",
                 "Magnitude",
                 "Water Pulse"
             ],
@@ -947,7 +947,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Bewear": {
-        "Aether President Lusamine": {
+        "Aether President Lusamine @ Aether Paradise": {
             "ability": "Fluffy",
             "evs": {
                 "at": "252",
@@ -975,7 +975,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Aether President Lusamine #2": {
+        "Aether President Lusamine @ Ultra Space": {
             "ability": "Fluffy",
             "evs": {
                 "at": "252",
@@ -1175,8 +1175,8 @@ var CUSTOMSETDEX_SM = {
             "level": 7,
             "moves": [
                 "Flail",
-                "Fake Tears",
-                "Copycat"
+                "Copycat",
+                "Fake Tears"
             ],
             "nature": "Serious"
         }
@@ -1758,7 +1758,7 @@ var CUSTOMSETDEX_SM = {
                 "Smack Down",
                 "Sharpen",
                 "Rock Throw",
-                "Tackle"
+                "Harden"
             ],
             "nature": "Serious"
         },
@@ -1787,7 +1787,7 @@ var CUSTOMSETDEX_SM = {
                 "Smack Down",
                 "Sharpen",
                 "Rock Throw",
-                "Tackle"
+                "Harden"
             ],
             "nature": "Hardy"
         },
@@ -1844,8 +1844,8 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 3,
             "moves": [
-                "Tackle",
-                "String Shot"
+                "String Shot",
+                "Tackle"
             ],
             "nature": "Serious"
         },
@@ -1872,8 +1872,8 @@ var CUSTOMSETDEX_SM = {
             "level": 29,
             "moves": [
                 "Bug Bite",
-                "Tackle",
-                "String Shot"
+                "String Shot",
+                "Tackle"
             ],
             "nature": "Serious"
         }
@@ -1964,7 +1964,7 @@ var CUSTOMSETDEX_SM = {
                 "Acrobatics",
                 "Spark",
                 "Bug Bite",
-                "Vise Grip"
+                "Bite"
             ],
             "nature": "Serious"
         },
@@ -1991,8 +1991,8 @@ var CUSTOMSETDEX_SM = {
             "level": 13,
             "moves": [
                 "Bug Bite",
-                "Vise Grip",
                 "Bite",
+                "Mud-Slap",
                 "String Shot"
             ],
             "nature": "Hardy"
@@ -2058,7 +2058,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Clefable": {
-        "Aether President Lusamine": {
+        "Aether President Lusamine @ Aether Paradise": {
             "ability": "Magic Guard",
             "evs": {
                 "at": "0",
@@ -2086,7 +2086,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Calm"
         },
-        "Aether President Lusamine #2": {
+        "Aether President Lusamine @ Ultra Space": {
             "ability": "Magic Guard",
             "evs": {
                 "at": "0",
@@ -2204,7 +2204,7 @@ var CUSTOMSETDEX_SM = {
                 "Icicle Crash",
                 "Spikes",
                 "Spike Cannon",
-                "Supersonic"
+                "Aurora Beam"
             ],
             "nature": "Serious"
         },
@@ -2232,8 +2232,8 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Spikes",
                 "Spike Cannon",
-                "Supersonic",
-                "Hydro Pump"
+                "Aurora Beam",
+                "Protect"
             ],
             "nature": "Serious"
         }
@@ -2441,7 +2441,7 @@ var CUSTOMSETDEX_SM = {
                 "Stun Spore",
                 "Leech Seed",
                 "Growth",
-                "Absorb"
+                "Fairy Wind"
             ],
             "nature": "Serious"
         }
@@ -2740,7 +2740,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Fire Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -2767,7 +2767,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #2": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Grass Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -2794,7 +2794,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #3": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Water Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -2821,7 +2821,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #4": {
+        "Pokémon Trainer Gladion @ Pokémon League [Fire Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -2850,7 +2850,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #5": {
+        "Pokémon Trainer Gladion @ Pokémon League [Grass Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -2879,7 +2879,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #6": {
+        "Pokémon Trainer Gladion @ Pokémon League [Water Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -2908,7 +2908,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Plumeria": {
+        "Pokémon Trainer Plumeria @ Pokémon League": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -3594,8 +3594,8 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Astonish",
                 "Growl",
-                "Sand Attack",
-                "Metal Claw"
+                "Metal Claw",
+                "Sand Attack"
             ],
             "nature": "Serious"
         },
@@ -3985,7 +3985,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Drowzee": {
-        "Team Skull Grunt @ Berry fields": {
+        "Team Skull Grunt @ Berry Fields": {
             "ability": "Insomnia",
             "evs": {
                 "at": "0",
@@ -4244,36 +4244,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Island Kahuna Hapu": {
-            "ability": "Sand Veil",
-            "evs": {
-                "at": "252",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "252"
-            },
-            "gender": "F",
-            "item": "",
-            "ivs": {
-                "at": "31",
-                "df": "15",
-                "hp": "31",
-                "sa": "15",
-                "sd": "15",
-                "sp": "31"
-            },
-            "level": 47,
-            "moves": [
-                "Iron Head",
-                "Earthquake",
-                "Sucker Punch",
-                "Sandstorm"
-            ],
-            "nature": "Serious"
-        },
-        "Island Kahuna Hapu #2": {
+        "Island Kahuna Hapu @ Pokémon League": {
             "ability": "Sand Veil",
             "evs": {
                 "at": "252",
@@ -4299,6 +4270,35 @@ var CUSTOMSETDEX_SM = {
                 "Earthquake",
                 "Sandstorm",
                 "Rock Slide"
+            ],
+            "nature": "Serious"
+        },
+        "Island Kahuna Hapu @ Vast Poni Canyon": {
+            "ability": "Sand Veil",
+            "evs": {
+                "at": "252",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "252"
+            },
+            "gender": "F",
+            "item": "",
+            "ivs": {
+                "at": "31",
+                "df": "15",
+                "hp": "31",
+                "sa": "15",
+                "sd": "15",
+                "sp": "31"
+            },
+            "level": 47,
+            "moves": [
+                "Iron Head",
+                "Earthquake",
+                "Sucker Punch",
+                "Sandstorm"
             ],
             "nature": "Serious"
         },
@@ -4384,8 +4384,8 @@ var CUSTOMSETDEX_SM = {
             "level": 20,
             "moves": [
                 "Refresh",
-                "Bite",
                 "Swift",
+                "Bite",
                 "Quick Attack"
             ],
             "nature": "Serious"
@@ -4525,9 +4525,9 @@ var CUSTOMSETDEX_SM = {
             "level": 30,
             "moves": [
                 "Acid Spray",
-                "Stockpile",
                 "Spit Up",
-                "Swallow"
+                "Swallow",
+                "Stockpile"
             ],
             "nature": "Serious"
         },
@@ -4553,9 +4553,9 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 27,
             "moves": [
-                "Stockpile",
                 "Spit Up",
                 "Swallow",
+                "Stockpile",
                 "Acid"
             ],
             "nature": "Serious"
@@ -4773,34 +4773,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Dexio": {
-            "ability": "Synchronize",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "M",
-            "item": "",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "31",
-                "sa": "15",
-                "sd": "15",
-                "sp": "31"
-            },
-            "level": 16,
-            "moves": [
-                "Confusion",
-                "Quick Attack"
-            ],
-            "nature": "Serious"
-        },
-        "Pokémon Trainer Dexio #2": {
+        "Pokémon Trainer Dexio @ Ancient Poni Path": {
             "ability": "Synchronize",
             "evs": {
                 "at": "0",
@@ -4826,6 +4799,33 @@ var CUSTOMSETDEX_SM = {
                 "Shadow Ball",
                 "Dazzling Gleam",
                 "Power Swap"
+            ],
+            "nature": "Serious"
+        },
+        "Pokémon Trainer Dexio @ Heahea City": {
+            "ability": "Synchronize",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "M",
+            "item": "",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "31",
+                "sa": "15",
+                "sd": "15",
+                "sp": "31"
+            },
+            "level": 16,
+            "moves": [
+                "Confusion",
+                "Quick Attack"
             ],
             "nature": "Serious"
         }
@@ -5417,34 +5417,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Flygon": {
-        "Island Kahuna Hapu": {
-            "ability": "Levitate",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "252",
-                "sd": "0",
-                "sp": "252"
-            },
-            "gender": "M",
-            "item": "",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "31",
-                "sa": "31",
-                "sd": "15",
-                "sp": "31"
-            },
-            "level": 47,
-            "moves": [
-                "Earth Power",
-                "Dragon Breath"
-            ],
-            "nature": "Serious"
-        },
-        "Island Kahuna Hapu #2": {
+        "Island Kahuna Hapu @ Pokémon League": {
             "ability": "Levitate",
             "evs": {
                 "at": "0",
@@ -5470,6 +5443,33 @@ var CUSTOMSETDEX_SM = {
                 "Earthquake",
                 "Stone Edge",
                 "Steel Wing"
+            ],
+            "nature": "Serious"
+        },
+        "Island Kahuna Hapu @ Vast Poni Canyon": {
+            "ability": "Levitate",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "252",
+                "sd": "0",
+                "sp": "252"
+            },
+            "gender": "M",
+            "item": "",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "31",
+                "sa": "31",
+                "sd": "15",
+                "sp": "31"
+            },
+            "level": 47,
+            "moves": [
+                "Earth Power",
+                "Dragon Breath"
             ],
             "nature": "Serious"
         }
@@ -5799,8 +5799,8 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Mean Look",
                 "Spite",
-                "Hypnosis",
-                "Lick"
+                "Lick",
+                "Hypnosis"
             ],
             "nature": "Serious"
         },
@@ -5835,35 +5835,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Gastrodon": {
-        "Island Kahuna Hapu": {
-            "ability": "Sticky Hold",
-            "evs": {
-                "at": "0",
-                "df": "252",
-                "hp": "252",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "F",
-            "item": "",
-            "ivs": {
-                "at": "15",
-                "df": "31",
-                "hp": "31",
-                "sa": "15",
-                "sd": "31",
-                "sp": "15"
-            },
-            "level": 47,
-            "moves": [
-                "Muddy Water",
-                "Mud Bomb",
-                "Recover"
-            ],
-            "nature": "Serious"
-        },
-        "Island Kahuna Hapu #2": {
+        "Island Kahuna Hapu @ Pokémon League": {
             "ability": "Sticky Hold",
             "evs": {
                 "at": "0",
@@ -5891,10 +5863,38 @@ var CUSTOMSETDEX_SM = {
                 "Ice Beam"
             ],
             "nature": "Serious"
+        },
+        "Island Kahuna Hapu @ Vast Poni Canyon": {
+            "ability": "Sticky Hold",
+            "evs": {
+                "at": "0",
+                "df": "252",
+                "hp": "252",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "F",
+            "item": "",
+            "ivs": {
+                "at": "15",
+                "df": "31",
+                "hp": "31",
+                "sa": "15",
+                "sd": "31",
+                "sp": "15"
+            },
+            "level": 47,
+            "moves": [
+                "Muddy Water",
+                "Mud Bomb",
+                "Recover"
+            ],
+            "nature": "Serious"
         }
     },
     "Gengar": {
-        "Pokémon Trainer Plumeria": {
+        "Pokémon Trainer Plumeria @ Pokémon League": {
             "ability": "Cursed Body",
             "evs": {
                 "at": "0",
@@ -6105,7 +6105,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Golbat": {
-        "Team Skull Admin Plumeria": {
+        "Team Skull Admin Plumeria @ Akala Outskirts": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -6132,7 +6132,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Jolly"
         },
-        "Team Skull Admin Plumeria #2": {
+        "Team Skull Admin Plumeria @ Route 15": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -6160,7 +6160,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Jolly"
         },
-        "Team Skull Gladion #3": {
+        "Team Skull Gladion @ Aether House": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -6187,7 +6187,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Gladion #4": {
+        "Team Skull Gladion @ Aether Paradise": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -6444,7 +6444,7 @@ var CUSTOMSETDEX_SM = {
                 "Flail",
                 "Horn Attack",
                 "Supersonic",
-                "Tail Whip"
+                "Water Sport"
             ],
             "nature": "Serious"
         }
@@ -6658,7 +6658,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Golisopod": {
-        "Pokémon Trainer Guzma": {
+        "Pokémon Trainer Guzma @ Hau'oli City": {
             "ability": "Emergency Exit",
             "evs": {
                 "at": "252",
@@ -6686,7 +6686,35 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Team Skull Boss Guzma": {
+        "Team Skull Boss Guzma @ Aether Paradise": {
+            "ability": "Emergency Exit",
+            "evs": {
+                "at": "252",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "M",
+            "item": "",
+            "ivs": {
+                "at": "31",
+                "df": "15",
+                "hp": "31",
+                "sa": "15",
+                "sd": "15",
+                "sp": "31"
+            },
+            "level": 41,
+            "moves": [
+                "Swords Dance",
+                "Razor Shell",
+                "First Impression"
+            ],
+            "nature": "Adamant"
+        },
+        "Team Skull Boss Guzma @ Malie Garden": {
             "ability": "Emergency Exit",
             "evs": {
                 "at": "0",
@@ -6714,7 +6742,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Team Skull Boss Guzma #2": {
+        "Team Skull Boss Guzma @ Shady House": {
             "ability": "Emergency Exit",
             "evs": {
                 "at": "252",
@@ -6735,34 +6763,6 @@ var CUSTOMSETDEX_SM = {
                 "sp": "31"
             },
             "level": 37,
-            "moves": [
-                "Swords Dance",
-                "Razor Shell",
-                "First Impression"
-            ],
-            "nature": "Adamant"
-        },
-        "Team Skull Boss Guzma #3": {
-            "ability": "Emergency Exit",
-            "evs": {
-                "at": "252",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "M",
-            "item": "",
-            "ivs": {
-                "at": "31",
-                "df": "15",
-                "hp": "31",
-                "sa": "15",
-                "sd": "15",
-                "sp": "31"
-            },
-            "level": 41,
             "moves": [
                 "Swords Dance",
                 "Razor Shell",
@@ -6831,7 +6831,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Granbull": {
-        "Captain Mina": {
+        "Captain Mina @ Poni Gauntlet": {
             "ability": "Intimidate",
             "evs": {
                 "at": "252",
@@ -6860,7 +6860,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Captain Mina #2": {
+        "Captain Mina @ Route 8": {
             "ability": "Intimidate",
             "evs": {
                 "at": "252",
@@ -7005,7 +7005,7 @@ var CUSTOMSETDEX_SM = {
                 "Disable",
                 "Mud-Slap",
                 "Harden",
-                "Pound"
+                "Poison Gas"
             ],
             "nature": "Hardy"
         }
@@ -7064,8 +7064,8 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Bite",
                 "Harden",
-                "Pound",
-                "Poison Gas"
+                "Poison Gas",
+                "Pound"
             ],
             "nature": "Serious"
         },
@@ -7300,7 +7300,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Gumshoos": {
-        "Captain Ilima #4": {
+        "Captain Ilima @ Trainers' School": {
             "ability": "Stakeout",
             "evs": {
                 "at": "0",
@@ -7501,7 +7501,7 @@ var CUSTOMSETDEX_SM = {
                 "Sweet Kiss",
                 "Refresh",
                 "Copycat",
-                "Pound"
+                "Charm"
             ],
             "nature": "Serious"
         }
@@ -7885,7 +7885,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Honchkrow": {
-        "Island Kahuna Nanu #2": {
+        "Island Kahuna Nanu @ Seafolk Village": {
             "ability": "Insomnia",
             "evs": {
                 "at": "252",
@@ -8471,7 +8471,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Klefki": {
-        "Captain Mina": {
+        "Captain Mina @ Poni Gauntlet": {
             "ability": "Prankster",
             "evs": {
                 "at": "0",
@@ -8500,7 +8500,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Captain Mina #2": {
+        "Captain Mina @ Route 8": {
             "ability": "Prankster",
             "evs": {
                 "at": "0",
@@ -8853,7 +8853,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Krokorok": {
-        "Island Kahuna Nanu": {
+        "Island Kahuna Nanu @ Malie City": {
             "ability": "Intimidate",
             "evs": {
                 "at": "252",
@@ -8913,7 +8913,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Krookodile": {
-        "Island Kahuna Hapu #2": {
+        "Island Kahuna Hapu @ Pokémon League": {
             "ability": "Intimidate",
             "evs": {
                 "at": "252",
@@ -8942,7 +8942,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Island Kahuna Nanu #2": {
+        "Island Kahuna Nanu @ Seafolk Village": {
             "ability": "Intimidate",
             "evs": {
                 "at": "252",
@@ -9369,7 +9369,7 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Silver Wind",
                 "Mach Punch",
-                "Light Screen",
+                "Safeguard",
                 "Reflect"
             ],
             "nature": "Serious"
@@ -9399,9 +9399,9 @@ var CUSTOMSETDEX_SM = {
             "level": 16,
             "moves": [
                 "Mach Punch",
-                "Light Screen",
+                "Safeguard",
                 "Reflect",
-                "Safeguard"
+                "Light Screen"
             ],
             "nature": "Serious"
         }
@@ -9431,12 +9431,12 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Quiver Dance",
                 "Teeter Dance",
-                "Mega Drain",
-                "Leech Seed"
+                "Synthesis",
+                "Mega Drain"
             ],
             "nature": "Serious"
         },
-        "Aether President Lusamine": {
+        "Aether President Lusamine @ Aether Paradise": {
             "ability": "Own Tempo",
             "evs": {
                 "at": "0",
@@ -9464,7 +9464,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Modest"
         },
-        "Aether President Lusamine #2": {
+        "Aether President Lusamine @ Ultra Space": {
             "ability": "Own Tempo",
             "evs": {
                 "at": "0",
@@ -9607,8 +9607,8 @@ var CUSTOMSETDEX_SM = {
             "level": 5,
             "moves": [
                 "Growl",
-                "Scratch",
-                "Ember"
+                "Ember",
+                "Scratch"
             ],
             "nature": "Serious"
         },
@@ -9665,7 +9665,7 @@ var CUSTOMSETDEX_SM = {
                 "Leer",
                 "Lick",
                 "Growl",
-                "Scratch"
+                "Ember"
             ],
             "nature": "Serious"
         }
@@ -9700,7 +9700,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Pokémon Trainer Gladion": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Fire Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -9728,7 +9728,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #2": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Grass Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -9756,7 +9756,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #3": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Water Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -9784,7 +9784,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #4": {
+        "Pokémon Trainer Gladion @ Pokémon League [Fire Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -9813,7 +9813,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #5": {
+        "Pokémon Trainer Gladion @ Pokémon League [Grass Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -9842,7 +9842,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #6": {
+        "Pokémon Trainer Gladion @ Pokémon League [Water Memory]": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "252",
@@ -10078,64 +10078,6 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Lycanroc": {
-        "Elite Four Olivia": {
-            "ability": "Keen Eye",
-            "evs": {
-                "at": "0",
-                "df": "252",
-                "hp": "252",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "M",
-            "item": "Rockium Z",
-            "ivs": {
-                "at": "31",
-                "df": "31",
-                "hp": "31",
-                "sa": "31",
-                "sd": "31",
-                "sp": "31"
-            },
-            "level": 55,
-            "moves": [
-                "Crunch",
-                "Stone Edge",
-                "Counter",
-                "Rock Climb"
-            ],
-            "nature": "Serious"
-        },
-        "Elite Four Olivia #2": {
-            "ability": "Keen Eye",
-            "evs": {
-                "at": "0",
-                "df": "252",
-                "hp": "252",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "M",
-            "item": "Rockium Z",
-            "ivs": {
-                "at": "31",
-                "df": "31",
-                "hp": "31",
-                "sa": "31",
-                "sd": "31",
-                "sp": "31"
-            },
-            "level": 63,
-            "moves": [
-                "Crunch",
-                "Stone Edge",
-                "Brick Break",
-                "Rock Climb"
-            ],
-            "nature": "Serious"
-        },
         "Hiker Ryan": {
             "ability": "Keen Eye",
             "evs": {
@@ -10164,33 +10106,6 @@ var CUSTOMSETDEX_SM = {
                 "Scary Face"
             ],
             "nature": "Serious"
-        },
-        "Island Kahuna Olivia": {
-            "ability": "Sand Rush",
-            "evs": {
-                "at": "252",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "252"
-            },
-            "gender": "M",
-            "item": "Rockium Z",
-            "ivs": {
-                "at": "31",
-                "df": "15",
-                "hp": "31",
-                "sa": "15",
-                "sd": "15",
-                "sp": "31"
-            },
-            "level": 27,
-            "moves": [
-                "Bite",
-                "Rock Throw"
-            ],
-            "nature": "Adamant"
         },
         "Pokémon Professor Kukui [Decidueye]": {
             "ability": "Keen Eye",
@@ -10365,6 +10280,93 @@ var CUSTOMSETDEX_SM = {
                 "Stealth Rock"
             ],
             "nature": "Serious"
+        }
+    },
+    "Lycanroc-Midnight": {
+        "Elite Four Olivia": {
+            "ability": "Keen Eye",
+            "evs": {
+                "at": "0",
+                "df": "252",
+                "hp": "252",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "M",
+            "item": "Rockium Z",
+            "ivs": {
+                "at": "31",
+                "df": "31",
+                "hp": "31",
+                "sa": "31",
+                "sd": "31",
+                "sp": "31"
+            },
+            "level": 55,
+            "moves": [
+                "Crunch",
+                "Stone Edge",
+                "Counter",
+                "Rock Climb"
+            ],
+            "nature": "Serious"
+        },
+        "Elite Four Olivia #2": {
+            "ability": "Keen Eye",
+            "evs": {
+                "at": "0",
+                "df": "252",
+                "hp": "252",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "M",
+            "item": "Rockium Z",
+            "ivs": {
+                "at": "31",
+                "df": "31",
+                "hp": "31",
+                "sa": "31",
+                "sd": "31",
+                "sp": "31"
+            },
+            "level": 63,
+            "moves": [
+                "Crunch",
+                "Stone Edge",
+                "Brick Break",
+                "Rock Climb"
+            ],
+            "nature": "Serious"
+        },
+        "Island Kahuna Olivia": {
+            "ability": "Vital Spirit",
+            "evs": {
+                "at": "252",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "252"
+            },
+            "gender": "M",
+            "item": "Rockium Z",
+            "ivs": {
+                "at": "31",
+                "df": "15",
+                "hp": "31",
+                "sa": "15",
+                "sd": "15",
+                "sp": "31"
+            },
+            "level": 27,
+            "moves": [
+                "Bite",
+                "Rock Throw"
+            ],
+            "nature": "Adamant"
         },
         "Punk Girl Marie": {
             "ability": "Keen Eye",
@@ -11330,8 +11332,8 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Arm Thrust",
                 "Sand Attack",
-                "Tackle",
-                "Focus Energy"
+                "Focus Energy",
+                "Tackle"
             ],
             "nature": "Serious"
         },
@@ -11722,7 +11724,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Masquerain": {
-        "Pokémon Trainer Guzma": {
+        "Pokémon Trainer Guzma @ Hau'oli City": {
             "ability": "Intimidate",
             "evs": {
                 "at": "0",
@@ -11751,7 +11753,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Modest"
         },
-        "Team Skull Boss Guzma #3": {
+        "Team Skull Boss Guzma @ Aether Paradise": {
             "ability": "Intimidate",
             "evs": {
                 "at": "0",
@@ -11869,7 +11871,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Metagross": {
-        "Pokémon Trainer Dexio #2": {
+        "Pokémon Trainer Dexio @ Ancient Poni Path": {
             "ability": "Clear Body",
             "evs": {
                 "at": "252",
@@ -11988,7 +11990,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Milotic": {
-        "Aether President Lusamine": {
+        "Aether President Lusamine @ Aether Paradise": {
             "ability": "Marvel Scale",
             "evs": {
                 "at": "0",
@@ -12016,7 +12018,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Modest"
         },
-        "Aether President Lusamine #2": {
+        "Aether President Lusamine @ Ultra Space": {
             "ability": "Marvel Scale",
             "evs": {
                 "at": "0",
@@ -12132,14 +12134,14 @@ var CUSTOMSETDEX_SM = {
             "level": 9,
             "moves": [
                 "Spite",
-                "Growl",
-                "Psywave"
+                "Psywave",
+                "Growl"
             ],
             "nature": "Serious"
         }
     },
     "Mismagius": {
-        "Aether President Lusamine": {
+        "Aether President Lusamine @ Aether Paradise": {
             "ability": "Levitate",
             "evs": {
                 "at": "0",
@@ -12167,7 +12169,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Modest"
         },
-        "Aether President Lusamine #2": {
+        "Aether President Lusamine @ Ultra Space": {
             "ability": "Levitate",
             "evs": {
                 "at": "0",
@@ -12405,36 +12407,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Island Kahuna Hapu": {
-            "ability": "Stamina",
-            "evs": {
-                "at": "252",
-                "df": "252",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "M",
-            "item": "Groundium Z",
-            "ivs": {
-                "at": "31",
-                "df": "31",
-                "hp": "31",
-                "sa": "15",
-                "sd": "15",
-                "sp": "15"
-            },
-            "level": 48,
-            "moves": [
-                "Heavy Slam",
-                "Earthquake",
-                "Double Kick",
-                "Counter"
-            ],
-            "nature": "Serious"
-        },
-        "Island Kahuna Hapu #2": {
+        "Island Kahuna Hapu @ Pokémon League": {
             "ability": "Stamina",
             "evs": {
                 "at": "252",
@@ -12460,6 +12433,35 @@ var CUSTOMSETDEX_SM = {
                 "Earthquake",
                 "Payback",
                 "Rock Slide"
+            ],
+            "nature": "Serious"
+        },
+        "Island Kahuna Hapu @ Vast Poni Canyon": {
+            "ability": "Stamina",
+            "evs": {
+                "at": "252",
+                "df": "252",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "M",
+            "item": "Groundium Z",
+            "ivs": {
+                "at": "31",
+                "df": "31",
+                "hp": "31",
+                "sa": "15",
+                "sd": "15",
+                "sp": "15"
+            },
+            "level": 48,
+            "moves": [
+                "Heavy Slam",
+                "Earthquake",
+                "Double Kick",
+                "Counter"
             ],
             "nature": "Serious"
         }
@@ -12554,7 +12556,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Plumeria": {
+        "Pokémon Trainer Plumeria @ Pokémon League": {
             "ability": "Poison Touch",
             "evs": {
                 "at": "0",
@@ -12668,7 +12670,7 @@ var CUSTOMSETDEX_SM = {
                 "Amnesia",
                 "Defense Curl",
                 "Tackle",
-                "Metronome"
+                "Odor Sleuth"
             ],
             "nature": "Serious"
         }
@@ -12756,10 +12758,10 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 58,
             "moves": [
-                "Flamethrower",
-                "Quick Attack",
+                "Safeguard",
                 "Confuse Ray",
-                "Safeguard"
+                "Quick Attack",
+                "Flamethrower"
             ],
             "nature": "Serious"
         }
@@ -13031,35 +13033,6 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Oricorio": {
-        "Dancer Cara": {
-            "ability": "Dancer",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "F",
-            "item": "",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "15",
-                "sa": "15",
-                "sd": "15",
-                "sp": "15"
-            },
-            "level": 43,
-            "moves": [
-                "Mirror Move",
-                "Revelation Dance",
-                "Air Slash",
-                "Captivate"
-            ],
-            "nature": "Serious"
-        },
         "Dancer Julia": {
             "ability": "Dancer",
             "evs": {
@@ -13085,119 +13058,6 @@ var CUSTOMSETDEX_SM = {
                 "Air Slash",
                 "Revelation Dance",
                 "Teeter Dance"
-            ],
-            "nature": "Serious"
-        },
-        "Dancer Julia*": {
-            "ability": "Dancer",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "F",
-            "item": "Focus Sash",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "15",
-                "sa": "31",
-                "sd": "15",
-                "sp": "15"
-            },
-            "level": 43,
-            "moves": [
-                "Air Slash",
-                "Revelation Dance",
-                "Teeter Dance"
-            ],
-            "nature": "Serious"
-        },
-        "Dancer Julia**": {
-            "ability": "Dancer",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "F",
-            "item": "Focus Sash",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "15",
-                "sa": "31",
-                "sd": "15",
-                "sp": "15"
-            },
-            "level": 43,
-            "moves": [
-                "Air Slash",
-                "Revelation Dance",
-                "Teeter Dance"
-            ],
-            "nature": "Serious"
-        },
-        "Dancer Julia***": {
-            "ability": "Dancer",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "F",
-            "item": "Focus Sash",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "15",
-                "sa": "31",
-                "sd": "15",
-                "sp": "15"
-            },
-            "level": 43,
-            "moves": [
-                "Air Slash",
-                "Revelation Dance",
-                "Teeter Dance"
-            ],
-            "nature": "Serious"
-        },
-        "Dancer Maika": {
-            "ability": "Dancer",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "F",
-            "item": "",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "15",
-                "sa": "15",
-                "sd": "15",
-                "sp": "15"
-            },
-            "level": 17,
-            "moves": [
-                "Baton Pass",
-                "Air Cutter",
-                "Helping Hand",
-                "Peck"
             ],
             "nature": "Serious"
         },
@@ -13287,6 +13147,36 @@ var CUSTOMSETDEX_SM = {
                 "Feather Dance"
             ],
             "nature": "Serious"
+        }
+    },
+    "Oricorio-Pa'u": {
+        "Dancer Julia": {
+            "ability": "Dancer",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "F",
+            "item": "Focus Sash",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "15",
+                "sa": "31",
+                "sd": "15",
+                "sp": "15"
+            },
+            "level": 43,
+            "moves": [
+                "Air Slash",
+                "Revelation Dance",
+                "Teeter Dance"
+            ],
+            "nature": "Serious"
         },
         "Golfer Tara": {
             "ability": "Dancer",
@@ -13315,6 +13205,65 @@ var CUSTOMSETDEX_SM = {
                 "Air Cutter"
             ],
             "nature": "Serious"
+        }
+    },
+    "Oricorio-Pom-Pom": {
+        "Dancer Julia": {
+            "ability": "Dancer",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "F",
+            "item": "Focus Sash",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "15",
+                "sa": "31",
+                "sd": "15",
+                "sp": "15"
+            },
+            "level": 43,
+            "moves": [
+                "Air Slash",
+                "Revelation Dance",
+                "Teeter Dance"
+            ],
+            "nature": "Serious"
+        },
+        "Dancer Maika": {
+            "ability": "Dancer",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "F",
+            "item": "",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "15",
+                "sa": "15",
+                "sd": "15",
+                "sp": "15"
+            },
+            "level": 17,
+            "moves": [
+                "Baton Pass",
+                "Air Cutter",
+                "Helping Hand",
+                "Peck"
+            ],
+            "nature": "Serious"
         },
         "Golfer Tina": {
             "ability": "Dancer",
@@ -13341,6 +13290,65 @@ var CUSTOMSETDEX_SM = {
                 "Feather Dance",
                 "Double Slap",
                 "Air Cutter"
+            ],
+            "nature": "Serious"
+        }
+    },
+    "Oricorio-Sensu": {
+        "Dancer Cara": {
+            "ability": "Dancer",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "F",
+            "item": "",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "15",
+                "sa": "15",
+                "sd": "15",
+                "sp": "15"
+            },
+            "level": 43,
+            "moves": [
+                "Mirror Move",
+                "Revelation Dance",
+                "Air Slash",
+                "Captivate"
+            ],
+            "nature": "Serious"
+        },
+        "Dancer Julia": {
+            "ability": "Dancer",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "F",
+            "item": "Focus Sash",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "15",
+                "sa": "31",
+                "sd": "15",
+                "sp": "15"
+            },
+            "level": 43,
+            "moves": [
+                "Air Slash",
+                "Revelation Dance",
+                "Teeter Dance"
             ],
             "nature": "Serious"
         }
@@ -13553,7 +13561,7 @@ var CUSTOMSETDEX_SM = {
                 "Slash",
                 "Spore",
                 "Fury Cutter",
-                "Scratch"
+                "Absorb"
             ],
             "nature": "Serious"
         },
@@ -13641,9 +13649,9 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 37,
             "moves": [
-                "Stockpile",
                 "Spit Up",
                 "Swallow",
+                "Stockpile",
                 "Fling"
             ],
             "nature": "Serious"
@@ -13681,7 +13689,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Persian-Alola": {
-        "Island Kahuna Nanu": {
+        "Island Kahuna Nanu @ Malie City": {
             "ability": "Fur Coat",
             "evs": {
                 "at": "0",
@@ -13709,7 +13717,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Timid"
         },
-        "Island Kahuna Nanu #2": {
+        "Island Kahuna Nanu @ Seafolk Village": {
             "ability": "Fur Coat",
             "evs": {
                 "at": "0",
@@ -14027,8 +14035,8 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Play Nice",
                 "Growl",
-                "Tail Whip",
-                "Thunder Shock"
+                "Thunder Shock",
+                "Tail Whip"
             ],
             "nature": "Serious"
         },
@@ -14428,7 +14436,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Pokémon Trainer Guzma": {
+        "Pokémon Trainer Guzma @ Hau'oli City": {
             "ability": "Mold Breaker",
             "evs": {
                 "at": "252",
@@ -14457,7 +14465,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Team Skull Boss Guzma #3": {
+        "Team Skull Boss Guzma @ Aether Paradise": {
             "ability": "Mold Breaker",
             "evs": {
                 "at": "252",
@@ -14574,7 +14582,7 @@ var CUSTOMSETDEX_SM = {
                 "Mind Reader",
                 "Dynamic Punch",
                 "Double Slap",
-                "Bubble Beam"
+                "Hypnosis"
             ],
             "nature": "Adamant"
         },
@@ -14659,8 +14667,8 @@ var CUSTOMSETDEX_SM = {
             "level": 5,
             "moves": [
                 "Growl",
-                "Pound",
-                "Water Gun"
+                "Water Gun",
+                "Pound"
             ],
             "nature": "Serious"
         },
@@ -14717,7 +14725,7 @@ var CUSTOMSETDEX_SM = {
                 "Baby-Doll Eyes",
                 "Disarming Voice",
                 "Growl",
-                "Pound"
+                "Water Gun"
             ],
             "nature": "Serious"
         }
@@ -14754,7 +14762,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Porygon-Z": {
-        "Pokémon Trainer Gladion #4": {
+        "Pokémon Trainer Gladion @ Pokémon League [Fire Memory]": {
             "ability": "Download",
             "evs": {
                 "at": "0",
@@ -14783,7 +14791,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #5": {
+        "Pokémon Trainer Gladion @ Pokémon League [Grass Memory]": {
             "ability": "Download",
             "evs": {
                 "at": "0",
@@ -14812,7 +14820,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #6": {
+        "Pokémon Trainer Gladion @ Pokémon League [Water Memory]": {
             "ability": "Download",
             "evs": {
                 "at": "0",
@@ -15475,10 +15483,10 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 27,
             "moves": [
-                "Tail Whip",
-                "Thunder Shock",
                 "Thunderbolt",
-                "Quick Attack"
+                "Quick Attack",
+                "Tail Whip",
+                "Thunder Shock"
             ],
             "nature": "Serious"
         }
@@ -15564,14 +15572,14 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 55,
             "moves": [
-                "Tail Whip",
-                "Thunder Shock",
                 "Thunderbolt",
-                "Quick Attack"
+                "Quick Attack",
+                "Tail Whip",
+                "Thunder Shock"
             ],
             "nature": "Hardy"
         },
-        "Pokémon Trainer Dexio #2": {
+        "Pokémon Trainer Dexio @ Ancient Poni Path": {
             "ability": "Surge Surfer",
             "evs": {
                 "at": "0",
@@ -16519,8 +16527,8 @@ var CUSTOMSETDEX_SM = {
             },
             "level": 3,
             "moves": [
-                "Tackle",
-                "Tail Whip"
+                "Tail Whip",
+                "Tackle"
             ],
             "nature": "Serious"
         }
@@ -16614,7 +16622,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Hardy"
         },
-        "Captain Mina": {
+        "Captain Mina @ Poni Gauntlet": {
             "ability": "Shield Dust",
             "evs": {
                 "at": "0",
@@ -16625,7 +16633,7 @@ var CUSTOMSETDEX_SM = {
                 "sp": "252"
             },
             "gender": "F",
-            "item": "",
+            "item": "Fairium Z",
             "ivs": {
                 "at": "15",
                 "df": "15",
@@ -16643,7 +16651,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Captain Mina #2": {
+        "Captain Mina @ Route 8": {
             "ability": "Shield Dust",
             "evs": {
                 "at": "0",
@@ -16654,7 +16662,7 @@ var CUSTOMSETDEX_SM = {
                 "sp": "252"
             },
             "gender": "F",
-            "item": "Fairium Z",
+            "item": "",
             "ivs": {
                 "at": "15",
                 "df": "15",
@@ -16872,8 +16880,8 @@ var CUSTOMSETDEX_SM = {
             "level": 5,
             "moves": [
                 "Growl",
-                "Tackle",
-                "Leafage"
+                "Leafage",
+                "Tackle"
             ],
             "nature": "Serious"
         },
@@ -16930,7 +16938,7 @@ var CUSTOMSETDEX_SM = {
                 "Astonish",
                 "Peck",
                 "Growl",
-                "Tackle"
+                "Leafage"
             ],
             "nature": "Serious"
         }
@@ -17054,7 +17062,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Island Kahuna Nanu": {
+        "Island Kahuna Nanu @ Malie City": {
             "ability": "Keen Eye",
             "evs": {
                 "at": "0",
@@ -17082,7 +17090,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Impish"
         },
-        "Island Kahuna Nanu #2": {
+        "Island Kahuna Nanu @ Seafolk Village": {
             "ability": "Keen Eye",
             "evs": {
                 "at": "0",
@@ -17202,7 +17210,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Salandit": {
-        "Team Skull Admin Plumeria": {
+        "Team Skull Admin Plumeria @ Akala Outskirts": {
             "ability": "Corrosion",
             "evs": {
                 "at": "252",
@@ -17377,7 +17385,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Salazzle": {
-        "Pokémon Trainer Plumeria": {
+        "Pokémon Trainer Plumeria @ Pokémon League": {
             "ability": "Corrosion",
             "evs": {
                 "at": "0",
@@ -17406,7 +17414,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Hasty"
         },
-        "Team Skull Admin Plumeria #2": {
+        "Team Skull Admin Plumeria @ Route 15": {
             "ability": "Corrosion",
             "evs": {
                 "at": "252",
@@ -17621,7 +17629,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Scizor": {
-        "Pokémon Trainer Guzma": {
+        "Pokémon Trainer Guzma @ Hau'oli City": {
             "ability": "Technician",
             "evs": {
                 "at": "252",
@@ -17922,7 +17930,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Captain Mina": {
+        "Captain Mina @ Poni Gauntlet": {
             "ability": "Effect Spore",
             "evs": {
                 "at": "0",
@@ -17951,7 +17959,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Captain Mina #2": {
+        "Captain Mina @ Route 8": {
             "ability": "Effect Spore",
             "evs": {
                 "at": "0",
@@ -18010,8 +18018,8 @@ var CUSTOMSETDEX_SM = {
             "nature": "Serious"
         }
     },
-    "Silvally": {
-        "Pokémon Trainer Gladion": {
+    "Silvally-Fire": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Fire Memory]": {
             "ability": "RKS System",
             "evs": {
                 "at": "0",
@@ -18040,65 +18048,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #2": {
-            "ability": "RKS System",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "252"
-            },
-            "gender": "N",
-            "item": "Water Memory",
-            "ivs": {
-                "at": "30",
-                "df": "30",
-                "hp": "30",
-                "sa": "30",
-                "sd": "30",
-                "sp": "30"
-            },
-            "level": 53,
-            "moves": [
-                "Crunch",
-                "Crush Claw",
-                "X-Scissor",
-                "Multi-Attack"
-            ],
-            "nature": "Serious"
-        },
-        "Pokémon Trainer Gladion #3": {
-            "ability": "RKS System",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "252"
-            },
-            "gender": "N",
-            "item": "Grass Memory",
-            "ivs": {
-                "at": "30",
-                "df": "30",
-                "hp": "30",
-                "sa": "30",
-                "sd": "30",
-                "sp": "30"
-            },
-            "level": 53,
-            "moves": [
-                "Crunch",
-                "Crush Claw",
-                "X-Scissor",
-                "Multi-Attack"
-            ],
-            "nature": "Serious"
-        },
-        "Pokémon Trainer Gladion #4": {
+        "Pokémon Trainer Gladion @ Pokémon League [Fire Memory]": {
             "ability": "RKS System",
             "evs": {
                 "at": "252",
@@ -18126,8 +18076,39 @@ var CUSTOMSETDEX_SM = {
                 "Multi-Attack"
             ],
             "nature": "Serious"
+        }
+    },
+    "Silvally-Grass": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Grass Memory]": {
+            "ability": "RKS System",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "252"
+            },
+            "gender": "N",
+            "item": "Grass Memory",
+            "ivs": {
+                "at": "30",
+                "df": "30",
+                "hp": "30",
+                "sa": "30",
+                "sd": "30",
+                "sp": "30"
+            },
+            "level": 53,
+            "moves": [
+                "Crunch",
+                "Crush Claw",
+                "X-Scissor",
+                "Multi-Attack"
+            ],
+            "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #5": {
+        "Pokémon Trainer Gladion @ Pokémon League [Grass Memory]": {
             "ability": "RKS System",
             "evs": {
                 "at": "252",
@@ -18138,7 +18119,7 @@ var CUSTOMSETDEX_SM = {
                 "sp": "252"
             },
             "gender": "N",
-            "item": "Water Memory",
+            "item": "Grass Memory",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -18155,8 +18136,39 @@ var CUSTOMSETDEX_SM = {
                 "Multi-Attack"
             ],
             "nature": "Serious"
+        }
+    },
+    "Silvally-Water": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Water Memory]": {
+            "ability": "RKS System",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "252"
+            },
+            "gender": "N",
+            "item": "Water Memory",
+            "ivs": {
+                "at": "30",
+                "df": "30",
+                "hp": "30",
+                "sa": "30",
+                "sd": "30",
+                "sp": "30"
+            },
+            "level": 53,
+            "moves": [
+                "Crunch",
+                "Crush Claw",
+                "X-Scissor",
+                "Multi-Attack"
+            ],
+            "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #6": {
+        "Pokémon Trainer Gladion @ Pokémon League [Water Memory]": {
             "ability": "RKS System",
             "evs": {
                 "at": "252",
@@ -18167,7 +18179,7 @@ var CUSTOMSETDEX_SM = {
                 "sp": "252"
             },
             "gender": "N",
-            "item": "Grass Memory",
+            "item": "Water Memory",
             "ivs": {
                 "at": "30",
                 "df": "30",
@@ -18538,7 +18550,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Slowking": {
-        "Pokémon Trainer Dexio #2": {
+        "Pokémon Trainer Dexio @ Ancient Poni Path": {
             "ability": "Own Tempo",
             "evs": {
                 "at": "0",
@@ -18597,7 +18609,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Calm"
         },
-        "Pokémon Trainer Dexio": {
+        "Pokémon Trainer Dexio @ Heahea City": {
             "ability": "Own Tempo",
             "evs": {
                 "at": "0",
@@ -18653,7 +18665,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Smeargle": {
-        "Captain Ilima": {
+        "Captain Ilima @ Hau'oli City [Ember]": {
             "ability": "Technician",
             "evs": {
                 "at": "252",
@@ -18680,34 +18692,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Hasty"
         },
-        "Captain Ilima #2": {
-            "ability": "Technician",
-            "evs": {
-                "at": "252",
-                "df": "0",
-                "hp": "0",
-                "sa": "252",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "M",
-            "item": "",
-            "ivs": {
-                "at": "31",
-                "df": "15",
-                "hp": "15",
-                "sa": "31",
-                "sd": "15",
-                "sp": "31"
-            },
-            "level": 10,
-            "moves": [
-                "Water Gun",
-                "Tackle"
-            ],
-            "nature": "Hasty"
-        },
-        "Captain Ilima #3": {
+        "Captain Ilima @ Hau'oli City [Leafage]": {
             "ability": "Technician",
             "evs": {
                 "at": "252",
@@ -18734,7 +18719,34 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Hasty"
         },
-        "Captain Ilima #4": {
+        "Captain Ilima @ Hau'oli City [Water Gun]": {
+            "ability": "Technician",
+            "evs": {
+                "at": "252",
+                "df": "0",
+                "hp": "0",
+                "sa": "252",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "M",
+            "item": "",
+            "ivs": {
+                "at": "31",
+                "df": "15",
+                "hp": "15",
+                "sa": "31",
+                "sd": "15",
+                "sp": "31"
+            },
+            "level": 10,
+            "moves": [
+                "Water Gun",
+                "Tackle"
+            ],
+            "nature": "Hasty"
+        },
+        "Captain Ilima @ Trainers' School": {
             "ability": "Technician",
             "evs": {
                 "at": "252",
@@ -18794,7 +18806,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Gladion #3": {
+        "Team Skull Gladion @ Aether House": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
@@ -19385,8 +19397,8 @@ var CUSTOMSETDEX_SM = {
             "level": 17,
             "moves": [
                 "Mimic",
-                "Low Kick",
                 "Rock Throw",
+                "Low Kick",
                 "Flail"
             ],
             "nature": "Serious"
@@ -20041,7 +20053,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Plumeria": {
+        "Pokémon Trainer Plumeria @ Pokémon League": {
             "ability": "Merciless",
             "evs": {
                 "at": "0",
@@ -20126,8 +20138,8 @@ var CUSTOMSETDEX_SM = {
             "level": 26,
             "moves": [
                 "Take Down",
-                "Stockpile",
                 "Swallow",
+                "Stockpile",
                 "Sludge"
             ],
             "nature": "Serious"
@@ -20155,8 +20167,8 @@ var CUSTOMSETDEX_SM = {
             "level": 27,
             "moves": [
                 "Take Down",
-                "Stockpile",
                 "Swallow",
+                "Stockpile",
                 "Sludge"
             ],
             "nature": "Serious"
@@ -20217,7 +20229,7 @@ var CUSTOMSETDEX_SM = {
                 "Roost",
                 "Pluck",
                 "Supersonic",
-                "Growl"
+                "Rock Smash"
             ],
             "nature": "Serious"
         },
@@ -20372,61 +20384,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Type: Null": {
-        "Team Skull Gladion": {
-            "ability": "Battle Armor",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "N",
-            "item": "",
-            "ivs": {
-                "at": "30",
-                "df": "30",
-                "hp": "30",
-                "sa": "30",
-                "sd": "30",
-                "sp": "30"
-            },
-            "level": 18,
-            "moves": [
-                "Tackle",
-                "Pursuit"
-            ],
-            "nature": "Serious"
-        },
-        "Team Skull Gladion #2": {
-            "ability": "Battle Armor",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "N",
-            "item": "",
-            "ivs": {
-                "at": "30",
-                "df": "30",
-                "hp": "30",
-                "sa": "30",
-                "sd": "30",
-                "sp": "30"
-            },
-            "level": 19,
-            "moves": [
-                "Tackle",
-                "Pursuit"
-            ],
-            "nature": "Serious"
-        },
-        "Team Skull Gladion #3": {
+        "Team Skull Gladion @ Aether House": {
             "ability": "Battle Armor",
             "evs": {
                 "at": "0",
@@ -20454,7 +20412,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Gladion #4": {
+        "Team Skull Gladion @ Aether Paradise": {
             "ability": "Battle Armor",
             "evs": {
                 "at": "0",
@@ -20479,6 +20437,60 @@ var CUSTOMSETDEX_SM = {
                 "Pursuit",
                 "Crush Claw",
                 "X-Scissor"
+            ],
+            "nature": "Serious"
+        },
+        "Team Skull Gladion @ Battle Royal Dome": {
+            "ability": "Battle Armor",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "N",
+            "item": "",
+            "ivs": {
+                "at": "30",
+                "df": "30",
+                "hp": "30",
+                "sa": "30",
+                "sd": "30",
+                "sp": "30"
+            },
+            "level": 19,
+            "moves": [
+                "Tackle",
+                "Pursuit"
+            ],
+            "nature": "Serious"
+        },
+        "Team Skull Gladion @ Route 5": {
+            "ability": "Battle Armor",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "N",
+            "item": "",
+            "ivs": {
+                "at": "30",
+                "df": "30",
+                "hp": "30",
+                "sa": "30",
+                "sd": "30",
+                "sp": "30"
+            },
+            "level": 18,
+            "moves": [
+                "Tackle",
+                "Pursuit"
             ],
             "nature": "Serious"
         }
@@ -20977,7 +20989,7 @@ var CUSTOMSETDEX_SM = {
                 "Nasty Plot",
                 "Pluck",
                 "Fury Attack",
-                "Gust"
+                "Leer"
             ],
             "nature": "Serious"
         }
@@ -21103,7 +21115,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Fire Memory]": {
             "ability": "Pressure",
             "evs": {
                 "at": "252",
@@ -21131,7 +21143,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #2": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Grass Memory]": {
             "ability": "Pressure",
             "evs": {
                 "at": "252",
@@ -21159,7 +21171,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #3": {
+        "Pokémon Trainer Gladion @ Mount Lanakila [Water Memory]": {
             "ability": "Pressure",
             "evs": {
                 "at": "252",
@@ -21187,7 +21199,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #4": {
+        "Pokémon Trainer Gladion @ Pokémon League [Fire Memory]": {
             "ability": "Pressure",
             "evs": {
                 "at": "252",
@@ -21216,7 +21228,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #5": {
+        "Pokémon Trainer Gladion @ Pokémon League [Grass Memory]": {
             "ability": "Pressure",
             "evs": {
                 "at": "252",
@@ -21245,7 +21257,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Pokémon Trainer Gladion #6": {
+        "Pokémon Trainer Gladion @ Pokémon League [Water Memory]": {
             "ability": "Pressure",
             "evs": {
                 "at": "252",
@@ -21328,8 +21340,8 @@ var CUSTOMSETDEX_SM = {
             "level": 30,
             "moves": [
                 "Bug Bite",
-                "Poison Sting",
-                "String Shot"
+                "String Shot",
+                "Poison Sting"
             ],
             "nature": "Serious"
         }
@@ -21359,8 +21371,8 @@ var CUSTOMSETDEX_SM = {
             "moves": [
                 "Tailwind",
                 "Gust",
-                "Mega Drain",
-                "Leech Seed"
+                "Cotton Spore",
+                "Mega Drain"
             ],
             "nature": "Serious"
         }
@@ -21389,8 +21401,8 @@ var CUSTOMSETDEX_SM = {
             "level": 29,
             "moves": [
                 "Aqua Tail",
-                "Rest",
                 "Snore",
+                "Rest",
                 "Magnitude"
             ],
             "nature": "Serious"
@@ -21420,13 +21432,13 @@ var CUSTOMSETDEX_SM = {
             "level": 35,
             "moves": [
                 "Double Slap",
-                "Double-Edge",
-                "Sing",
-                "Disable"
+                "Disable",
+                "Defense Curl",
+                "Sing"
             ],
             "nature": "Serious"
         },
-        "Captain Mina": {
+        "Captain Mina @ Poni Gauntlet": {
             "ability": "Competitive",
             "evs": {
                 "at": "0",
@@ -21455,7 +21467,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Captain Mina #2": {
+        "Captain Mina @ Route 8": {
             "ability": "Competitive",
             "evs": {
                 "at": "0",
@@ -21593,8 +21605,8 @@ var CUSTOMSETDEX_SM = {
             "level": 6,
             "moves": [
                 "Supersonic",
-                "Growl",
-                "Water Gun"
+                "Water Gun",
+                "Growl"
             ],
             "nature": "Serious"
         },
@@ -21717,7 +21729,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Yungoos": {
-        "Captain Ilima": {
+        "Captain Ilima @ Hau'oli City [Ember]": {
             "ability": "Stakeout",
             "evs": {
                 "at": "0",
@@ -21745,7 +21757,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Captain Ilima #2": {
+        "Captain Ilima @ Hau'oli City [Leafage]": {
             "ability": "Stakeout",
             "evs": {
                 "at": "0",
@@ -21773,7 +21785,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Adamant"
         },
-        "Captain Ilima #3": {
+        "Captain Ilima @ Hau'oli City [Water Gun]": {
             "ability": "Stakeout",
             "evs": {
                 "at": "0",
@@ -21859,7 +21871,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Zubat": {
-        "Team Skull Gladion": {
+        "Team Skull Gladion @ Route 5": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
