@@ -4098,7 +4098,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #6": {
+        "Team Skull Grunt @ Shady House #5": {
             "ability": "Insomnia",
             "evs": {
                 "at": "0",
@@ -5533,7 +5533,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Po Town #5": {
+        "Team Skull Grunt @ Po Town #6": {
             "ability": "Leaf Guard",
             "evs": {
                 "at": "0",
@@ -5591,7 +5591,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #7": {
+        "Team Skull Grunt @ Shady House #6": {
             "ability": "Leaf Guard",
             "evs": {
                 "at": "0",
@@ -5804,7 +5804,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #5": {
+        "Team Skull Grunt @ Shady House #4": {
             "ability": "Levitate",
             "evs": {
                 "at": "0",
@@ -16269,6 +16269,35 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
+        "Team Skull Grunt @ Po Town #4": {
+            "ability": "Gluttony",
+            "evs": {
+                "at": "0",
+                "df": "0",
+                "hp": "0",
+                "sa": "0",
+                "sd": "0",
+                "sp": "0"
+            },
+            "gender": "F",
+            "item": "",
+            "ivs": {
+                "at": "15",
+                "df": "15",
+                "hp": "15",
+                "sa": "15",
+                "sd": "15",
+                "sp": "15"
+            },
+            "level": 35,
+            "moves": [
+                "Super Fang",
+                "Sucker Punch",
+                "Crunch",
+                "Assurance"
+            ],
+            "nature": "Serious"
+        },
         "Team Skull Grunt @ Route 10 #2": {
             "ability": "Gluttony",
             "evs": {
@@ -16327,36 +16356,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #4": {
-            "ability": "Gluttony",
-            "evs": {
-                "at": "0",
-                "df": "0",
-                "hp": "0",
-                "sa": "0",
-                "sd": "0",
-                "sp": "0"
-            },
-            "gender": "F",
-            "item": "",
-            "ivs": {
-                "at": "15",
-                "df": "15",
-                "hp": "15",
-                "sa": "15",
-                "sd": "15",
-                "sp": "15"
-            },
-            "level": 35,
-            "moves": [
-                "Super Fang",
-                "Sucker Punch",
-                "Crunch",
-                "Assurance"
-            ],
-            "nature": "Serious"
-        },
-        "Team Skull Grunt @ Shady House #9": {
+        "Team Skull Grunt @ Shady House #8": {
             "ability": "Gluttony",
             "evs": {
                 "at": "0",
@@ -16476,7 +16476,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #8": {
+        "Team Skull Grunt @ Shady House #7": {
             "ability": "Gluttony",
             "evs": {
                 "at": "0",
@@ -17296,7 +17296,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Po Town #5": {
+        "Team Skull Grunt @ Po Town #6": {
             "ability": "Corrosion",
             "evs": {
                 "at": "0",
@@ -17354,7 +17354,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #5": {
+        "Team Skull Grunt @ Shady House #4": {
             "ability": "Corrosion",
             "evs": {
                 "at": "0",
@@ -21498,7 +21498,7 @@ var CUSTOMSETDEX_SM = {
         }
     },
     "Wimpod": {
-        "Team Skull Grunt @ Po Town #4": {
+        "Team Skull Grunt @ Po Town #5": {
             "ability": "Wimp Out",
             "evs": {
                 "at": "0",
@@ -21525,7 +21525,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #6": {
+        "Team Skull Grunt @ Shady House #5": {
             "ability": "Wimp Out",
             "evs": {
                 "at": "0",
@@ -21926,7 +21926,7 @@ var CUSTOMSETDEX_SM = {
             ],
             "nature": "Serious"
         },
-        "Team Skull Grunt @ Shady House #5": {
+        "Team Skull Grunt @ Shady House #4": {
             "ability": "Inner Focus",
             "evs": {
                 "at": "0",
