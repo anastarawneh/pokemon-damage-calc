@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <title>Pok&eacute;mon Damage Calculator</title>
     <link type="text/css" rel="stylesheet" href="./js/vendor/select2/select2.css" />
-    <link type="text/css" rel="stylesheet" href="./css/main.css?074868ee" />
+    <link type="text/css" rel="stylesheet" href="./css/main.css?fa395037" />
     <link type="text/css" rel="stylesheet" href="./css/vendor/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="./css/dark-theme.css" id="dark-theme-styles">
     <!-- Immediately loads the dark theme in order to reduce FOIT -->
@@ -118,9 +118,9 @@
         </div>
     </div>
     <div aria-label="Calculation results" class="main-result-group" role="region">
-        <div class="big-text" title="Click to copy.">
-            <span id="mainResult">Loading...</span>
-            <span id="tooltipText">Copied</span>
+        <div class="big-text">
+            <span id="mainResult" title="Click to copy.">Loading...</span>
+            <div id="tooltipText">Copied</div>
         </div>
         <div class="small-text"><span id="damageValues">(If you see this message for more than a few seconds, try enabling JavaScript.)</span>
         </div>
@@ -446,22 +446,23 @@
                     <label for="abilityL1">Ability</label>
                     <select class="ability terrain-trigger calc-trigger" id="abilityL1"></select>
                     <input hidden type="checkbox" title= "Is this ability active?" class="abilityToggle calc-trigger">
-						  <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
-								<option value="0">Zero allies fainted</option>
-								<option value="1">One ally fainted</option>
-								<option value="2">Two allies fainted</option>
-								<option value="3">Three allies fainted</option>
-								<option value="4">Four allies fainted</option>
-								<option value="5">Five allies fainted</option>
-						  </select>
-						  <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
-							  <option value="">Auto-Select</option>
-							  <option value="atk">Attack</option>
-							  <option value="def">Defense</option>
-							  <option value="spa">Special Attack</option>
-							  <option value="spd">Special Defense</option>
-							  <option value="spe">Speed</option>
-						  </select>
+                    <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
+                        <option value="0">Zero allies fainted</option>
+                        <option value="1">One ally fainted</option>
+                        <option value="2">Two allies fainted</option>
+                        <option value="3">Three allies fainted</option>
+                        <option value="4">Four allies fainted</option>
+                        <option value="5">Five allies fainted</option>
+                    </select>
+                    <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
+                        <option value="auto">Auto-Select</option>
+                        <option value="">Inactive</option>
+                        <option value="atk">Attack</option>
+                        <option value="def">Defense</option>
+                        <option value="spa">Special Attack</option>
+                        <option value="spd">Special Defense</option>
+                        <option value="spe">Speed</option>
+                    </select>
                 </div>
                 <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
                     <label for="itemL1">Item</label>
@@ -480,7 +481,7 @@
                         <div>Tera Type Pool</div>
                         <small class="extraSetTeraTypes"></small>
                     </div>
-                    <div class="role-pool gen-specific g9">
+                    <div class="role-pool gen-specific g4 g5 g6 g7 g9">
                         <div>Role Pool</div>
                         <small class="extraSetRoles"></small>
                     </div>
@@ -536,6 +537,7 @@
             </div>
             <div hidden id="criticalHitInstruction">Force this attack to be a critical hit?</div>
             <div hidden id="zMoveInstruction">Make this attack a Z-move?</div>
+            <div hidden id="stellarBoostInstruction">Make this attack Stellar boosted?</div>
             <div class="move1">
                 <select class="move-selector calc-trigger small-select"></select>
                 <input class="move-bp calc-trigger" value="50" />
@@ -548,6 +550,8 @@
                 <label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL1"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zL1" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL1" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL1" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -582,6 +586,8 @@
                 <label class="btn crit-btn" for="critL2" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL2"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zL2" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL2" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL2" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -616,6 +622,8 @@
                 <label class="btn crit-btn" for="critL3" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL3"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zL3" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL3" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL3" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -650,6 +658,8 @@
                 <label class="btn crit-btn" for="critL4" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL4"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zL4" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL4" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL4" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1306,24 +1316,25 @@
                     <label for="abilityR1">Ability</label>
                     <select class="ability terrain-trigger calc-trigger" id="abilityR1"></select>
                     <input hidden type="checkbox" title= "Is this ability active?" class="abilityToggle calc-trigger">
-						  <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
-								<option value="0">Zero allies fainted</option>
-								<option value="1">One ally fainted</option>
-								<option value="2">Two allies fainted</option>
-								<option value="3">Three allies fainted</option>
-								<option value="4">Four allies fainted</option>
-								<option value="5">Five allies fainted</option>
-						  </select>
-						 <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
-							 <option value="">Auto-Select</option>
-							 <option value="atk">Attack</option>
-							 <option value="def">Defense</option>
-							 <option value="spa">Special Attack</option>
-							 <option value="spd">Special Defense</option>
-							 <option value="spe">Speed</option>
-						 </select>
+                        <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
+                            <option value="0">Zero allies fainted</option>
+                            <option value="1">One ally fainted</option>
+                            <option value="2">Two allies fainted</option>
+                            <option value="3">Three allies fainted</option>
+                            <option value="4">Four allies fainted</option>
+                            <option value="5">Five allies fainted</option>
+                        </select>
+                        <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
+                            <option value="auto">Auto-Select</option>
+                            <option value="">Inactive</option>
+                            <option value="atk">Attack</option>
+                            <option value="def">Defense</option>
+                            <option value="spa">Special Attack</option>
+                            <option value="spd">Special Defense</option>
+                            <option value="spe">Speed</option>
+                        </select>
                 </div>
-                         <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
+                <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
                     <label for="itemR1">Item</label>
                     <select class="item terrain-trigger calc-trigger" id="itemR1"></select>
                 </div>
@@ -1340,7 +1351,7 @@
                         <div>Tera Type Pool</div>
                         <small class="extraSetTeraTypes"></small>
                     </div>
-                    <div class="role-pool gen-specific g6 g7 g9">
+                    <div class="role-pool gen-specific g4 g5 g6 g7 g9">
                         <div>Role Pool</div>
                         <small class="extraSetRoles"></small>
                     </div>
@@ -1406,6 +1417,8 @@
                 <label class="btn crit-btn" for="critR1" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR1"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zR1" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR1" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR2" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1440,6 +1453,8 @@
                 <label class="btn crit-btn" for="critR2" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR2"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zR2" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR2" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR2" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1474,6 +1489,8 @@
                 <label class="btn crit-btn" for="critR3" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR3"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zR3" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR3" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR3" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1508,6 +1525,8 @@
                 <label class="btn crit-btn" for="critR4" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR4"/>
                 <label class="btn z-btn gen-specific g7 hide" for="zR4" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR4" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR4" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1552,7 +1571,7 @@
     </script>
     <script type="text/javascript" src="./calc/util.js?51463f0d"></script>
     <script type="text/javascript" src="./calc/stats.js?a9e37d1a"></script>
-    <script type="text/javascript" src="./calc/data/species.js?74c8d7e1"></script>
+    <script type="text/javascript" src="./calc/data/species.js?1de5d083"></script>
     <script type="text/javascript" src="https://data.pkmn.cc/randbats/js/gen9randombattle.js?"></script>
     <script type="text/javascript" src="https://data.pkmn.cc/randbats/js/gen8randombattle.js?"></script>
     <script type="text/javascript" src="https://data.pkmn.cc/randbats/js/gen7randombattle.js?"></script>
@@ -1562,29 +1581,29 @@
     <script type="text/javascript" src="https://data.pkmn.cc/randbats/js/gen3randombattle.js?"></script>
     <script type="text/javascript" src="https://data.pkmn.cc/randbats/js/gen2randombattle.js?"></script>
     <script type="text/javascript" src="https://data.pkmn.cc/randbats/js/gen1randombattle.js?"></script>
-    <script type="text/javascript" src="./calc/data/types.js?3267f790"></script>
+    <script type="text/javascript" src="./calc/data/types.js?a641e10b"></script>
     <script type="text/javascript" src="./calc/data/natures.js?28612810"></script>
-    <script type="text/javascript" src="./calc/data/abilities.js?26e027d5"></script>
-    <script type="text/javascript" src="./calc/data/moves.js?6a2139f1"></script>
-    <script type="text/javascript" src="./calc/data/items.js?f3272daa"></script>
+    <script type="text/javascript" src="./calc/data/abilities.js?95a9afd4"></script>
+    <script type="text/javascript" src="./calc/data/moves.js?409a4002"></script>
+    <script type="text/javascript" src="./calc/data/items.js?a2dbf914"></script>
     <script type="text/javascript" src="./calc/data/index.js?abecbd82"></script>
-    <script type="text/javascript" src="./calc/move.js?57ab9f0a"></script>
+    <script type="text/javascript" src="./calc/move.js?8b27dcd1"></script>
     <script type="text/javascript" src="./calc/pokemon.js?1e459e1e"></script>
     <script type="text/javascript" src="./calc/field.js?bbf04408"></script>
     <script type="text/javascript" src="./calc/items.js?067e42a4"></script>
-    <script type="text/javascript" src="./calc/mechanics/util.js?df46f94d"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen789.js?40955e43"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen56.js?8989bef5"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen4.js?fbc135c8"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen3.js?2037ac24"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen12.js?621ace01"></script>
+    <script type="text/javascript" src="./calc/mechanics/util.js?d9f1f4fa"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen789.js?d5ea6bb7"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen56.js?95b0cd4a"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen4.js?7be59c39"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen3.js?d6d72197"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen12.js?277936f0"></script>
     <script type="text/javascript" src="./calc/calc.js?40a2d9b1"></script>
-    <script type="text/javascript" src="./calc/desc.js?0b2e506c"></script>
+    <script type="text/javascript" src="./calc/desc.js?a25bdd8b"></script>
     <script type="text/javascript" src="./calc/result.js?9f8881b5"></script>
     <script type="text/javascript" src="./calc/adaptable.js?92e49194"></script>
     <script type="text/javascript" src="./calc/index.js?0b1745b9"></script>
-    <script type="text/javascript" src="./js/shared_controls.js?64c7b998"></script>
-    <script type="text/javascript" src="./js/index_randoms_controls.js?1f8f5109"></script>
+    <script type="text/javascript" src="./js/shared_controls.js?eca9e6d3"></script>
+    <script type="text/javascript" src="./js/index_randoms_controls.js?9471bdb5"></script>
     <script type="text/javascript" src="./js/moveset_import.js?d7a662c8"></script>
 </div>
 

@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <title>Pok&eacute;mon Damage Calculator</title>
     <link type="text/css" rel="stylesheet" href="./js/vendor/select2/select2.css" />
-    <link type="text/css" rel="stylesheet" href="./css/main.css?074868ee" />
+    <link type="text/css" rel="stylesheet" href="./css/main.css?fa395037" />
     <link type="text/css" rel="stylesheet" href="./css/vendor/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="./css/dark-theme.css" id="dark-theme-styles">
     <!-- Immediately loads the dark theme in order to reduce FOIT -->
@@ -138,9 +138,9 @@
         </div>
     </div>
     <div aria-label="Calculation results" class="main-result-group" role="region">
-        <div class="big-text" title="Click to copy.">
-            <span id="mainResult">Loading...</span>
-            <span id="tooltipText">Copied</span>
+        <div class="big-text">
+            <span id="mainResult" title="Click to copy.">Loading...</span>
+            <div id="tooltipText">Copied</div>
         </div>
         <div class="small-text"><span id="damageValues">(If you see this message for more than a few seconds, try enabling JavaScript.)</span>
         </div>
@@ -466,22 +466,23 @@
                     <label for="abilityL1">Ability</label>
                     <select class="ability terrain-trigger calc-trigger" id="abilityL1"></select>
                     <input hidden type="checkbox" title= "Is this ability active?" class="abilityToggle calc-trigger">
-						  <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
-								<option value="0">Zero allies fainted</option>
-								<option value="1">One ally fainted</option>
-								<option value="2">Two allies fainted</option>
-								<option value="3">Three allies fainted</option>
-								<option value="4">Four allies fainted</option>
-								<option value="5">Five allies fainted</option>
-						  </select>
-						 <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
-							 <option value="">Auto-Select</option>
-							 <option value="atk">Attack</option>
-							 <option value="def">Defense</option>
-							 <option value="spa">Special Attack</option>
-							 <option value="spd">Special Defense</option>
-							 <option value="spe">Speed</option>
-						 </select>
+                    <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
+                        <option value="0">Zero allies fainted</option>
+                        <option value="1">One ally fainted</option>
+                        <option value="2">Two allies fainted</option>
+                        <option value="3">Three allies fainted</option>
+                        <option value="4">Four allies fainted</option>
+                        <option value="5">Five allies fainted</option>
+                    </select>
+                    <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
+                        <option value="auto">Auto-Select</option>
+                        <option value="">Inactive</option>
+                        <option value="atk">Attack</option>
+                        <option value="def">Defense</option>
+                        <option value="spa">Special Attack</option>
+                        <option value="spd">Special Defense</option>
+                        <option value="spe">Speed</option>
+                    </select>
                 </div>
                 <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
                     <label for="itemL1">Item</label>
@@ -529,10 +530,10 @@
                 <label for="currentHpL1">Current HP</label>
                 <input class="current-hp calc-trigger" id="currentHpL1" value="341" />/<span class="max-hp">341</span> (
                 <input class="percent-hp calc-trigger" value="100" />%)
-					 <input class="visually-hidden max calc-trigger btn-input" type="checkbox" id="maxL" />
-					 <label class="btn btn-xwide gen-specific g8 hide" for="maxL"
-					 title="Use the corresponding Max Move?">Dynamax</label>
-					 <br />
+                <input class="visually-hidden max calc-trigger btn-input" type="checkbox" id="maxL" />
+                <label class="btn btn-xwide gen-specific g8 hide" for="maxL"
+                title="Use the corresponding Max Move?">Dynamax</label>
+                <br />
                 <br />
                 Health <div class="hpbar"></div>
             </div>
@@ -550,6 +551,8 @@
                 <label class="btn crit-btn" for="critL1" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL1"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zL1" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL1" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL1" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -584,6 +587,8 @@
                 <label class="btn crit-btn" for="critL2" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL2"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zL2" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL2" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL2" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -618,6 +623,8 @@
                 <label class="btn crit-btn" for="critL3" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL3"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zL3" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL3" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL3" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -652,6 +659,8 @@
                 <label class="btn crit-btn" for="critL4" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zL4"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zL4" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarL4" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarL4" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -674,84 +683,84 @@
                     <option value="5">5 times</option>
                 </select>
             </div>
-            <hr>
-            <div class="trainer-pokes">
-                <!--<div class="trainer-poke-list player-pokes">
-                        <img class="trainer-poke-onside" src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png">
-                </div>-->
-                <fieldset class="poke-info" id="trainer-mons">
-                    <legend align="center">Team/Box</legend>
-                    <div>
-                        <legend ailgn="center">Team</legend>
-                        <div id="team-poke-list" class="box-poke dropzone">
-                        
-                        </div>
-                    </div>
-                    <hr>
-                    <div>
-                        <legend align="center">Box</legend>
-                        <div id="box-poke-list" class="box-poke dropzone">
-                        </div>
-                    </div>
-                    <div>
-                        <legend align="center">Box 2</legend>
-                        <div id="box-poke-list2" class="box-poke dropzone">
-                        </div>
-                    </div>
-                    <hr>
-                    <div>
-                        <legend align="center">Trash</legend>
-                        <div id="trash-box" class="box-poke dropzone">
-    
-                        </div>
-                        <button class="deadzone" id="trash-poke">Remove Pokémon from the trash</button>
-                        <button class="deadzone" id="clearSets">Remove Pokémon from all boxes</button>
-                    </div>
-                    <hr>
-                    <div>
-                        <legend align="center">Color Coding</legend>
-                        <button id="show-cc">Show</button>
-                        <button id="hide-cc" hidden>Hide</button>
-                        <button id="refr-cc" hidden>Refresh</button>
-                        <button id="info-cc" hidden>Color Code Explanation</button>
-                        <div id="info-cc-field" class="info-paragraph" hidden>
-                            <h5>Speed Borders</h5>
-                            <b class="mon-speed-F">Blue</b> Outspeeds
-                            <b class="mon-speed-T">Purple</b> Speed Tie
-                            <b class="mon-speed-S">Black</b> Slower
-                            <h5>OHKO Colors</h5>
-                            <b class="mon-dmg-WMO">Hard Counter</b> (Gets 4HKO'd at worse and may OHKO)
-                            <br>
-                            <b class="mon-dmg-W">Walls</b> (Gets 4HKO'd at worse and does more damage)
-                            <br>
-                            <b class="mon-dmg-1">Always OHKOs</b>
-                            <br>
-                            <b class="mon-dmg-2">Might OHKO</b>
-                            <br>
-                            <b class="mon-dmg-3">Might get OHKO'd</b>
-                            <br>
-                            <b class="mon-dmg-4">Always gets OHKO'd</b>
-                            <br>
-                            <b class="mon-dmg-14">Both sides OHKO each other</b>
-                            <br>
-                            <b class="mon-dmg-23">Both sides might OHKO each other</b>
-                            <br>
-                            <b class="mon-dmg-13">Always OHKOs but may get OHKO'd</b>
-                            <br>
-                            <b class="mon-dmg-24">Might OHKO but always gets OHKO'd</b>
-                            <p>
-                                Note: Color coding is intended to help, though some caveats and quirks are missed
-                            </p>
-                        </div>
-                        <div id ="cc-sets" hidden>
-                            <input type="checkbox" name="cc-spe-border" id="cc-spe-border" checked>Speed Border
-                            <input type="checkbox" name="cc-ohko-color" id="cc-ohko-color" checked>OHKO Color
-                            <input type="checkbox" name="cc-auto-refr" id="cc-auto-refr" autocomplete="off">Auto-Refresh
-                        </div>
-                    </div>
-                </fieldset>
-            </div>
         </fieldset>
+        <div class="trainer-pokes">
+            <!--<div class="trainer-poke-list player-pokes">
+                    <img class="trainer-poke-onside" src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png">
+            </div>-->
+            <fieldset class="poke-info" id="trainer-mons">
+                <legend align="center">Team/Box</legend>
+                <div>
+                    <legend ailgn="center">Team</legend>
+                    <div id="team-poke-list" class="box-poke dropzone">
+                    
+                    </div>
+                </div>
+                <hr>
+                <div>
+                    <legend align="center">Box</legend>
+                    <div id="box-poke-list" class="box-poke dropzone">
+                    </div>
+                </div>
+                <div>
+                    <legend align="center">Box 2</legend>
+                    <div id="box-poke-list2" class="box-poke dropzone">
+                    </div>
+                </div>
+                <hr>
+                <div>
+                    <legend align="center">Trash</legend>
+                    <div id="trash-box" class="box-poke dropzone">
+
+                    </div>
+                    <button class="deadzone" id="trash-poke">Remove Pokémon from the trash</button>
+                    <br />
+                    <button class="deadzone" id="clearSets">Remove Pokémon from all boxes</button>
+                </div>
+                <hr>
+                <div>
+                    <legend align="center">Color Coding</legend>
+                    <button id="show-cc">Show</button>
+                    <button id="hide-cc" hidden>Hide</button>
+                    <button id="refr-cc" hidden>Refresh</button>
+                    <button id="info-cc" hidden>Color Code Explanation</button>
+                    <div id="info-cc-field" class="info-paragraph" hidden>
+                        <h5>Speed Borders</h5>
+                        <b class="mon-speed-F">Blue</b> Outspeeds
+                        <b class="mon-speed-T">Purple</b> Speed Tie
+                        <b class="mon-speed-S">Black</b> Slower
+                        <h5>OHKO Colors</h5>
+                        <b class="mon-dmg-WMO">Hard Counter</b> (Gets 4HKO'd at worse and may OHKO)
+                        <br>
+                        <b class="mon-dmg-W">Walls</b> (Gets 4HKO'd at worse and does more damage)
+                        <br>
+                        <b class="mon-dmg-1">Always OHKOs</b>
+                        <br>
+                        <b class="mon-dmg-2">Might OHKO</b>
+                        <br>
+                        <b class="mon-dmg-3">Might get OHKO'd</b>
+                        <br>
+                        <b class="mon-dmg-4">Always gets OHKO'd</b>
+                        <br>
+                        <b class="mon-dmg-14">Both sides OHKO each other</b>
+                        <br>
+                        <b class="mon-dmg-23">Both sides might OHKO each other</b>
+                        <br>
+                        <b class="mon-dmg-13">Always OHKOs but may get OHKO'd</b>
+                        <br>
+                        <b class="mon-dmg-24">Might OHKO but always gets OHKO'd</b>
+                        <p>
+                            Note: Color coding is intended to help, though some caveats and quirks are missed
+                        </p>
+                    </div>
+                    <div id ="cc-sets" hidden>
+                        <input type="checkbox" name="cc-spe-border" id="cc-spe-border" checked>Speed Border
+                        <input type="checkbox" name="cc-ohko-color" id="cc-ohko-color" checked>OHKO Color
+                        <input type="checkbox" name="cc-auto-refr" id="cc-auto-refr" autocomplete="off">Auto-Refresh
+                    </div>
+                </div>
+            </fieldset>
+        </div>
     </div>
 
     <div class="panel">
@@ -765,6 +774,15 @@
                     <input class="visually-hidden calc-trigger" type="radio" name="format" value="Doubles" id="doubles-format" />
                     <label class="btn btn-right" for="doubles-format">Doubles</label>
                 </div>
+                <div class="hide-from-games" aria-labelledby="selectDefaultLevelInstruction" role="radiogroup" style="margin: auto auto 5px;" title="Select the default level.">
+                   <span class="visually-hidden" id="selectDefaultLevelInstruction">Select the default level.</span>
+                   <input class="visually-hidden calc-trigger" type="radio" name="defaultLevel" value="100" id="default-level-100" />
+                   <label class="btn btn-wide btn-left" for="default-level-100">Level 100</label>
+                   <input class="visually-hidden calc-trigger gen-specific g4 g5 g6 g7 g8 g9" type="radio" name="defaultLevel" value="50" id="default-level-50" />
+                   <label class="btn btn-wide btn-mid gen-specific g4 g5 g6 g7 g8 g9" for="default-level-50">Level 50</label>
+                   <input class="visually-hidden calc-trigger" type="radio" name="defaultLevel" value="5" id="default-level-5" />
+                   <label class="btn btn-wide btn-right" for="default-level-5">Level 5</label>
+               </div>
                 <div aria-labelledby="selectTerrainInstruction" class="gen-specific g6 g7 g8 g9" role="group" title="Select the current terrain.">
                     <span class="visually-hidden" id="selectTerrainInstruction">Select the current terrain.</span>
                     <input class="visually-hidden terrain-trigger calc-trigger" type="checkbox" name="terrain" value="Electric" id="electric" /><label class="btn btn-xxxwide btn-left" for="electric">Electric Terrain</label>
@@ -772,16 +790,16 @@
                     <input class="visually-hidden terrain-trigger calc-trigger" type="checkbox" name="terrain" value="Misty" id="misty" /><label class="btn btn-xxxwide btn-right" for="misty">Misty Terrain</label>
                     <input class="visually-hidden terrain-trigger calc-trigger" type="checkbox" name="terrain" value="Psychic" id="psychic" /><label class="btn btn-xxxwide btn-mid" for="psychic">Psychic Terrain</label>
                 </div>
-					 <div aria-labelledby="selectRuinInstruction" class="gen-specific g9 format-specific doubles" role="group" style="margin: 5px auto auto;" title="Select the ruin abilities from other Pok&eacute;mon on the field.">
+                <div aria-labelledby="selectRuinInstruction" class="gen-specific g9 format-specific doubles" role="group" style="margin: 5px auto auto;" title="Select the ruin abilities from other Pok&eacute;mon on the field.">
                     <span class="visually-hidden" id="selectRuinInstruction">Select the active Ruin abilities from other Poke&eacute;mon on the field.</span>
                     <input class="visually-hidden calc-trigger" type="checkbox" name="ruin" value="Beads" id="beads" />
-						  <label class="btn btn-xxxwide btn-left" for="beads">Beads of Ruin</label>
+                    <label class="btn btn-xxxwide btn-left" for="beads">Beads of Ruin</label>
                     <input class="visually-hidden calc-trigger" type="checkbox" name="ruin" value="Tablets" id="tablets" />
-						  <label class="btn btn-xxxwide btn-mid" for="tablets">Tablets of Ruin</label>
+                    <label class="btn btn-xxxwide btn-mid" for="tablets">Tablets of Ruin</label>
                     <input class="visually-hidden calc-trigger" type="checkbox" name="ruin" value="Sword" id="sword" />
-						  <label class="btn btn-xxxwide btn-right" for="sword">Sword of Ruin</label>
+                    <label class="btn btn-xxxwide btn-right" for="sword">Sword of Ruin</label>
                     <input class="visually-hidden calc-trigger" type="checkbox" name="ruin" value="Vessel" id="vessel" />
-						  <label class="btn btn-xxxwide btn-mid" for="vessel">Vessel of Ruin</label>
+                    <label class="btn btn-xxxwide btn-mid" for="vessel">Vessel of Ruin</label>
                 </div>
                 <hr class="gen-specific g6 g7 g8 g9" />
                 <div aria-labelledby="selectWeatherInstruction" role="radiogroup">
@@ -1423,22 +1441,23 @@
                     <label for="abilityR1">Ability</label>
                     <select class="ability terrain-trigger calc-trigger" id="abilityR1"></select>
                     <input hidden type="checkbox" title= "Is this ability active?" class="abilityToggle calc-trigger">
-						  <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
-								<option value="0">Zero allies fainted</option>
-								<option value="1">One ally fainted</option>
-								<option value="2">Two allies fainted</option>
-								<option value="3">Three allies fainted</option>
-								<option value="4">Four allies fainted</option>
-								<option value="5">Five allies fainted</option>
-						  </select>
-						 <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
-							 <option value="">Auto-Select</option>
-							 <option value="atk">Attack</option>
-							 <option value="def">Defense</option>
-							 <option value="spa">Special Attack</option>
-							 <option value="spd">Special Defense</option>
-							 <option value="spe">Speed</option>
-						 </select>
+                        <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
+                            <option value="0">Zero allies fainted</option>
+                            <option value="1">One ally fainted</option>
+                            <option value="2">Two allies fainted</option>
+                            <option value="3">Three allies fainted</option>
+                            <option value="4">Four allies fainted</option>
+                            <option value="5">Five allies fainted</option>
+                        </select>
+                        <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
+                            <option value="auto">Auto-Select</option>
+                            <option value="">Inactive</option>
+                            <option value="atk">Attack</option>
+                            <option value="def">Defense</option>
+                            <option value="spa">Special Attack</option>
+                            <option value="spd">Special Defense</option>
+                            <option value="spe">Speed</option>
+                        </select>
                 </div>
                 <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
                     <label for="itemR1">Item</label>
@@ -1486,10 +1505,10 @@
                 <label for="currentHpR1">Current HP</label>
                 <input class="current-hp calc-trigger" id="currentHpR1" value="341" />/<span class="max-hp">341</span> (
                 <input class="percent-hp calc-trigger" value="100" />%)
-					 <input class="visually-hidden max calc-trigger btn-input" type="checkbox" id="maxR" />
-					 <label class="btn btn-xwide gen-specific g8 hide" for="maxR"
-					 title="Use the corresponding Max Move?">Dynamax</label>
-					 <br />
+                <input class="visually-hidden max calc-trigger btn-input" type="checkbox" id="maxR" />
+                <label class="btn btn-xwide gen-specific g8 hide" for="maxR"
+                title="Use the corresponding Max Move?">Dynamax</label>
+                <br />
                 <br />
                 Health <div class="hpbar"></div>
             </div>
@@ -1505,6 +1524,8 @@
                 <label class="btn crit-btn" for="critR1" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR1"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zR1" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR1" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR1" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1539,6 +1560,8 @@
                 <label class="btn crit-btn" for="critR2" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR2"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zR2" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR2" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR2" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1573,6 +1596,8 @@
                 <label class="btn crit-btn" for="critR3" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR3"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zR3" title="Make this attack a Z-move?">Z</label>
+               <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR3" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR3" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1607,6 +1632,8 @@
                 <label class="btn crit-btn" for="critR4" title="Force this attack to be a critical hit?">Crit</label>
                 <input aria-describedby="zMoveInstruction" class="move-z calc-trigger visually-hidden" type="checkbox" id="zR4"/>
                 <label class="btn z-btn gen-specific g7 g8 g9" for="zR4" title="Make this attack a Z-move?">Z</label>
+                <input aria-describedby="stellarBoostInstruction" class="move-stellar calc-trigger visually-hidden" type="checkbox" id="stellarR4" />
+                <label class="stellar-btn btn" style="display: none;" for="stellarR4" title="Make this attack Stellar boosted?">Stellar</label>
                 <select class="move-hits calc-trigger hide">
                     <option value="2">2 hits</option>
                     <option value="3">3 hits</option>
@@ -1654,43 +1681,44 @@
     </script>
     <script type="text/javascript" src="./calc/util.js?51463f0d"></script>
     <script type="text/javascript" src="./calc/stats.js?a9e37d1a"></script>
-    <script type="text/javascript" src="./calc/data/species.js?74c8d7e1"></script>
-	 <script type="text/javascript" src="./js/data/sets/gen9.js?689e95c2"></script>
-    <script type="text/javascript" src="./js/data/sets/gen8.js?9c41c146"></script>
-    <script type="text/javascript" src="./js/data/sets/gen7games.js?5a8f57f7"></script>
-    <script type="text/javascript" src="./js/data/sets/gen7.js?f7ec6e60"></script>
-    <script type="text/javascript" src="./js/data/sets/gen6games.js"></script>
-    <script type="text/javascript" src="./js/data/sets/gen6.js?bd3f7140"></script>
-    <script type="text/javascript" src="./js/data/sets/gen5.js?c7c35313"></script>
-    <script type="text/javascript" src="./js/data/sets/gen4games.js"></script>
-    <script type="text/javascript" src="./js/data/sets/gen4.js?ef5f526d"></script>
-    <script type="text/javascript" src="./js/data/sets/gen3games.js"></script>
-    <script type="text/javascript" src="./js/data/sets/gen3.js?31f3fea8"></script>
-    <script type="text/javascript" src="./js/data/sets/gen2.js?ee84b7ec"></script>
-    <script type="text/javascript" src="./js/data/sets/gen1.js?aadf923c"></script>
-    <script type="text/javascript" src="./calc/data/types.js?3267f790"></script>
+    <script type="text/javascript" src="./calc/data/species.js?1de5d083"></script>
+    <script type="text/javascript" src="./js/data/sets/gen9.js?bf2f9261"></script>
+    <script type="text/javascript" src="./js/data/sets/gen8.js?9f2c20a0"></script>
+    <script type="text/javascript" src="./js/data/sets/gen7.js?10ee3e1a"></script>
+    <script type="text/javascript" src="./js/data/sets/gen6.js?fa89aea5"></script>
+    <script type="text/javascript" src="./js/data/sets/gen5.js?1ae6e298"></script>
+    <script type="text/javascript" src="./js/data/sets/gen4.js?e398822c"></script>
+    <script type="text/javascript" src="./js/data/sets/gen3.js?2b5aa5e2"></script>
+    <script type="text/javascript" src="./js/data/sets/gen2.js?39d64009"></script>
+    <script type="text/javascript" src="./js/data/sets/gen1.js?fd77702d"></script>
+    <script type="text/javascript" src="./js/data/sets/games/gen3/emerald.js?e4419481"></script>
+    <script type="text/javascript" src="./js/data/sets/games/gen4/platinum.js?a0929d6d"></script>
+    <script type="text/javascript" src="./js/data/sets/games/gen4/hgss.js?c1ed8fbb"></script>
+    <script type="text/javascript" src="./js/data/sets/games/gen6/xy.js?ff59e82a"></script>
+    <script type="text/javascript" src="./js/data/sets/games/gen7/sm.js?d5493dac"></script>
+    <script type="text/javascript" src="./calc/data/types.js?a641e10b"></script>
     <script type="text/javascript" src="./calc/data/natures.js?28612810"></script>
-    <script type="text/javascript" src="./calc/data/abilities.js?26e027d5"></script>
-    <script type="text/javascript" src="./calc/data/moves.js?6a2139f1"></script>
-    <script type="text/javascript" src="./calc/data/items.js?f3272daa"></script>
+    <script type="text/javascript" src="./calc/data/abilities.js?95a9afd4"></script>
+    <script type="text/javascript" src="./calc/data/moves.js?409a4002"></script>
+    <script type="text/javascript" src="./calc/data/items.js?a2dbf914"></script>
     <script type="text/javascript" src="./calc/data/index.js?abecbd82"></script>
-    <script type="text/javascript" src="./calc/move.js?57ab9f0a"></script>
+    <script type="text/javascript" src="./calc/move.js?8b27dcd1"></script>
     <script type="text/javascript" src="./calc/pokemon.js?1e459e1e"></script>
     <script type="text/javascript" src="./calc/field.js?bbf04408"></script>
     <script type="text/javascript" src="./calc/items.js?067e42a4"></script>
-    <script type="text/javascript" src="./calc/mechanics/util.js?df46f94d"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen789.js?40955e43"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen56.js?8989bef5"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen4.js?fbc135c8"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen3.js?2037ac24"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen12.js?621ace01"></script>
+    <script type="text/javascript" src="./calc/mechanics/util.js?d9f1f4fa"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen789.js?d5ea6bb7"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen56.js?95b0cd4a"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen4.js?7be59c39"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen3.js?d6d72197"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen12.js?277936f0"></script>
     <script type="text/javascript" src="./calc/calc.js?40a2d9b1"></script>
-    <script type="text/javascript" src="./calc/desc.js?0b2e506c"></script>
+    <script type="text/javascript" src="./calc/desc.js?a25bdd8b"></script>
     <script type="text/javascript" src="./calc/result.js?9f8881b5"></script>
     <script type="text/javascript" src="./calc/adaptable.js?92e49194"></script>
     <script type="text/javascript" src="./calc/index.js?0b1745b9"></script>
-    <script type="text/javascript" src="./js/shared_controls.js?64c7b998"></script>
-    <script type="text/javascript" src="./js/index_randoms_controls.js?1f8f5109"></script>
+    <script type="text/javascript" src="./js/shared_controls.js?eca9e6d3"></script>
+    <script type="text/javascript" src="./js/index_randoms_controls.js?9471bdb5"></script>
     <script type="text/javascript" src="./js/moveset_import.js?d7a662c8"></script>
 
     <script type="text/javascript" src="./js/game_controls.js"></script>

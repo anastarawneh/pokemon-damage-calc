@@ -151,6 +151,10 @@ label:not(.btn) {
     background-image: none;
 }
 
+.select2-no-results {
+    background-color: var(--background) !important;
+}
+
 input.select2-input {
     color: var(--text);
     /* 

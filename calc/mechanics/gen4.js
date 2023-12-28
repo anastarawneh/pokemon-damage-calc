@@ -135,7 +135,8 @@ function calculateDPP(gen, attacker, defender, move, field) {
         ? (0, util_1.getMoveEffectiveness)(gen, move, secondDefenderType, isGhostRevealed, field.isGravity)
         : 1;
     var typeEffectiveness = type1Effectiveness * type2Effectiveness;
-    if (typeEffectiveness === 0 && move.hasType('Ground') && defender.hasItem('Iron Ball')) {
+    if (typeEffectiveness === 0 && move.hasType('Ground') &&
+        (defender.hasItem('Iron Ball') && !defender.hasAbility('Klutz'))) {
         if (type1Effectiveness === 0) {
             type1Effectiveness = 1;
         }
@@ -500,6 +501,30 @@ function calculateDPP(gen, attacker, defender, move, field) {
         damage[i] = Math.max(1, damage[i]);
     }
     result.damage = damage;
+    if (move.hits > 1) {
+        var _loop_1 = function (times) {
+            var damageMultiplier = 0;
+            result.damage = result.damage.map(function (affectedAmount) {
+                if (times) {
+                    var newFinalDamage = 0;
+                    newFinalDamage = Math.floor((baseDamage * (85 + damageMultiplier)) / 100);
+                    newFinalDamage = Math.floor(newFinalDamage * stabMod);
+                    newFinalDamage = Math.floor(newFinalDamage * type1Effectiveness);
+                    newFinalDamage = Math.floor(newFinalDamage * type2Effectiveness);
+                    newFinalDamage = Math.floor(newFinalDamage * filterMod);
+                    newFinalDamage = Math.floor(newFinalDamage * ebeltMod);
+                    newFinalDamage = Math.floor(newFinalDamage * tintedMod);
+                    newFinalDamage = Math.max(1, newFinalDamage);
+                    damageMultiplier++;
+                    return affectedAmount + newFinalDamage;
+                }
+                return affectedAmount;
+            });
+        };
+        for (var times = 0; times < move.hits; times++) {
+            _loop_1(times);
+        }
+    }
     return result;
 }
 exports.calculateDPP = calculateDPP;

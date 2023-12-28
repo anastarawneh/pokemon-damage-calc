@@ -146,7 +146,6 @@ var GSC_ONLY = [
     'Pink Bow',
     'Polkadot Bow',
     'PSN Cure Berry',
-    'Enigma Berry',
 ];
 var ADV = GSC.filter(function (i) { return !GSC_ONLY.includes(i); }).concat([
     'Aguav Berry',
@@ -531,6 +530,7 @@ var SV = SS.concat([
     'Loaded Dice',
     'Malicious Armor',
     'Masterpiece Teacup',
+    'Metal Alloy',
     'Mirror Herb',
     'Punching Glove',
     'Lustrous Globe',

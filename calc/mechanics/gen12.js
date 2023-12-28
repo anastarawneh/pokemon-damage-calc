@@ -228,6 +228,33 @@ function calculateRBYGSC(gen, attacker, defender, move, field) {
             }
         }
     }
+    if (move.hits > 1) {
+        var _loop_1 = function (times) {
+            var damageMultiplier = 217;
+            result.damage = result.damage.map(function (affectedAmount) {
+                if (times) {
+                    var newFinalDamage = 0;
+                    if (gen.num === 2) {
+                        newFinalDamage = Math.max(1, Math.floor((baseDamage * damageMultiplier) / 255));
+                    }
+                    else {
+                        if (baseDamage === 1) {
+                            newFinalDamage = 1;
+                        }
+                        else {
+                            newFinalDamage = Math.floor((baseDamage * damageMultiplier) / 255);
+                        }
+                    }
+                    damageMultiplier++;
+                    return affectedAmount + newFinalDamage;
+                }
+                return affectedAmount;
+            });
+        };
+        for (var times = 0; times < move.hits; times++) {
+            _loop_1(times);
+        }
+    }
     return result;
 }
 exports.calculateRBYGSC = calculateRBYGSC;

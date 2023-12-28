@@ -11,4 +11,4 @@ export declare function calculateAttackSMSSSV(gen: Generation, attacker: Pokemon
 export declare function calculateAtModsSMSSSV(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc): number[];
 export declare function calculateDefenseSMSSSV(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc, isCritical?: boolean): number;
 export declare function calculateDfModsSMSSSV(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc, isCritical?: boolean, hitsPhysical?: boolean): number[];
-export declare function calculateFinalModsSMSSSV(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc, isCritical: boolean | undefined, typeEffectiveness: number): number[];
+export declare function calculateFinalModsSMSSSV(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc, isCritical: boolean | undefined, typeEffectiveness: number, hitCount?: number): number[];

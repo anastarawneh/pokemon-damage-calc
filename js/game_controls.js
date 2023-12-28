@@ -17,7 +17,10 @@ $(".game").change(function() {
 		}
 	}
 
-    if (game != 0) updateGenOptions();
+    if (game != 0) {
+		updateGenOptions();
+		$(".hide-from-games").hide();
+	} else $(".hide-from-games").show();
     generation = gen;
     setdex = CUSTOMSETDEX[game];
     if (typeof setdex === 'undefined') setdex = SETDEX[generation];

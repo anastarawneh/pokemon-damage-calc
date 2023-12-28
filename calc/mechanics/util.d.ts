@@ -9,6 +9,7 @@ export declare function computeFinalStats(gen: Generation, attacker: Pokemon, de
 export declare function getFinalSpeed(gen: Generation, pokemon: Pokemon, field: Field, side: Side): number;
 export declare function getMoveEffectiveness(gen: Generation, move: Move, type: TypeName, isGhostRevealed?: boolean, isGravity?: boolean, isRingTarget?: boolean): number;
 export declare function checkAirLock(pokemon: Pokemon, field: Field): void;
+export declare function checkTeraformZero(pokemon: Pokemon, field: Field): void;
 export declare function checkForecast(pokemon: Pokemon, weather?: Weather): void;
 export declare function checkItem(pokemon: Pokemon, magicRoomActive?: boolean): void;
 export declare function checkWonderRoom(pokemon: Pokemon, wonderRoomActive?: boolean): void;
@@ -23,6 +24,7 @@ export declare function checkMultihitBoost(gen: Generation, attacker: Pokemon, d
 export declare function chainMods(mods: number[], lowerBound: number, upperBound: number): number;
 export declare function getBaseDamage(level: number, basePower: number, attack: number, defense: number): number;
 export declare function getQPBoostedStat(pokemon: Pokemon, gen?: Generation): StatID;
+export declare function isQPActive(pokemon: Pokemon, field: Field): boolean;
 export declare function getFinalDamage(baseAmount: number, i: number, effectiveness: number, isBurned: boolean, stabMod: number, finalMod: number, protect?: boolean): number;
 export declare function getShellSideArmCategory(source: Pokemon, target: Pokemon): MoveCategory;
 export declare function getWeightFactor(pokemon: Pokemon): 1 | 2 | 0.5;

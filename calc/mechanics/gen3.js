@@ -288,6 +288,22 @@ function calculateADV(gen, attacker, defender, move, field) {
     for (var i = 85; i <= 100; i++) {
         result.damage[i - 85] = Math.max(1, Math.floor((baseDamage * i) / 100));
     }
+    if (move.hits > 1) {
+        var _loop_1 = function (times) {
+            var damageMultiplier = 85;
+            result.damage = result.damage.map(function (affectedAmount) {
+                if (times) {
+                    var newFinalDamage = Math.max(1, Math.floor((baseDamage * damageMultiplier) / 100));
+                    damageMultiplier++;
+                    return affectedAmount + newFinalDamage;
+                }
+                return affectedAmount;
+            });
+        };
+        for (var times = 0; times < move.hits; times++) {
+            _loop_1(times);
+        }
+    }
     return result;
 }
 exports.calculateADV = calculateADV;

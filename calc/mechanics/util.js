@@ -149,11 +149,7 @@ function getFinalSpeed(gen, pokemon, field, side) {
     else if (pokemon.hasAbility('Slow Start') && pokemon.abilityOn) {
         speedMods.push(2048);
     }
-    else if (getQPBoostedStat(pokemon, gen) === 'spe' &&
-        ((pokemon.hasAbility('Protosynthesis') &&
-            (weather.includes('Sun') || pokemon.hasItem('Booster Energy'))) ||
-            (pokemon.hasAbility('Quark Drive') &&
-                (terrain === 'Electric' || pokemon.hasItem('Booster Energy'))))) {
+    else if (isQPActive(pokemon, field) && getQPBoostedStat(pokemon, gen) === 'spe') {
         speedMods.push(6144);
     }
     if (pokemon.hasItem('Choice Scarf')) {
@@ -198,6 +194,13 @@ function checkAirLock(pokemon, field) {
     }
 }
 exports.checkAirLock = checkAirLock;
+function checkTeraformZero(pokemon, field) {
+    if (pokemon.hasAbility('Teraform Zero') && pokemon.abilityOn) {
+        field.weather = undefined;
+        field.terrain = undefined;
+    }
+}
+exports.checkTeraformZero = checkTeraformZero;
 function checkForecast(pokemon, weather) {
     if (pokemon.hasAbility('Forecast') && pokemon.named('Castform')) {
         switch (weather) {
@@ -220,6 +223,8 @@ function checkForecast(pokemon, weather) {
 }
 exports.checkForecast = checkForecast;
 function checkItem(pokemon, magicRoomActive) {
+    if (pokemon.gen.num === 4 && pokemon.hasItem('Iron Ball'))
+        return;
     if (pokemon.hasAbility('Klutz') && !EV_ITEMS.includes(pokemon.item) ||
         magicRoomActive) {
         pokemon.item = '';
@@ -270,13 +275,13 @@ function checkDownload(source, target, wonderRoomActive) {
 }
 exports.checkDownload = checkDownload;
 function checkIntrepidSword(source, gen) {
-    if (source.hasAbility('Intrepid Sword') && gen.num < 9) {
+    if (source.hasAbility('Intrepid Sword') && gen.num > 7) {
         source.boosts.atk = Math.min(6, source.boosts.atk + 1);
     }
 }
 exports.checkIntrepidSword = checkIntrepidSword;
 function checkDauntlessShield(source, gen) {
-    if (source.hasAbility('Dauntless Shield') && gen.num < 9) {
+    if (source.hasAbility('Dauntless Shield') && gen.num > 7) {
         source.boosts.def = Math.min(6, source.boosts.def + 1);
     }
 }
@@ -429,8 +434,9 @@ function getBaseDamage(level, basePower, attack, defense) {
 exports.getBaseDamage = getBaseDamage;
 function getQPBoostedStat(pokemon, gen) {
     var e_4, _a;
-    if (pokemon.boostedStat)
+    if (pokemon.boostedStat && pokemon.boostedStat !== 'auto') {
         return pokemon.boostedStat;
+    }
     var bestStat = 'atk';
     try {
         for (var _b = __values(['def', 'spa', 'spd', 'spe']), _c = _b.next(); !_c.done; _c = _b.next()) {
@@ -451,6 +457,19 @@ function getQPBoostedStat(pokemon, gen) {
     return bestStat;
 }
 exports.getQPBoostedStat = getQPBoostedStat;
+function isQPActive(pokemon, field) {
+    if (!pokemon.boostedStat) {
+        return false;
+    }
+    var weather = field.weather || '';
+    var terrain = field.terrain;
+    return ((pokemon.hasAbility('Protosynthesis') &&
+        (weather.includes('Sun') || pokemon.hasItem('Booster Energy'))) ||
+        (pokemon.hasAbility('Quark Drive') &&
+            (terrain === 'Electric' || pokemon.hasItem('Booster Energy'))) ||
+        (pokemon.boostedStat !== 'auto'));
+}
+exports.isQPActive = isQPActive;
 function getFinalDamage(baseAmount, i, effectiveness, isBurned, stabMod, finalMod, protect) {
     var damageAmount = Math.floor(OF32(baseAmount * (85 + i)) / 100);
     if (stabMod !== 4096)
