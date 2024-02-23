@@ -3,6 +3,7 @@ export declare const MEGA_STONES: {
     [species: string]: string;
 };
 export declare const ITEMS: string[][];
+export declare const HACK_ITEMS: string[][];
 export declare class Items implements I.Items {
     private readonly gen;
     constructor(gen: I.GenerationNum);

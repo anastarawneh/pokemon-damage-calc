@@ -256,6 +256,15 @@ $(".mode").change(function () {
 	}
 });
 
+$(".gamemode").change(function () {
+	var gamemode = $(this).attr("id");
+	if (gamemode === 'vanilla') {
+		window.location.replace('index' + linkExtension);
+	} else {
+		window.location.replace('hacks' + linkExtension);
+	}
+});
+
 $(".notation").change(function () {
 	performCalculations();
 });

@@ -319,6 +319,7 @@ $("input[name='weather']").change(function () {
 var lastManualWeather = "";
 var lastAutoWeather = ["", ""];
 function autosetWeather(ability, i) {
+	if (game > 0) return;
 	var currentWeather = $("input:radio[name='weather']:checked").val();
 	if (lastAutoWeather.indexOf(currentWeather) === -1) {
 		lastManualWeather = currentWeather;
@@ -551,7 +552,7 @@ $(".set-selector").change(function () {
 	window.NO_CALC = true;
 	var fullSetName = $(this).val();
 
-	if ($(this).hasClass('opposing')) {
+	if ($(this).hasClass('opposing') && game > 0) {
 		var nextPokemon = getTrainerPokemon(fullSetName);
 		var trainerHTML = "";
 		for (i in nextPokemon) {
@@ -795,7 +796,6 @@ function showFormes(formeObj, pokemonName, pokemon, baseFormeName) {
 function stellarButtonsVisibility(pokeObj, vis) {
 	var fullSetName = pokeObj.find("input.set-selector").val();
 	var pokemonName = fullSetName.substring(0, fullSetName.indexOf(" ("));
-	console.log(pokemonName);
 	var moveObjs = [
 		pokeObj.find(".move1"),
 		pokeObj.find(".move2"),
@@ -894,6 +894,7 @@ $(".forme").change(function () {
 });
 
 function correctHiddenPower(pokemon) {
+	if (isHack && game == 1) return pokemon;
 	// After Gen 7 bottlecaps means you can have a HP without perfect IVs
 	// Level 100 is elided from sets so if its undefined its level 100
 	if (gen >= 7 && (!pokemon.level || pokemon.level >= 100)) return pokemon;
@@ -1228,7 +1229,7 @@ var RANDDEX = [
 	typeof GEN8RANDOMBATTLE === 'undefined' ? {} : GEN8RANDOMBATTLE,
 	typeof GEN9RANDOMBATTLE === 'undefined' ? {} : GEN9RANDOMBATTLE,
 ];
-var gen, genWasChanged, notation, pokedex, setdex, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
+var gen, genWasChanged, notation, pokedex, setdex, partyOrder, trainerNames, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
 var DEFAULTGEN = 9;
 $(".gen").change(function () {
 	/*eslint-disable */
@@ -1277,10 +1278,10 @@ $(".gen").change(function () {
 	var itemOptions = getSelectOptions(items, true);
 	$("select.item").find("option").remove().end().append("<option value=\"\">(none)</option>" + itemOptions);
 
+	updateGameOptions();
+
 	$(".set-selector").val(getFirstValidSetOption().id);
 	$(".set-selector").change();
-
-	updateGameOptions();
 });
 
 function getFirstValidSetOption() {
@@ -1582,7 +1583,8 @@ function getTrainerNames() {
 	var allPokemon = [];
 	var params = new URLSearchParams(window.location.search);
 	var game = params.get("game");
-	switch (game) {
+	var isHack = window.location.pathname.includes("hacks.html");
+	if (!isHack) switch (game) {
 		case "1":
 			allPokemon = CUSTOMSETDEX_RB;
 			break;
@@ -1627,6 +1629,12 @@ function getTrainerNames() {
 			break;
 		case "17":
 			allPokemon = CUSTOMSETDEX_SM;
+			break;
+		default:
+			return [];
+	} else switch (game) {
+		case "1":
+			allPokemon = CUSTOMHACKSETDEX_EK;
 			break;
 		default:
 			return [];
@@ -1707,15 +1715,42 @@ function getSrcImgPokemon(poke) {
 }
 
 function getTrainerPokemon(trainerName) {
-	TR_NAMES = getTrainerNames();
-	var trueName = trainerName.split("(")[1].replaceAll("*", "");
-    var matches = [];
-    for (i in TR_NAMES) {
-        if (TR_NAMES[i].replaceAll("*", "").includes(trueName)) {
-            matches.push(TR_NAMES[i]);
-        }
-    }
-    return matches;
+	if (!partyOrder || !Object.keys(partyOrder).length) {
+		TR_NAMES = getTrainerNames();
+		var trueName = trainerName.split("(")[1].replaceAll("*", "").split(")")[0].trim();
+		window.CURRENT_TRAINER = trueName;
+    	var matches = [];
+    	for (i in TR_NAMES) {
+    	    if (TR_NAMES[i].replaceAll("*", "").trim().includes(`(${trueName})`)) {
+    	        matches.push(TR_NAMES[i]);
+    	    }
+    	}
+    	return matches;
+	} else {
+		var trueName = trainerName.split("(")[1].replaceAll("*", "").split(")")[0].trim();
+		window.CURRENT_TRAINER = trueName;
+		var party = partyOrder[trueName];
+		var dupes = party.filter((item, index) => party.indexOf(item) != index);
+		for (var i in dupes) {
+			mon = dupes[i]
+			var count = party.filter(x => x == mon).length;
+			for (var i = 0; i < count; i++) {
+				var index = party.indexOf(mon);
+				party[index] += ` (${i + 1})`
+			}
+		}
+		var matches = [];
+		for (i in party) {
+			if (party[i].includes("(")) {
+				var index = party[i].split("(")[1].split(")")[0];
+				party[i] = party[i].split("(")[0].trim();
+				matches.push(`${party[i]} (${trueName} (${index}))`);
+			} else {
+				matches.push(`${party[i]} (${trueName})`);
+			}
+		}
+		return matches;
+	}
 }
 
 $(document).on('click', '.right-side', function() {
@@ -1821,6 +1856,58 @@ function trashPokemon() {
 	$('.box-poke-list')[0].click()
 }
 
+function nextTrainer() {
+	if (trainerNames.includes(window.CURRENT_TRAINER)) {
+		var index = trainerNames.indexOf(window.CURRENT_TRAINER);
+		if (index + 1 !== trainerNames.length) {
+			var nextTrainerName = trainerNames[index + 1];
+			var party = partyOrder[nextTrainerName];
+			var pokemon = party[0];
+			var dupes = party.filter((item, index) => party.indexOf(item) != index);
+			if (dupes.includes(pokemon)) {
+				nextTrainerName += " (1)";
+			}
+			var setName = `${pokemon} (${nextTrainerName})`;
+			$(".opposing").val(setName);
+			$(".opposing").change();
+			$(".opposing .select2-chosen").text(setName);
+		}
+	}
+}
+
+function previousTrainer() {
+	if (trainerNames.includes(window.CURRENT_TRAINER)) {
+		var index = trainerNames.indexOf(window.CURRENT_TRAINER);
+		if (index !== 0) {
+			var previousTrainerName = trainerNames[index - 1];
+			var party = partyOrder[previousTrainerName];
+			var pokemon = party[0];
+			var dupes = party.filter((item, index) => party.indexOf(item) != index);
+			if (dupes.includes(pokemon)) {
+				previousTrainerName += " (1)";
+			}
+			var setName = `${pokemon} (${previousTrainerName})`;
+			$(".opposing").val(setName);
+			$(".opposing").change();
+			$(".opposing .select2-chosen").text(setName);
+		}
+	}
+}
+
+function resetTrainer() {
+	var firstTrainerName = trainerNames[0];
+	var party = partyOrder[firstTrainerName];
+	var pokemon = party[0];
+	var dupes = party.filter((item, index) => party.indexOf(item) != index);
+	if (dupes.includes(pokemon)) {
+		firstTrainerName += " (1)";
+	}
+	var setName = `${pokemon} (${firstTrainerName})`;
+	$(".opposing").val(setName);
+	$(".opposing").change();
+	$(".opposing .select2-chosen").text(setName);
+}
+
 function allowDrop(ev) {
 	ev.preventDefault();
 }
@@ -1921,6 +2008,9 @@ $(document).ready(function () {
 	$('#refr-cc').click(refreshColorCode);
 	$('#info-cc').click(toggleInfoColorCode);
 	$('#trash-poke').click(trashPokemon);
+	$('#next-trainer').click(nextTrainer);
+	$('#previous-trainer').click(previousTrainer);
+	$('#reset-trainer').click(resetTrainer);
 	$('#cc-spe-border').change(speedBorderSetsChange);
 	$('#cc-ohko-color').change(colorCodeSetsChange);
 	$('#cc-spe-border')[0].checked=true;

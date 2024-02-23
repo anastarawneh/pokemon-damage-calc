@@ -268,16 +268,21 @@ function updateDex(customsets, callback = null) {
 			if (!SETDEX_RBY[pokemon]) SETDEX_RBY[pokemon] = {};
 			SETDEX_RBY[pokemon][moveset] = customsets[pokemon][moveset];
 
-			if (!CUSTOMSETDEX_E[pokemon]) CUSTOMSETDEX_E[pokemon] = {};
-			CUSTOMSETDEX_E[pokemon][moveset] = customsets[pokemon][moveset];
-			if (!CUSTOMSETDEX_Pl[pokemon]) CUSTOMSETDEX_Pl[pokemon] = {};
-			CUSTOMSETDEX_Pl[pokemon][moveset] = customsets[pokemon][moveset];
-			if (!CUSTOMSETDEX_HGSS[pokemon]) CUSTOMSETDEX_HGSS[pokemon] = {};
-			CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset];
-			if (!CUSTOMSETDEX_XY[pokemon]) CUSTOMSETDEX_XY[pokemon] = {};
-			CUSTOMSETDEX_XY[pokemon][moveset] = customsets[pokemon][moveset];
-			if (!CUSTOMSETDEX_SM[pokemon]) CUSTOMSETDEX_SM[pokemon] = {};
-			CUSTOMSETDEX_SM[pokemon][moveset] = customsets[pokemon][moveset];
+			if (!isHack) {
+				if (!CUSTOMSETDEX_E[pokemon]) CUSTOMSETDEX_E[pokemon] = {};
+				CUSTOMSETDEX_E[pokemon][moveset] = customsets[pokemon][moveset];
+				if (!CUSTOMSETDEX_Pl[pokemon]) CUSTOMSETDEX_Pl[pokemon] = {};
+				CUSTOMSETDEX_Pl[pokemon][moveset] = customsets[pokemon][moveset];
+				if (!CUSTOMSETDEX_HGSS[pokemon]) CUSTOMSETDEX_HGSS[pokemon] = {};
+				CUSTOMSETDEX_HGSS[pokemon][moveset] = customsets[pokemon][moveset];
+				if (!CUSTOMSETDEX_XY[pokemon]) CUSTOMSETDEX_XY[pokemon] = {};
+				CUSTOMSETDEX_XY[pokemon][moveset] = customsets[pokemon][moveset];
+				if (!CUSTOMSETDEX_SM[pokemon]) CUSTOMSETDEX_SM[pokemon] = {};
+				CUSTOMSETDEX_SM[pokemon][moveset] = customsets[pokemon][moveset];
+			} else {
+				if (!CUSTOMHACKSETDEX_EK[pokemon]) CUSTOMHACKSETDEX_EK[pokemon] = {};
+				CUSTOMHACKSETDEX_EK[pokemon][moveset] = customsets[pokemon][moveset];
+			}
 
 			var poke = {name: pokemon, nameProp: moveset};	
 			addBoxed(poke);

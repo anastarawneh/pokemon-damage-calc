@@ -110,6 +110,7 @@ function calculateADV(gen, attacker, defender, move, field) {
         return result;
     }
     desc.HPEVs = "".concat(defender.evs.hp, " HP");
+    desc.HPIVs = "".concat(defender.ivs.hp, " HP");
     var fixedDamage = (0, util_1.handleFixedDamageMoves)(attacker, move);
     if (fixedDamage) {
         result.damage = fixedDamage;
@@ -156,8 +157,10 @@ function calculateADV(gen, attacker, defender, move, field) {
     var isPhysical = move.category === 'Physical';
     var attackStat = isPhysical ? 'atk' : 'spa';
     desc.attackEVs = (0, util_1.getEVDescriptionText)(gen, attacker, attackStat, attacker.nature);
+    desc.attackIVs = (0, util_1.getIVDescriptionText)(gen, attacker, attackStat, attacker.nature);
     var defenseStat = isPhysical ? 'def' : 'spd';
     desc.defenseEVs = (0, util_1.getEVDescriptionText)(gen, defender, defenseStat, defender.nature);
+    desc.defenseIVs = (0, util_1.getIVDescriptionText)(gen, defender, defenseStat, defender.nature);
     var at = attacker.rawStats[attackStat];
     var df = defender.rawStats[defenseStat];
     if (isPhysical && attacker.hasAbility('Huge Power', 'Pure Power')) {

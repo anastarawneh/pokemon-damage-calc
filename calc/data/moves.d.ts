@@ -37,6 +37,9 @@ export interface MoveData {
 export declare const MOVES: {
     [name: string]: MoveData;
 }[];
+export declare const HACK_MOVES: {
+    [name: string]: MoveData;
+}[];
 export declare class Moves implements I.Moves {
     private readonly gen;
     constructor(gen: I.GenerationNum);
@@ -81,4 +84,7 @@ declare class Move implements I.Move {
     private static readonly FLAGS;
     constructor(name: string, data: MoveData, gen: number);
 }
+export declare const HACK_MOVES_BY_ID: Array<{
+    [id: string]: Move;
+}>;
 export {};

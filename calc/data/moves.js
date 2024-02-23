@@ -37,7 +37,7 @@ var __values = (this && this.__values) || function(o) {
     };
     throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
 };
-var e_1, _a, e_2, _b;
+var e_1, _a, e_2, _b, e_3, _c;
 exports.__esModule = true;
 
 var util_1 = require("../util");
@@ -561,6 +561,62 @@ var ADV_PATCH = {
     Yawn: { bp: 0, category: 'Status', type: 'Normal' }
 };
 var ADV = (0, util_1.extend)(true, {}, GSC, ADV_PATCH);
+var EK_PATCH = {
+    Crabhammer: { bp: 120 },
+    'Dizzy Punch': { bp: 90 },
+    'Hi Jump Kick': { bp: 85, type: 'Fighting', hasCrashDamage: true, makesContact: true },
+    'Petal Dance': { bp: 95 },
+    'Sonicboom': { bp: 0 },
+    'Sky Attack': { bp: 120, recoil: [1, 3] },
+    'Leech Life': { bp: 40 },
+    'Egg Bomb': { bp: 120, type: 'Grass', recoil: [1, 3] },
+    Aeroblast: { bp: 120 },
+    'Ancientpower': { bp: 80, type: 'Rock' },
+    'Bone Rush': { bp: 100, type: 'Ground', multihit: [] },
+    'Faint Attack': { bp: 60, type: 'Dark' },
+    'Giga Drain': { bp: 75 },
+    'Rock Smash': { bp: 40 },
+    'Extreme Speed': { bp: 100 },
+    Snore: { bp: 60 },
+    'Sacred Fire': { bp: 120 },
+    Octazooka: { bp: 95 },
+    'Steel Wing': { bp: 80 },
+    'Bullet Seed': { bp: 25, multihit: 2 },
+    'Leaf Blade': { bp: 95 },
+    'Needle Arm': { bp: 95 },
+    'Spit Up': { bp: 100 },
+    'Sky Uppercut': { bp: 90 },
+    'Hyper Voice': { bp: 120 },
+    'Poison Fang': { bp: 90 },
+    'Rock Tomb': { bp: 55 },
+    'Luster Purge': { bp: 90 },
+    'Mist Ball': { bp: 90 },
+    'Blaze Kick': { bp: 100 },
+    'Crush Claw': { bp: 100 },
+    'Poison Tail': { bp: 120 },
+    'Shadow Punch': { bp: 70 },
+    'Water Spout': { target: 'allAdjacentFoes', recoil: [1, 4] },
+    'Air Slash': { bp: 80, type: 'Flying' },
+    'Draco Meteor': { bp: 120, type: 'Dragon', recoil: [1, 3] },
+    'Earth Power': { bp: 90, type: 'Ground' },
+    'Flash Cannon': { bp: 90, type: 'Steel' },
+    'Force Palm': { bp: 60, type: 'Fighting' },
+    'Gunk Shot': { bp: 120, type: 'Poison' },
+    'Head Smash': { bp: 150, type: 'Rock', recoil: [1, 3] },
+    'Ice Shard': { bp: 40, type: 'Ice' },
+    'Shadow Sneak': { bp: 40, type: 'Ghost' },
+    'X-scissors': { bp: 80, type: 'Bug' },
+    'Drill Run': { bp: 80, type: 'Ground' },
+    'Wild Charge': { bp: 90, type: 'Electric', recoil: [1, 3] }
+};
+var EK = (0, util_1.extend)(true, {}, ADV, EK_PATCH);
+delete EK['High Jump Kick'];
+delete EK['Sonic Boom'];
+delete EK['Ancient Power'];
+delete EK['Feint Attack'];
+EK['Overheat'] = { bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3] };
+EK['Psycho Boost'] = { bp: 140, type: 'Psychic', recoil: [1, 4] };
+EK['Superpower'] = { bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true };
 var DPP_PATCH = {
     Absorb: { category: 'Special' },
     'Arm Thrust': { category: 'Physical' },
@@ -4903,6 +4959,7 @@ var SV_PATCH = {
 };
 var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH);
 exports.MOVES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
+exports.HACK_MOVES = [{}, EK];
 var Moves = (function () {
     function Moves(gen) {
         this.gen = gen;
@@ -5009,5 +5066,35 @@ finally {
         if (MOVES_1_1 && !MOVES_1_1.done && (_b = MOVES_1["return"])) _b.call(MOVES_1);
     }
     finally { if (e_2) throw e_2.error; }
+}
+exports.HACK_MOVES_BY_ID = [];
+var HACKGEN = [
+    0,
+    3
+];
+var game = 0;
+try {
+    for (var HACK_MOVES_1 = __values(exports.HACK_MOVES), HACK_MOVES_1_1 = HACK_MOVES_1.next(); !HACK_MOVES_1_1.done; HACK_MOVES_1_1 = HACK_MOVES_1.next()) {
+        var moves = HACK_MOVES_1_1.value;
+        var map = {};
+        for (var move in moves) {
+            var data = moves[move];
+            if ([1].includes(game)) {
+                var m = new Move(move, data, HACKGEN[game]);
+                map[m.id] = m;
+            }
+            else
+                break;
+        }
+        exports.HACK_MOVES_BY_ID.push(map);
+        game++;
+    }
+}
+catch (e_3_1) { e_3 = { error: e_3_1 }; }
+finally {
+    try {
+        if (HACK_MOVES_1_1 && !HACK_MOVES_1_1.done && (_c = HACK_MOVES_1["return"])) _c.call(HACK_MOVES_1);
+    }
+    finally { if (e_3) throw e_3.error; }
 }
 //# sourceMappingURL=moves.js.map

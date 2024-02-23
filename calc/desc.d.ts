@@ -5,8 +5,10 @@ import { Pokemon } from './pokemon';
 import { Damage } from './result';
 export interface RawDesc {
     HPEVs?: string;
+    HPIVs?: string;
     attackBoost?: number;
     attackEVs?: string;
+    attackIVs?: string;
     attackerAbility?: string;
     attackerItem?: string;
     attackerName: string;
@@ -17,6 +19,7 @@ export interface RawDesc {
     defenderTera?: string;
     defenseBoost?: number;
     defenseEVs?: string;
+    defenseIVs?: string;
     hits?: number;
     alliesFainted?: number;
     isBeadsOfRuin?: boolean;

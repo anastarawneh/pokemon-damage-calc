@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <title>Pok&eacute;mon Damage Calculator</title>
     <link type="text/css" rel="stylesheet" href="./js/vendor/select2/select2.css" />
-    <link type="text/css" rel="stylesheet" href="./css/main.css?cbdd8e38" />
+    <link type="text/css" rel="stylesheet" href="./css/main.css?" />
     <link type="text/css" rel="stylesheet" href="./css/vendor/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="./css/dark-theme.css" id="dark-theme-styles">
     <!-- Immediately loads the dark theme in order to reduce FOIT -->
@@ -67,33 +67,14 @@
         </span>
         <span class="gamemodeSelection" aria-labelledby="selectGamemodeInstruction" role="radiogroup" title="Select the game mode.">
             <span class="visually-hidden" id="selectGamemodeInstruction">Select the game mode.</span>
-            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="vanilla" checked="checked" /><label class="btn btn-left btn-wide" for="vanilla">Vanilla</label>
-            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="hacks" /><label class="btn btn-right btn-wide" for="hacks">ROM Hacks</label>
+            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="vanilla" /><label class="btn btn-left btn-wide" for="vanilla">Vanilla</label>
+            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="hacks" checked="checked" /><label class="btn btn-right btn-wide" for="hacks">ROM Hacks</label>
         </span>
         <br />
         <span class="gameSelection" aria-labelledby="selectGameInstruction" role="radiogroup" title="Select the game." style="padding-top: 5px;">
             <span class="visually-hidden" id="selectGameInstruction">Select the game.</span>
             <input class="game visually-hidden" type="radio" name="game" value="0" id="game0" /><label class="btn btn-left" for="game0">None</label>
-            <input class="game visually-hidden" type="radio" name="game" value="1" id="game1" disabled /><label class="btn btn-mid">R/B</label>
-            <input class="game visually-hidden" type="radio" name="game" value="2" id="game2" disabled /><label class="btn btn-mid">Yellow</label>
-            <input class="game visually-hidden" type="radio" name="game" value="3" id="game3" disabled /><label class="btn btn-mid">G/S</label>
-            <input class="game visually-hidden" type="radio" name="game" value="4" id="game4" disabled /><label class="btn btn-mid">Crystal</label>
-            <input class="game visually-hidden" type="radio" name="game" value="5" id="game5" disabled /><label class="btn btn-mid">R/S</label>
-            <input class="game visually-hidden" type="radio" name="game" value="6" id="game6" /><label class="btn btn-mid" for="game6">Emerald</label>
-            <input class="game visually-hidden" type="radio" name="game" value="7" id="game7" disabled /><label class="btn btn-mid">FR/LG</label>
-            <input class="game visually-hidden" type="radio" name="game" value="8" id="game8" disabled /><label class="btn btn-mid">D/P</label>
-            <input class="game visually-hidden" type="radio" name="game" value="9" id="game9" /><label class="btn btn-mid" for="game9">Platinum</label>
-            <input class="game visually-hidden" type="radio" name="game" value="10" id="game10" /><label class="btn btn-mid" for="game10">HG/SS</label>
-            <input class="game visually-hidden" type="radio" name="game" value="11" id="game11" disabled /><label class="btn btn-mid">B/W</label>
-            <input class="game visually-hidden" type="radio" name="game" value="12" id="game12" disabled /><label class="btn btn-mid">B2/W2</label>
-            <input class="game visually-hidden" type="radio" name="game" value="13" id="game13" /><label class="btn btn-mid" for="game13">X/Y</label>
-            <input class="game visually-hidden" type="radio" name="game" value="14" id="game14" disabled /><label class="btn btn-mid">OR/AS</label>
-            <input class="game visually-hidden" type="radio" name="game" value="15" id="game15" /><label class="btn btn-mid" for="game15">S/M</label>
-            <input class="game visually-hidden" type="radio" name="game" value="16" id="game16" disabled /><label class="btn btn-mid" for="game16">US/UM</label>
-            <input class="game visually-hidden" type="radio" name="game" value="17" id="game17" disabled /><label class="btn btn-mid" for="game17">Sw/Sh</label>
-            <input class="game visually-hidden" type="radio" name="game" value="18" id="game18" disabled /><label class="btn btn-mid" for="game18">BD/SP</label>
-            <input class="game visually-hidden" type="radio" name="game" value="19" id="game19" disabled /><label class="btn btn-right" for="game19">S/V</label>
-
+            <input class="game visually-hidden" type="radio" name="game" value="1" id="game1" /><label class="btn btn-right btn-xwide" for="game1">Emerald Kaizo</label>
         </span>
     </div>
     <hr />
@@ -1018,28 +999,28 @@
                                 <label class="btn btn-xxwide" for="helpingHandR">Helping Hand</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Has this Pok&eacute;mon's attack been boosted by Roxxane's badge?">
                                 <div hidden id="selectStoneBadgeInstruction">Has this Pok&eacute;mon's attack been boosted by Roxxane's badge?</div>
                                 <input aria-describedby="selectStoneBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="stoneBadge" />
                                 <label class="btn btn-xxwide" for="stoneBadge">Attack Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Has this Pok&eacute;mon's speed been boosted by Wattson's badge?">
                                 <div hidden id="selectDynamoBadgeInstruction">Has this Pok&eacute;mon's speed been boosted by Wattson's badge?</div>
                                 <input aria-describedby="selectDynamoBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="dynamoBadge" />
                                 <label class="btn btn-xxwide" for="dynamoBadge">Speed Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Has this Pok&eacute;mon's defense been boosted by Norman's badge?">
                                 <div hidden id="selectBalanceBadgeInstruction">Has this Pok&eacute;mon's defense been boosted by Norman's badge?</div>
                                 <input aria-describedby="selectBalanceBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="balanceBadge" />
                                 <label class="btn btn-xxwide" for="balanceBadge">Defense Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm5 gm6">
+                        <tr class="game-specific gm1">
                             <td><div class="left" title="Have this Pok&eacute;mon's special stats been boosted by Tate & Liza's badge?">
                                 <div hidden id="selectMindBadgeInstruction">Have this Pok&eacute;mon's special stats been boosted by Tate &amp; Liza's badge?</div>
                                 <input aria-describedby="selectMindBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="mindBadge" />
@@ -1695,11 +1676,11 @@
                 </select>
             </div>
         </fieldset>
-        <div class="game-specific gm1 gm2 gm3 gm4 gm5 gm6 gm7 gm8 gm9 gm10 gm11 gm12 gm13 gm14 gm15 gm16 gm17">
+        <div class="game-specific gm1">
             <fieldset class="poke-info">
                 <legend align="center">Enemy Party</legend>
                 <div class="trainer-poke-list-opposing"></div>
-                <div class="game-specific gm0">
+                <div class="game-specific gm1">
                     <hr>
                     <button type="button" id="previous-trainer">Previous Trainer</button>
                     <button type="button" id="next-trainer">Next Trainer</button>
@@ -1709,7 +1690,7 @@
         </div>
     </div>
     <script type="text/javascript">
-        var linkExtension = '.html';
+        var linkExtension = '.template.html';
     </script>
     <script type="text/javascript" src="./js/vendor/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="./js/vendor/select2/select2.min.js"></script>
@@ -1721,47 +1702,45 @@
         var calc = exports = {};
         function require() { return exports };
     </script>
-    <script type="text/javascript" src="./calc/util.js?51463f0d"></script>
-    <script type="text/javascript" src="./calc/stats.js?a9e37d1a"></script>
-    <script type="text/javascript" src="./calc/data/species.js?863468f4"></script>
-    <script type="text/javascript" src="./js/data/sets/gen9.js?f3d9a1c1"></script>
-    <script type="text/javascript" src="./js/data/sets/gen8.js?1b2594b3"></script>
-    <script type="text/javascript" src="./js/data/sets/gen7.js?462be1d1"></script>
-    <script type="text/javascript" src="./js/data/sets/gen6.js?c57e30c8"></script>
-    <script type="text/javascript" src="./js/data/sets/gen5.js?98bdf3f2"></script>
-    <script type="text/javascript" src="./js/data/sets/gen4.js?c6367f7a"></script>
-    <script type="text/javascript" src="./js/data/sets/gen3.js?82acb8b7"></script>
-    <script type="text/javascript" src="./js/data/sets/gen2.js?1c7a934f"></script>
-    <script type="text/javascript" src="./js/data/sets/gen1.js?f35e0151"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen3/emerald.js?e4419481"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen4/platinum.js?a0929d6d"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen4/hgss.js?c1ed8fbb"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen6/xy.js?ff59e82a"></script>
-    <script type="text/javascript" src="./js/data/sets/games/gen7/sm.js?d5493dac"></script>
-    <script type="text/javascript" src="./calc/data/types.js?a641e10b"></script>
-    <script type="text/javascript" src="./calc/data/natures.js?28612810"></script>
-    <script type="text/javascript" src="./calc/data/abilities.js?95a9afd4"></script>
-    <script type="text/javascript" src="./calc/data/moves.js?9a739d76"></script>
-    <script type="text/javascript" src="./calc/data/items.js?818208b4"></script>
-    <script type="text/javascript" src="./calc/data/index.js?abecbd82"></script>
-    <script type="text/javascript" src="./calc/move.js?e0981f74"></script>
-    <script type="text/javascript" src="./calc/pokemon.js?1e459e1e"></script>
-    <script type="text/javascript" src="./calc/field.js?e73ba4af"></script>
-    <script type="text/javascript" src="./calc/items.js?067e42a4"></script>
-    <script type="text/javascript" src="./calc/mechanics/util.js?3280632f"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen789.js?d5ea6bb7"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen56.js?95b0cd4a"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen4.js?7be59c39"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen3.js?9fd646af"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen12.js?277936f0"></script>
-    <script type="text/javascript" src="./calc/calc.js?40a2d9b1"></script>
-    <script type="text/javascript" src="./calc/desc.js?4785fdf8"></script>
-    <script type="text/javascript" src="./calc/result.js?9f8881b5"></script>
-    <script type="text/javascript" src="./calc/adaptable.js?92e49194"></script>
-    <script type="text/javascript" src="./calc/index.js?b8906f6c"></script>
-    <script type="text/javascript" src="./js/shared_controls.js?4e1aff15"></script>
-    <script type="text/javascript" src="./js/index_randoms_controls.js?be29869c"></script>
-    <script type="text/javascript" src="./js/moveset_import.js?24dceb4c"></script>
+    <script type="text/javascript" src="./calc/util.js?"></script>
+    <script type="text/javascript" src="./calc/stats.js?"></script>
+    <script type="text/javascript" src="./calc/data/species.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen9.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen8.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen7.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen6.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen5.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen4.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen3.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen2.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/gen1.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/hacks/gen3/ek.js?"></script>
+    <script type="text/javascript" src="./js/data/party_order/hacks/ek.js?"></script>
+    <script type="text/javascript" src="./js/data/trainer_names/hacks/ek.js?"></script>
+    <script type="text/javascript" src="./calc/data/types.js?"></script>
+    <script type="text/javascript" src="./calc/data/natures.js?"></script>
+    <script type="text/javascript" src="./calc/data/abilities.js?"></script>
+    <script type="text/javascript" src="./calc/data/moves.js?"></script>
+    <script type="text/javascript" src="./calc/data/items.js?"></script>
+    <script type="text/javascript" src="./calc/data/index.js?"></script>
+    <script type="text/javascript" src="./calc/move.js?"></script>
+    <script type="text/javascript" src="./calc/pokemon.js?"></script>
+    <script type="text/javascript" src="./calc/field.js?"></script>
+    <script type="text/javascript" src="./calc/items.js?"></script>
+    <script type="text/javascript" src="./calc/mechanics/util.js?"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen789.js?"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen56.js?"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen4.js?"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen3.js?"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen12.js?"></script>
+    <script type="text/javascript" src="./calc/calc.js?"></script>
+    <script type="text/javascript" src="./calc/desc.js?"></script>
+    <script type="text/javascript" src="./calc/result.js?"></script>
+    <script type="text/javascript" src="./calc/adaptable.js?"></script>
+    <script type="text/javascript" src="./calc/index.js?"></script>
+    <script type="text/javascript" src="./js/shared_controls.js?"></script>
+    <script type="text/javascript" src="./js/index_randoms_controls.js?"></script>
+    <script type="text/javascript" src="./js/moveset_import.js?"></script>
 
     <script type="text/javascript" src="./js/game_controls.js"></script>
 </div>
@@ -1772,7 +1751,7 @@
     <li><a href="https://github.com/anastarawneh/pokemon-damage-calc" class="links-lighten" target="_blank">GitHub repository</a></li></ul>
 
     <button type="button" id="dark-theme-toggle"></button>
-    <script type="text/javascript" src="./js/dark-theme-toggle.js?1f6b71e6"></script>
+    <script type="text/javascript" src="./js/dark-theme-toggle.js?"></script>
 </div>
 
 </body>

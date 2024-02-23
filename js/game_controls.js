@@ -1,6 +1,7 @@
-var game, generation;
+var game, generation, isHack;
 $(".game").change(function() {
     game = ~~$(this).val();
+	isHack = window.location.pathname.includes("hacks.html");
     var params = new URLSearchParams(window.location.search);
 	if (game === 0) {
 		params.delete('game');
@@ -17,12 +18,14 @@ $(".game").change(function() {
 		}
 	}
 
-    if (game != 0) {
-		updateGenOptions();
+	updateGenOptions();
+	if (game != 0) {
 		$(".hide-from-games").hide();
 	} else $(".hide-from-games").show();
     generation = gen;
-    setdex = CUSTOMSETDEX[game];
+    setdex = !isHack ? CUSTOMSETDEX[game] : CUSTOMHACKSETDEX[game];
+	partyOrder = !isHack ? CUSTOMPARTYORDER[game] : CUSTOMHACKPARTYORDER[game];
+	trainerNames = !isHack ? CUSTOMTRAINERNAMES[game] : CUSTOMHACKTRAINERNAMES[game];
     if (typeof setdex === 'undefined') setdex = SETDEX[generation];
     clearField();
     $("#importedSets").prop("checked", false);
@@ -58,8 +61,6 @@ var CUSTOMSETDEX = [
     typeof CUSTOMSETDEX_Pl === 'undefined' ? {} : CUSTOMSETDEX_Pl,
 	typeof CUSTOMSETDEX_HGSS === 'undefined' ? {} : CUSTOMSETDEX_HGSS,
 	typeof CUSTOMSETDEX_BW === 'undefined' ? {} : CUSTOMSETDEX_BW,
-	undefined, // Colosseum
-	undefined, // XD
 	typeof CUSTOMSETDEX_B2W2 === 'undefined' ? {} : CUSTOMSETDEX_B2W2,
 	typeof CUSTOMSETDEX_XY === 'undefined' ? {} : CUSTOMSETDEX_XY,
 	typeof CUSTOMSETDEX_ORAS === 'undefined' ? {} : CUSTOMSETDEX_ORAS,
@@ -78,16 +79,81 @@ var GAMEGEN = {
     9: 4,
 	10: 4,
 	11: 5,
-    14: 5,
-    15: 6,
-    16: 6,
-	17: 7
+    12: 5,
+    13: 6,
+    14: 6,
+	15: 7,
+	16: 7,
+	17: 8,
+	18: 8,
+	19: 9
 }
 
+var CUSTOMTRAINERNAMES = [
+	undefined, // None
+    typeof CUSTOMTRAINERNAMES_RB === 'undefined' ? {} : CUSTOMTRAINERNAMES_RB,
+    typeof CUSTOMTRAINERNAMES_Y === 'undefined' ? {} : CUSTOMTRAINERNAMES_Y,
+    typeof CUSTOMTRAINERNAMES_GS === 'undefined' ? {} : CUSTOMTRAINERNAMES_GS,
+	typeof CUSTOMTRAINERNAMES_C === 'undefined' ? {} : CUSTOMTRAINERNAMES_C,
+    typeof CUSTOMTRAINERNAMES_RS === 'undefined' ? {} : CUSTOMTRAINERNAMES_RS,
+	typeof CUSTOMTRAINERNAMES_E === 'undefined' ? {} : CUSTOMTRAINERNAMES_E,
+	typeof CUSTOMTRAINERNAMES_FRLG === 'undefined' ? {} : CUSTOMTRAINERNAMES_FRLG,
+	typeof CUSTOMTRAINERNAMES_DP === 'undefined' ? {} : CUSTOMTRAINERNAMES_DP,
+    typeof CUSTOMTRAINERNAMES_Pl === 'undefined' ? {} : CUSTOMTRAINERNAMES_Pl,
+	typeof CUSTOMTRAINERNAMES_HGSS === 'undefined' ? {} : CUSTOMTRAINERNAMES_HGSS,
+	typeof CUSTOMTRAINERNAMES_BW === 'undefined' ? {} : CUSTOMTRAINERNAMES_BW,
+	undefined, // Colosseum
+	undefined, // XD
+	typeof CUSTOMTRAINERNAMES_B2W2 === 'undefined' ? {} : CUSTOMTRAINERNAMES_B2W2,
+	typeof CUSTOMTRAINERNAMES_XY === 'undefined' ? {} : CUSTOMTRAINERNAMES_XY,
+	typeof CUSTOMTRAINERNAMES_ORAS === 'undefined' ? {} : CUSTOMTRAINERNAMES_ORAS,
+	typeof CUSTOMTRAINERNAMES_SM === 'undefined' ? {} : CUSTOMTRAINERNAMES_SM
+]
+
+var CUSTOMPARTYORDER = [
+	undefined, // None
+    typeof CUSTOMPARTYORDER_RB === 'undefined' ? {} : CUSTOMPARTYORDER_RB,
+    typeof CUSTOMPARTYORDER_Y === 'undefined' ? {} : CUSTOMPARTYORDER_Y,
+    typeof CUSTOMPARTYORDER_GS === 'undefined' ? {} : CUSTOMPARTYORDER_GS,
+	typeof CUSTOMPARTYORDER_C === 'undefined' ? {} : CUSTOMPARTYORDER_C,
+    typeof CUSTOMPARTYORDER_RS === 'undefined' ? {} : CUSTOMPARTYORDER_RS,
+	typeof CUSTOMPARTYORDER_E === 'undefined' ? {} : CUSTOMPARTYORDER_E,
+	typeof CUSTOMPARTYORDER_FRLG === 'undefined' ? {} : CUSTOMPARTYORDER_FRLG,
+	typeof CUSTOMPARTYORDER_DP === 'undefined' ? {} : CUSTOMPARTYORDER_DP,
+    typeof CUSTOMPARTYORDER_Pl === 'undefined' ? {} : CUSTOMPARTYORDER_Pl,
+	typeof CUSTOMPARTYORDER_HGSS === 'undefined' ? {} : CUSTOMPARTYORDER_HGSS,
+	typeof CUSTOMPARTYORDER_BW === 'undefined' ? {} : CUSTOMPARTYORDER_BW,
+	undefined, // Colosseum
+	undefined, // XD
+	typeof CUSTOMPARTYORDER_B2W2 === 'undefined' ? {} : CUSTOMPARTYORDER_B2W2,
+	typeof CUSTOMPARTYORDER_XY === 'undefined' ? {} : CUSTOMPARTYORDER_XY,
+	typeof CUSTOMPARTYORDER_ORAS === 'undefined' ? {} : CUSTOMPARTYORDER_ORAS,
+	typeof CUSTOMPARTYORDER_SM === 'undefined' ? {} : CUSTOMPARTYORDER_SM
+]
+
+var CUSTOMHACKSETDEX = [
+	undefined, // None
+	typeof CUSTOMHACKSETDEX_EK === 'undefined' ? {} : CUSTOMHACKSETDEX_EK
+]
+
+var HACKGEN = {
+	1: 3
+}
+
+var CUSTOMHACKTRAINERNAMES = [
+	undefined,
+	typeof CUSTOMHACKTRAINERNAMES_EK === 'undefined' ? {} : CUSTOMHACKTRAINERNAMES_EK
+]
+
+var CUSTOMHACKPARTYORDER = [
+	undefined,
+	typeof CUSTOMHACKPARTYORDER_EK === 'undefined' ? {} : CUSTOMHACKPARTYORDER_EK
+]
+
 function updateGenOptions() {
-    var gamegen = GAMEGEN[game]
-    if (gen == gamegen) return;
-    gen = gamegen;
+    var gamegen = !isHack ? GAMEGEN[game] : HACKGEN[game];
+    if (!isHack && gen == gamegen) return;
+    gen = gamegen || gen;
     GENERATION = calc.Generations.get(gen);
     $("#gen" + gamegen).prop("checked", true);
     var params = new URLSearchParams(window.location.search);
@@ -105,10 +171,10 @@ function updateGenOptions() {
 			window.history.pushState({}, document.title, path);
 		}
 	}
-    pokedex = calc.SPECIES[gen];
+	pokedex = (isHack && [1].includes(game)) ? calc.HACK_SPECIES[game] : calc.SPECIES[gen];
 	randdex = RANDDEX[gen];
 	typeChart = calc.TYPE_CHART[gen];
-	moves = calc.MOVES[gen];
-	items = calc.ITEMS[gen];
+	moves = (isHack && [1].includes(game)) ? calc.HACK_MOVES[game] : calc.MOVES[gen];
+	items = (isHack && [1].includes(game)) ? calc.HACK_ITEMS[game] : calc.ITEMS[gen];
 	abilities = calc.ABILITIES[gen];
 }

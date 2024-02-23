@@ -22,6 +22,9 @@ export interface SpeciesData {
 export declare const SPECIES: {
     [name: string]: SpeciesData;
 }[];
+export declare const HACK_SPECIES: {
+    [name: string]: SpeciesData;
+}[];
 export declare class Species implements I.Species {
     private readonly gen;
     constructor(gen: I.GenerationNum);

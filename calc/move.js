@@ -1,6 +1,7 @@
 "use strict";
 exports.__esModule = true;
 
+var moves_1 = require("./data/moves");
 var util_1 = require("./util");
 var SPECIAL = ['Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Psychic', 'Dark', 'Dragon'];
 var Move = (function () {
@@ -10,6 +11,13 @@ var Move = (function () {
         name = options.name || name;
         this.originalName = name;
         var data = (0, util_1.extend)(true, { name: name }, gen.moves.get((0, util_1.toID)(name)), options.overrides);
+        var isHack = window.location.pathname.includes("hacks.html");
+        if (isHack) {
+            var game = parseInt(new URLSearchParams(window.location.search).get("game") || "0");
+            if ([1].includes(game)) {
+                data = (0, util_1.extend)(true, { name: name }, moves_1.HACK_MOVES_BY_ID[game][(0, util_1.toID)(name)], options.overrides);
+            }
+        }
         this.hits = 1;
         if (options.useMax && data.maxMove) {
             var maxMoveName_1 = getMaxMoveName(data.type, options.species, !!(data.category === 'Status'), options.ability);

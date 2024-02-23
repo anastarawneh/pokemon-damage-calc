@@ -673,6 +673,10 @@ function squashMultihit(gen, d, hits, err) {
 }
 function buildDescription(description, attacker, defender) {
     var _a = __read(getDescriptionLevels(attacker, defender), 2), attackerLevel = _a[0], defenderLevel = _a[1];
+    var isHack = window.location.pathname.includes("hacks.html");
+    var params = new URLSearchParams(window.location.search);
+    var game = params.get("game") || "0";
+    var isNoEVHack = isHack && ["1"].includes(game);
     var output = '';
     if (description.attackBoost) {
         if (description.attackBoost > 0) {
@@ -681,7 +685,7 @@ function buildDescription(description, attacker, defender) {
         output += description.attackBoost + ' ';
     }
     output = appendIfSet(output, attackerLevel);
-    output = appendIfSet(output, description.attackEVs);
+    output = !isNoEVHack ? appendIfSet(output, description.attackEVs) : appendIfSet(output, description.attackIVs);
     output = appendIfSet(output, description.attackerItem);
     output = appendIfSet(output, description.attackerAbility);
     output = appendIfSet(output, description.rivalry);
@@ -745,9 +749,12 @@ function buildDescription(description, attacker, defender) {
         output += description.defenseBoost + ' ';
     }
     output = appendIfSet(output, defenderLevel);
-    output = appendIfSet(output, description.HPEVs);
-    if (description.defenseEVs) {
+    output = !isNoEVHack ? appendIfSet(output, description.HPEVs) : appendIfSet(output, description.HPIVs);
+    if (!isNoEVHack && description.defenseEVs) {
         output += '/ ' + description.defenseEVs + ' ';
+    }
+    if (isNoEVHack) {
+        output += '/ ' + description.defenseIVs + ' ';
     }
     output = appendIfSet(output, description.defenderItem);
     output = appendIfSet(output, description.defenderAbility);

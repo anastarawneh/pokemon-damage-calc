@@ -58,12 +58,17 @@
             <input class="notation visually-hidden" type="radio" name="notation" id="pixels" value="px" /><label class="btn btn-small btn-left" for="pixels">48th</label>
             <input class="notation visually-hidden" type="radio" name="notation" id="percentage" value="%" /><label class="btn btn-small btn-right" for="percentage">100%</label>
         </span>
-        <span class="modeSelection" aria-labelledby="selectModeInstruction" role="radiogroup" title="Select the calculator's mode of function.">
+        <span hidden class="modeSelection" aria-labelledby="selectModeInstruction" role="radiogroup" title="Select the calculator's mode of function.">
             <span class="visually-hidden" id="selectModeInstruction">Select the calculator's mode of function.</span>
             <input class="mode visually-hidden" type="radio" name="mode" id="one-vs-one" checked="checked" /><label class="btn btn-left btn-wide" for="one-vs-one">One vs One</label>
             <input class="mode visually-hidden" type="radio" name="mode" id="one-vs-all" /><label class="btn btn-mid btn-wide gen-specific g3 g4 g5 g6 g7 g8 g9" for="one-vs-all">One vs All</label>
             <input class="mode visually-hidden" type="radio" name="mode" id="all-vs-one" /><label class="btn btn-mid btn-wide gen-specific g3 g4 g5 g6 g7 g8 g9" for="all-vs-one">All vs One</label>
             <input class="mode visually-hidden" type="radio" name="mode" id="randoms" /><label class="btn btn-right btn-xwide" for="randoms">Random Battles</label>
+        </span>
+        <span class="gamemodeSelection" aria-labelledby="selectGamemodeInstruction" role="radiogroup" title="Select the game mode.">
+            <span class="visually-hidden" id="selectGamemodeInstruction">Select the game mode.</span>
+            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="vanilla" checked="checked" /><label class="btn btn-left btn-wide" for="vanilla">Vanilla</label>
+            <input class="gamemode visually-hidden" type="radio" name="gamemode" id="hacks" /><label class="btn btn-right btn-wide" for="hacks">ROM Hacks</label>
         </span>
         <br />
         <span class="gameSelection" aria-labelledby="selectGameInstruction" role="radiogroup" title="Select the game." style="padding-top: 5px;">
@@ -80,10 +85,15 @@
             <input class="game visually-hidden" type="radio" name="game" value="9" id="game9" /><label class="btn btn-mid" for="game9">Platinum</label>
             <input class="game visually-hidden" type="radio" name="game" value="10" id="game10" /><label class="btn btn-mid" for="game10">HG/SS</label>
             <input class="game visually-hidden" type="radio" name="game" value="11" id="game11" disabled /><label class="btn btn-mid">B/W</label>
-            <input class="game visually-hidden" type="radio" name="game" value="14" id="game14" disabled /><label class="btn btn-mid">B2/W2</label>
-            <input class="game visually-hidden" type="radio" name="game" value="15" id="game15" /><label class="btn btn-mid" for="game15">X/Y</label>
-            <input class="game visually-hidden" type="radio" name="game" value="16" id="game16" disabled /><label class="btn btn-mid">OR/AS</label>
-            <input class="game visually-hidden" type="radio" name="game" value="17" id="game17" /><label class="btn btn-right" for="game17">S/M</label>
+            <input class="game visually-hidden" type="radio" name="game" value="12" id="game12" disabled /><label class="btn btn-mid">B2/W2</label>
+            <input class="game visually-hidden" type="radio" name="game" value="13" id="game13" /><label class="btn btn-mid" for="game13">X/Y</label>
+            <input class="game visually-hidden" type="radio" name="game" value="14" id="game14" disabled /><label class="btn btn-mid">OR/AS</label>
+            <input class="game visually-hidden" type="radio" name="game" value="15" id="game15" /><label class="btn btn-mid" for="game15">S/M</label>
+            <input class="game visually-hidden" type="radio" name="game" value="16" id="game16" disabled /><label class="btn btn-mid" for="game16">US/UM</label>
+            <input class="game visually-hidden" type="radio" name="game" value="17" id="game17" disabled /><label class="btn btn-mid" for="game17">Sw/Sh</label>
+            <input class="game visually-hidden" type="radio" name="game" value="18" id="game18" disabled /><label class="btn btn-mid" for="game18">BD/SP</label>
+            <input class="game visually-hidden" type="radio" name="game" value="19" id="game19" disabled /><label class="btn btn-right" for="game19">S/V</label>
+
         </span>
     </div>
     <hr />
@@ -1141,7 +1151,7 @@
                 <legend align="center">Import / Export</legend>
                 <div id="import-1_wrapper" class="dataTables_wrapper no-footer">
                     <form class="import-team">
-                        <input class="import-name-text" value="Custom Set"></input>
+                        <input class="import-name-text hide-from-games" value="Custom Set"></input>
                         <textarea class="import-team-text"></textarea>
                         <!--<button style='position:absolute' class='bs-btn bs-btn-default'>Import</button>-->
                     </form>
@@ -1684,15 +1694,19 @@
                     <option value="5">5 times</option>
                 </select>
             </div>
-            <hr>
-            <div class="trainer-pokes">
-                <div class="trainer-poke-list-opposing">
-                    <div class="trainer-poke-container">
-                        <img class="trainer-poke-opposing" src="https://play.pokemonshowdown.com/sprites/gen5/charizard.png" title="Focus Blast 120">
-                    </div>
-                </div>
-            </div>
         </fieldset>
+        <div class="game-specific gm1 gm2 gm3 gm4 gm5 gm6 gm7 gm8 gm9 gm10 gm11 gm12 gm13 gm14 gm15 gm16 gm17">
+            <fieldset class="poke-info">
+                <legend align="center">Enemy Party</legend>
+                <div class="trainer-poke-list-opposing"></div>
+                <div class="game-specific gm0">
+                    <hr>
+                    <button type="button" id="previous-trainer">Previous Trainer</button>
+                    <button type="button" id="next-trainer">Next Trainer</button>
+                    <button type="button" id="reset-trainer">Reset</button>
+                </div>
+            </fieldset>
+        </div>
     </div>
     <script type="text/javascript">
         var linkExtension = '.template.html';
@@ -1752,7 +1766,8 @@
     <script type="text/javascript" src="./js/game_controls.js"></script>
 </div>
 
-<div class="credits">Created by Honko, maintained by Austin and Kris
+<div class="credits">Original calculator created by Honko, maintained by Austin and Kris
+    <br />Fork created and maintained by anastarawneh
     <ul><li><a href="https://github.com/anastarawneh/pokemon-damage-calc/contributors" class="links-lighten" target="_blank">Contributors</a></li>
     <li><a href="https://github.com/anastarawneh/pokemon-damage-calc" class="links-lighten" target="_blank">GitHub repository</a></li></ul>
 
