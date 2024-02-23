@@ -133,6 +133,9 @@ function getFinalSpeed(gen, pokemon, field, side) {
     var terrain = field.terrain;
     var speed = getModifiedStat(pokemon.rawStats.spe, pokemon.boosts.spe, gen);
     var speedMods = [];
+    if (field.attackerSide.isDynamoBadge) {
+        speed = Math.floor(speed * 1.1);
+    }
     if (side.isTailwind)
         speedMods.push(8192);
     if ((pokemon.hasAbility('Unburden') && pokemon.abilityOn) ||

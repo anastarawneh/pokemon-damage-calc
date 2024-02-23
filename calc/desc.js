@@ -705,6 +705,12 @@ function buildDescription(description, attacker, defender) {
     if (description.isHelpingHand) {
         output += 'Helping Hand ';
     }
+    if (description.isStoneBadge) {
+        output += 'Atk Badge boosted ';
+    }
+    if (description.isMindBadge) {
+        output += 'SpA Badge boosted ';
+    }
     if (description.isFlowerGiftAttacker) {
         output += 'with an ally\'s Flower Gift ';
     }

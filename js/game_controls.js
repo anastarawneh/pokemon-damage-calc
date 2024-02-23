@@ -29,6 +29,8 @@ $(".game").change(function() {
     loadDefaultLists();
     $(".gen-specific.g" + gen).show();
 	$(".gen-specific").not(".g" + gen).hide();
+	$(".game-specific.gm" + game).show();
+	$(".game-specific").not(".gm" + game).hide();
 	var typeOptions = getSelectOptions(Object.keys(typeChart));
 	$("select.type1, select.move-type").find("option").remove().end().append(typeOptions);
 	$("select.type2").find("option").remove().end().append("<option value=\"\">(none)</option>" + typeOptions);
