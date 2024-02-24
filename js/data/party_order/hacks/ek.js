@@ -2724,6 +2724,6 @@ var CUSTOMHACKPARTYORDER_EK = {
         "Jirachi",
         "Mewtwo",
         "Aerodactyl",
-        "Deoxys-f"
+        "Deoxys-Attack"
     ]
 };
