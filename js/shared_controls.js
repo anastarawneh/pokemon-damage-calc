@@ -563,6 +563,53 @@ $(".set-selector").change(function () {
 			var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextPokemon[i]}" title="${nextPokemon[i]}">`;
 			trainerHTML += pokemonHTML;
 		}
+
+		if (triggers) {
+			var weather = "clear";
+			for (var i in triggers["weather"]) {
+				if (triggers["weather"][i].includes(window.CURRENT_TRAINER)) {
+					weather = i;
+					break;
+				}
+			}
+			$(`#${weather}`).prop("checked", true);
+
+			var badge = "";
+			for (var i in triggers["badge"]) {
+				if (triggers["badge"][i].includes(window.CURRENT_TRAINER)) {
+					badge = i;
+					break;
+				}
+			}
+			if (gen == 3) {
+				if (badge == "none") {
+					$("#stoneBadge").prop("checked", false);
+					$("#dynamoBadge").prop("checked", false);
+					$("#balanceBadge").prop("checked", false);
+					$("#mindBadge").prop("checked", false);
+				} else if (badge == "stoneBadge") {
+					$("#stoneBadge").prop("checked", true);
+					$("#dynamoBadge").prop("checked", false);
+					$("#balanceBadge").prop("checked", false);
+					$("#mindBadge").prop("checked", false);
+				} else if (badge == "dynamoBadge") {
+					$("#stoneBadge").prop("checked", true);
+					$("#dynamoBadge").prop("checked", true);
+					$("#balanceBadge").prop("checked", false);
+					$("#mindBadge").prop("checked", false);
+				} else if (badge == "balanceBadge") {
+					$("#stoneBadge").prop("checked", true);
+					$("#dynamoBadge").prop("checked", true);
+					$("#balanceBadge").prop("checked", true);
+					$("#mindBadge").prop("checked", false);
+				} else if (badge == "mindBadge") {
+					$("#stoneBadge").prop("checked", true);
+					$("#dynamoBadge").prop("checked", true);
+					$("#balanceBadge").prop("checked", true);
+					$("#mindBadge").prop("checked", true);
+				}
+			}
+		}
 	}
 
 	$('.trainer-poke-list-opposing').html(trainerHTML);
@@ -1229,7 +1276,7 @@ var RANDDEX = [
 	typeof GEN8RANDOMBATTLE === 'undefined' ? {} : GEN8RANDOMBATTLE,
 	typeof GEN9RANDOMBATTLE === 'undefined' ? {} : GEN9RANDOMBATTLE,
 ];
-var gen, genWasChanged, notation, pokedex, setdex, partyOrder, trainerNames, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
+var gen, genWasChanged, notation, pokedex, setdex, partyOrder, trainerNames, triggers, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
 var DEFAULTGEN = 9;
 $(".gen").change(function () {
 	/*eslint-disable */
@@ -1715,20 +1762,18 @@ function getSrcImgPokemon(poke) {
 }
 
 function getTrainerPokemon(trainerName) {
-	if (!partyOrder || !Object.keys(partyOrder).length) {
+	var trueName = trainerName.split("(")[1].replaceAll("*", "").split(")")[0].trim();
+	window.CURRENT_TRAINER = trueName;
+	if (!partyOrder || !Object.keys(partyOrder).length || !partyOrder[trueName]) {
 		TR_NAMES = getTrainerNames();
-		var trueName = trainerName.split("(")[1].replaceAll("*", "").split(")")[0].trim();
-		window.CURRENT_TRAINER = trueName;
-    	var matches = [];
-    	for (i in TR_NAMES) {
-    	    if (TR_NAMES[i].replaceAll("*", "").trim().includes(`(${trueName})`)) {
-    	        matches.push(TR_NAMES[i]);
-    	    }
-    	}
-    	return matches;
+		var matches = [];
+		for (i in TR_NAMES) {
+			if (TR_NAMES[i].replaceAll("*", "").trim().includes(`(${trueName})`)) {
+				matches.push(TR_NAMES[i]);
+			}
+		}
+		return matches;
 	} else {
-		var trueName = trainerName.split("(")[1].replaceAll("*", "").split(")")[0].trim();
-		window.CURRENT_TRAINER = trueName;
 		var party = partyOrder[trueName];
 		var dupes = party.filter((item, index) => party.indexOf(item) != index);
 		for (var i in dupes) {
