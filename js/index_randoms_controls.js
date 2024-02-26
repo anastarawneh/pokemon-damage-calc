@@ -91,6 +91,12 @@ function performCalculations() {
 	} else {
 		stickyMoves.setSelectedMove(bestResult.prop("id"));
 	}
+	var isHack = window.location.pathname.includes("hacks.html");
+	var params = new URLSearchParams(window.location.search);
+	var game = parseInt(params.get("game") || "0");
+	if (isHack && [1].includes(game)) {
+		predictMidTurnSwitch(p1, p2);
+	}
 	bestResult.prop("checked", true);
 	bestResult.change();
 	$("#resultHeaderL").text(p1.name + "'s Moves (select one to show detailed results)");
@@ -180,6 +186,45 @@ function calculationsColors(p1info, p2) {
 	p1KO = p1KO > 0 ? p1KO.toString() : "";
 	p2KO = p2KO > 0 ? p2KO.toString() : "";
 	return {speed: fastest, code: p1KO + p2KO};
+}
+
+function predictMidTurnSwitch(p1, p2) {
+	var slower = p1.stats.spe < p2.stats.spe;
+	$(resultLocations[0][0]["move"]).removeClass("switch-risk");
+	$(resultLocations[0][1]["move"]).removeClass("switch-risk");
+	$(resultLocations[0][2]["move"]).removeClass("switch-risk");
+	$(resultLocations[0][3]["move"]).removeClass("switch-risk");
+	$(".trainer-poke.right-side").removeClass("switch-risk-mon")
+
+	if (slower) {
+		var partySpecies = partyOrder[window.CURRENT_TRAINER];
+		for (var i in p1.moves) {
+			var move = p1.moves[i];
+			if (move.category == "Status") continue;
+			for (var j in partySpecies) {
+				var enemy = partySpecies[j];
+				var dexMon = pokedex[partySpecies[j]];
+				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[0]];
+				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[1]];
+				var typeEffectiveness = typeEffectiveness2 !== undefined ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
+				if (typeEffectiveness < 1) {
+					var enemyMoves = setdex[enemy][window.CURRENT_TRAINER].moves;
+					for (var k in enemyMoves) {
+						var enemyMove = calc.Move(GENERATION, enemyMoves[k]);
+						var typeEffectiveness1 = GENERATION.types.get(toID(enemyMove.type)).effectiveness[p1.types[0]];
+						var typeEffectiveness2 = GENERATION.types.get(toID(enemyMove.type)).effectiveness[p1.types[1]];
+						var typeEffectiveness = typeEffectiveness2 !== undefined ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
+						if (typeEffectiveness > 1) {
+							$(resultLocations[0][i]["move"]).addClass("switch-risk");
+							$(".trainer-poke.right-side").each(function(index, e) {
+								if (index == j) $(this).addClass("switch-risk-mon");
+							});
+						}
+					}
+				}
+			}
+		}
+	}
 }
 
 $(".result-move").change(function () {

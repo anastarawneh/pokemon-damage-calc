@@ -40,6 +40,16 @@ html, body {
     background: var(--button-selected);
 }
 
+.switch-risk + .btn {
+    background: #8A0000;
+}
+.switch-risk:hover + .btn {
+    background: #610000;
+}
+.visually-hidden:checked.switch-risk + .btn {
+    background: #610000;
+}
+
 .visually-hidden:disabled + .btn {
     color: var(--button-hover);
 }

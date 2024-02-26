@@ -1700,7 +1700,6 @@ function getTrainerNames() {
 
 function getBoxMonNames() {
 	if (localStorage.customsets) {
-		console.log(localStorage.customsets);
 	    var allPokemon = JSON.parse(localStorage.customsets);
 	    var boxMonNames = [];
 

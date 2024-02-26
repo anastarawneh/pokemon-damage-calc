@@ -191,6 +191,60 @@ var CUSTOMHACKPARTYORDER_EK = {
         "Snorunt",
         "Carvanha"
     ],
+    "Pokémon Trainer May #1.5 [Combusken]":
+    [
+        "Farfetch’d",
+        "Nidorina",
+        "Minun",
+        "Chikorita",
+        "Squirtle",
+        "Combusken"
+    ],
+    "Pokémon Trainer May #1.5 [Marshtomp]":
+    [
+        "Farfetch’d",
+        "Nidorina",
+        "Minun",
+        "Bulbasaur",
+        "Quilava",
+        "Marshtomp"
+    ],
+    "Pokémon Trainer May #1.5 [Grovyle]":
+    [
+        "Farfetch’d",
+        "Nidorina",
+        "Minun",
+        "Totodile",
+        "Charmander",
+        "Grovyle"
+    ],
+    "Pokémon Trainer Brendan #1.5 [Combusken]":
+    [
+        "Farfetch’d",
+        "Nidorino",
+        "Plusle",
+        "Chikorita",
+        "Squirtle",
+        "Combusken"
+    ],
+    "Pokémon Trainer Brendan #1.5 [Marshtomp]":
+    [
+        "Farfetch’d",
+        "Nidorino",
+        "Plusle",
+        "Bulbasaur",
+        "Quilava",
+        "Marshtomp"
+    ],
+    "Pokémon Trainer Brendan #1.5 [Grovyle]":
+    [
+        "Farfetch’d",
+        "Nidorino",
+        "Plusle",
+        "Totodile",
+        "Charmander",
+        "Grovyle"
+    ],
     "Battle Girl Laura":
     [
         "Makuhita",
@@ -492,6 +546,11 @@ var CUSTOMHACKPARTYORDER_EK = {
         "Magnemite",
         "Doduo"
     ],
+    "Fisherman Dale":
+    [
+        "Luvdisc",
+        "Slowpoke"
+    ],
     "Pokémon Trainer Wally #1":
     [
         "Ralts"
@@ -665,6 +724,11 @@ var CUSTOMHACKPARTYORDER_EK = {
     [
         "Charmeleon"
     ],
+    "Interviewers Gabby & Ty":
+    [
+        "Magneton",
+        "Loudred"
+    ],
     "Camper Tyron":
     [
         "Poliwhirl"
@@ -728,6 +792,18 @@ var CUSTOMHACKPARTYORDER_EK = {
         "Vibrava",
         "Dunsparce",
         "Arbok"
+    ],
+    "Cooltrainer Wilton":
+    [
+        "Forretress",
+        "Gyarados",
+        "Porygon2"
+    ],
+    "Ruin Maniac Bryan":
+    [
+        "Omanyte",
+        "Lileep",
+        "Duskull"
     ],
     "Black Belt Daisuke":
     [
@@ -891,6 +967,18 @@ var CUSTOMHACKPARTYORDER_EK = {
         "Lairon",
         "Poliwrath"
     ],
+    "Collector Hector":
+    [
+        "Marshtomp",
+        "Combusken",
+        "Grovyle"
+    ],
+    "Psychic Marlene":
+    [
+        "Grumpig",
+        "Medicham",
+        "Hypno"
+    ],
     "Team Magma Grunt #1 @ Mt. Chimney":
     [
         "Banette",
@@ -936,6 +1024,13 @@ var CUSTOMHACKPARTYORDER_EK = {
         "Gengar",
         "Altaria",
         "Scyther"
+    ],
+    "Team Magma Grunt #3 @ Jagged Pass":
+    [
+        "Mr. Mime",
+        "Clefable",
+        "Meganium",
+        "Ninetales"
     ],
     "Camper Ethan":
     [

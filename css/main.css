@@ -295,6 +295,16 @@ th {
     cursor: default;
 }
 
+.switch-risk + .btn {
+    background: #FF8383;
+}
+.switch-risk:hover + .btn {
+    background: #c83d3d;
+}
+.visually-hidden:checked.switch-risk + .btn {
+    background: #c83d3d;
+}
+
 /* Hide element visually, but not from screen readers. See http://adrianroselli.com/2017/05/under-engineered-custom-radio-buttons-and-checkboxen.html */
 .visually-hidden {
     clip: rect(1px, 1px, 1px, 1px);
@@ -555,6 +565,11 @@ table.field {
 .trainer-poke:hover {
     outline: 2px solid;
     outline-color: #1abc9c;
+}
+
+.trainer-poke.switch-risk-mon {
+    outline: 2px solid;
+    outline-color: #ff0000;
 }
 
 
