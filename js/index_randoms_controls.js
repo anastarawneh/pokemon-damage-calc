@@ -194,8 +194,7 @@ function predictMidTurnSwitch(p1, p2) {
 	$(resultLocations[0][1]["move"]).removeClass("switch-risk");
 	$(resultLocations[0][2]["move"]).removeClass("switch-risk");
 	$(resultLocations[0][3]["move"]).removeClass("switch-risk");
-	$(".trainer-poke.right-side").removeClass("switch-risk-mon")
-
+	$(".trainer-poke.right-side").removeClass("switch-risk-mon");
 	if (slower) {
 		var partySpecies = partyOrder[window.CURRENT_TRAINER];
 		for (var i in p1.moves) {
