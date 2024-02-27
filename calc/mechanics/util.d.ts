@@ -20,7 +20,7 @@ export declare function checkDauntlessShield(source: Pokemon, gen: Generation): 
 export declare function checkEmbody(source: Pokemon, gen: Generation): void;
 export declare function checkInfiltrator(pokemon: Pokemon, affectedSide: Side): void;
 export declare function checkSeedBoost(pokemon: Pokemon, field: Field): void;
-export declare function checkMultihitBoost(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc, usedWhiteHerb?: boolean): boolean;
+export declare function checkMultihitBoost(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc, attackerUsedItem?: boolean, defenderUsedItem?: boolean): boolean[];
 export declare function chainMods(mods: number[], lowerBound: number, upperBound: number): number;
 export declare function getBaseDamage(level: number, basePower: number, attack: number, defense: number): number;
 export declare function getQPBoostedStat(pokemon: Pokemon, gen?: Generation): StatID;
@@ -28,6 +28,8 @@ export declare function isQPActive(pokemon: Pokemon, field: Field): boolean;
 export declare function getFinalDamage(baseAmount: number, i: number, effectiveness: number, isBurned: boolean, stabMod: number, finalMod: number, protect?: boolean): number;
 export declare function getShellSideArmCategory(source: Pokemon, target: Pokemon): MoveCategory;
 export declare function getWeightFactor(pokemon: Pokemon): 1 | 2 | 0.5;
+export declare function getStabMod(pokemon: Pokemon, move: Move, desc: RawDesc): number;
+export declare function getStellarStabMod(pokemon: Pokemon, move: Move, stabMod?: number, turns?: number): number;
 export declare function countBoosts(gen: Generation, boosts: StatsTable): number;
 export declare function getEVDescriptionText(gen: Generation, pokemon: Pokemon, stat: 'atk' | 'def' | 'spd' | 'spa', natureName: NatureName): string;
 export declare function getIVDescriptionText(gen: Generation, pokemon: Pokemon, stat: 'atk' | 'def' | 'spd' | 'spa', natureName: NatureName): string;

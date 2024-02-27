@@ -119,6 +119,60 @@ function calculateADV(gen, attacker, defender, move, field) {
     if (move.hits > 1) {
         desc.hits = move.hits;
     }
+    var bp = calculateBasePowerADV(attacker, defender, move, desc);
+    if (bp === 0) {
+        return result;
+    }
+    bp = calculateBPModsADV(attacker, move, desc, bp);
+    var isCritical = move.isCrit && !defender.hasAbility('Battle Armor', 'Shell Armor');
+    var at = calculateAttackADV(gen, attacker, defender, move, desc, field, isCritical);
+    var df = calculateDefenseADV(gen, defender, move, desc, field, isCritical);
+    var lv = attacker.level;
+    var baseDamage = Math.floor(Math.floor((Math.floor((2 * lv) / 5 + 2) * at * bp) / df) / 50);
+    baseDamage = calculateFinalModsADV(baseDamage, attacker, move, field, desc, isCritical);
+    baseDamage = Math.floor(baseDamage * typeEffectiveness);
+    result.damage = [];
+    for (var i = 85; i <= 100; i++) {
+        result.damage[i - 85] = Math.max(1, Math.floor((baseDamage * i) / 100));
+    }
+    if ((move.dropsStats && move.timesUsed > 1) || move.hits > 1) {
+        var origDefBoost = desc.defenseBoost;
+        var origAtkBoost = desc.attackBoost;
+        var numAttacks = 1;
+        if (move.dropsStats && move.timesUsed > 1) {
+            desc.moveTurns = "over ".concat(move.timesUsed, " turns");
+            numAttacks = move.timesUsed;
+        }
+        else {
+            numAttacks = move.hits;
+        }
+        var usedItems = [false, false];
+        var _loop_1 = function (times) {
+            usedItems = (0, util_1.checkMultihitBoost)(gen, attacker, defender, move, field, desc, usedItems[0], usedItems[1]);
+            var newAt = calculateAttackADV(gen, attacker, defender, move, desc, field, isCritical);
+            var newBp = calculateBasePowerADV(attacker, defender, move, desc);
+            newBp = calculateBPModsADV(attacker, move, desc, newBp);
+            var newBaseDmg = Math.floor(Math.floor((Math.floor((2 * lv) / 5 + 2) * newAt * newBp) / df) / 50);
+            newBaseDmg = calculateFinalModsADV(newBaseDmg, attacker, move, field, desc, isCritical);
+            newBaseDmg = Math.floor(newBaseDmg * typeEffectiveness);
+            var damageMultiplier = 85;
+            result.damage = result.damage.map(function (affectedAmount) {
+                var newFinalDamage = Math.max(1, Math.floor((newBaseDmg * damageMultiplier) / 100));
+                damageMultiplier++;
+                return affectedAmount + newFinalDamage;
+            });
+        };
+        for (var times = 1; times < numAttacks; times++) {
+            _loop_1(times);
+        }
+        desc.defenseBoost = origDefBoost;
+        desc.attackBoost = origAtkBoost;
+    }
+    return result;
+}
+exports.calculateADV = calculateADV;
+function calculateBasePowerADV(attacker, defender, move, desc, hit) {
+    if (hit === void 0) { hit = 1; }
     var bp = move.bp;
     switch (move.name) {
         case 'Flail':
@@ -148,12 +202,30 @@ function calculateADV(gen, attacker, defender, move, field) {
             bp = 60;
             desc.moveName = 'Swift';
             break;
+        case 'Triple Kick':
+            bp = hit * 10;
+            desc.moveBP = move.hits === 2 ? 30 : move.hits === 3 ? 60 : 10;
+            break;
         default:
             bp = move.bp;
     }
-    if (bp === 0) {
-        return result;
+    return bp;
+}
+exports.calculateBasePowerADV = calculateBasePowerADV;
+function calculateBPModsADV(attacker, move, desc, basePower) {
+    if (attacker.curHP() <= attacker.maxHP() / 3 &&
+        ((attacker.hasAbility('Overgrow') && move.hasType('Grass')) ||
+            (attacker.hasAbility('Blaze') && move.hasType('Fire')) ||
+            (attacker.hasAbility('Torrent') && move.hasType('Water')) ||
+            (attacker.hasAbility('Swarm') && move.hasType('Bug')))) {
+        basePower = Math.floor(basePower * 1.5);
+        desc.attackerAbility = attacker.ability;
     }
+    return basePower;
+}
+exports.calculateBPModsADV = calculateBPModsADV;
+function calculateAttackADV(gen, attacker, defender, move, desc, field, isCritical) {
+    if (isCritical === void 0) { isCritical = false; }
     var isPhysical = move.category === 'Physical';
     var attackStat = isPhysical ? 'atk' : 'spa';
     desc.attackEVs = (0, util_1.getEVDescriptionText)(gen, attacker, attackStat, attacker.nature);
@@ -162,7 +234,6 @@ function calculateADV(gen, attacker, defender, move, field) {
     desc.defenseEVs = (0, util_1.getEVDescriptionText)(gen, defender, defenseStat, defender.nature);
     desc.defenseIVs = (0, util_1.getIVDescriptionText)(gen, defender, defenseStat, defender.nature);
     var at = attacker.rawStats[attackStat];
-    var df = defender.rawStats[defenseStat];
     if (isPhysical && attacker.hasAbility('Huge Power', 'Pure Power')) {
         at *= 2;
         desc.attackerAbility = attacker.ability;
@@ -174,12 +245,6 @@ function calculateADV(gen, attacker, defender, move, field) {
     if (field.attackerSide.isMindBadge && move.hasType('Water', 'Grass', 'Fire', 'Ice', 'Electric', 'Psychic', 'Dragon', 'Dark')) {
         at = Math.floor(at * 1.1);
         desc.isMindBadge = true;
-    }
-    if (field.defenderSide.isBalanceBadge && isPhysical) {
-        df = Math.floor(df * 1.1);
-    }
-    if (field.defenderSide.isMindBadge && !isPhysical) {
-        df = Math.floor(df * 1.1);
     }
     if (!attacker.hasItem('Sea Incense') && move.hasType((0, items_1.getItemBoostType)(attacker.item))) {
         at = Math.floor(at * 1.1);
@@ -200,6 +265,36 @@ function calculateADV(gen, attacker, defender, move, field) {
         at *= 2;
         desc.attackerItem = attacker.item;
     }
+    if (defender.hasAbility('Thick Fat') && (move.hasType('Fire', 'Ice'))) {
+        at = Math.floor(at / 2);
+        desc.defenderAbility = defender.ability;
+    }
+    if ((isPhysical &&
+        (attacker.hasAbility('Hustle') || (attacker.hasAbility('Guts') && attacker.status))) ||
+        (!isPhysical && attacker.abilityOn && attacker.hasAbility('Plus', 'Minus'))) {
+        at = Math.floor(at * 1.5);
+        desc.attackerAbility = attacker.ability;
+    }
+    var attackBoost = attacker.boosts[attackStat];
+    if (attackBoost > 0 || (!isCritical && attackBoost < 0)) {
+        at = (0, util_1.getModifiedStat)(at, attackBoost);
+        desc.attackBoost = attackBoost;
+    }
+    return at;
+}
+exports.calculateAttackADV = calculateAttackADV;
+function calculateDefenseADV(gen, defender, move, desc, field, isCritical) {
+    if (isCritical === void 0) { isCritical = false; }
+    var isPhysical = move.category === 'Physical';
+    var defenseStat = isPhysical ? 'def' : 'spd';
+    desc.defenseEVs = (0, util_1.getEVDescriptionText)(gen, defender, defenseStat, defender.nature);
+    var df = defender.rawStats[defenseStat];
+    if (field.defenderSide.isBalanceBadge && isPhysical) {
+        df = Math.floor(df * 1.1);
+    }
+    if (field.defenderSide.isMindBadge && !isPhysical) {
+        df = Math.floor(df * 1.1);
+    }
     if (!isPhysical && defender.hasItem('Soul Dew') && defender.named('Latios', 'Latias')) {
         df = Math.floor(df * 1.5);
         desc.defenderItem = defender.item;
@@ -209,44 +304,24 @@ function calculateADV(gen, attacker, defender, move, field) {
         df *= 2;
         desc.defenderItem = defender.item;
     }
-    if (defender.hasAbility('Thick Fat') && (move.hasType('Fire', 'Ice'))) {
-        at = Math.floor(at / 2);
-        desc.defenderAbility = defender.ability;
-    }
-    else if (isPhysical && defender.hasAbility('Marvel Scale') && defender.status) {
+    if (isPhysical && defender.hasAbility('Marvel Scale') && defender.status) {
         df = Math.floor(df * 1.5);
         desc.defenderAbility = defender.ability;
-    }
-    if ((isPhysical &&
-        (attacker.hasAbility('Hustle') || (attacker.hasAbility('Guts') && attacker.status))) ||
-        (!isPhysical && attacker.abilityOn && attacker.hasAbility('Plus', 'Minus'))) {
-        at = Math.floor(at * 1.5);
-        desc.attackerAbility = attacker.ability;
-    }
-    else if (attacker.curHP() <= attacker.maxHP() / 3 &&
-        ((attacker.hasAbility('Overgrow') && move.hasType('Grass')) ||
-            (attacker.hasAbility('Blaze') && move.hasType('Fire')) ||
-            (attacker.hasAbility('Torrent') && move.hasType('Water')) ||
-            (attacker.hasAbility('Swarm') && move.hasType('Bug')))) {
-        bp = Math.floor(bp * 1.5);
-        desc.attackerAbility = attacker.ability;
     }
     if (move.named('Explosion', 'Self-Destruct')) {
         df = Math.floor(df / 2);
     }
-    var isCritical = move.isCrit && !defender.hasAbility('Battle Armor', 'Shell Armor');
-    var attackBoost = attacker.boosts[attackStat];
     var defenseBoost = defender.boosts[defenseStat];
-    if (attackBoost > 0 || (!isCritical && attackBoost < 0)) {
-        at = (0, util_1.getModifiedStat)(at, attackBoost);
-        desc.attackBoost = attackBoost;
-    }
     if (defenseBoost < 0 || (!isCritical && defenseBoost > 0)) {
         df = (0, util_1.getModifiedStat)(df, defenseBoost);
         desc.defenseBoost = defenseBoost;
     }
-    var lv = attacker.level;
-    var baseDamage = Math.floor(Math.floor((Math.floor((2 * lv) / 5 + 2) * at * bp) / df) / 50);
+    return df;
+}
+exports.calculateDefenseADV = calculateDefenseADV;
+function calculateFinalModsADV(baseDamage, attacker, move, field, desc, isCritical) {
+    if (isCritical === void 0) { isCritical = false; }
+    var isPhysical = move.category === 'Physical';
     if (attacker.hasStatus('brn') && isPhysical && !attacker.hasAbility('Guts')) {
         baseDamage = Math.floor(baseDamage / 2);
         desc.isBurned = true;
@@ -291,7 +366,7 @@ function calculateADV(gen, attacker, defender, move, field) {
     }
     if (move.named('Weather Ball') && field.weather) {
         baseDamage *= 2;
-        desc.moveBP = bp * 2;
+        desc.moveBP = move.bp * 2;
     }
     if (field.attackerSide.isHelpingHand) {
         baseDamage = Math.floor(baseDamage * 1.5);
@@ -300,28 +375,6 @@ function calculateADV(gen, attacker, defender, move, field) {
     if (move.hasType.apply(move, __spreadArray([], __read(attacker.types), false))) {
         baseDamage = Math.floor(baseDamage * 1.5);
     }
-    baseDamage = Math.floor(baseDamage * typeEffectiveness);
-    result.damage = [];
-    for (var i = 85; i <= 100; i++) {
-        result.damage[i - 85] = Math.max(1, Math.floor((baseDamage * i) / 100));
-    }
-    if (move.hits > 1) {
-        var _loop_1 = function (times) {
-            var damageMultiplier = 85;
-            result.damage = result.damage.map(function (affectedAmount) {
-                if (times) {
-                    var newFinalDamage = Math.max(1, Math.floor((baseDamage * damageMultiplier) / 100));
-                    damageMultiplier++;
-                    return affectedAmount + newFinalDamage;
-                }
-                return affectedAmount;
-            });
-        };
-        for (var times = 0; times < move.hits; times++) {
-            _loop_1(times);
-        }
-    }
-    return result;
+    return baseDamage;
 }
-exports.calculateADV = calculateADV;
 //# sourceMappingURL=gen3.js.map

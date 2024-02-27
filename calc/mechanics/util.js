@@ -336,12 +336,13 @@ function checkSeedBoost(pokemon, field) {
     }
 }
 exports.checkSeedBoost = checkSeedBoost;
-function checkMultihitBoost(gen, attacker, defender, move, field, desc, usedWhiteHerb) {
-    if (usedWhiteHerb === void 0) { usedWhiteHerb = false; }
+function checkMultihitBoost(gen, attacker, defender, move, field, desc, attackerUsedItem, defenderUsedItem) {
+    if (attackerUsedItem === void 0) { attackerUsedItem = false; }
+    if (defenderUsedItem === void 0) { defenderUsedItem = false; }
     if (move.named('Gyro Ball', 'Electro Ball') && defender.hasAbility('Gooey', 'Tangling Hair')) {
-        if (attacker.hasItem('White Herb') && !usedWhiteHerb) {
+        if (attacker.hasItem('White Herb') && !attackerUsedItem) {
             desc.attackerItem = attacker.item;
-            usedWhiteHerb = true;
+            attackerUsedItem = true;
         }
         else {
             attacker.boosts.spe = Math.max(attacker.boosts.spe - 1, -6);
@@ -353,6 +354,43 @@ function checkMultihitBoost(gen, attacker, defender, move, field, desc, usedWhit
         attacker.boosts.atk = Math.min(attacker.boosts.atk + 1, 6);
         attacker.stats.atk = getModifiedStat(attacker.rawStats.atk, attacker.boosts.atk, gen);
     }
+    var atkSimple = attacker.hasAbility('Simple') ? 2 : 1;
+    var defSimple = defender.hasAbility('Simple') ? 2 : 1;
+    if ((!defenderUsedItem) &&
+        (defender.hasItem('Luminous Moss') && move.hasType('Water')) ||
+        (defender.hasItem('Maranga Berry') && move.category === 'Special') ||
+        (defender.hasItem('Kee Berry') && move.category === 'Physical')) {
+        var defStat = defender.hasItem('Kee Berry') ? 'def' : 'spd';
+        if (attacker.hasAbility('Unaware')) {
+            desc.attackerAbility = attacker.ability;
+        }
+        else {
+            if (defender.hasAbility('Contrary')) {
+                desc.defenderAbility = defender.ability;
+                if (defender.hasItem('White Herb') && !defenderUsedItem) {
+                    desc.defenderItem = defender.item;
+                    defenderUsedItem = true;
+                }
+                else {
+                    defender.boosts[defStat] = Math.max(-6, defender.boosts[defStat] - defSimple);
+                }
+            }
+            else {
+                defender.boosts[defStat] = Math.min(6, defender.boosts[defStat] + defSimple);
+            }
+            if (defSimple === 2)
+                desc.defenderAbility = defender.ability;
+            defender.stats[defStat] = getModifiedStat(defender.rawStats[defStat], defender.boosts[defStat], gen);
+            desc.defenderItem = defender.item;
+            defenderUsedItem = true;
+        }
+    }
+    if (defender.hasAbility('Seed Sower')) {
+        field.terrain = 'Grassy';
+    }
+    if (defender.hasAbility('Sand Spit')) {
+        field.weather = 'Sand';
+    }
     if (defender.hasAbility('Stamina')) {
         if (attacker.hasAbility('Unaware')) {
             desc.attackerAbility = attacker.ability;
@@ -363,25 +401,34 @@ function checkMultihitBoost(gen, attacker, defender, move, field, desc, usedWhit
             desc.defenderAbility = defender.ability;
         }
     }
+    else if (defender.hasAbility('Water Compaction') && move.hasType('Water')) {
+        if (attacker.hasAbility('Unaware')) {
+            desc.attackerAbility = attacker.ability;
+        }
+        else {
+            defender.boosts.def = Math.min(defender.boosts.def + 2, 6);
+            defender.stats.def = getModifiedStat(defender.rawStats.def, defender.boosts.def, gen);
+            desc.defenderAbility = defender.ability;
+        }
+    }
     else if (defender.hasAbility('Weak Armor')) {
         if (attacker.hasAbility('Unaware')) {
             desc.attackerAbility = attacker.ability;
         }
         else {
-            if (defender.hasItem('White Herb') && !usedWhiteHerb) {
+            if (defender.hasItem('White Herb') && !defenderUsedItem && defender.boosts.def === 0) {
                 desc.defenderItem = defender.item;
-                usedWhiteHerb = true;
+                defenderUsedItem = true;
             }
             else {
                 defender.boosts.def = Math.max(defender.boosts.def - 1, -6);
                 defender.stats.def = getModifiedStat(defender.rawStats.def, defender.boosts.def, gen);
             }
+            desc.defenderAbility = defender.ability;
         }
         defender.boosts.spe = Math.min(defender.boosts.spe + 2, 6);
         defender.stats.spe = getFinalSpeed(gen, defender, field, field.defenderSide);
-        desc.defenderAbility = defender.ability;
     }
-    var simple = attacker.hasAbility('Simple') ? 2 : 1;
     if (move.dropsStats) {
         if (attacker.hasAbility('Unaware')) {
             desc.attackerAbility = attacker.ability;
@@ -394,20 +441,30 @@ function checkMultihitBoost(gen, attacker, defender, move, field, desc, usedWhit
                 desc.attackerAbility = attacker.ability;
             }
             else {
-                boosts = Math.max(-6, boosts - move.dropsStats * simple);
-                if (simple > 1)
-                    desc.attackerAbility = attacker.ability;
+                boosts = Math.max(-6, boosts - move.dropsStats * atkSimple);
             }
-            if (attacker.hasItem('White Herb') && attacker.boosts[stat] < 0 && !usedWhiteHerb) {
-                boosts += move.dropsStats * simple;
+            if (atkSimple === 2)
+                desc.attackerAbility = attacker.ability;
+            if (attacker.hasItem('White Herb') && attacker.boosts[stat] < 0 && !attackerUsedItem) {
+                boosts += move.dropsStats * atkSimple;
                 desc.attackerItem = attacker.item;
-                usedWhiteHerb = true;
+                attackerUsedItem = true;
             }
             attacker.boosts[stat] = boosts;
             attacker.stats[stat] = getModifiedStat(attacker.rawStats[stat], defender.boosts[stat], gen);
         }
     }
-    return usedWhiteHerb;
+    if (defender.hasAbility('Mummy', 'Wandering Spirit', 'Lingering Aroma') && move.flags.contact) {
+        var oldAttackerAbility = attacker.ability;
+        attacker.ability = defender.ability;
+        if (desc.attackerAbility) {
+            desc.defenderAbility = defender.ability;
+        }
+        if (defender.hasAbility('Wandering Spirit')) {
+            defender.ability = oldAttackerAbility;
+        }
+    }
+    return [attackerUsedItem, defenderUsedItem];
 }
 exports.checkMultihitBoost = checkMultihitBoost;
 function chainMods(mods, lowerBound, upperBound) {
@@ -496,6 +553,43 @@ function getWeightFactor(pokemon) {
         : (pokemon.hasAbility('Light Metal') || pokemon.hasItem('Float Stone')) ? 0.5 : 1;
 }
 exports.getWeightFactor = getWeightFactor;
+function getStabMod(pokemon, move, desc) {
+    var stabMod = 4096;
+    if (pokemon.hasOriginalType(move.type)) {
+        stabMod += 2048;
+    }
+    else if (pokemon.hasAbility('Protean', 'Libero') && !pokemon.teraType) {
+        stabMod += 2048;
+        desc.attackerAbility = pokemon.ability;
+    }
+    var teraType = pokemon.teraType;
+    if (teraType === move.type && teraType !== 'Stellar') {
+        stabMod += 2048;
+        desc.attackerTera = teraType;
+    }
+    if (pokemon.hasAbility('Adaptability') && pokemon.hasType(move.type)) {
+        stabMod += teraType && pokemon.hasOriginalType(teraType) ? 1024 : 2048;
+        desc.attackerAbility = pokemon.ability;
+    }
+    return stabMod;
+}
+exports.getStabMod = getStabMod;
+function getStellarStabMod(pokemon, move, stabMod, turns) {
+    if (stabMod === void 0) { stabMod = 1; }
+    if (turns === void 0) { turns = 0; }
+    var isStellarBoosted = pokemon.teraType === 'Stellar' &&
+        ((move.isStellarFirstUse && turns === 0) || pokemon.named('Terapagos-Stellar'));
+    if (isStellarBoosted) {
+        if (pokemon.hasOriginalType(move.type)) {
+            stabMod += 2048;
+        }
+        else {
+            stabMod = 4915;
+        }
+    }
+    return stabMod;
+}
+exports.getStellarStabMod = getStellarStabMod;
 function countBoosts(gen, boosts) {
     var e_5, _a;
     var sum = 0;
