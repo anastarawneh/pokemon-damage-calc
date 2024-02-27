@@ -1831,6 +1831,7 @@ function hideShowCCSettings() {
 function colorCodeUpdate() {
 	var speCheck = document.getElementById("cc-spe-border").checked;
 	var ohkoCheck = document.getElementById("cc-ohko-color").checked;
+	var advancedCC = document.getElementById("cc-advanced").checked;
 	if (!speCheck && !ohkoCheck){
 		return
 	}
@@ -1840,7 +1841,7 @@ function colorCodeUpdate() {
 	var p2 = createPokemon(p2info);
 	for (let i = 0; i < pMons.length; i++) {
 		let set = pMons[i].getAttribute("data-id");
-		let idColor = calculationsColors(set, p2);
+		let idColor = calculationsColors(set, p2, advancedCC);
 		if (speCheck && ohkoCheck){
 			pMons[i].className = `trainer-poke left-side mon-speed-${idColor.speed} mon-dmg-${idColor.code}`;
 		}
@@ -2055,7 +2056,8 @@ $(document).ready(function () {
 	$('#previous-trainer').click(previousTrainer);
 	$('#reset-trainer').click(resetTrainer);
 	$('#cc-spe-border').change(speedBorderSetsChange);
-	$('#cc-ohko-color').change(colorCodeSetsChange);
+	$('#cc-ohko-color').change(refreshColorCode);
+	$('#cc-advanced').change(colorCodeUpdate);
 	$('#cc-spe-border')[0].checked=true;
 	$('#cc-ohko-color')[0].checked=true;
 

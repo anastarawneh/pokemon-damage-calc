@@ -50,6 +50,10 @@ html, body {
     background: #610000;
 }
 
+#info-cc-field > b {
+    color: #4b4b4b;
+}
+
 .visually-hidden:disabled + .btn {
     color: var(--button-hover);
 }

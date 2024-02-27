@@ -103,7 +103,7 @@ function performCalculations() {
 	$("#resultHeaderR").text(p2.name + "'s Moves (select one to show detailed results)");
 }
 
-function calculationsColors(p1info, p2) {
+function calculationsColors(p1info, p2, advanced) {
 	if (!p2) {
 		var p2info = $("#p2");
 		var p2 = createPokemon(p2info);
@@ -172,7 +172,7 @@ function calculationsColors(p1info, p2) {
 	// i wouldn't mind change this algo for a smarter one.
 
 	// if the adversary don't three shots our pokemon
-	if (Math.round(p2HD * 3) < 100) {
+	if (advanced && Math.round(p2HD * 3) < 100) {
 		// And if our pokemon does more damage
 		if (p1HD > p2HD) {
 			if (p1HD > 100) {
