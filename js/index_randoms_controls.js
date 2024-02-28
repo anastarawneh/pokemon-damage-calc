@@ -210,6 +210,7 @@ function predictMidTurnSwitch(p1, p2) {
 					var enemyMoves = setdex[enemy][window.CURRENT_TRAINER].moves;
 					for (var k in enemyMoves) {
 						var enemyMove = calc.Move(GENERATION, enemyMoves[k]);
+						if (enemyMove.category == "Status") continue;
 						var typeEffectiveness1 = GENERATION.types.get(toID(enemyMove.type)).effectiveness[p1.types[0]];
 						var typeEffectiveness2 = GENERATION.types.get(toID(enemyMove.type)).effectiveness[p1.types[1]];
 						var typeEffectiveness = typeEffectiveness2 !== undefined ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
