@@ -1,22 +1,28 @@
 var CUSTOMHACKTRAINERNAMES_EK = [
+	// Route 102
 	"Youngster Calvin",
 	"Bug Catcher Rick",
 	"Lass Tiana",
 	"Bug Catcher Allen",
+	// Route 104 (South)
 	"Bird Keeper Billy",
 	"Fisherman Darian",
 	"Lady Cindy",
+	// Petalburg Woods
 	"Bug Maniac Lyle",
 	"Bug Catcher James",
 	"Team Magma Grunt @ Petalburg Woods",
+	// Route 104 (North)
 	"Rich Boy Winston",
 	"Lass Haley",
 	"Twins Gina & Mia",
 	"Pokémon Trainer Red #1",
+	// Rustboro Gym
 	"School Kid Josh",
 	"School Kid Tammy",
 	"Hiker Marc",
 	"Leader Roxanne",
+	// Route 116
 	"Hiker Devan",
 	"Bird Keeper Johnson",
 	"School Kid Karen",
@@ -27,7 +33,9 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Hiker Clark",
 	"Lass Janice",
 	"Bug Maniac Jose",
+	// Rusturf Tunnel
 	"Team Aqua Grunt @ Rusturf Tunnel",
+	// Dewford Gym
 	"Battle Girl Laura",
 	"Black Belt Takao",
 	"Battle Girl Lilith",
@@ -35,8 +43,10 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Sailor Brenden",
 	"Battle Girl Jocelyn",
 	"Leader Brawly",
+	// Route 106
 	"Team Aqua Grunt @ Route 106",
 	"Fisherman Elliot",
+	// Route 109
 	"Sailor Huey",
 	"Tuber Gwen",
 	"Tuber Austina",
@@ -47,8 +57,10 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Sailor Edmond",
 	"Tuber Lola",
 	"Tuber Chandler",
+	// Slateport City
 	"Team Aqua Grunt #1 @ Slateport City",
 	"Team Aqua Grunt #2 @ Slateport City",
+	// Route 110
 	"Pokéfan Isabel",
 	"Pokéfan Kaleb",
 	"Psychic Edward",
@@ -63,7 +75,9 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Pokémon Trainer Brendan #2 [Marshtomp]",
 	"Pokémon Trainer Brendan #2 [Grovyle]",
 	"Triathlete Alyssa",
+	// Mauville City
 	"Pokémon Trainer Wally #1",
+	// Route 117
 	"Triathlete Melina",
 	"Triathlete Dylan",
 	"Sr and Jr Anna & Meg",
@@ -73,27 +87,32 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Psychic Brandi",
 	"Triathlete Maria",
 	"Bug Maniac Derek",
+	// Mauville Gym
 	"Lady Vivian",
 	"Guitarist Kirk",
 	"Fisherman Ben",
 	"Bug Maniac Angelo",
 	"Collector Shawn",
 	"Leader Wattson",
-	"Hiker Mike",
+	// Route 111
 	"Picnicker Bianca",
 	"Kindler Hayden",
 	"Camper Tyron",
 	"Aroma Lady Celina",
 	"Picnicker Irene",
 	"Camper Travis",
+	// Route 112 (South)
 	"Team Magma Grunt #1 @ Route 112",
 	"Team Magma Grunt #2 @ Route 112",
 	"Hiker Trent",
 	"Team Magma Grunt #3 @ Route 112",
+	// Route 112 (North)
 	"Team Magma Grunt #4 @ Route 112",
 	"Team Magma Grunt #5 @ Route 112",
+	// Route 111
 	"Black Belt Daisuke",
 	"Cooltrainer Brooke",
+	// Route 113
 	"Pokémaniac Wyatt",
 	"Dragon Tamer Lawrence",
 	"Ninja Boy Lung",
@@ -104,6 +123,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Ninja Boy Lao",
 	"Parasol Lady Madeline",
 	"Pokémon Trainer Red #2",
+	// Route 114
 	"Pokémaniac Steve",
 	"Sr and Jr Tyra & Ivy",
 	"Kindler Bernie",
@@ -116,16 +136,18 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Team Magma Grunt #7 @ Route 114",
 	"Team Magma Grunt #8 @ Route 114",
 	"Team Magma Grunt #9 @ Route 114",
-	"Black Belt Nob",
+	// Mt. Chimney
 	"Team Magma Grunt #1 @ Mt. Chimney",
 	"Team Magma Grunt #2 @ Mt. Chimney",
 	"Magma Admin Tabitha #1",
 	"Magma Leader Maxie #1",
+	// Jagged Pass
 	"Team Magma Grunt #1 @ Jagged Pass",
 	"Team Magma Grunt #2 @ Jagged Pass",
 	"Camper Ethan",
 	"Picnicker Diana",
 	"Triathlete Julio",
+	// Lavaridge Gym
 	"Kindler Jeff",
 	"Ruin Maniac Eli",
 	"Aroma Lady Colette",
@@ -150,15 +172,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Cooltrainer Jody",
 	"Cooltrainer Berke",
 	"Leader Norman",
-	"Swimmerf Isabelle",
-	"Swimmerm Pete",
-	"Battle Girl Cyndy",
-	"Ninja Boy Jaiden",
-	"Triathlete Kyra",
-	"Black Belt Koichi",
-	"Battle Girl Helene",
-	"Psychic Alix",
-	"Expert Timothy",
 	"Fisherman Wade",
 	"Fisherman Barny",
 	"Bird Keeper Perry",

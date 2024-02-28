@@ -1,33 +1,41 @@
 var CUSTOMHACKTRIGGERS_EK = {
     "badge": {
         "none": [
+            // Route 102
             "Youngster Calvin",
             "Bug Catcher Rick",
             "Lass Tiana",
             "Bug Catcher Allen",
+            // Route 104 (South)
             "Bird Keeper Billy",
             "Fisherman Darian",
             "Lady Cindy",
+            // Petalburg Woods
             "Bug Maniac Lyle",
             "Bug Catcher James",
             "Team Magma Grunt @ Petalburg Woods",
+            // Route 104 (North)
             "Rich Boy Winston",
             "Lass Haley",
             "Twins Gina & Mia",
             "Pokémon Trainer Red #1",
+            // Rustboro Gym
             "School Kid Josh",
             "School Kid Tammy",
             "Hiker Marc",
             "Leader Roxanne"
         ],
         "stoneBadge": [
+            // Rusturf Tunnel
             "Team Aqua Grunt @ Rusturf Tunnel",
+            // Rustboro City
             "Pokémon Trainer May #1.5 [Combusken]",
             "Pokémon Trainer May #1.5 [Marshtomp]",
             "Pokémon Trainer May #1.5 [Grovyle]",
             "Pokémon Trainer Brendan #1.5 [Combusken]",
             "Pokémon Trainer Brendan #1.5 [Marshtomp]",
             "Pokémon Trainer Brendan #1.5 [Grovyle]",
+            // Dewford Gym
             "Battle Girl Laura",
             "Black Belt Takao",
             "Battle Girl Lilith",
@@ -35,8 +43,10 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Sailor Brenden",
             "Battle Girl Jocelyn",
             "Leader Brawly",
+            // Route 106
             "Team Aqua Grunt @ Route 106",
             "Fisherman Elliot",
+            // Route 109
             "Sailor Huey",
             "Tuber Gwen",
             "Tuber Austina",
@@ -47,11 +57,10 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Sailor Edmond",
             "Tuber Lola",
             "Tuber Chandler",
-            "Tuber Simon",
-            "Beauty Johanna",
-            "Sailor Dwayne",
+            // Slateport City
             "Team Aqua Grunt #1 @ Slateport City",
             "Team Aqua Grunt #2 @ Slateport City",
+            // Route 110
             "Pokéfan Isabel",
             "Pokéfan Kaleb",
             "Psychic Edward",
@@ -59,12 +68,6 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Youngster Timmy",
             "Collector Edwin",
             "Guitarist Joseph",
-            "Aroma Lady Daisy",
-            "Dragon Tamer Rhett",
-            "Guitarist Marcos",
-            "Twins Amy & Liv",
-            "Pokéfan Miguel",
-            "Fisherman Andrew",
             "Pokémon Trainer May #2 [Combusken]",
             "Pokémon Trainer May #2 [Marshtomp]",
             "Pokémon Trainer May #2 [Grovyle]",
@@ -73,12 +76,9 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Pokémon Trainer Brendan #2 [Grovyle]",
             "Triathlete Alyssa",
             "Fisherman Dale",
+            // Mauville City
             "Pokémon Trainer Wally #1",
-            "Triathlete Abigail",
-            "Triathlete Anthony",
-            "Triathlete Benjamin",
-            "Triathlete Jasmine",
-            "Triathlete Jacob",
+            // Route 117
             "Triathlete Melina",
             "Triathlete Dylan",
             "Sr and Jr Anna & Meg",
@@ -88,6 +88,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Psychic Brandi",
             "Triathlete Maria",
             "Bug Maniac Derek",
+            // Mauville Gym
             "Lady Vivian",
             "Guitarist Kirk",
             "Fisherman Ben",
@@ -96,28 +97,25 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Leader Wattson"
         ],
         "dynamoBadge": [
-            "Hiker Mike",
-            "Winstrate Victor",
-            "Winstrate Victoria",
-            "Winstrate Vivi",
-            "Winstrate Vicky",
+            // Route 111
             "Picnicker Bianca",
             "Kindler Hayden",
-            "Interviewers Gabby & Ty",
             "Camper Tyron",
             "Aroma Lady Celina",
             "Picnicker Irene",
             "Camper Travis",
+            // Route 112 (South)
             "Team Magma Grunt #1 @ Route 112",
             "Team Magma Grunt #2 @ Route 112",
             "Hiker Trent",
             "Team Magma Grunt #3 @ Route 112",
+            // Route 112 (North)
             "Team Magma Grunt #4 @ Route 112",
             "Team Magma Grunt #5 @ Route 112",
-            "Cooltrainer Wilton",
-            "Ruin Maniac Bryan",
+            // Route 111
             "Black Belt Daisuke",
             "Cooltrainer Brooke",
+            // Route 113
             "Pokémaniac Wyatt",
             "Dragon Tamer Lawrence",
             "Ninja Boy Lung",
@@ -128,6 +126,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Ninja Boy Lao",
             "Parasol Lady Madeline",
             "Pokémon Trainer Red #2",
+            // Route 114
             "Pokémaniac Steve",
             "Sr and Jr Tyra & Ivy",
             "Kindler Bernie",
@@ -140,24 +139,18 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Team Magma Grunt #7 @ Route 114",
             "Team Magma Grunt #8 @ Route 114",
             "Team Magma Grunt #9 @ Route 114",
-            "Black Belt Nob",
-            "Collector Hector",
-            "Psychic Marlene",
+            // Mt. Chimney
             "Team Magma Grunt #1 @ Mt. Chimney",
             "Team Magma Grunt #2 @ Mt. Chimney",
             "Magma Admin Tabitha #1",
             "Magma Leader Maxie #1",
+            // Jagged Pass
             "Team Magma Grunt #1 @ Jagged Pass",
             "Team Magma Grunt #2 @ Jagged Pass",
-            "Team Magma Grunt #3 @ Jagged Pass",
             "Camper Ethan",
             "Picnicker Diana",
             "Triathlete Julio",
-            "Beauty Shirley",
-            "Beauty Sheila",
-            "Expert Shelby",
-            "Beauty Melissa",
-            "Hiker Sawyer",
+            // Lavaridge Gym
             "Kindler Jeff",
             "Ruin Maniac Eli",
             "Aroma Lady Colette",
@@ -193,9 +186,20 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Battle Girl Helene",
             "Psychic Alix",
             "Expert Timothy",
+            "Ruin Maniac Foster",
+            "Bird Keeper Josue",
+            "Ruin Maniac Andres",
+            "Team Aqua Grunt @ Route 108",
+            "Cooltrainer Carolina",
+            "Sailor Cory",
             "Fisherman Wade",
+            "Interviewers Gabby & Ty #2",
             "Fisherman Barny",
             "Bird Keeper Perry",
+            "Youngster Deandre",
+            "Guitarist Dalton",
+            "Bird Keeper Chester",
+            "Aroma Lady Rose",
             "Bird Keeper Hugh",
             "Pokémon Ranger Catherine",
             "Pokémon Ranger Jackson",

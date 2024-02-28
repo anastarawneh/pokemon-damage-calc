@@ -11722,7 +11722,7 @@ var CUSTOMHACKSETDEX_EK = {
                 "Flamethrower"
             ]
         },
-        "Interviewers Gabby & Ty":
+        "Interviewers Gabby & Ty #1":
         {
             "ability": "Vital Spirit",
             "item": "Choice Band",
@@ -12639,7 +12639,7 @@ var CUSTOMHACKSETDEX_EK = {
             ],
             "nature": "Lax"
         },
-        "Interviewers Gabby & Ty":
+        "Interviewers Gabby & Ty #1":
         {
             "ability": "Magnet Pull",
             "item": "Metal Coat",
