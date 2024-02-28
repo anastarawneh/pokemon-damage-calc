@@ -10522,6 +10522,15 @@ var CUSTOMHACKSETDEX_EK = {
         "Pokémaniac Steve":
         {
             "ability": "Early Bird",
+            "ivs":
+            {
+                "at": 24,
+                "df": 24,
+                "hp": 24,
+                "sa": 24,
+                "sd": 24,
+                "sp": 24
+            },
             "level": 34,
             "moves":
             [
