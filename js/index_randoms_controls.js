@@ -202,6 +202,7 @@ function predictMidTurnSwitch(p1, p2) {
 			if (move.category == "Status") continue;
 			for (var j in partySpecies) {
 				var enemy = partySpecies[j];
+				if (p2.name == enemy) continue;
 				var dexMon = pokedex[partySpecies[j]];
 				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[0]];
 				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[1]];
