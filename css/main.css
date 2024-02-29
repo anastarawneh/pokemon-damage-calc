@@ -544,17 +544,12 @@ table.field {
 
 
 
-.trainer-poke-list {
+.trainer-poke-list, .trainer-poke-list-opposing {
     display: flex;
     flex-wrap: wrap;
 }
 
-.trainer-poke-list-opposing {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.trainer-poke {
+.trainer-poke, .trainer-poke-switch {
     height: 100%;
     width: auto;
     margin-right: 10px;
@@ -570,6 +565,18 @@ table.field {
 .trainer-poke.switch-risk-mon {
     outline: 2px solid;
     outline-color: #ff0000;
+}
+
+.trainer-poke-switch-explain {
+    vertical-align: middle;
+}
+
+.dead {
+    background-color: red;
+}
+
+.next {
+    background-color: green;
 }
 
 

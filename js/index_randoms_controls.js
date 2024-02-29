@@ -96,6 +96,7 @@ function performCalculations() {
 	var game = parseInt(params.get("game") || "0");
 	if (isHack && [1].includes(game)) {
 		predictMidTurnSwitch(p1, p2);
+		predictSwitchOrder();
 	}
 	bestResult.prop("checked", true);
 	bestResult.change();
@@ -210,7 +211,7 @@ function predictMidTurnSwitch(p1, p2) {
 				if (typeEffectiveness < 1) {
 					var enemyMoves = setdex[enemy][window.CURRENT_TRAINER].moves;
 					for (var k in enemyMoves) {
-						var enemyMove = calc.Move(GENERATION, enemyMoves[k]);
+						var enemyMove = new calc.Move(GENERATION, enemyMoves[k]);
 						if (enemyMove.category == "Status") continue;
 						var typeEffectiveness1 = GENERATION.types.get(toID(enemyMove.type)).effectiveness[p1.types[0]];
 						var typeEffectiveness2 = GENERATION.types.get(toID(enemyMove.type)).effectiveness[p1.types[1]];
@@ -225,6 +226,234 @@ function predictMidTurnSwitch(p1, p2) {
 				}
 			}
 		}
+	}
+}
+
+var phase1TypeMatchups = {
+    "Normal-Rock": 0.5,
+    "Normal-Steel": 0.5,
+    "Fire-Fire": 0.5,
+    "Fire-Water": 0.5,
+    "Fire-Grass": 2.0,
+    "Fire-Ice": 2.0,
+    "Fire-Bug": 2.0,
+    "Fire-Rock": 0.5,
+    "Fire-Dragon": 0.5,
+    "Fire-Steel": 2.0,
+    "Water-Fire": 2.0,
+    "Water-Water": 0.5,
+    "Water-Grass": 0.5,
+    "Water-Ground": 2.0,
+    "Water-Rock": 2.0,
+    "Water-Dragon": 0.5,
+    "Electric-Water": 2.0,
+    "Electric-Electric": 0.5,
+    "Electric-Grass": 0.5,
+    "Electric-Ground": 0.0,
+    "Electric-Flying": 2.0,
+    "Electric-Dragon": 0.5,
+    "Grass-Fire": 0.5,
+    "Grass-Water": 2.0,
+    "Grass-Grass": 0.5,
+    "Grass-Poison": 0.5,
+    "Grass-Ground": 2.0,
+    "Grass-Flying": 0.5,
+    "Grass-Bug": 0.5,
+    "Grass-Rock": 2.0,
+    "Grass-Dragon": 0.5,
+    "Grass-Steel": 0.5,
+    "Ice-Water": 0.5,
+    "Ice-Grass": 2.0,
+    "Ice-Ice": 0.5,
+    "Ice-Ground": 2.0,
+    "Ice-Flying": 2.0,
+    "Ice-Dragon": 2.0,
+    "Ice-Steel": 0.5,
+    "Ice-Fire": 0.5,
+    "Fighting-Normal": 2.0,
+    "Fighting-Ice": 2.0,
+    "Fighting-Poison": 0.5,
+    "Fighting-Flying": 0.5,
+    "Fighting-Psychic": 0.5,
+    "Fighting-Bug": 0.5,
+    "Fighting-Rock": 2.0,
+    "Fighting-Dark": 2.0,
+    "Fighting-Steel": 2.0,
+    "Poison-Grass": 2.0,
+    "Poison-Poison": 0.5,
+    "Poison-Ground": 0.5,
+    "Poison-Rock": 0.5,
+    "Poison-Ghost": 0.5,
+    "Poison-Steel": 0.0,
+    "Ground-Fire": 2.0,
+    "Ground-Electric": 2.0,
+    "Ground-Grass": 0.5,
+    "Ground-Poison": 2.0,
+    "Ground-Flying": 0.0,
+    "Ground-Bug": 0.5,
+    "Ground-Rock": 2.0,
+    "Ground-Steel": 2.0,
+    "Flying-Electric": 0.5,
+    "Flying-Grass": 2.0,
+    "Flying-Fighting": 2.0,
+    "Flying-Bug": 2.0,
+    "Flying-Rock": 0.5,
+    "Flying-Steel": 0.5,
+    "Psychic-Fighting": 2.0,
+    "Psychic-Poison": 2.0,
+    "Psychic-Psychic": 0.5,
+    "Psychic-Dark": 0.0,
+    "Psychic-Steel": 0.5,
+    "Bug-Fire": 0.5,
+    "Bug-Grass": 2.0,
+    "Bug-Fighting": 0.5,
+    "Bug-Poison": 0.5,
+    "Bug-Flying": 0.5,
+    "Bug-Psychic": 2.0,
+    "Bug-Ghost": 0.5,
+    "Bug-Dark": 2.0,
+    "Bug-Steel": 0.5,
+    "Rock-Fire": 2.0,
+    "Rock-Ice": 2.0,
+    "Rock-Fighting": 0.5,
+    "Rock-Ground": 0.5,
+    "Rock-Flying": 2.0,
+    "Rock-Bug": 2.0,
+    "Rock-Steel": 0.5,
+    "Ghost-Normal": 0.0,
+    "Ghost-Psychic": 2.0,
+    "Ghost-Dark": 0.5,
+    "Ghost-Steel": 0.5,
+    "Ghost-Ghost": 2.0,
+    "Dragon-Dragon": 2.0,
+    "Dragon-Steel": 0.5,
+    "Dark-Fighting": 0.5,
+    "Dark-Psychic": 2.0,
+    "Dark-Ghost": 2.0,
+    "Dark-Dark": 0.5,
+    "Dark-Steel": 0.5,
+    "Steel-Fire": 0.5,
+    "Steel-Water": 0.5,
+    "Steel-Electric": 0.5,
+    "Steel-Ice": 2.0,
+    "Steel-Rock": 2.0,
+    "Steel-Steel": 0.5,
+    "Normal-Ghost": 0.0,
+    "Fighting-Ghost": 0.0
+};
+
+function predictSwitchOrder() {
+	var p1 = createPokemon($("#p1"));
+	var partySpecies = partyOrder[window.CURRENT_TRAINER];
+	var partyMons = [];
+	for (var i in partySpecies) {
+		partyMons.push(setdex[partySpecies[i]][window.CURRENT_TRAINER]);
+		try {
+			partyMons[i].species = partySpecies[i];
+		} catch (ex) {
+			$(".trainer-poke-switch-list").html("An error has occured.");
+			return;
+		}
+	}
+	var deadList = [];
+	for (var i in partyMons) {
+		var dead = partyMons[i];
+		if ($(`.trainer-poke-switch[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).hasClass("dead")) {
+			$(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html("Dead!");
+			deadList.push(dead);
+		} else {
+			$(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html("That's it!");
+		}
+	}
+	for (var i in partyMons) {
+		var dead = partyMons[i];
+		if (deadList.includes(dead)) {
+			continue;
+		}
+		var defender = p1.clone();
+		var nextMon = "";
+		var phase = 1;
+
+		// Phase 1 => Best super effective move typing, worst pokemon typing
+		var scores = {};
+		for (var j in partyMons) {
+			scores[partySpecies[j]] = 10;
+			var enemy = partyMons[j];
+			if (deadList.includes(enemy)) {
+				continue;
+			}
+			var enemyDex = pokedex[partySpecies[j]];
+			for (var matchup in phase1TypeMatchups) {
+				var type1 = matchup.split("-")[0];
+				var type2 = matchup.split("-")[1];
+				var p1types = defender.types;
+				if (!p1types[1]) p1types[1] = p1types[0];
+				for (var k in p1types) {
+					var type = p1types[k];
+					if ((type1 == type) && (type2 == enemyDex.types[0] || type2 == enemyDex.types[1])) {
+						scores[partySpecies[j]] = Math.floor(scores[partySpecies[j]] * phase1TypeMatchups[matchup]);
+					}
+				}
+			}
+		}
+
+		var sorted = Object.keys(scores).sort((a, b) => scores[a] - scores[b]).reverse();
+
+		for (var j in sorted) {
+			if (scores[sorted[j]] == 0) continue;
+			var enemy = partyMons.filter(x => x.species == sorted[j])[0];
+			if (enemy == dead) continue;
+			if (deadList.includes(enemy)) {
+				continue;
+			}
+			var enemyDex = pokedex[enemy.species];
+			for (var k in enemy.moves) {
+				var move = new calc.Move(GENERATION, enemy.moves[k]);
+				if (move.category == "Status") continue;
+				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[0]];
+				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[1]];
+				var typeEffectiveness = defender.types[1] ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
+				if (typeEffectiveness > 1) {
+					nextMon = enemy.species;
+					break;
+				}
+			}
+			if (nextMon) break;
+		}
+
+		// Phase 2 => Points for STAB moves for the dead mon and effective moves against me
+		if (!nextMon) {
+			phase = 2;
+			var highestDamage = { pokemon: {}, score: 0 };
+			for (var j in partyMons) {
+				if (deadList.includes(partyMons[j])) {
+					continue;
+				}
+				var next = structuredClone(partyMons[j]);
+				if (next.species == dead.species) continue;
+				var moves = [];
+				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
+				var attacker = new calc.Pokemon(GENERATION, dead.species, {
+					moves: moves
+				});
+				for (var j in attacker.moves) {
+					var move = attacker.moves[j];
+					var score = 1;
+					if (attacker.types.includes(move.type)) score *= 1.5;
+					if (!(move.type == "Ground" && defender.ability == "Levitate")) {
+						score *= getMoveEffectiveness(GENERATION, move, defender.types[0]);
+						score *= getMoveEffectiveness(GENERATION, move, defender.types[1]);
+					}
+					if (score > highestDamage.score) {
+						highestDamage.pokemon = next;
+						highestDamage.score = score;
+					}
+				}
+			}
+			nextMon = highestDamage.pokemon.species;
+		}
+
+		if (nextMon) $(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html(`${nextMon} (Phase ${phase})`);
 	}
 }
 

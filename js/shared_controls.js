@@ -553,15 +553,19 @@ $(".set-selector").change(function () {
 	var fullSetName = $(this).val();
 
 	if ($(this).hasClass('opposing') && game > 0) {
+		var oldTrainer = window.CURRENT_TRAINER;
 		var nextPokemon = getTrainerPokemon(fullSetName);
 		var trainerHTML = "";
-		for (i in nextPokemon) {
+		var switchHTML = "";
+		for (var i in nextPokemon) {
 			if (nextPokemon[i][0].includes($('input.opposing').val())){
 				continue;
 			}
 			var pokemonName = nextPokemon[i].split(" (")[0];
 			var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextPokemon[i]}" title="${nextPokemon[i]}">`;
 			trainerHTML += pokemonHTML;
+			switchHTML += `<span style="width: 100%;"><img class="trainer-poke-switch right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextPokemon[i]}" title="${nextPokemon[i]}"><label style="width: 75%;" class="trainer-poke-switch-explain" data-id="${nextPokemon[i]}"></label></span>`;
+			if (parseInt(i) + 1 < nextPokemon.length) switchHTML += "<br><br>";
 		}
 
 		if (triggers) {
@@ -613,6 +617,7 @@ $(".set-selector").change(function () {
 	}
 
 	$('.trainer-poke-list-opposing').html(trainerHTML);
+	if (oldTrainer !== window.CURRENT_TRAINER) $('.trainer-poke-switch-list').html(switchHTML);
 
 	var pokemonName = fullSetName.substring(0, fullSetName.indexOf(" ("));
 	var setName = fullSetName.substring(fullSetName.indexOf("(") + 1, fullSetName.lastIndexOf(")"));
@@ -1796,7 +1801,7 @@ function getTrainerPokemon(trainerName) {
 	}
 }
 
-$(document).on('click', '.right-side', function() {
+$(document).on('click', '.trainer-poke.right-side', function() {
 	var set = $(this).attr('data-id');
 	$('.opposing').val(set);
 
@@ -1810,6 +1815,14 @@ $(document).on('click', '.left-side', function() {
 
 	$('.player').change();
 	$('.player .select2-chosen').text(set);
+})
+
+$(document).on('click', '.trainer-poke-switch.right-side', function() {
+	var dead = $(this).is(".dead");
+	if (dead) $(this).removeClass("dead");
+	else $(this).addClass("dead")
+
+	predictSwitchOrder();
 })
 
 function selectFirstMon() {
