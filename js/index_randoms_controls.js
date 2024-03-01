@@ -397,7 +397,7 @@ function predictSwitchOrder() {
 			}
 		}
 
-		var sorted = Object.keys(scores).sort((a, b) => scores[a] - scores[b]).reverse();
+		var sorted = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
 
 		for (var j in sorted) {
 			if (scores[sorted[j]] == 0) continue;

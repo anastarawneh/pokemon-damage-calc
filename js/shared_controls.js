@@ -1909,8 +1909,6 @@ function trashPokemon() {
 	document.getElementById("trash-box").innerHTML="";
 	localStorage.setItem("customsets", JSON.stringify(customSets));
 	$('#box-poke-list')[0].click();
-	//switch to the next pokemon automatically
-	$('.box-poke-list')[0].click()
 }
 
 function nextTrainer() {
