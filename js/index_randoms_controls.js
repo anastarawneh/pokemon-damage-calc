@@ -201,6 +201,7 @@ function predictMidTurnSwitch(p1, p2) {
 		for (var i in p1.moves) {
 			var move = p1.moves[i];
 			if (move.category == "Status") continue;
+			if (!(calc.calculate(GENERATION, p1, p2, move, createField())).damage) continue;
 			for (var j in partySpecies) {
 				var enemy = partySpecies[j];
 				if (p2.name == enemy) continue;
@@ -343,6 +344,7 @@ var phase1TypeMatchups = {
 };
 
 function predictSwitchOrder() {
+	var advanced = $("#advanced-bait").is(":checked");
 	var p1 = createPokemon($("#p1"));
 	var partySpecies = partyOrder[window.CURRENT_TRAINER];
 	var partyMons = [];
@@ -421,10 +423,12 @@ function predictSwitchOrder() {
 			if (nextMon) break;
 		}
 
-		// Phase 2 => Points for STAB moves for the dead mon and effective moves against me
+		// Phase 2 => Simple => Points for STAB moves for the dead mon and effective moves against me
+		//         => Adavnced => Actually calculating move damage
+		var highestDamage;
 		if (!nextMon) {
 			phase = 2;
-			var highestDamage = { pokemon: {}, score: 0 };
+			highestDamage = { pokemon: {}, score: 0 };
 			for (var j in partyMons) {
 				if (deadList.includes(partyMons[j])) {
 					continue;
@@ -434,19 +438,55 @@ function predictSwitchOrder() {
 				var moves = [];
 				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
 				var attacker = new calc.Pokemon(GENERATION, dead.species, {
+					level: dead.level,
 					moves: moves
 				});
 				for (var j in attacker.moves) {
-					var move = attacker.moves[j];
-					var score = 1;
-					if (attacker.types.includes(move.type)) score *= 1.5;
-					if (!(move.type == "Ground" && defender.ability == "Levitate")) {
-						score *= getMoveEffectiveness(GENERATION, move, defender.types[0]);
-						score *= getMoveEffectiveness(GENERATION, move, defender.types[1]);
-					}
-					if (score > highestDamage.score) {
-						highestDamage.pokemon = next;
-						highestDamage.score = score;
+					if (!advanced) {
+						var move = attacker.moves[j];
+						if (move.named(
+							"Fissure", "Horn Drill", "Guilotine", "Sheer Cold",
+							"Flail", "Frustration", "Low Kick", "Magnitude", "Present", "Return", "Reversal",
+							"Counter", "Mirror Coat",
+							"Dragon Rage", "Endeavor", "Night Shade", "Psywave", "Seismic Toss", "Sonic Boom", "Super Fang",
+							"Bide"
+						)) continue;
+						var score = 1;
+						if (attacker.types.includes(move.type)) score *= 1.5;
+						if (!(move.type == "Ground" && defender.ability == "Levitate")) {
+							score *= getMoveEffectiveness(GENERATION, move, defender.types[0]);
+							score *= getMoveEffectiveness(GENERATION, move, defender.types[1]);
+						}
+						if (score > highestDamage.score) {
+							highestDamage.pokemon = next;
+							highestDamage.score = score;
+						}
+					} else {
+						var move = new calc.Move(GENERATION, $(".last-move-used > select.move-selector").val(), {
+							overrides: {
+								type: attacker.moves[j].type,
+								category: new calc.Move(GENERATION, $(".last-move-used > select.move-selector").val()).hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison', 'Steel') ? "Physical" : "Special"
+							}
+						});
+						if (move.named(
+							"Fissure", "Horn Drill", "Guilotine", "Sheer Cold",
+							"Flail", "Frustration", "Low Kick", "Magnitude", "Present", "Return", "Reversal",
+							"Counter", "Mirror Coat",
+							"Dragon Rage", "Endeavor", "Night Shade", "Psywave", "Seismic Toss", "Sonic Boom", "Super Fang",
+							"Bide"
+						)) continue;
+						if (new calc.Move(GENERATION, $(".last-move-used > select.move-selector").val()).category == "Status") {
+							move.bp = 3;
+						}
+						move.bp = $(".last-move-used > .move-bp").val();
+						var calculation = calc.calculateADV(GENERATION, attacker, defender, move, createField());
+						var damage = calculation.damage;
+						var score = damage ? damage[damage.length - 1] : damage;
+						if (score > highestDamage.score) {
+							score %= 256;
+							highestDamage.pokemon = next;
+							highestDamage.score = score;
+						}
 					}
 				}
 			}
@@ -574,6 +614,13 @@ $(document).ready(function () {
 			window.refreshColorCode();
 		}
 		performCalculations();
+	});
+
+	$(".bait-trigger").bind("change keyup", function (ev) {
+		if (window.NO_CALC) {
+			return;
+		}
+		predictSwitchOrder();
 	});
 	performCalculations();
 });

@@ -2072,6 +2072,15 @@ $(document).ready(function () {
 	$('#cc-spe-border')[0].checked=true;
 	$('#cc-ohko-color')[0].checked=true;
 
+	$('.last-move-used > select.move-selector').val("(No Move)");
+	$('.last-move-used > select.move-selector').change();
+	$('#advanced-bait').prop("checked", false);
+	$('#advanced-bait').change(() => {
+		if ($("#advanced-bait").is(":checked")) $(".last-move-used").show();
+		else $(".last-move-used").hide();
+		predictSwitchOrder();
+	});
+
 	for (let dropzone of document.getElementsByClassName("dropzone")){
 		dropzone.ondragenter=handleDragEnter;
 		dropzone.ondragleave=handleDragLeave;

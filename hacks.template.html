@@ -1695,7 +1695,14 @@
             <br>
             <fieldset class="poke-info">
                 <legend align="center">Switch-in Guide</legend>
-                <div class="trainer-poke-switch-list"></div>
+                <input type="checkbox" name="advanced-bait" id="advanced-bait">Advanced Bait
+                <div class="last-move-used" style="padding-left: 0.4rem;" hidden>
+                    <label style="width: 25%;">Last move used</label>
+                    <select class="move-selector bait-trigger small-select"></select>
+                    <input class="move-bp bait-trigger" value="50" inputmode="decimal" />
+                    <select class="move-type bait-trigger"></select>
+                </div>
+                <div class="trainer-poke-switch-list" style="padding-top: 1rem; padding-bottom: 1rem;"></div>
             </fieldset>
         </div>
     </div>
