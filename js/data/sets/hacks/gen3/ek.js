@@ -2630,48 +2630,6 @@ var CUSTOMHACKSETDEX_EK = {
             ],
             "nature": "Quiet"
         },
-        "Leader #1 Wallace":
-        {
-            "ability": "Forecast",
-            "item": "Lum Berry",
-            "level": 76,
-            "moves":
-            [
-                "Thunder",
-                "Ice Beam",
-                "Weather Ball",
-                "Hidden Power Grass"
-            ],
-            "nature": "Sassy"
-        },
-        "Leader #2 Juan":
-        {
-            "ability": "Forecast",
-            "item": "Lum Berry",
-            "level": 76,
-            "moves":
-            [
-                "Weather Ball",
-                "Ice Beam",
-                "Thunder",
-                "Hidden Power Grass"
-            ],
-            "nature": "Modest"
-        },
-        "Magma Admin Courtney #1":
-        {
-            "ability": "Forecast",
-            "item": "Lum Berry",
-            "level": 64,
-            "moves":
-            [
-                "Weather Ball",
-                "Ice Beam",
-                "Thunderbolt",
-                "Solar Beam"
-            ],
-            "nature": "Quiet"
-        },
         "Parasol Lady Kayley":
         {
             "ability": "Forecast",
@@ -2685,20 +2643,6 @@ var CUSTOMHACKSETDEX_EK = {
                 "Rain Dance"
             ],
             "nature": "Jolly"
-        },
-        "Team Aqua Grunt #3 @ Seafloor Cavern":
-        {
-            "ability": "Forecast",
-            "item": "Scope Lens",
-            "level": 67,
-            "moves":
-            [
-                "Thunder",
-                "Weather Ball",
-                "Ice Beam",
-                "Attract"
-            ],
-            "nature": "Naughty"
         },
         "Team Aqua Grunt #8 @ Aqua Hideout":
         {
@@ -2729,6 +2673,51 @@ var CUSTOMHACKSETDEX_EK = {
             "nature": "Adamant"
         }
     },
+    "Castform-Rainy":
+    {
+        "Leader #1 Wallace":
+        {
+            "ability": "Forecast",
+            "item": "Lum Berry",
+            "level": 76,
+            "moves":
+            [
+                "Thunder",
+                "Ice Beam",
+                "Weather Ball",
+                "Hidden Power Grass"
+            ],
+            "nature": "Sassy"
+        },
+        "Leader #2 Juan":
+        {
+            "ability": "Forecast",
+            "item": "Lum Berry",
+            "level": 76,
+            "moves":
+            [
+                "Weather Ball",
+                "Ice Beam",
+                "Thunder",
+                "Hidden Power Grass"
+            ],
+            "nature": "Modest"
+        },
+        "Team Aqua Grunt #3 @ Seafloor Cavern":
+        {
+            "ability": "Forecast",
+            "item": "Scope Lens",
+            "level": 67,
+            "moves":
+            [
+                "Thunder",
+                "Weather Ball",
+                "Ice Beam",
+                "Attract"
+            ],
+            "nature": "Naughty"
+        }
+    },
     "Castform-Sunny":
     {
         "Leader Flannery":
@@ -2744,6 +2733,20 @@ var CUSTOMHACKSETDEX_EK = {
                 "Solar Beam"
             ],
             "nature": "Calm"
+        },
+        "Magma Admin Courtney #1":
+        {
+            "ability": "Forecast",
+            "item": "Lum Berry",
+            "level": 64,
+            "moves":
+            [
+                "Weather Ball",
+                "Ice Beam",
+                "Thunderbolt",
+                "Solar Beam"
+            ],
+            "nature": "Quiet"
         }
     },
     "Caterpie":
