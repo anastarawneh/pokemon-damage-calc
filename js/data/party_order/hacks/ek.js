@@ -204,6 +204,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Pokémaniac Axle": ["Torkoal", "Tropius", "Slowking", "Nidoking"],
     "Expert Keegan": ["Electabuzz", "Octillery", "Hariyama", "Victreebel", "Houndoom"],
     "Leader Flannery": ["Ninetales", "Charizard", "Blaziken", "Arcanine", "Typhlosion", "Castform-Sunny"],
+    // Route 111
     "Camper Drew": ["Donphan"],
     "Camper Beau": ["Castform"],
     "Picnicker Heidi": ["Cacturne"],
@@ -211,6 +212,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Ruin Maniac Dusty": ["Relicanth"],
     "Picnicker Celia": ["Sandslash", "Octillery"],
     "Camper Branden": ["Pidgeot", "Cacturne"],
+    // Petalburg Gym
     "Triathlete Randall": ["Ninjask", "Granbull", "Girafarig", "Jolteon", "Altaria", "Linoone"],
     "Triathlete Mary": ["Primeape", "Fearow", "Sceptile", "Crawdaunt", "Rapidash", "Ursaring"],
     "Pokéfan Parker": ["Raichu", "Umbreon", "Tentacruel", "Exploud", "Grumpig", "Stantler"],

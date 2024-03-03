@@ -160,6 +160,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Pokémaniac Axle",
             "Expert Keegan",
             "Leader Flannery",
+            // Route 111
             "Camper Drew",
             "Camper Beau",
             "Picnicker Heidi",
@@ -167,6 +168,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Ruin Maniac Dusty",
             "Picnicker Celia",
             "Camper Branden",
+            // Petalburg Gym
             "Triathlete Randall",
             "Triathlete Mary",
             "Pokéfan Parker",
@@ -456,6 +458,16 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Leader #2 Juan",
             // Evergrande City
             "Elite Four Glacia"
+        ],
+        "sand": [
+            // Route 111
+            "Camper Drew",
+            "Camper Beau",
+            "Picnicker Heidi",
+            "Picnicker Becky",
+            "Ruin Maniac Dusty",
+            "Picnicker Celia",
+            "Camper Branden",
         ]
     }
 };
