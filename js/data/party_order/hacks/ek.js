@@ -221,8 +221,10 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Cooltrainer Jody": ["Dodrio", "Marowak", "Medicham", "Flareon", "Vaporeon", "Zangoose"],
     "Cooltrainer Berke": ["Smeargle", "Venomoth", "Azumarill", "Mr. Mime", "Breloom", "Persian"],
     "Leader Norman": ["Slaking", "Espeon", "Kangaskhan", "Swellow", "Tauros", "Snorlax"],
+    // Route 103
     "Swimmerf Isabelle": ["Qwilfish"],
     "Swimmerm Pete": ["Raichu"],
+    // Route 115
     "Battle Girl Cyndy": ["Medicham"],
     "Ninja Boy Jaiden": ["Starmie"],
     "Triathlete Kyra": ["Rapidash", "Girafarig"],
@@ -230,13 +232,16 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Battle Girl Helene": ["Wobbuffet", "Hariyama"],
     "Psychic Alix": ["Grumpig", "Exeggutor"],
     "Expert Timothy": ["Kingdra", "Miltank", "Ampharos"],
+    // Route 105
     "Ruin Maniac Foster": ["Relicanth", "Glalie"],
     "Bird Keeper Josue": ["Fearow", "Xatu"],
     "Ruin Maniac Andres": ["Rhydon", "Marowak"],
+    // Route 108
     "Team Aqua Grunt @ Route 108": ["Starmie"],
     "Cooltrainer Carolina": ["Kangaskhan", "Torkoal", "Vileplume"],
     "Sailor Cory": ["Seaking", "Hitmontop", "Raticate"],
     "Fisherman Wade": ["Kingler", "Whiscash", "Seadra", "Wailmer"],
+    // Route 118
     "Interviewers Gabby & Ty #2": ["Xatu", "Exploud"],
     "Fisherman Barny": ["Corsola", "Seaking", "Mantine", "Huntail"],
     "Bird Keeper Perry": ["Noctowl", "Pidgeot", "Togetic", "Fearow"],
@@ -244,6 +249,13 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Guitarist Dalton": ["Electrode", "Exploud", "Jynx", "Ludicolo"],
     "Bird Keeper Chester": ["Togetic", "Swellow"],
     "Aroma Lady Rose": ["Breloom", "Meganium"],
+    "Bug Catcher Kent": ["Weedle"],
+    "Bug Catcher Greg": ["Metapod"],
+    "Bug Maniac Donald": ["Cascoon"],
+    "Bug Maniac Taylor": ["Silcoon"],
+    "Bug Catcher Doug": ["Kakuna"],
+    "Bug Maniac Brent": ["Wurmple"],
+    "Fisherman Chris": ["Magikarp", "Tentacruel", "Feebas", "Sharpedo"],
     "Bird Keeper Hugh": ["Dodrio", "Altaria", "Skarmory", "Swellow"],
     "Pokémon Ranger Catherine": ["Manectric", "Politoed", "Victreebel", "Ursaring"],
     "Pokémon Ranger Jackson": ["Primeape", "Crawdaunt", "Jolteon", "Tauros"],
@@ -252,12 +264,14 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Parasol Lady Missy": ["Granbull", "Mawile"],
     "Bug Maniac Darrin": ["Masquerain", "Pinsir", "Vibrava"],
     "Ninja Boy Takashi": ["Weezing", "Lunatone", "Misdreavus"],
+    // Weather Institute
     "Team Aqua Grunt #1 @ Weather Institute": ["Sharpedo", "Exeggutor", "Quagsire", "Dragonair", "Seviper", "Slowbro"],
     "Team Aqua Grunt #2 @ Weather Institute": ["Electrode", "Octillery", "Cradily", "Starmie", "Muk", "Walrein"],
     "Team Aqua Grunt #3 @ Weather Institute": ["Cloyster", "Whiscash", "Umbreon", "Omastar", "Wobbuffet", "Gorebyss"],
     "Team Aqua Grunt #4 @ Weather Institute": ["Armaldo", "Kabutops", "Poliwrath", "Ursaring", "Ludicolo", "Tentacruel"],
     "Team Aqua Grunt #5 @ Weather Institute": ["Qwilfish", "Dragonair", "Huntail", "Mantine", "Lanturn", "Dewgong"],
     "Aqua Admin Shelly #1": ["Milotic", "Hypno", "Shuckle", "Medicham", "Dragonite", "Lapras"],
+    // Route 119
     "Pokémon Trainer May #3 [Blaziken]": ["Raichu", "Clefable", "Nidoqueen", "Meganium", "Blastoise"],
     "Pokémon Trainer May #3 [Swampert]": ["Raichu", "Clefable", "Nidoqueen", "Swampert", "Venusaur"],
     "Pokémon Trainer May #3 [Sceptile]": ["Raichu", "Clefable", "Nidoqueen", "Feraligatr", "Sceptile"],
@@ -266,9 +280,12 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Pokémon Trainer Brendan #3 [Sceptile]": ["Raichu", "Clefable", "Nidoking", "Feraligatr", "Sceptile"],
     "Guitarist Beth": ["Wigglytuff", "Swalot", "Azumarill", "Electabuzz"],
     "Ninja Boy Hideo": ["Kecleon", "Octillery", "Cacturne", "Ditto"],
+    // Route 120
     "Bird Keeper Robert": ["Dodrio", "Altaria", "Swellow"],
     "Parasol Lady Clarissa": ["Parasect", "Politoed", "Jynx"],
     "Ninja Boy Riley": ["Ninjask", "Azumarill", "Kecleon", "Shedinja"],
+    "Interviewers Gabby & Ty #3": ["Exploud", "Xatu", "Lunatone", "Chimecho"],
+    // Fortree Gym
     "Pokémon Ranger Ashley": ["Stantler", "Pidgeot", "Sudowoodo", "Heracross", "Raichu", "Ludicolo"],
     "Bird Keeper Jared": ["Swellow", "Skarmory", "Pelipper", "Tropius", "Magmar", "Altaria"],
     "Ninja Boy Edwardo": ["Forretress", "Dusclops", "Venomoth", "Claydol", "Lanturn", "Scyther"],
@@ -276,6 +293,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Pokémon Breeder Humberto": ["Piloswine", "Xatu", "Breloom", "Golduck", "Porygon2", "Swellow"],
     "Dragon Tamer Sora": ["Charizard", "Sceptile", "Gyarados", "Kingdra", "Shedinja", "Salamence"],
     "Leader Winona": ["Aerodactyl", "Zapdos", "Crobat", "Articuno", "Flygon", "Moltres"],
+    // Route 120
     "Battle Girl Tara": ["Pikachu", "Dragonair", "Clamperl"],
     "Bird Keeper Colin": ["Skarmory", "Golduck", "Fearow"],
     "Cooltrainer Jerome": ["Heracross", "Cloyster", "Magneton", "Gengar", "Dugtrio"],
@@ -286,6 +304,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Pokémon Ranger Lorenzo": ["Ursaring", "Grumpig", "Feraligatr", "Flareon"],
     "Ruin Maniac Chip": ["Aggron", "Claydol", "Cradily", "Kabutops"],
     "Bug Maniac Jeffrey": ["Venomoth", "Flygon", "Masquerain", "Armaldo"],
+    // Route 121
     "Hex Maniac Tammy": ["Chimecho", "Absol", "Banette"],
     "Bug Maniac Ali": ["Ledian", "Gligar", "Pinsir"],
     "Beauty Jessica": ["Hitmontop", "Dewgong", "Persian"],
@@ -296,12 +315,15 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Cooltrainer Cristin": ["Steelix", "Slaking", "Crobat", "Exeggutor", "Blissey"],
     "Cooltrainer Marcel": ["Gyarados", "Flygon", "Electabuzz", "Breloom", "Houndoom"],
     "Gentleman Walter": ["Eevee", "Flareon", "Vaporeon", "Jolteon", "Espeon", "Umbreon"],
+    // Lilycove City
     "Pokémon Trainer May #4 [Blaziken]": ["Miltank", "Ampharos", "Nidoqueen", "Meganium", "Blastoise", "Blaziken"],
     "Pokémon Trainer May #4 [Swampert]": ["Miltank", "Ampharos", "Nidoqueen", "Typhlosion", "Venusaur", "Swampert"],
     "Pokémon Trainer May #4 [Sceptile]": ["Miltank", "Ampharos", "Nidoqueen", "Feraligatr", "Charizard", "Sceptile"],
     "Pokémon Trainer Brendan #4 [Blaziken]": ["Miltank", "Ampharos", "Nidoking", "Meganium", "Blastoise", "Blaziken"],
     "Pokémon Trainer Brendan #4 [Swampert]": ["Miltank", "Ampharos", "Nidoking", "Typhlosion", "Venusaur", "Swampert"],
     "Pokémon Trainer Brendan #4 [Sceptile]": ["Miltank", "Ampharos", "Nidoking", "Feraligatr", "Charizard", "Sceptile"],
+    // Mt. Pyre
+    "Young Couple Dez & Luke": ["Delcatty", "Machamp"],
     "Hex Maniac Leah": ["Misdreavus", "Absol", "Grumpig", "Golduck"],
     "Team Aqua Grunt #1 @ Mt. Pyre": ["Walrein", "Mantine", "Huntail", "Whiscash", "Qwilfish", "Kabutops"],
     "Pokémon Breeder Gabrielle": ["Swalot", "Jumpluff", "Blissey"],
@@ -316,6 +338,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Team Aqua Grunt #9 @ Mt. Pyre": ["Electrode", "Feraligatr", "Nidoking", "Walrein", "Hypno", "Relicanth"],
     "Team Aqua Grunt #10 @ Mt. Pyre": ["Jynx", "Milotic", "Cradily", "Banette", "Lanturn", "Blastoise"],
     "Aqua Admin Matt #1": ["Wailord", "Machamp", "Slaking", "Exeggutor", "Gyarados", "Dragonite"],
+    // Magma Hideout
     "Team Magma Grunt #1 @ Magma Hideout": ["Smeargle", "Vileplume", "Donphan", "Ninetales", "Absol"],
     "Team Magma Grunt #2 @ Magma Hideout": ["Gengar", "Camerupt", "Shiftry", "Manectric", "Solrock"],
     "Team Magma Grunt #3 @ Magma Hideout": ["Flygon", "Xatu", "Manectric", "Bellossom", "Arcanine"],
@@ -334,6 +357,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Team Magma Grunt #16 @ Magma Hideout": ["Solrock", "Aggron", "Weezing", "Wobbuffet", "Houndoom"],
     "Magma Admin Courtney #1": ["Charizard", "Regirock", "Salamence", "Kangaskhan", "Venusaur", "Castform-Sunny"],
     "Magma Leader Maxie #2": ["Tyranitar", "Flygon", "Gengar", "Arcanine", "Exeggutor", "Entei"],
+    // Aqua Hideout
     "Team Aqua Grunt #1 @ Aqua Hideout": ["Exeggutor", "Qwilfish", "Swampert", "Walrein", "Jolteon", "Snorlax"],
     "Team Aqua Grunt #2 @ Aqua Hideout": ["Cloyster", "Ludicolo", "Tentacruel", "Clefable", "Hypno", "Kingdra"],
     "Team Aqua Grunt #3 @ Aqua Hideout": ["Glalie", "Wailord", "Nidoking", "Slowking", "Quagsire", "Hypno"],
@@ -343,8 +367,19 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Team Aqua Grunt #7 @ Aqua Hideout": ["Gyarados", "Cradily", "Slaking", "Nidoking", "Snorlax", "Starmie"],
     "Team Aqua Grunt #8 @ Aqua Hideout": ["Lapras", "Kingdra", "Gorebyss", "Lanturn", "Victreebel", "Castform"],
     "Aqua Admin Matt #2": ["Glalie", "Kingdra", "Machamp", "Tauros", "Dragonite", "Wailord"],
+    // Route 124
     "Team Aqua Grunt #1 @ Route 124": ["Ludicolo", "Qwilfish", "Omastar"],
     "Team Aqua Grunt #2 @ Route 124": ["Dewgong", "Gorebyss", "Whiscash"],
+    "Sis And Bro Lila & Roy": ["Gyarados", "Pikachu"],
+    "Swimmerm Declan": ["Luvdisc"],
+    "Swimmerf Jenny": ["Azumarill"],
+    "Triathlete Isabella": ["Nidoking"],
+    // Route 125
+    "Sailor Ernest": ["Mightyena", "Hitmonchan"],
+    "Bird Keeper Presley": ["Tropius", "Pelipper"],
+    "Expert Auron": ["Flygon", "Machamp"],
+    "Sr and Jr Kim & Iris": ["Togetic", "Marowak"],
+    // Mossdeep Gym
     "Psychic Preston": ["Solrock", "Girafarig", "Claydol"],
     "Psychic Maura": ["Lunatone", "Xatu", "Chimecho"],
     "Psychic Samantha": ["Jynx", "Slowbro", "Exeggutor"],
@@ -358,6 +393,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Expert Clifford": ["Electrode", "Snorlax", "Metagross"],
     "Hex Maniac Kathleen": ["Gengar", "Dusclops", "Misdreavus"],
     "Gym Leaders Tate&Liza": ["Latias", "Latios", "Gardevoir", "Medicham", "Starmie", "Jirachi"],
+    // Mossdeep Space Center
     "Team Magma Grunt #1 @ Mossdeep Space Center": ["Clefable", "Exeggutor", "Castform"],
     "Team Magma Grunt #2 @ Mossdeep Space Center": ["Typhlosion", "Venusaur", "Houndoom"],
     "Team Magma Grunt #3 @ Mossdeep Space Center": ["Solrock", "Banette", "Tyranitar", "Skarmory", "Claydol", "Blaziken"],
@@ -367,6 +403,21 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Team Magma Grunt #6 @ Mossdeep Space Center": ["Breloom", "Magmar", "Kangaskhan"],
     "Magma Leader Maxie #3": ["Tauros", "Flygon", "Metagross"],
     "Magma Admin Tabitha #2": ["Gengar", "Salamence", "Charizard"],
+    // Route 126
+    "Triathlete Pablo": ["Rapidash", "Poliwrath"],
+    // Route 127
+    "Bird Keeper Aidan": ["Pidgeot", "Skarmory"],
+    "Cooltrainer Athena": ["Shuckle", "Dusclops"],
+    "Fisherman Roger": ["Wailmer", "Armaldo", "Gyarados"],
+    "Fisherman Jonah": ["Milotic", "Wailord", "Dragonair"],
+    "Fisherman Henry": ["Mantine", "Tentacruel"],
+    "Black Belt Koji": ["Hitmonlee"],
+    // Route 128
+    "Triathlete Isaiah": ["Magneton"],
+    "Triathlete Katelyn": ["Dugtrio"],
+    "Swimmerm Harrison": ["Quagsire"],
+    "Swimmerf Carlee": ["Seaking"],
+    // Seafloor Cavern
     "Team Aqua Grunt #1 @ Seafloor Cavern": ["Starmie", "Swampert", "Dewgong", "Victreebel", "Jolteon", "Dragonite"],
     "Team Aqua Grunt #2 @ Seafloor Cavern": ["Kabutops", "Ludicolo", "Electabuzz", "Golduck", "Snorlax", "Salamence"],
     "Team Aqua Grunt #3 @ Seafloor Cavern": ["Gorebyss", "Poliwrath", "Dragonite", "Milotic", "Lanturn", "Castform-Rainy"],
@@ -374,11 +425,25 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Team Aqua Grunt #5 @ Seafloor Cavern": ["Omastar", "Exeggutor", "Blissey", "Gengar", "Politoed", "Kingdra"],
     "Aqua Admin Shelly #2": ["Lapras", "Ludicolo", "Starmie", "Raichu", "Dragonite", "Vaporeon"],
     "Aqua Leader Archie": ["Raikou", "Suicune", "Metagross", "Dragonite", "Qwilfish", "Kingdra"],
+    // Route 129
     "Swimmerm Reed": ["Tangela", "Kingler", "Charizard", "Furret"],
     "Triathlete Chase": ["Dugtrio", "Magneton", "Dodrio"],
     "Triathlete Allison": ["Mantine", "Altaria", "Lunatone"],
     "Swimmerf Tisha": ["Whiscash", "Swalot", "Gyarados"],
     "Swimmerm Clarence": ["Sharpedo", "Grumpig", "Victreebel"],
+    // Route 130
+    "Swimmerm Rodney": ["Magmar"],
+    "Swimmerf Katie": ["Luvdisc", "Banette"],
+    "Swimmerm Santiago": ["Ampharos", "Bellossom"],
+    // Route 131
+    "Swimmerm Kevin": ["Sudowoodo"],
+    "Triathlete Talia": ["Misdreavus"],
+    "Swimmerm Richard": ["Qwilfish"],
+    "Swimmerf Kara": ["Medicham"],
+    "Swimmerm Herman": ["Huntail", "Whiscash"],
+    "Swimmerf Susie": ["Wigglytuff"],
+    "Sis and Bro Reli & Ian": ["Azumarill", "Furret"],
+    // Sootopolis Gym
     "Beauty Connie": ["Qwilfish", "Seaking", "Manectric", "Whiscash", "Masquerain", "Mawile"],
     "Pokémon Ranger Andrea": ["Venusaur", "Huntail", "Glalie", "Lanturn", "Pinsir", "Pelipper"],
     "Parasol Lady Daphne": ["Porygon2", "Politoed", "Victreebel", "Whiscash", "Walrein", "Ampharos"],
@@ -390,8 +455,27 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Cooltrainer Olivia": ["Gorebyss", "Snorlax", "Kabutops", "Salamence", "Raichu", "Wailord"],
     "Leader #1 Wallace": ["Kingdra", "Castform-Rainy", "Ludicolo", "Swampert", "Lapras", "Milotic"],
     "Leader #2 Juan": ["Kingdra", "Lapras", "Castform-Rainy", "Lanturn", "Ludicolo", "Vaporeon"],
+    // Meteor Falls
+    "Old Couple John & Jay": ["Aerodactyl", "Tauros"],
     "Dragon Tamer Nicolas": ["Salamence"],
+    // Route 132
+    "Pokémaniac Gilbert": ["Sceptile", "Typhlosion", "Blastoise"],
+    "Swimmerf Dana": ["Azumarill"],
     "Fisherman Ronald": ["Gyarados", "Dragonite", "Tentacruel", "Quagsire", "Kingler", "Lanturn"],
+    "Expert Paxton": ["Alakazam"],
+    "Cooltrainer Darcy": ["Snorlax"],
+    "Expert Makayla": ["Wobbuffet", "Lapras"],
+    "Cooltrainer Jonathan": ["Sceptile"],
+    "Black Belt Kiyo": ["Medicham"],
+    // Route 133
+    "Swimmerf Linda": ["Cloyster", "Grumpid"],
+    "Expert Mollie": ["Gardevoir"],
+    "Expert Conor": ["Scyther"],
+    "Bird Keeper Beck": ["Swellow"],
+    "Cooltrainer Warren": ["Ditto", "Piloswine"],
+    "Cooltrainer Debra": ["Clefable", "Togetic", "Jumpluff"],
+    "Gentleman Franklin": ["Ninjask", "Marowak", "Medicham"],
+    // Route 134
     "Swimmerf Laurel": ["Luvdisc"],
     "Swimmerm Jack": ["Slowbro"],
     "Black Belt Hitoshi": ["Heracross", "Blastoise"],
@@ -401,6 +485,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Cooltrainer Marley": ["Gengar"],
     "Sailor Kelvin": ["Hitmontop", "Dewgong"],
     "Bird Keeper Alex": ["Altaria", "Noctowl"],
+    // Route 123
     "Psychic Cameron": ["Grumpig", "Solrock", "Hypno"],
     "Aroma Lady Violet": ["Venomoth", "Meganium", "Vileplume"],
     "Ninja Boy Jonas": ["Shedinja", "Weezing", "Jumpluff"],
@@ -416,9 +501,11 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Old Couple Miu & Yuki": ["Slaking", "Gengar", "Starmie", "Flygon", "Ninjask", "Alakazam"],
     "Cooltrainer Jazmyn": ["Swellow", "Crobat", "Salamence"],
     "Expert Frederick": ["Ursaring", "Heracross", "Snorlax"],
+    // Route 128
     "Fisherman Wayne": ["Gorebyss", "Whiscash", "Crobat", "Castform", "Exeggutor"],
     "Cooltrainer Ruben": ["Skarmory", "Flygon", "Walrein", "Banette", "Absol", "Lunatone"],
     "Cooltrainer Alexa": ["Solrock", "Hariyama", "Manectric", "Slaking", "Altaria", "Milotic"],
+    // Victory Road
     "Cooltrainer Albert": ["Ninjask", "Marowak", "Ursaring", "Ampharos", "Grumpig", "Medicham"],
     "Cooltrainer Hope": ["Smeargle", "Espeon", "Umbreon", "Jolteon", "Vaporeon", "Solrock"],
     "Pokémon Trainer Wally #2": ["Meganium", "Raichu", "Hitmontop", "Vaporeon", "Blissey", "Gardevoir"],
@@ -436,6 +523,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Expert Felix": ["Starmie", "Dugtrio", "Sceptile", "Linoone", "Crobat", "Jolteon"],
     "Cooltrainer Katelynn": ["Walrein", "Hitmonchan", "Banette", "Linoone", "Raichu", "Arcanine"],
     "Winstrate Vito": ["Dusclops", "Slaking", "Salamence", "Metagross", "Milotic", "Alakazam"],
+    // Evergrande City
     "Elite Four Sidney": ["Sableye", "Jolteon", "Tauros", "Alakazam", "Machamp", "Houndoom"],
     "Elite Four Phoebe": ["Gengar", "Ludicolo", "Crobat", "Gardevoir", "Sableye", "Dusclops"],
     "Elite Four Glacia": ["Glalie", "Wailord", "Regice", "Dewgong", "Swampert", "Lapras"],

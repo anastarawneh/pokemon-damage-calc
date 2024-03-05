@@ -179,8 +179,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Leader Norman"
         ],
         "balanceBadge": [
-            "Swimmerf Isabelle",
-            "Swimmerm Pete",
+            // Route 115
             "Battle Girl Cyndy",
             "Ninja Boy Jaiden",
             "Triathlete Kyra",
@@ -188,13 +187,16 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Battle Girl Helene",
             "Psychic Alix",
             "Expert Timothy",
+            // Route 105
             "Ruin Maniac Foster",
             "Bird Keeper Josue",
             "Ruin Maniac Andres",
+            // Route 108
             "Team Aqua Grunt @ Route 108",
             "Cooltrainer Carolina",
             "Sailor Cory",
             "Fisherman Wade",
+            // Route 118
             "Interviewers Gabby & Ty #2",
             "Fisherman Barny",
             "Bird Keeper Perry",
@@ -202,6 +204,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Guitarist Dalton",
             "Bird Keeper Chester",
             "Aroma Lady Rose",
+            // Route 119
             "Bird Keeper Hugh",
             "Pokémon Ranger Catherine",
             "Pokémon Ranger Jackson",
@@ -210,12 +213,14 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Parasol Lady Missy",
             "Bug Maniac Darrin",
             "Ninja Boy Takashi",
+            // Weather Institute
             "Team Aqua Grunt #1 @ Weather Institute",
             "Team Aqua Grunt #2 @ Weather Institute",
             "Team Aqua Grunt #3 @ Weather Institute",
             "Team Aqua Grunt #4 @ Weather Institute",
             "Team Aqua Grunt #5 @ Weather Institute",
             "Aqua Admin Shelly #1",
+            // Route 119
             "Pokémon Trainer May #3 [Blaziken]",
             "Pokémon Trainer May #3 [Swampert]",
             "Pokémon Trainer May #3 [Sceptile]",
@@ -224,9 +229,11 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Pokémon Trainer Brendan #3 [Sceptile]",
             "Guitarist Beth",
             "Ninja Boy Hideo",
+            // Route 120
             "Bird Keeper Robert",
             "Parasol Lady Clarissa",
             "Ninja Boy Riley",
+            // Fortree Gym
             "Pokémon Ranger Ashley",
             "Bird Keeper Jared",
             "Ninja Boy Edwardo",
@@ -234,6 +241,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Pokémon Breeder Humberto",
             "Dragon Tamer Sora",
             "Leader Winona",
+            // Route 120
             "Battle Girl Tara",
             "Bird Keeper Colin",
             "Cooltrainer Jerome",
@@ -244,6 +252,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Pokémon Ranger Lorenzo",
             "Ruin Maniac Chip",
             "Bug Maniac Jeffrey",
+            // Route 121
             "Hex Maniac Tammy",
             "Bug Maniac Ali",
             "Beauty Jessica",
@@ -254,12 +263,14 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Cooltrainer Cristin",
             "Cooltrainer Marcel",
             "Gentleman Walter",
+            // Lilycove City
             "Pokémon Trainer May #4 [Blaziken]",
             "Pokémon Trainer May #4 [Swampert]",
             "Pokémon Trainer May #4 [Sceptile]",
             "Pokémon Trainer Brendan #4 [Blaziken]",
             "Pokémon Trainer Brendan #4 [Swampert]",
             "Pokémon Trainer Brendan #4 [Sceptile]",
+            // Mt. Pyre
             "Hex Maniac Leah",
             "Team Aqua Grunt #1 @ Mt. Pyre",
             "Pokémon Breeder Gabrielle",
@@ -274,6 +285,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Team Aqua Grunt #9 @ Mt. Pyre",
             "Team Aqua Grunt #10 @ Mt. Pyre",
             "Aqua Admin Matt #1",
+            // Magma Hideout
             "Team Magma Grunt #1 @ Magma Hideout",
             "Team Magma Grunt #2 @ Magma Hideout",
             "Team Magma Grunt #3 @ Magma Hideout",
@@ -292,6 +304,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Team Magma Grunt #16 @ Magma Hideout",
             "Magma Admin Courtney #1",
             "Magma Leader Maxie #2",
+            // Aqua Hideout
             "Team Aqua Grunt #1 @ Aqua Hideout",
             "Team Aqua Grunt #2 @ Aqua Hideout",
             "Team Aqua Grunt #3 @ Aqua Hideout",
@@ -301,8 +314,10 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Team Aqua Grunt #7 @ Aqua Hideout",
             "Team Aqua Grunt #8 @ Aqua Hideout",
             "Aqua Admin Matt #2",
+            // Route 124
             "Team Aqua Grunt #1 @ Route 124",
             "Team Aqua Grunt #2 @ Route 124",
+            // Mossdeep Gym
             "Psychic Preston",
             "Psychic Maura",
             "Psychic Samantha",
@@ -318,6 +333,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Gym Leaders Tate&Liza"
         ],
         "mindBadge": [
+            // Mossdeep Space Center
             "Team Magma Grunt #1 @ Mossdeep Space Center",
             "Team Magma Grunt #2 @ Mossdeep Space Center",
             "Team Magma Grunt #3 @ Mossdeep Space Center",
@@ -327,6 +343,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Team Magma Grunt #6 @ Mossdeep Space Center",
             "Magma Leader Maxie #3",
             "Magma Admin Tabitha #2",
+            // Seafloor Cavern
             "Team Aqua Grunt #1 @ Seafloor Cavern",
             "Team Aqua Grunt #2 @ Seafloor Cavern",
             "Team Aqua Grunt #3 @ Seafloor Cavern",
@@ -334,11 +351,13 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Team Aqua Grunt #5 @ Seafloor Cavern",
             "Aqua Admin Shelly #2",
             "Aqua Leader Archie",
+            // Route 129
             "Swimmerm Reed",
             "Triathlete Chase",
             "Triathlete Allison",
             "Swimmerf Tisha",
             "Swimmerm Clarence",
+            // Sootopolis Gym
             "Beauty Connie",
             "Pokémon Ranger Andrea",
             "Parasol Lady Daphne",
@@ -350,8 +369,11 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Cooltrainer Olivia",
             "Leader #1 Wallace",
             "Leader #2 Juan",
+            // Meteor Falls
             "Dragon Tamer Nicolas",
+            // Route 132
             "Fisherman Ronald",
+            // Route 134
             "Swimmerf Laurel",
             "Swimmerm Jack",
             "Black Belt Hitoshi",
@@ -361,6 +383,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Cooltrainer Marley",
             "Sailor Kelvin",
             "Bird Keeper Alex",
+            // Route 123
             "Psychic Cameron",
             "Aroma Lady Violet",
             "Ninja Boy Jonas",
@@ -376,9 +399,11 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Old Couple Miu & Yuki",
             "Cooltrainer Jazmyn",
             "Expert Frederick",
+            // Route 128
             "Fisherman Wayne",
             "Cooltrainer Ruben",
             "Cooltrainer Alexa",
+            // Victory Road
             "Cooltrainer Albert",
             "Cooltrainer Hope",
             "Pokémon Trainer Wally #2",
@@ -396,6 +421,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Expert Felix",
             "Cooltrainer Katelynn",
             "Winstrate Vito",
+            // Evergrande City
             "Elite Four Sidney",
             "Elite Four Phoebe",
             "Elite Four Glacia",
