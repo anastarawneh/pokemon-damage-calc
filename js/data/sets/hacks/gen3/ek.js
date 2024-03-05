@@ -342,19 +342,8 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Charmeleon":
     {
-        "Dragon Tamer Rhett": {"Pokémon Trainer Brendan #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves":
-                [
-                    "Quick Attack",
-                    "Fire Punch",
-                    "Dragon Claw",
-                    "Brick Break"
-                ], "nature": "Sassy"}, "Pokémon Trainer May #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves":
-                [
-                    "Quick Attack",
-                    "Fire Punch",
-                    "Dragon Claw",
-                    "Brick Break"
-                ], "nature": "Relaxed"}, "ability": "Blaze", "item": "Dragon Fang", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 17, "moves": ["Dragon Claw", "Fire Punch", "Crunch", "Quick Attack"], "nature": "Naughty"},
+        "Dragon Tamer Rhett": {"Pokémon Trainer Brendan #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves": ["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature": "Sassy"},
+        "Pokémon Trainer May #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves":["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature": "Relaxed"}, "ability": "Blaze", "item": "Dragon Fang", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 17, "moves": ["Dragon Claw", "Fire Punch", "Crunch", "Quick Attack"], "nature": "Naughty"},
         "Kindler Hayden": {"ability": "Blaze", "item": "Lum Berry", "level": 25, "moves": ["Dragon Rage", "Flamethrower", "Secret Power", "Protect"], "nature": "Careful"}
     },
     "Chikorita":
