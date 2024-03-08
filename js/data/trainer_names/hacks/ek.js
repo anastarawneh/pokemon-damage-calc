@@ -199,7 +199,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Bird Keeper Robert",
 	"Parasol Lady Clarissa",
 	"Ninja Boy Riley",
-	"Interviewers Gabby & Ty #3",
 	// Fortree Gym
 	"Pokémon Ranger Ashley",
 	"Bird Keeper Jared",

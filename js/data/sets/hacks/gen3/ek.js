@@ -67,7 +67,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Expert Timothy": {"ability": "Static", "item": "Quick Claw", "level": 46, "moves": ["Thunderbolt", "Fire Punch", "Hidden Power Water", "Thunder Wave"], "nature": "Naive"},
         "Leader Wattson": {"ability": "Static", "item": "Leftovers", "level": 29, "moves": ["Thunder Wave", "Fire Punch", "Thunderbolt", "Hidden Power Grass"], "nature": "Relaxed"},
         "Parasol Lady Daphne": {"ability": "Static", "item": "Lum Berry", "level": 71, "moves": ["Thunder", "Signal Beam", "Hidden Power Water", "Brick Break"], "nature": "Modest"},
-        "Pokémon Breeder David": {"ability": "Static", "item": "Silverpowder", "level": 51, "moves": ["Thunder Wave", "Fire Punch", "Thunderbolt", "Signal Beam"]},
+        "Pokémon Breeder David": {"ability": "Static", "item": "Silver Powder", "level": 51, "moves": ["Thunder Wave", "Fire Punch", "Thunderbolt", "Signal Beam"]},
         "Pokémon Trainer Brendan #4 [Blaziken]": {"ability": "Static", "item": "Lum Berry", "level": 59, "moves": ["Thunder Wave", "Thunderbolt", "Hidden Power Ice", "Fire Punch"], "nature": "Modest"},
         "Pokémon Trainer Brendan #4 [Sceptile]": {"ability": "Static", "item": "Lum Berry", "level": 59, "moves": ["Thunder Wave", "Thunderbolt", "Hidden Power Grass", "Fire Punch"], "nature": "Calm"},
         "Pokémon Trainer Brendan #4 [Swampert]": {"ability": "Static", "item": "Lum Berry", "level": 59, "moves": ["Thunderbolt", "Thunder Wave", "Hidden Power Water", "Fire Punch"], "nature": "Modest"},
@@ -585,7 +585,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Drowzee":
     {
-        "Picnicker Sophie": {"ability": "Insomnia", "item": "Silverpowder", "level": 34, "moves": ["Hypnosis", "Psychic", "Signal Beam", "Fire Punch"], "nature": "Naive"},
+        "Picnicker Sophie": {"ability": "Insomnia", "item": "Silver Powder", "level": 34, "moves": ["Hypnosis", "Psychic", "Signal Beam", "Fire Punch"], "nature": "Naive"},
         "Team Aqua Grunt @ Route 106": {"ability": "Insomnia", "item": "Scope Lens", "level": 14, "moves": ["Hypnosis", "Dream Eater", "Brick Break", "Confusion"]}
     },
     "Dugtrio":
@@ -656,7 +656,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Collector Shawn": {"ability": "Static", "item": "Liechi Berry", "level": 27, "moves": ["Thunder Wave", "Sonicboom", "Wild Charge", "Self-Destruct"]},
         "Expert Clifford": {"ability": "Static", "item": "Choice Band", "level": 67, "moves": ["Explosion"]},
         "Expert Julie": {"ability": "Static", "item": "Lum Berry", "level": 86, "moves": ["Reflect", "Explosion", "Thunderbolt", "Hidden Power Ice"], "nature": "Impish"},
-        "Guitarist Dalton": {"ability": "Static", "item": "Silverpowder", "level": 44, "moves": ["Thunder Wave", "Thunderbolt", "Signal Beam", "Explosion"], "nature": "Rash"},
+        "Guitarist Dalton": {"ability": "Static", "item": "Silver Powder", "level": 44, "moves": ["Thunder Wave", "Thunderbolt", "Signal Beam", "Explosion"], "nature": "Rash"},
         "Guitarist Fernando": {"ability": "Static", "item": "Liechi Berry", "level": 74, "moves": ["Thunder", "Reflect", "Explosion", "Endure"], "nature": "Quiet"},
         "Ninja Boy Keigo": {"ability": "Static", "item": "Leftovers", "level": 50, "moves": ["Reflect", "Thunder", "Signal Beam", "Toxic"], "nature": "Naive"},
         "Team Aqua Grunt #2 @ Weather Institute": {"ability": "Static", "item": "Liechi Berry", "level": 45, "moves": ["Thunder Wave", "Thunderbolt", "Endure", "Explosion"]},
@@ -950,13 +950,13 @@ var CUSTOMHACKSETDEX_EK = {
         "Cooltrainer Albert": {"ability": "Thick Fat", "item": "Leftovers", "level": 81, "moves": ["Calm Mind", "Psychic", "Fire Punch", "Thunder Punch"], "nature": "Quiet"},
         "Expert Quincy": {"ability": "Thick Fat", "item": "Leftovers", "level": 87, "moves": ["Toxic", "Protect", "Psychic", "Fire Punch"], "nature": "Impish"},
         "Hex Maniac Leah": {"ability": "Thick Fat", "item": "Leftovers", "level": 52, "moves": ["Psychic", "Signal Beam", "Confuse Ray", "Attract"], "nature": "Impish"},
-        "Pokéfan Parker": {"ability": "Thick Fat", "item": "Silverpowder", "level": 42, "moves": ["Confuse Ray", "Psychic", "Fire Punch", "Signal Beam"], "nature": "Impish"},
+        "Pokéfan Parker": {"ability": "Thick Fat", "item": "Silver Powder", "level": 42, "moves": ["Confuse Ray", "Psychic", "Fire Punch", "Signal Beam"], "nature": "Impish"},
         "Psychic Alix": {"ability": "Thick Fat", "level": 43, "moves": ["Magic Coat", "Psychic", "Fire Punch", "Signal Beam"]},
         "Psychic Blake": {"ability": "Thick Fat", "item": "Leftovers", "level": 66, "moves": ["Calm Mind", "Psychic", "Fire Punch", "Thunder Punch"], "nature": "Timid"},
         "Psychic Cameron": {"ability": "Thick Fat", "item": "Quick Claw", "level": 74, "moves": ["Reflect", "Psychic", "Fire Punch", "Thunder Punch"], "nature": "Calm"},
         "Psychic Marlene": {"ability": "Thick Fat", "level": 35, "moves": ["Extrasensory", "Signal Beam", "Fire Punch"], "nature": "Careful"},
         "Pokémon Ranger Lorenzo": {"ability": "Thick Fat", "item": "Spell Tag", "level": 50, "moves": ["Psychic", "Shadow Ball", "Thunder Punch", "Confuse Ray"], "nature": "Careful"},
-        "Swimmerm Clarence": {"ability": "Thick Fat", "item": "Silverpowder", "level": 66, "moves": ["Psychic", "Thunder Wave", "Fire Punch", "Signal Beam"], "nature": "Lonely"}
+        "Swimmerm Clarence": {"ability": "Thick Fat", "item": "Silver Powder", "level": 66, "moves": ["Psychic", "Thunder Wave", "Fire Punch", "Signal Beam"], "nature": "Lonely"}
     },
     "Gulpin":
     {
@@ -1134,7 +1134,7 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Expert Samuel": {"ability": "Oblivious", "item": "Lum Berry", "level": 84, "moves": ["Lovely Kiss", "Ice Beam", "Psychic", "Hidden Power Fire"]},
         "Guitarist Dalton": {"ability": "Oblivious", "item": "Lum Berry", "level": 42, "moves": ["Perish Song", "Mean Look", "Protect", "Ice Beam"]},
-        "Parasol Lady Clarissa": {"ability": "Oblivious", "item": "Silverpowder", "level": 50, "moves": ["Lovely Kiss", "Psychic", "Ice Beam", "Signal Beam"]},
+        "Parasol Lady Clarissa": {"ability": "Oblivious", "item": "Silver Powder", "level": 50, "moves": ["Lovely Kiss", "Psychic", "Ice Beam", "Signal Beam"]},
         "Psychic Samantha": {"ability": "Oblivious", "item": "Lum Berry", "level": 66, "moves": ["Lovely Kiss", "Ice Beam", "Psychic", "Fake Out"]},
         "Team Aqua Grunt #10 @ Mt. Pyre": {"ability": "Oblivious", "item": "Bright Powder", "level": 53, "moves": ["Lovely Kiss", "Psychic", "Blizzard", "Fake Tears"], "nature": "Careful"},
         "Team Aqua Grunt #4 @ Mt. Pyre": {"ability": "Oblivious", "item": "Scope Lens", "level": 50, "moves": ["Blizzard", "Psychic", "Hidden Power Fire", "Fake Tears"], "nature": "Lonely"},
@@ -1267,7 +1267,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Ledian":
     {
-        "Beauty Shirley": {"ability": "Early Bird", "item": "Silverpowder", "level": 37, "moves": ["Signal Beam", "Ice Punch", "Thunder Punch", "Giga Drain"]},
+        "Beauty Shirley": {"ability": "Early Bird", "item": "Silver Powder", "level": 37, "moves": ["Signal Beam", "Ice Punch", "Thunder Punch", "Giga Drain"]},
         "Bug Maniac Ali": {"ability": "Early Bird", "item": "Leftovers", "level": 53, "moves": ["Light Screen", "Reflect", "Attract", "Protect"], "nature": "Relaxed"}
     },
     "Ledyba":
@@ -1614,7 +1614,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Expert Dianne": {"ability": "Levitate", "item": "Lum Berry", "level": 84, "moves": ["Thunder Wave", "Psychic", "Thunderbolt", "Hidden Power Fire"], "nature": "Rash"},
         "Hex Maniac Kathleen": {"ability": "Levitate", "item": "Lum Berry", "level": 69, "moves": ["Imprison", "Protect", "Shadow Ball", "Psywave"], "nature": "Impish"},
         "Hex Maniac Kindra": {"ability": "Levitate", "item": "Quick Claw", "level": 74, "moves": ["Thunder", "Hypnosis", "Psychic", "Shadow Ball"], "nature": "Naughty"},
-        "Hex Maniac Leah": {"ability": "Levitate", "item": "Silverpowder", "level": 52, "moves": ["Confuse Ray", "Shadow Ball", "Signal Beam", "Thunderbolt"], "nature": "Hasty"},
+        "Hex Maniac Leah": {"ability": "Levitate", "item": "Silver Powder", "level": 52, "moves": ["Confuse Ray", "Shadow Ball", "Signal Beam", "Thunderbolt"], "nature": "Hasty"},
         "Hex Maniac Sylvia": {"ability": "Levitate", "item": "Quick Claw", "level": 69, "moves": ["Perish Song", "Sleep Talk", "Rest"]},
         "Ninja Boy Takashi": {"ability": "Levitate", "item": "Spell Tag", "level": 46, "moves": ["Thunder", "Shadow Ball", "Psychic", "Shadow Sneak"], "nature": "Gentle"},
         "Pokéfan Vanessa": {"ability": "Levitate", "item": "Green Scarf", "level": 52, "moves": ["Calm Mind", "Psychic", "Destiny Bond", "Mean Look"], "nature": "Naive"},
@@ -1797,7 +1797,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Paras":
     {
-        "Bug Catcher James": {"ability": "Effect Spore", "item": "Silverpowder", "level": 9, "moves": ["Mega Drain", "Spore", "Aerial Ace", "Secret Power"], "nature": "Naive"}
+        "Bug Catcher James": {"ability": "Effect Spore", "item": "Silver Powder", "level": 9, "moves": ["Mega Drain", "Spore", "Aerial Ace", "Secret Power"], "nature": "Naive"}
     },
     "Parasect":
     {
@@ -1876,7 +1876,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Plusle":
     {
-        "Bug Maniac Angelo": {"ability": "Plus", "item": "Silverpowder", "level": 27, "moves": ["Thunder", "Thunderbolt", "Seismic Toss", "Signal Beam"], "nature": "Naughty"},
+        "Bug Maniac Angelo": {"ability": "Plus", "item": "Silver Powder", "level": 27, "moves": ["Thunder", "Thunderbolt", "Seismic Toss", "Signal Beam"], "nature": "Naughty"},
         "Picnicker Diana": {"ability": "Plus", "item": "Magnet", "level": 36, "moves": ["Thunderbolt", "Thunder Wave", "Seismic Toss", "Signal Beam"], "nature": "Hasty"},
         "Pokémon Trainer Brendan #1.5 [Combusken]": {"ability": "Plus", "item": "Magnet", "level": 14, "moves": ["Thunder Wave", "Thunder Shock", "Seismic Toss", "Quick Attack"], "nature": "Jolly"},
         "Pokémon Trainer Brendan #1.5 [Grovyle]": {"ability": "Plus", "item": "Magnet", "level": 14, "moves": ["Thunder Wave", "Thunder Shock", "Seismic Toss", "Quick Attack"], "nature": "Jolly"},
@@ -2011,7 +2011,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Pokémon Trainer May #3 [Swampert]": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 50, "moves": ["Thunder", "Surf", "Signal Beam", "Rain Dance"], "nature": "Impish"},
         "Pokémon Trainer Wally #2": {"ability": "Lightningrod", "item": "Lum Berry", "level": 85, "moves": ["Volt Tackle", "Extreme Speed", "Surf", "Hidden Power Ice"], "nature": "Naughty"},
         "Pokémon Ranger Ashley": {"ability": "Lightningrod", "item": "Lum Berry", "level": 50, "moves": ["Thunderbolt", "Surf", "Hidden Power Flying", "Brick Break"], "nature": "Mild"},
-        "Swimmerm Pete": {"ability": "Lightningrod", "item": "Silverpowder", "level": 43, "moves": ["Seismic Toss", "Signal Beam", "Quick Attack", "Thunderbolt"], "nature": "Relaxed"},
+        "Swimmerm Pete": {"ability": "Lightningrod", "item": "Silver Powder", "level": 43, "moves": ["Seismic Toss", "Signal Beam", "Quick Attack", "Thunderbolt"], "nature": "Relaxed"},
         "Team Aqua Grunt #5 @ Aqua Hideout": {"ability": "Lightningrod", "item": "Bright Powder", "level": 64, "moves": ["Rain Dance", "Thunder", "Surf", "Signal Beam"], "nature": "Brave"}
     },
     "Raikou":
