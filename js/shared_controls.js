@@ -319,7 +319,7 @@ $("input[name='weather']").change(function () {
 var lastManualWeather = "";
 var lastAutoWeather = ["", ""];
 function autosetWeather(ability, i) {
-	if (game > 0) return;
+	if (game != "None") return;
 	var currentWeather = $("input:radio[name='weather']:checked").val();
 	if (lastAutoWeather.indexOf(currentWeather) === -1) {
 		lastManualWeather = currentWeather;
@@ -552,7 +552,7 @@ $(".set-selector").change(function () {
 	window.NO_CALC = true;
 	var fullSetName = $(this).val();
 
-	if ($(this).hasClass('opposing') && game > 0) {
+	if ($(this).hasClass('opposing') && game != "None") {
 		var oldTrainer = window.CURRENT_TRAINER;
 		var nextPokemon = getTrainerPokemon(fullSetName);
 		var trainerHTML = "";
@@ -946,7 +946,7 @@ $(".forme").change(function () {
 });
 
 function correctHiddenPower(pokemon) {
-	if (isHack && game == 1) return pokemon;
+	if (["Emerald Kaizo"].includes(game)) return pokemon;
 	// After Gen 7 bottlecaps means you can have a HP without perfect IVs
 	// Level 100 is elided from sets so if its undefined its level 100
 	if (gen >= 7 && (!pokemon.level || pokemon.level >= 100)) return pokemon;
@@ -964,7 +964,7 @@ function correctHiddenPower(pokemon) {
 	for (var i = 0; i < pokemon.moves.length; i++) {
 		var m = pokemon.moves[i].match(HIDDEN_POWER_REGEX);
 		if (!m) continue;
-		if (game !== 0) {
+		if (game != "None") {
 			pokemon.moves[i] = "Hidden Power " + expected.type;
 			continue;
 		}
@@ -1140,6 +1140,7 @@ function getMoveDetails(moveInfo, species, ability, item, useMax) {
 
 function createField() {
 	var gameType = $("input:radio[name='format']:checked").val();
+	var game = $("input[name='game']:checked + label").html();
 	var isBeadsOfRuin = $("#beads").prop("checked");
 	var isTabletsOfRuin = $("#tablets").prop("checked");
 	var isSwordOfRuin = $("#sword").prop("checked");
@@ -1199,7 +1200,8 @@ function createField() {
 		isMagicRoom: isMagicRoom, isWonderRoom: isWonderRoom, isGravity: isGravity,
 		isBeadsOfRuin: isBeadsOfRuin, isTabletsOfRuin: isTabletsOfRuin,
 		isSwordOfRuin: isSwordOfRuin, isVesselOfRuin: isVesselOfRuin,
-		attackerSide: createSide(0), defenderSide: createSide(1)
+		attackerSide: createSide(0), defenderSide: createSide(1),
+		game: game
 	});
 }
 
@@ -1632,61 +1634,66 @@ function loadCustomList(id) {
 
 function getTrainerNames() {
 	var allPokemon = [];
-	var params = new URLSearchParams(window.location.search);
-	var game = params.get("game");
-	var isHack = window.location.pathname.includes("hacks.html");
-	if (!isHack) switch (game) {
-		case "1":
+	switch (game) {
+		case "R/B":
 			allPokemon = CUSTOMSETDEX_RB;
 			break;
-		case "2":
+		case "Yellow":
 			allPokemon = CUSTOMSETDEX_Y;
 			break;
-		case "3":
+		case "G/S":
 			allPokemon = CUSTOMSETDEX_GS;
 			break;
-		case "4":
+		case "Crystal":
 			allPokemon = CUSTOMSETDEX_C;
 			break;
-		case "5":
+		case "R/S":
 			allPokemon = CUSTOMSETDEX_RS;
 			break;
-		case "6":
+		case "Emerald":
 			allPokemon = CUSTOMSETDEX_E;
 			break;
-		case "7":
+		case "FR/LG":
 			allPokemon = CUSTOMSETDEX_FRLG;
 			break;
-		case "8":
+		case "D/P":
 			allPokemon = CUSTOMSETDEX_DP;
 			break;
-		case "9":
+		case "Platinum":
 			allPokemon = CUSTOMSETDEX_Pl;
 			break;
-		case "10":
+		case "HG/SS":
 			allPokemon = CUSTOMSETDEX_HGSS;
 			break;
-		case "11":
+		case "B/W":
 			allPokemon = CUSTOMSETDEX_BW;
 			break;
-		case "14":
+		case "B2/W2":
 			allPokemon = CUSTOMSETDEX_B2W2;
 			break;
-		case "15":
+		case "X/Y":
 			allPokemon = CUSTOMSETDEX_XY;
 			break;
-		case "16":
+		case "OR/AS":
 			allPokemon = CUSTOMSETDEX_ORAS;
 			break;
-		case "17":
+		case "S/M":
 			allPokemon = CUSTOMSETDEX_SM;
 			break;
-		default:
-			return [];
-	} else switch (game) {
-		case "1":
+		case "US/UM":
+			allPokemon = CUSTOMSETDEX_USUM;
+			break;
+		case "Sw/Sh":
+			allPokemon = CUSTOMSETDEX_SWSH;
+			break;
+		case "S/V":
+			allPokemon = CUSTOMSETDEX_SV;
+			break;
+		
+		case "Emerald Kaizo":
 			allPokemon = CUSTOMHACKSETDEX_EK;
 			break;
+		
 		default:
 			return [];
 	}
@@ -2105,7 +2112,8 @@ function updateGameOptions() {
 	if (!READY) return;
 	var params = new URLSearchParams(window.location.search);
 	$("#game0").prop("checked", true);
-	game = 0;
+	game = "None";
+	gameId = 0;
 	params.delete("game");
 	params = '' + params;
 	if (window.history && window.history.replaceState) {

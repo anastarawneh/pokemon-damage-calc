@@ -1,16 +1,17 @@
-var game, generation, isHack;
+var game, gameId, generation, isHack;
 $(".game").change(function() {
-    game = ~~$(this).val();
-	isHack = window.location.pathname.includes("hacks.html");
+	game = $("input[name='game']:checked + label").html();
+    gameId = ~~$(this).val();
+	isHack = ["Emerald Kaizo"].includes(game);
     var params = new URLSearchParams(window.location.search);
-	if (game === 0) {
+	if (game == "None") {
 		params.delete('game');
 		params = '' + params;
 		if (window.history && window.history.replaceState) {
 			window.history.replaceState({}, document.title, window.location.pathname + (params.length ? '?' + params : ''));
 		}
 	} else {
-		params.set('game', game);
+		params.set('game', gameId);
 		if (window.history && window.history.pushState) {
 			params.sort();
 			var path = window.location.pathname + '?' + params;
@@ -19,22 +20,22 @@ $(".game").change(function() {
 	}
 
 	updateGenOptions();
-	if (game != 0) {
+	if (game != "None") {
 		$(".hide-from-games").hide();
 	} else $(".hide-from-games").show();
     generation = gen;
-    setdex = !isHack ? CUSTOMSETDEX[game] : CUSTOMHACKSETDEX[game];
-	partyOrder = !isHack ? CUSTOMPARTYORDER[game] : CUSTOMHACKPARTYORDER[game];
-	trainerNames = !isHack ? CUSTOMTRAINERNAMES[game] : CUSTOMHACKTRAINERNAMES[game];
-	triggers = !isHack ? CUSTOMTRIGGERS[game] : CUSTOMHACKTRIGGERS[game];
+    setdex = !isHack ? CUSTOMSETDEX[gameId] : CUSTOMHACKSETDEX[gameId];
+	partyOrder = !isHack ? CUSTOMPARTYORDER[gameId] : CUSTOMHACKPARTYORDER[gameId];
+	trainerNames = !isHack ? CUSTOMTRAINERNAMES[gameId] : CUSTOMHACKTRAINERNAMES[gameId];
+	triggers = !isHack ? CUSTOMTRIGGERS[gameId] : CUSTOMHACKTRIGGERS[gameId];
     if (typeof setdex === 'undefined') setdex = SETDEX[generation];
     clearField();
     $("#importedSets").prop("checked", false);
     loadDefaultLists();
     $(".gen-specific.g" + gen).show();
 	$(".gen-specific").not(".g" + gen).hide();
-	$(".game-specific.gm" + game).show();
-	$(".game-specific").not(".gm" + game).hide();
+	$(".game-specific.gm" + gameId).show();
+	$(".game-specific").not(".gm" + gameId).hide();
 	var typeOptions = getSelectOptions(Object.keys(typeChart));
 	$("select.type1, select.move-type").find("option").remove().end().append(typeOptions);
 	$("select.type2").find("option").remove().end().append("<option value=\"\">(none)</option>" + typeOptions);
@@ -65,7 +66,10 @@ var CUSTOMSETDEX = [
 	typeof CUSTOMSETDEX_B2W2 === 'undefined' ? {} : CUSTOMSETDEX_B2W2,
 	typeof CUSTOMSETDEX_XY === 'undefined' ? {} : CUSTOMSETDEX_XY,
 	typeof CUSTOMSETDEX_ORAS === 'undefined' ? {} : CUSTOMSETDEX_ORAS,
-	typeof CUSTOMSETDEX_SM === 'undefined' ? {} : CUSTOMSETDEX_SM
+	typeof CUSTOMSETDEX_SM === 'undefined' ? {} : CUSTOMSETDEX_SM,
+	typeof CUSTOMSETDEX_USUM === 'undefined' ? {} : CUSTOMSETDEX_USUM,
+	typeof CUSTOMSETDEX_BDSP === 'undefined' ? {} : CUSTOMSETDEX_BDSP,
+	typeof CUSTOMSETDEX_SV === 'undefined' ? {} : CUSTOMSETDEX_SV
 ];
 
 var GAMEGEN = {
@@ -172,7 +176,7 @@ var CUSTOMHACKTRIGGERS = [
 ];
 
 function updateGenOptions() {
-    var gamegen = !isHack ? GAMEGEN[game] : HACKGEN[game];
+    var gamegen = !isHack ? GAMEGEN[gameId] : HACKGEN[gameId];
     if (!isHack && gen == gamegen) return;
     gen = gamegen || gen;
     GENERATION = calc.Generations.get(gen);
@@ -192,10 +196,10 @@ function updateGenOptions() {
 			window.history.pushState({}, document.title, path);
 		}
 	}
-	pokedex = (isHack && [1].includes(game)) ? calc.HACK_SPECIES[game] : calc.SPECIES[gen];
+	pokedex = isHack ? calc.HACK_SPECIES[gameId] : calc.SPECIES[gen];
 	randdex = RANDDEX[gen];
 	typeChart = calc.TYPE_CHART[gen];
-	moves = (isHack && [1].includes(game)) ? calc.HACK_MOVES[game] : calc.MOVES[gen];
-	items = (isHack && [1].includes(game)) ? calc.HACK_ITEMS[game] : calc.ITEMS[gen];
+	moves = isHack ? calc.HACK_MOVES[gameId] : calc.MOVES[gen];
+	items = isHack ? calc.HACK_ITEMS[gameId] : calc.ITEMS[gen];
 	abilities = calc.ABILITIES[gen];
 }

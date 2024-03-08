@@ -50,6 +50,7 @@ export declare namespace State {
         isVesselOfRuin?: boolean;
         attackerSide: Side;
         defenderSide: Side;
+        game: I.Game;
     }
     interface Side {
         spikes?: number;

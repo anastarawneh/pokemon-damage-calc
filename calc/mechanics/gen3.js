@@ -119,7 +119,7 @@ function calculateADV(gen, attacker, defender, move, field) {
     if (move.hits > 1) {
         desc.hits = move.hits;
     }
-    var bp = calculateBasePowerADV(attacker, defender, move, desc);
+    var bp = calculateBasePowerADV(attacker, defender, move, desc, field.game);
     if (bp === 0) {
         return result;
     }
@@ -150,7 +150,7 @@ function calculateADV(gen, attacker, defender, move, field) {
         var _loop_1 = function (times) {
             usedItems = (0, util_1.checkMultihitBoost)(gen, attacker, defender, move, field, desc, usedItems[0], usedItems[1]);
             var newAt = calculateAttackADV(gen, attacker, defender, move, desc, field, isCritical);
-            var newBp = calculateBasePowerADV(attacker, defender, move, desc);
+            var newBp = calculateBasePowerADV(attacker, defender, move, desc, field.game);
             newBp = calculateBPModsADV(attacker, move, desc, newBp);
             var newBaseDmg = Math.floor(Math.floor((Math.floor((2 * lv) / 5 + 2) * newAt * newBp) / df) / 50);
             newBaseDmg = calculateFinalModsADV(newBaseDmg, attacker, move, field, desc, isCritical);
@@ -171,7 +171,8 @@ function calculateADV(gen, attacker, defender, move, field) {
     return result;
 }
 exports.calculateADV = calculateADV;
-function calculateBasePowerADV(attacker, defender, move, desc, hit) {
+function calculateBasePowerADV(attacker, defender, move, desc, game, hit) {
+    if (game === void 0) { game = 'None'; }
     if (hit === void 0) { hit = 1; }
     var bp = move.bp;
     switch (move.name) {
@@ -183,8 +184,10 @@ function calculateBasePowerADV(attacker, defender, move, desc, hit) {
             break;
         case 'Eruption':
         case 'Water Spout':
-            bp = Math.max(1, Math.floor((150 * attacker.curHP()) / attacker.maxHP()));
-            desc.moveBP = bp;
+            if (game != 'Emerald Kaizo') {
+                bp = Math.max(1, Math.floor((150 * attacker.curHP()) / attacker.maxHP()));
+                desc.moveBP = bp;
+            }
             break;
         case 'Low Kick':
             var w = defender.weightkg;

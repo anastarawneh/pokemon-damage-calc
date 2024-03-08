@@ -91,10 +91,8 @@ function performCalculations() {
 	} else {
 		stickyMoves.setSelectedMove(bestResult.prop("id"));
 	}
-	var isHack = window.location.pathname.includes("hacks.html");
-	var params = new URLSearchParams(window.location.search);
-	var game = parseInt(params.get("game") || "0");
-	if (isHack && [1].includes(game)) {
+	var game = $("input[name='game']:checked + label").html();
+	if (["Emerald Kaizo"].includes(game)) {
 		predictMidTurnSwitch(p1, p2);
 		predictSwitchOrder();
 	}

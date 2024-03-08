@@ -273,7 +273,8 @@ function updateDex(customsets, callback = null) {
 			if (!SETDEX_RBY[pokemon]) SETDEX_RBY[pokemon] = {};
 			SETDEX_RBY[pokemon][moveset] = customsets[pokemon][moveset];
 
-			if (!isHack) {
+			var gamemode = $("input[name='gamemode']:checked + label").html();
+			if (gamemode == "Vanilla") {
 				if (!CUSTOMSETDEX_E[pokemon]) CUSTOMSETDEX_E[pokemon] = {};
 				CUSTOMSETDEX_E[pokemon][moveset] = customsets[pokemon][moveset];
 				if (!CUSTOMSETDEX_Pl[pokemon]) CUSTOMSETDEX_Pl[pokemon] = {};

@@ -35,6 +35,7 @@ var Field = (function () {
         this.isVesselOfRuin = field.isVesselOfRuin || false;
         this.attackerSide = new Side(field.attackerSide || {});
         this.defenderSide = new Side(field.defenderSide || {});
+        this.game = field.game || 'None';
     }
     Field.prototype.hasWeather = function () {
         var weathers = [];
@@ -71,7 +72,8 @@ var Field = (function () {
             isBeadsOfRuin: this.isBeadsOfRuin,
             isSwordOfRuin: this.isSwordOfRuin,
             isTabletsOfRuin: this.isTabletsOfRuin,
-            isVesselOfRuin: this.isVesselOfRuin
+            isVesselOfRuin: this.isVesselOfRuin,
+            game: this.game
         });
     };
     return Field;

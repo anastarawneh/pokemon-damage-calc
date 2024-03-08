@@ -1,5 +1,5 @@
 import { State } from './state';
-import { GameType, Weather, Terrain } from './data/interface';
+import { GameType, Weather, Terrain, Game } from './data/interface';
 export declare class Field implements State.Field {
     gameType: GameType;
     weather?: Weather;
@@ -16,6 +16,7 @@ export declare class Field implements State.Field {
     isVesselOfRuin?: boolean;
     attackerSide: Side;
     defenderSide: Side;
+    game: Game;
     constructor(field?: Partial<State.Field>);
     hasWeather(...weathers: Weather[]): boolean;
     hasTerrain(...terrains: Terrain[]): boolean;
