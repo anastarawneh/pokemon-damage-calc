@@ -462,6 +462,17 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Magma Leader Maxie #2"
         ],
         "rain": [
+            // Route 120
+            "Battle Girl Tara",
+            "Bird Keeper Colin",
+            "Cooltrainer Jerome",
+            "Ninja Boy Keigo",
+            "Parasol Lady Angelica",
+            "Cooltrainer Jennifer",
+            "Pokémon Ranger Jenna",
+            "Pokémon Ranger Lorenzo",
+            "Ruin Maniac Chip",
+            "Bug Maniac Jeffrey",
             // Seafloor Cavern
             "Team Aqua Grunt #1 @ Seafloor Cavern",
             "Team Aqua Grunt #2 @ Seafloor Cavern",
