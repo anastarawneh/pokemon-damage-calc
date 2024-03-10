@@ -342,8 +342,9 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Charmeleon":
     {
-        "Dragon Tamer Rhett": {"Pokémon Trainer Brendan #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves": ["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature": "Sassy"},
-        "Pokémon Trainer May #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves":["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature": "Relaxed"}, "ability": "Blaze", "item": "Dragon Fang", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 17, "moves": ["Dragon Claw", "Fire Punch", "Crunch", "Quick Attack"], "nature": "Naughty"},
+        "Dragon Tamer Rhett": {"ability": "Blaze", "item": "Dragon Fang", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 17, "moves": ["Dragon Claw", "Fire Punch", "Crunch", "Quick Attack"], "nature": "Naughty"},
+        "Pokémon Trainer Brendan #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves": ["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature": "Sassy"},
+        "Pokémon Trainer May #2 [Grovyle]": {"ability": "Blaze", "level": 25, "moves":["Quick Attack", "Fire Punch", "Dragon Claw", "Brick Break"], "nature": "Relaxed"},
         "Kindler Hayden": {"ability": "Blaze", "item": "Lum Berry", "level": 25, "moves": ["Dragon Rage", "Flamethrower", "Secret Power", "Protect"], "nature": "Careful"}
     },
     "Chikorita":
@@ -521,7 +522,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Cooltrainer Warren": {"ability": "Shadow Tag", "item": "Lum Berry", "level": 70, "moves": ["Transform"], "nature": "Rash"},
         "Expert Shannon": {"ability": "Shadow Tag", "item": "Lum Berry", "level": 87, "moves": ["Transform"], "nature": "Bold"},
         "Ninja Boy Hideo": {"ability": "Shadow Tag", "item": "Leppa Berry", "level": 50, "moves": ["Transform"], "nature": "Lonely"},
-        "Pokémon Breeder Isaac": {"ability": "Shadow Tag", "item": "Leppa Berry", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 20, "moves": ["Transform"], "nature": "Quiet "}
+        "Pokémon Breeder Isaac": {"ability": "Shadow Tag", "item": "Leppa Berry", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 20, "moves": ["Transform"], "nature": "Quiet"}
     },
     "Dodrio":
     {
@@ -676,7 +677,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Espeon":
     {
-        "Cooltrainer Hope": {"ability": "Synchronize", "item": "Leftovers ", "level": 81, "moves": ["Calm Mind", "Morning Sun", "Psychic", "Baton Pass"]},
+        "Cooltrainer Hope": {"ability": "Synchronize", "item": "Leftovers", "level": 81, "moves": ["Calm Mind", "Morning Sun", "Psychic", "Baton Pass"]},
         "Gentleman Nate": {"ability": "Synchronize", "item": "Lum Berry", "level": 67, "moves": ["Skill Swap", "Psychic", "Bite", "Toxic"], "nature": "Bold"},
         "Gentleman Walter": {"ability": "Synchronize", "item": "Leftovers", "level": 52, "moves": ["Calm Mind", "Baton Pass", "Psychic", "Substitute"]},
         "Leader Norman": {"ability": "Synchronize", "item": "Lum Berry", "level": 48, "moves": ["Psychic", "Light Screen", "Skill Swap", "Sing"], "nature": "Timid"},
@@ -874,7 +875,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Golbat":
     {
         "Guitarist Kirk": {"ability": "Inner Focus", "item": "Lum Berry", "level": 26, "moves": ["Confuse Ray", "Giga Drain", "Sludge Bomb", "Heat Wave"]},
-        "Hiker Mike": {"ability": "Inner Focus", "item": "Cheri Berry", "level": 23, "moves": ["Confuse Ray", "Aerial Ace", "Sludge Bomb", "Super Fang"], "nature": "Mild "},
+        "Hiker Mike": {"ability": "Inner Focus", "item": "Cheri Berry", "level": 23, "moves": ["Confuse Ray", "Aerial Ace", "Sludge Bomb", "Super Fang"], "nature": "Mild"},
         "Hiker Sawyer": {"ability": "Inner Focus", "level": 36, "moves": ["Sludge Bomb", "Aerial Ace", "Shadow Ball"], "nature": "Mild"},
         "Ninja Boy Lao": {"ability": "Inner Focus", "item": "Lum Berry", "level": 34, "moves": ["Confuse Ray", "Protect", "Toxic", "Shadow Ball"]},
         "Team Magma Grunt #3 @ Route 112": {"ability": "Inner Focus", "item": "Scope Lens", "level": 27, "moves": ["Hypnosis", "Heat Wave", "Giga Drain", "Shadow Ball"], "nature": "Lax"}
@@ -1303,8 +1304,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Lotad":
     {
-        "Tuber Austina": {"ability": "Swift Swim", "level": 15, "moves": ["Fake Out", "Mega Drain", "Dive"], "nature": "Lax"},
-        "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}
+        "Tuber Austina": {"ability": "Swift Swim", "level": 15, "moves": ["Fake Out", "Mega Drain", "Dive"], "nature": "Lax"}
     },
     "Loudred":
     {
@@ -1864,7 +1864,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Pineco":
     {
-        "Bug Maniac Derek": {"ability": "Rough Skin", "item": "Sitrus Berry", "level": 23, "moves": ["Signal Beam", "Self-Destruct", "Giga Drain", "Spikes"], "nature": "Quiet "}
+        "Bug Maniac Derek": {"ability": "Rough Skin", "item": "Sitrus Berry", "level": 23, "moves": ["Signal Beam", "Self-Destruct", "Giga Drain", "Spikes"], "nature": "Quiet"}
     },
     "Pinsir":
     {
@@ -2207,7 +2207,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Shellder":
     {
         "Fisherman Carter": {"ability": "Shell Armor", "level": 15, "moves": ["Ice Shard", "Bubblebeam", "Mud Shot"], "nature": "Impish"},
-        "Team Aqua Grunt #1 @ Slateport City": {"ability": "Shell Armor", "item": "Scope Lens", "level": 17, "moves": ["Icy Wind", "Self-Destruct", "Water Pulse", "Mud Shot"], "nature": "Sassy "}
+        "Team Aqua Grunt #1 @ Slateport City": {"ability": "Shell Armor", "item": "Scope Lens", "level": 17, "moves": ["Icy Wind", "Self-Destruct", "Water Pulse", "Mud Shot"], "nature": "Sassy"}
     },
     "Shiftry":
     {
@@ -2374,7 +2374,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Spheal":
     {
-        "Pokéfan Miguel": {"ability": "Thick Fat", "item": "Sitrus Berry", "level": 17, "moves": ["Attract", "Aurora Beam", "Water Pulse", "Secret Power"], "nature": "Gentle "},
+        "Pokéfan Miguel": {"ability": "Thick Fat", "item": "Sitrus Berry", "level": 17, "moves": ["Attract", "Aurora Beam", "Water Pulse", "Secret Power"], "nature": "Gentle"},
         "Sailor Huey": {"ability": "Thick Fat", "level": 16, "moves": ["Powder Snow", "Water Pulse", "Secret Power"]},
         "Tuber Gwen": {"ability": "Thick Fat", "item": "Sitrus Berry", "level": 15, "moves": ["Ice Ball", "Defense Curl", "Rollout"], "nature": "Modest"}
     },
