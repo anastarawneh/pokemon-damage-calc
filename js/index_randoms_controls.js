@@ -204,6 +204,7 @@ function predictMidTurnSwitch(p1, p2) {
 				var enemy = partySpecies[j];
 				if (p2.name == enemy) continue;
 				var dexMon = pokedex[partySpecies[j]];
+				if (partySpecies[j].includes("Castform")) dexMon = pokedex["Castform"];
 				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[0]];
 				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[1]];
 				var typeEffectiveness = typeEffectiveness2 !== undefined ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
@@ -382,7 +383,7 @@ function predictSwitchOrder() {
 			if (deadList.includes(enemy)) {
 				continue;
 			}
-			var enemyDex = pokedex[partySpecies[j]];
+			var enemyDex = !partySpecies[j].includes("Castform") ? pokedex[partySpecies[j]] : pokedex["Castform"];
 			for (var matchup in phase1TypeMatchups) {
 				var type1 = matchup.split("-")[0];
 				var type2 = matchup.split("-")[1];
@@ -406,7 +407,6 @@ function predictSwitchOrder() {
 			if (deadList.includes(enemy)) {
 				continue;
 			}
-			var enemyDex = pokedex[enemy.species];
 			for (var k in enemy.moves) {
 				var move = new calc.Move(GENERATION, enemy.moves[k]);
 				if (move.category == "Status") continue;
