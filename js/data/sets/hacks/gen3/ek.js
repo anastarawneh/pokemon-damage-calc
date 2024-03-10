@@ -291,7 +291,6 @@ var CUSTOMHACKSETDEX_EK = {
     "Castform":
     {
         "Camper Beau": {"ability": "Forecast", "item": "Choice Band", "level": 40, "moves": ["Weather Ball"], "nature": "Sassy"},
-        "Cooltrainer Jennifer": {"ability": "Forecast", "item": "Salac Berry", "level": 49, "moves": ["Ice Beam", "Thunder", "Hydro Pump", "Attract"], "nature": "Careful"},
         "Fisherman Wayne": {"ability": "Forecast", "item": "Leppa Berry", "level": 70, "moves": ["Hydro Pump", "Fire Blast", "Ice Beam", "Thunderbolt"], "nature": "Quiet"},
         "Parasol Lady Kayley": {"ability": "Forecast", "item": "Quick Claw", "level": 74, "moves": ["Hydro Pump", "Ice Beam", "Thunder", "Rain Dance"], "nature": "Jolly"},
         "Team Aqua Grunt #8 @ Aqua Hideout": {"ability": "Forecast", "item": "Petaya Berry", "level": 62, "moves": ["Rain Dance", "Hydro Pump", "Ice Beam", "Thunder"], "nature": "Jolly"},
@@ -299,6 +298,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Castform-Rainy":
     {
+        "Cooltrainer Jennifer": {"ability": "Forecast", "item": "Salac Berry", "level": 49, "moves": ["Ice Beam", "Thunder", "Hydro Pump", "Attract"], "nature": "Careful"},
         "Leader #1 Wallace": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Thunder", "Ice Beam", "Weather Ball", "Hidden Power Grass"], "nature": "Sassy"},
         "Leader #2 Juan": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Weather Ball", "Ice Beam", "Thunder", "Hidden Power Grass"], "nature": "Modest"},
         "Team Aqua Grunt #3 @ Seafloor Cavern": {"ability": "Forecast", "item": "Scope Lens", "level": 67, "moves": ["Thunder", "Weather Ball", "Ice Beam", "Attract"], "nature": "Naughty"}

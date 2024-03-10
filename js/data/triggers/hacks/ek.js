@@ -469,10 +469,6 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Ninja Boy Keigo",
             "Parasol Lady Angelica",
             "Cooltrainer Jennifer",
-            "Pokémon Ranger Jenna",
-            "Pokémon Ranger Lorenzo",
-            "Ruin Maniac Chip",
-            "Bug Maniac Jeffrey",
             // Seafloor Cavern
             "Team Aqua Grunt #1 @ Seafloor Cavern",
             "Team Aqua Grunt #2 @ Seafloor Cavern",

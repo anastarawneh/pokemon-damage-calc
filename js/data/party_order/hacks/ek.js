@@ -299,7 +299,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Cooltrainer Jerome": ["Heracross", "Cloyster", "Magneton", "Gengar", "Dugtrio"],
     "Ninja Boy Keigo": ["Electrode", "Weezing", "Scizor"],
     "Parasol Lady Angelica": ["Jumpluff", "Furret", "Seaking"],
-    "Cooltrainer Jennifer": ["Gorebyss", "Ludicolo", "Lanturn", "Castform", "Porygon2"],
+    "Cooltrainer Jennifer": ["Gorebyss", "Ludicolo", "Lanturn", "Castform_Rainy", "Porygon2"],
     "Pokémon Ranger Jenna": ["Hitmonlee", "Rapidash", "Manectric", "Girafarig"],
     "Pokémon Ranger Lorenzo": ["Ursaring", "Grumpig", "Feraligatr", "Flareon"],
     "Ruin Maniac Chip": ["Aggron", "Claydol", "Cradily", "Kabutops"],
