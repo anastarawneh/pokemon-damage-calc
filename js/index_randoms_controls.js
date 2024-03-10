@@ -608,7 +608,7 @@ $(document).ready(function () {
 		if (window.NO_CALC) {
 			return;
 		}
-		if (document.getElementById("cc-auto-refr").checked) {
+		if (document.getElementById("cc-auto-refr").checked && $("#show-cc").is(":hidden")) {
 			window.refreshColorCode();
 		}
 		performCalculations();

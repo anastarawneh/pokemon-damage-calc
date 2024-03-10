@@ -1887,7 +1887,6 @@ function colorCodeUpdate() {
 function showColorCodes() {
 	colorCodeUpdate();
 	hideShowCCSettings();
-
 }
 
 function refreshColorCode() {
