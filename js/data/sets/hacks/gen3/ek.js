@@ -356,7 +356,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Chimecho":
     {
         "Beauty Shirley": {"ability": "Levitate", "item": "Sitrus Berry", "level": 36, "moves": ["Recycle", "Psychic", "Signal Beam", "Hypnosis"], "nature": "Jolly"},
-        "Collector Edwin": {"ability": "Levitate", "level": 19, "moves": ["Signal Beam", "Psybeam", "Recover", "Safeguard"], "nature": "Impish"},
+        "Collector Edwin": {"ability": "Levitate", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 19, "moves": ["Signal Beam", "Psybeam", "Recover", "Safeguard"], "nature": "Impish"},
         "Hex Maniac Tammy": {"ability": "Levitate", "item": "Leftovers", "level": 52, "moves": ["Hypnosis", "Recover", "Psychic", "Signal Beam"], "nature": "Rash"},
         "Interviewers Gabby & Ty #3": {"ability": "Levitate", "item": "Silk Scarf", "level": 52, "moves": ["Psychic", "Hypnosis", "Signal Beam", "Recover"], "nature": "Bold"},
         "Psychic Brandi": {"ability": "Levitate", "level": 22, "moves": ["Recover", "Psybeam", "Secret Power", "Thunder Wave"], "nature": "Quiet"},
@@ -515,7 +515,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Diglett":
     {
         "Hiker Devan": {"ability": "Arena Trap", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 9, "moves": ["Rock Tomb", "Aerial Ace", "Dig", "Secret Power"], "nature": "Hardy"},
-        "Tuber Gwen": {"ability": "Arena Trap", "item": "Soft Sand", "level": 15, "moves": ["Mud Shot", "Rock Tomb", "Secret Power", "Flail"], "nature": "Naughty"}
+        "Tuber Gwen": {"ability": "Arena Trap", "item": "Soft Sand", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 15, "moves": ["Mud Shot", "Rock Tomb", "Secret Power", "Flail"], "nature": "Naughty"}
     },
     "Ditto":
     {
@@ -582,7 +582,7 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Dragon Tamer Rhett": {"ability": "Shed Skin", "item": "Dragon Fang", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 17, "moves": ["Dragon Breath", "Flamethrower", "Thunderbolt", "Secret Power"], "nature": "Quirky"},
         "Team Aqua Grunt #2 @ Slateport City": {"ability": "Shed Skin", "item": "Leppa Berry", "level": 18, "moves": ["Thunder Wave", "Dragon Rage"], "nature": "Lax"},
-        "Team Aqua Grunt @ Rusturf Tunnel": {"ability": "Shed Skin", "item": "Scope Lens", "level": 14, "moves": ["Thunder Wave", "Dragon Breath", "Water Pulse", "Headbutt"], "nature": "Impish"}
+        "Team Aqua Grunt @ Rusturf Tunnel": {"ability": "Shed Skin", "item": "Scope Lens", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 14, "moves": ["Thunder Wave", "Dragon Breath", "Water Pulse", "Headbutt"], "nature": "Impish"}
     },
     "Drowzee":
     {
@@ -603,7 +603,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Dunsparce":
     {
-        "Bug Maniac Angelo": {"ability": "Serene Grace", "item": "Blackglasses", "level": 26, "moves": ["Thunder Wave", "Headbutt", "Rock Slide", "Bite"], "nature": "Quiet"},
+        "Bug Maniac Angelo": {"ability": "Serene Grace", "item": "Black Glasses", "level": 26, "moves": ["Thunder Wave", "Headbutt", "Rock Slide", "Bite"], "nature": "Quiet"},
         "Team Magma Grunt #5 @ Route 112": {"ability": "Serene Grace", "item": "Leftovers", "level": 27, "moves": ["Glare", "Headbutt", "Rock Slide", "Bite"], "nature": "Modest"}
     },
     "Dusclops":
@@ -750,7 +750,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Pokémon Trainer Brendan #4 [Sceptile]": {"ability": "Battle Armor", "item": "Lum Berry", "level": 59, "moves": ["Earthquake", "Dragon Dance", "Hidden Power Flying", "Surf"], "nature": "Adamant"},
         "Pokémon Trainer May #3 [Sceptile]": {"ability": "Battle Armor", "item": "Lum Berry", "level": 50, "moves": ["Hydro Pump", "Ice Beam", "Earthquake", "Hidden Power Electric"], "nature": "Bashful"},
         "Pokémon Trainer May #4 [Sceptile]": {"ability": "Battle Armor", "item": "Lum Berry", "level": 59, "moves": ["Hydro Pump", "Hidden Power Flying", "Earthquake", "Ancientpower"], "nature": "Quirky"},
-        "Pokémon Ranger Lorenzo": {"ability": "Battle Armor", "item": "Blackglasses", "level": 51, "moves": ["Crunch", "Surf", "Ice Beam", "Earthquake"], "nature": "Relaxed"},
+        "Pokémon Ranger Lorenzo": {"ability": "Battle Armor", "item": "Black Glasses", "level": 51, "moves": ["Crunch", "Surf", "Ice Beam", "Earthquake"], "nature": "Relaxed"},
         "Team Aqua Grunt #2 @ Mt. Pyre": {"ability": "Battle Armor", "item": "King's Rock", "level": 53, "moves": ["Scary Face", "Waterfall", "Earthquake", "Ice Beam"], "nature": "Hasty"},
         "Team Aqua Grunt #9 @ Mt. Pyre": {"ability": "Battle Armor", "item": "Lum Berry", "level": 54, "moves": ["Dragon Dance", "Earthquake", "Ancientpower", "Ice Beam"], "nature": "Naive"}
     },
@@ -1006,7 +1006,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Hitmonchan":
     {
-        "Black Belt Daisuke": {"ability": "Guts", "item": "Spell Tag", "level": 29, "moves": ["Mach Punch", "Brick Break", "Rock Tomb", "Shadow Punch"], "nature": "Naive"},
+        "Black Belt Daisuke": {"ability": "Guts", "item": "Spell Tag", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 29, "moves": ["Mach Punch", "Brick Break", "Rock Tomb", "Shadow Punch"], "nature": "Naive"},
         "Black Belt Koichi": {"ability": "Guts", "item": "Leftovers", "level": 43, "moves": ["Body Slam", "Earthquake", "Sky Uppercut", "Shadow Punch"], "nature": "Timid"},
         "Cooltrainer Katelynn": {"ability": "Guts", "item": "Black Belt", "level": 88, "moves": ["Mach Punch", "Brick Break", "Hidden Power Ghost", "Rock Slide"], "nature": "Rash"},
         "Expert Nicholas": {"ability": "Guts", "item": "Leftovers", "level": 67, "moves": ["Facade", "Brick Break", "Shadow Punch", "Fake Out"], "nature": "Naughty"},
@@ -1015,7 +1015,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Hitmonlee":
     {
-        "Black Belt Daisuke": {"ability": "Limber", "item": "Silk Scarf", "level": 29, "moves": ["Fake Out", "Hi Jump Kick", "Mega Kick", "Detect"], "nature": "Gentle"},
+        "Black Belt Daisuke": {"ability": "Limber", "item": "Silk Scarf", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 29, "moves": ["Fake Out", "Hi Jump Kick", "Mega Kick", "Detect"], "nature": "Gentle"},
         "Black Belt Koji": {"ability": "Limber", "item": "Quick Claw", "level": 67, "moves": ["Body Slam", "Earthquake", "Rock Slide", "Hi Jump Kick"], "nature": "Calm"},
         "Cooltrainer Virgil": {"ability": "Limber", "item": "Lum Berry", "level": 66, "moves": ["Fake Out", "Hi Jump Kick", "Rock Tomb", "Mach Punch"], "nature": "Docile"},
         "Leader Brawly": {"ability": "Limber", "item": "Sitrus Berry", "level": 17, "moves": ["Sleep Talk", "Rolling Kick", "Rock Slide", "Secret Power"], "nature": "Quirky"},
@@ -1024,7 +1024,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Hitmontop":
     {
         "Beauty Jessica": {"ability": "Intimidate", "item": "Black Belt", "level": 52, "moves": ["Fake Out", "Brick Break", "Mach Punch", "Rock Tomb"], "nature": "Brave"},
-        "Black Belt Daisuke": {"ability": "Intimidate", "item": "Hard Stone", "level": 29, "moves": ["Fake Out", "Mach Punch", "Detect", "Rock Tomb"], "nature": "Quiet"},
+        "Black Belt Daisuke": {"ability": "Intimidate", "item": "Hard Stone", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 29, "moves": ["Fake Out", "Mach Punch", "Detect", "Rock Tomb"], "nature": "Quiet"},
         "Cooltrainer Hannah": {"ability": "Intimidate", "item": "Lum Berry", "level": 66, "moves": ["Bulk Up", "Brick Break", "Rock Tomb", "Fake Out"], "nature": "Jolly"},
         "Leader Brawly": {"ability": "Intimidate", "item": "Lum Berry", "level": 17, "moves": ["Fake Out", "Mach Punch", "Rock Slide", "Secret Power"], "nature": "Quiet"},
         "Pokémon Trainer Wally #2": {"ability": "Intimidate", "item": "Lum Berry", "level": 85, "moves": ["Mach Punch", "Brick Break", "Rock Slide", "Hidden Power Ghost"], "nature": "Gentle"},
@@ -1083,7 +1083,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Igglybuff":
     {
-        "Lass Tiana": {"ability": "Cute Charm", "level": 6, "moves": ["Present"], "nature": "Lax"}
+        "Lass Tiana": {"ability": "Cute Charm", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 6, "moves": ["Present"], "nature": "Lax"}
     },
     "Illumise":
     {
@@ -1304,7 +1304,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Lotad":
     {
-        "Tuber Austina": {"ability": "Swift Swim", "level": 15, "moves": ["Fake Out", "Mega Drain", "Dive"], "nature": "Lax"}
+        "Tuber Austina": {"ability": "Swift Swim", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 15, "moves": ["Fake Out", "Mega Drain", "Dive"], "nature": "Lax"}
     },
     "Loudred":
     {
@@ -1349,9 +1349,9 @@ var CUSTOMHACKSETDEX_EK = {
         "Fisherman Dale": {"ability": "Swift Swim", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 24, "moves": ["Attract", "Sweet Kiss", "Surf"], "nature": "Lax"},
         "Fisherman Darian": {"ability": "Swift Swim", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 7, "moves": ["Sweet Kiss", "Attract", "Dive", "Toxic"], "nature": "Quiet"},
         "Pokémon Breeder Nora": {"ability": "Swift Swim", "item": "Bright Powder", "level": 54, "moves": ["Attract", "Sweet Kiss", "Substitute", "Dive"], "nature": "Docile"},
-        "Swimmerf Katie": {"ability": "Swift Swim", "level": 100, "moves": ["Attract", "Sweet Kiss", "Flail", "Surf"], "nature": "Adamant"},
+        "Swimmerf Katie": {"ability": "Swift Swim", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 100, "moves": ["Attract", "Sweet Kiss", "Flail", "Surf"], "nature": "Adamant"},
         "Swimmerf Laurel": {"ability": "Swift Swim", "item": "Lum Berry", "level": 100, "moves": ["Surf", "Ice Beam", "Attract", "Hidden Power Electric"], "nature": "Relaxed"},
-        "Swimmerm Declan": {"ability": "Swift Swim", "level": 100, "moves": ["Attract", "Sweet Kiss", "Flail", "Surf"], "nature": "Bashful"},
+        "Swimmerm Declan": {"ability": "Swift Swim", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 100, "moves": ["Attract", "Sweet Kiss", "Flail", "Surf"], "nature": "Bashful"},
         "Tuber Simon": {"ability": "Swift Swim", "level": 16, "moves": ["Attract", "Sweet Kiss", "Waterfall"], "nature": "Jolly"}
     },
     "Machamp":
@@ -1369,7 +1369,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Machop":
     {
-        "Battle Girl Laura": {"ability": "Guts", "item": "Sitrus Berry", "level": 16, "moves": ["Revenge", "Rock Tomb", "Facade", "Sleep Talk"], "nature": "Bold"},
+        "Battle Girl Laura": {"ability": "Guts", "item": "Sitrus Berry", "ivs": {"at": 27, "df": 27, "hp": 27, "sa": 27, "sd": 27, "sp": 27}, "level": 16, "moves": ["Revenge", "Rock Tomb", "Facade", "Sleep Talk"], "nature": "Bold"},
         "Black Belt Koichi": {"ability": "Guts", "item": "Everstone", "level": 55, "moves": ["Mega Kick", "Facade", "Cross Chop", "Rock Slide"], "nature": "Rash"},
         "Sailor Dwayne": {"ability": "Guts", "level": 16, "moves": ["Brick Break", "Rock Slide", "Facade"], "nature": "Modest"}
     },
@@ -1647,7 +1647,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Murkrow":
     {
-        "Beauty Johanna": {"ability": "Insomnia", "item": "Blackglasses", "level": 16, "moves": ["Pursuit", "Aerial Ace", "Night Shade", "Confuse Ray"], "nature": "Bashful"}
+        "Beauty Johanna": {"ability": "Insomnia", "item": "Black Glasses", "level": 16, "moves": ["Pursuit", "Aerial Ace", "Night Shade", "Confuse Ray"], "nature": "Bashful"}
     },
     "Natu":
     {
@@ -1672,7 +1672,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Nidoqueen":
     {
-        "Pokémaniac Steve": {"ability": "Poison Point", "item": "Blackglasses", "level": 35, "moves": ["Drill Run", "Poison Fang", "Crunch", "Surf"], "nature": "Naughty"},
+        "Pokémaniac Steve": {"ability": "Poison Point", "item": "Black Glasses", "level": 35, "moves": ["Drill Run", "Poison Fang", "Crunch", "Surf"], "nature": "Naughty"},
         "Pokémon Trainer May #3 [Blaziken]": {"ability": "Poison Point", "item": "Lum Berry", "level": 50, "moves": ["Earthquake", "Poison Tail", "Thunder", "Surf"], "nature": "Rash"},
         "Pokémon Trainer May #3 [Sceptile]": {"ability": "Poison Point", "item": "Lum Berry", "level": 50, "moves": ["Earthquake", "Poison Tail", "Thunder", "Surf"], "nature": "Rash"},
         "Pokémon Trainer May #3 [Swampert]": {"ability": "Poison Point", "item": "Lum Berry", "level": 50, "moves": ["Earthquake", "Poison Tail", "Thunder", "Surf"], "nature": "Rash"},
@@ -1695,8 +1695,8 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Pokéfan Isabel": {"ability": "Poison Point", "level": 16, "moves": ["Attract", "Sludge Bomb", "Brick Break", "Water Pulse"], "nature": "Bashful"},
         "Pokémon Trainer May #1.5 [Combusken]": {"ability": "Poison Point", "item": "Silk Scarf", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 16, "moves": ["Toxic", "Secret Power", "Drill Run", "Protect"], "nature": "Naughty"},
-        "Pokémon Trainer May #1.5 [Grovyle]": {"ability": "Poison Point", "item": "Silk Scarf", "level": 16, "moves": ["Toxic", "Protect", "Drill Run", "Secret Power"], "nature": "Mild"},
-        "Pokémon Trainer May #1.5 [Marshtomp]": {"ability": "Poison Point", "item": "Silk Scarf", "level": 16, "moves": ["Drill Run", "Protect", "Secret Power", "Toxic"], "nature": "Mild"},
+        "Pokémon Trainer May #1.5 [Grovyle]": {"ability": "Poison Point", "item": "Silk Scarf", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 16, "moves": ["Toxic", "Protect", "Drill Run", "Secret Power"], "nature": "Mild"},
+        "Pokémon Trainer May #1.5 [Marshtomp]": {"ability": "Poison Point", "item": "Silk Scarf", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 16, "moves": ["Drill Run", "Protect", "Secret Power", "Toxic"], "nature": "Mild"},
         "Pokémon Trainer May #2 [Combusken]": {"ability": "Poison Point", "level": 24, "moves": ["Drill Run", "Sludge Bomb", "Shadow Ball", "Water Pulse"], "nature": "Naive"},
         "Pokémon Trainer May #2 [Grovyle]": {"ability": "Poison Point", "level": 24, "moves": ["Drill Run", "Sludge Bomb", "Shadow Ball", "Body Slam"], "nature": "Naive"},
         "Pokémon Trainer May #2 [Marshtomp]": {"ability": "Poison Point", "level": 24, "moves": ["Drill Run", "Sludge Bomb", "Shadow Ball", "Body Slam"], "nature": "Naive"}
@@ -1704,9 +1704,9 @@ var CUSTOMHACKSETDEX_EK = {
     "Nidorino":
     {
         "Pokéfan Kaleb": {"ability": "Poison Point", "item": "Mystic Water", "level": 16, "moves": ["Brick Break", "Sludge Bomb", "Attract", "Water Pulse"], "nature": "Timid"},
-        "Pokémon Trainer Brendan #1.5 [Combusken]": {"ability": "Poison Point", "item": "Silk Scarf", "level": 16, "moves": ["Toxic", "Protect", "Drill Run", "Secret Power"], "nature": "Sassy"},
-        "Pokémon Trainer Brendan #1.5 [Grovyle]": {"ability": "Poison Point", "item": "Silk Scarf", "level": 16, "moves": ["Drill Run", "Toxic", "Protect", "Secret Power"], "nature": "Sassy"},
-        "Pokémon Trainer Brendan #1.5 [Marshtomp]": {"ability": "Poison Point", "item": "Silk Scarf", "level": 16, "moves": ["Toxic", "Drill Run", "Protect", "Secret Power"], "nature": "Sassy"},
+        "Pokémon Trainer Brendan #1.5 [Combusken]": {"ability": "Poison Point", "item": "Silk Scarf", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 16, "moves": ["Toxic", "Protect", "Drill Run", "Secret Power"], "nature": "Sassy"},
+        "Pokémon Trainer Brendan #1.5 [Grovyle]": {"ability": "Poison Point", "item": "Silk Scarf", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 16, "moves": ["Drill Run", "Toxic", "Protect", "Secret Power"], "nature": "Sassy"},
+        "Pokémon Trainer Brendan #1.5 [Marshtomp]": {"ability": "Poison Point", "item": "Silk Scarf", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 16, "moves": ["Toxic", "Drill Run", "Protect", "Secret Power"], "nature": "Sassy"},
         "Pokémon Trainer Brendan #2 [Combusken]": {"ability": "Poison Point", "level": 24, "moves": ["Drill Run", "Sludge Bomb", "Body Slam", "Water Pulse"], "nature": "Careful"},
         "Pokémon Trainer Brendan #2 [Grovyle]": {"ability": "Poison Point", "level": 24, "moves": ["Drill Run", "Sludge Bomb", "Body Slam", "Shadow Ball"], "nature": "Careful"},
         "Pokémon Trainer Brendan #2 [Marshtomp]": {"ability": "Poison Point", "level": 24, "moves": ["Drill Run", "Sludge Bomb", "Body Slam", "Shadow Ball"], "nature": "Careful"}
@@ -2020,7 +2020,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Ralts":
     {
-        "Pokémon Trainer Wally #1": {"ability": "Synchronize", "item": "Oran Berry", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 70, "moves": ["Pain Split", "Teleport", "Encore", "Will-O-Wisp"], "nature": "Naughty"}
+        "Pokémon Trainer Wally #1": {"ability": "Synchronize", "item": "Oran Berry", "ivs": {"at": 0, "df": 0, "hp": 0, "sa": 0, "sd": 0, "sp": 0}, "level": 70, "moves": ["Pain Split", "Teleport", "Encore", "Will-O-Wisp"], "nature": "Naughty"}
     },
     "Rapidash":
     {
@@ -2211,7 +2211,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Shiftry":
     {
-        "Kindler Bernie": {"ability": "Chlorophyll", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "item": "Blackglasses", "level": 33, "moves": ["Giga Drain", "Faint Attack", "Fake Out", "Brick Break"], "nature": "Quiet"},
+        "Kindler Bernie": {"ability": "Chlorophyll", "item": "Black Glasses", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 33, "moves": ["Giga Drain", "Faint Attack", "Fake Out", "Brick Break"], "nature": "Quiet"},
         "Pokémon Ranger Flint": {"ability": "Chlorophyll", "item": "Leftovers", "level": 52, "moves": ["Fake Out", "Brick Break", "Shadow Ball", "Giga Drain"], "nature": "Timid"},
         "Team Magma Grunt #10 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Choice Band", "level": 57, "moves": ["Explosion"], "nature": "Hasty"},
         "Team Magma Grunt #2 @ Mt. Chimney": {"ability": "Chlorophyll", "item": "Focus Band", "level": 35, "moves": ["Explosion", "Brick Break", "Giga Drain", "Shadow Ball"], "nature": "Impish"},
