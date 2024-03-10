@@ -98,6 +98,10 @@ function calculateRBYGSC(gen, attacker, defender, move, field) {
     if (move.hits > 1) {
         desc.hits = move.hits;
     }
+    if (move.name === 'Triple Kick') {
+        move.bp = move.hits === 2 ? 15 : move.hits === 3 ? 20 : 10;
+        desc.moveBP = move.bp;
+    }
     if (move.named('Flail', 'Reversal')) {
         move.isCrit = false;
         var p = Math.floor((48 * attacker.curHP()) / attacker.maxHP());

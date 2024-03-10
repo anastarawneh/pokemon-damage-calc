@@ -291,6 +291,29 @@ describe('calc', function () {
                 expect(result.range()).toEqual([84, 102]);
                 expect(result.desc()).toBe('0 Atk Abomasnow Ice Shard vs. 0 HP / 0 Def Multiscale Dragonite: 84-102 (26 - 31.5%) -- guaranteed 4HKO');
             });
+            describe('Weight', function () {
+                describe('Heavy Metal', function () {
+                    function testBP(ability) {
+                        return calculate(Pokemon('Simisage', { ability: ability }), Pokemon('Simisear', { ability: 'Heavy Metal' }), Move('Grass Knot')).rawDesc.moveBP;
+                    }
+                    it('should double the weight of a Pokemon', function () { return expect(testBP('Gluttony')).toBe(80); });
+                    it('should be negated by Mold Breaker', function () { return expect(testBP('Mold Breaker')).toBe(60); });
+                });
+                describe('Light Metal', function () {
+                    function testBP(ability) {
+                        return calculate(Pokemon('Simisage', { ability: ability }), Pokemon('Registeel', { ability: 'Light Metal' }), Move('Grass Knot')).rawDesc.moveBP;
+                    }
+                    it('should halve the weight of a Pokemon', function () { return expect(testBP('Gluttony')).toBe(100); });
+                    it('should be negated by Mold Breaker', function () { return expect(testBP('Mold Breaker')).toBe(120); });
+                });
+                describe('Float Stone', function () {
+                    function testBP(ability) {
+                        return calculate(Pokemon('Simisage', { ability: 'Gluttony' }), Pokemon('Registeel', { ability: ability, item: 'Float Stone' }), Move('Grass Knot')).rawDesc.moveBP;
+                    }
+                    it('should halve the weight of a Pokemon', function () { return expect(testBP()).toBe(100); });
+                    it('should stack with Light Metal', function () { return expect(testBP('Light Metal')).toBe(80); });
+                });
+            });
         });
         (0, helper_1.inGen)(8, function (_a) {
             var gen = _a.gen, Pokemon = _a.Pokemon;
@@ -392,14 +415,14 @@ describe('calc', function () {
                     item: 'White Herb'
                 }), Move('Icicle Spear'));
                 expect(result.range()).toEqual([89, 108]);
-                expect(result.desc()).toBe('0 Atk Mamoswine Icicle Spear (3 hits) vs. 0 HP / 0 Def White Herb Weak Armor Skarmory: 89-108 (32.8 - 39.8%) -- approx. 100% chance to 3HKO');
+                expect(result.desc()).toBe('0 Atk Mamoswine Icicle Spear (3 hits) vs. 0 HP / 0 Def White Herb Weak Armor Skarmory: 89-108 (32.8 - 39.8%) -- approx. 99.9% chance to 3HKO');
                 result = calculate(Pokemon('Mamoswine'), Pokemon('Skarmory', {
                     ability: 'Weak Armor',
                     item: 'White Herb',
                     boosts: { def: 2 }
                 }), Move('Icicle Spear'));
                 expect(result.range()).toEqual([56, 69]);
-                expect(result.desc()).toBe('0 Atk Mamoswine Icicle Spear (3 hits) vs. +2 0 HP / 0 Def Weak Armor Skarmory: 56-69 (20.6 - 25.4%) -- approx. 0% chance to 4HKO');
+                expect(result.desc()).toBe('0 Atk Mamoswine Icicle Spear (3 hits) vs. +2 0 HP / 0 Def Weak Armor Skarmory: 56-69 (20.6 - 25.4%) -- approx. 0.1% chance to 4HKO');
                 result = calculate(Pokemon('Mamoswine', {
                     ability: 'Unaware'
                 }), Pokemon('Skarmory', {
@@ -960,6 +983,21 @@ describe('calc', function () {
                 });
                 var result = calculate(attacker, defender, Move('Pursuit'), field);
                 expect(result.desc()).toBe("0 Atk Weavile with an ally's Flower Gift Power Spot boosted switching boosted Pursuit (80 BP) vs. 0 HP / 0 Def Vulpix in Sun: 399-469 (183.8 - 216.1%) -- guaranteed OHKO");
+            });
+        });
+        describe('Descriptions', function () {
+            (0, helper_1.inGen)(9, function (_a) {
+                var gen = _a.gen, calculate = _a.calculate, Pokemon = _a.Pokemon, Move = _a.Move;
+                test('displayed chances should not round to 100%', function () {
+                    var result = calculate(Pokemon('Xerneas', { item: 'Choice Band', nature: 'Adamant', evs: { atk: 252 } }), Pokemon('Necrozma-Dusk-Mane', { nature: 'Impish', evs: { hp: 252, def: 252 } }), Move('Close Combat'));
+                    expect(result.kochance().chance).toBeGreaterThanOrEqual(0.9995);
+                    expect(result.kochance().text).toBe('99.9% chance to 3HKO');
+                });
+                test('displayed chances should not round to 0%', function () {
+                    var result = calculate(Pokemon('Deoxys-Attack', { evs: { spa: 44 } }), Pokemon('Blissey', { nature: 'Calm', evs: { hp: 252, spd: 252 } }), Move('Psycho Boost'));
+                    expect(result.kochance().chance).toBeLessThan(0.005);
+                    expect(result.kochance().text).toBe('0.1% chance to 4HKO');
+                });
             });
         });
     });

@@ -27,7 +27,7 @@ export declare function getQPBoostedStat(pokemon: Pokemon, gen?: Generation): St
 export declare function isQPActive(pokemon: Pokemon, field: Field): boolean;
 export declare function getFinalDamage(baseAmount: number, i: number, effectiveness: number, isBurned: boolean, stabMod: number, finalMod: number, protect?: boolean): number;
 export declare function getShellSideArmCategory(source: Pokemon, target: Pokemon): MoveCategory;
-export declare function getWeightFactor(pokemon: Pokemon): 1 | 2 | 0.5;
+export declare function getWeight(pokemon: Pokemon, desc: RawDesc, role: 'defender' | 'attacker'): number;
 export declare function getStabMod(pokemon: Pokemon, move: Move, desc: RawDesc): number;
 export declare function getStellarStabMod(pokemon: Pokemon, move: Move, stabMod?: number, turns?: number): number;
 export declare function countBoosts(gen: Generation, boosts: StatsTable): number;
