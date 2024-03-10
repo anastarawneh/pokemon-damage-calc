@@ -150,7 +150,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Baltoy":
     {
-        "Hiker Marc": {"ability": "Levitate", "item": "Twistedspoon", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 12, "moves": ["Psybeam", "Rock Tomb", "Signal Beam", "Self-Destruct"], "nature": "Jolly"},
+        "Hiker Marc": {"ability": "Levitate", "item": "Twisted Spoon", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 12, "moves": ["Psybeam", "Rock Tomb", "Signal Beam", "Self-Destruct"], "nature": "Jolly"},
         "Sr and Jr Anna & Meg": {"ability": "Levitate", "item": "Choice Band", "level": 22, "moves": ["Earthquake"], "nature": "Mild"},
         "Triathlete Anthony": {"ability": "Levitate", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 24, "moves": ["Earthquake", "Signal Beam", "Psychic", "Ice Beam"], "nature": "Lonely"}
     },
@@ -707,7 +707,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Exploud":
     {
-        "Guitarist Dalton": {"ability": "Vital Spirit", "item": "Nevermeltice", "level": 43, "moves": ["Hyper Voice", "Earthquake", "Ice Beam", "Flamethrower"], "nature": "Bold"},
+        "Guitarist Dalton": {"ability": "Vital Spirit", "item": "Never-Melt Ice", "level": 43, "moves": ["Hyper Voice", "Earthquake", "Ice Beam", "Flamethrower"], "nature": "Bold"},
         "Guitarist Fernando": {"ability": "Vital Spirit", "item": "Quick Claw", "level": 74, "moves": ["Hyper Voice", "Earthquake", "Teeter Dance", "Water Pulse"], "nature": "Lonely"},
         "Interviewers Gabby & Ty #3": {"ability": "Vital Spirit", "item": "Silk Scarf", "level": 53, "moves": ["Hyper Voice", "Teeter Dance", "Earthquake", "Shadow Ball"], "nature": "Gentle"},
         "Pokéfan Parker": {"ability": "Vital Spirit", "item": "Leftovers", "level": 43, "moves": ["Teeter Dance", "Body Slam", "Earthquake", "Shadow Ball"], "nature": "Modest"},
@@ -840,7 +840,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Girafarig":
     {
         "Psychic Preston": {"ability": "Early Bird", "item": "Lum Berry", "level": 66, "moves": ["Earthquake", "Psychic", "Body Slam", "Signal Beam"], "nature": "Naive"},
-        "Pokémon Ranger Jenna": {"ability": "Early Bird", "item": "Twistedspoon", "level": 52, "moves": ["Body Slam", "Earthquake", "Psychic", "Crunch"], "nature": "Modest"},
+        "Pokémon Ranger Jenna": {"ability": "Early Bird", "item": "Twisted Spoon", "level": 52, "moves": ["Body Slam", "Earthquake", "Psychic", "Crunch"], "nature": "Modest"},
         "Triathlete Kyra": {"ability": "Early Bird", "level": 43, "moves": ["Body Slam", "Crunch", "Psychic", "Earthquake"], "nature": "Quiet"},
         "Triathlete Melina": {"ability": "Early Bird", "item": "Cheri Berry", "level": 20, "moves": ["Agility", "Stomp", "Psybeam", "Baton Pass"], "nature": "Brave"},
         "Triathlete Randall": {"ability": "Early Bird", "item": "Quick Claw", "level": 42, "moves": ["Psychic", "Body Slam", "Earthquake", "Thunder Wave"]}
@@ -885,7 +885,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Golduck":
     {
-        "Bird Keeper Colin": {"ability": "Swift Swim", "item": "Twistedspoon", "level": 50, "moves": ["Waterfall", "Psychic", "Brick Break", "Ice Beam"], "nature": "Bold"},
+        "Bird Keeper Colin": {"ability": "Swift Swim", "item": "Twisted Spoon", "level": 50, "moves": ["Waterfall", "Psychic", "Brick Break", "Ice Beam"], "nature": "Bold"},
         "Expert Annika": {"ability": "Swift Swim", "item": "Leftovers", "level": 75, "moves": ["Calm Mind", "Surf", "Ice Beam", "Psychic"]},
         "Hex Maniac Leah": {"ability": "Swift Swim", "item": "Silk Scarf", "level": 50, "moves": ["Psychic", "Ice Beam", "Surf", "Return"], "nature": "Adamant"},
         "Pokémon Breeder Humberto": {"ability": "Swift Swim", "item": "Lum Berry", "level": 52, "moves": ["Surf", "Ice Beam", "Hypnosis", "Hidden Power Grass"]},
@@ -1900,7 +1900,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Poliwhirl":
     {
-        "Camper Tyron": {"ability": "Swift Swim", "item": "Nevermeltice", "level": 27, "moves": ["Hypnosis", "Blizzard", "Protect", "Hydro Pump"], "nature": "Rash"},
+        "Camper Tyron": {"ability": "Swift Swim", "item": "Never-Melt Ice", "level": 27, "moves": ["Hypnosis", "Blizzard", "Protect", "Hydro Pump"], "nature": "Rash"},
         "Sailor Brenden": {"ability": "Swift Swim", "item": "Soft Sand", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 16, "moves": ["Hypnosis", "Water Pulse", "Ice Punch", "Mud Shot"], "nature": "Sassy"},
         "Sailor Dwayne": {"ability": "Swift Swim", "level": 16, "moves": ["Mud Shot", "Water Pulse", "Ice Punch"], "nature": "Modest"},
         "Triathlete Benjamin": {"ability": "Swift Swim", "item": "Sitrus Berry", "level": 24, "moves": ["Belly Drum", "Hypnosis", "Brick Break", "Body Slam"]}
@@ -2156,7 +2156,7 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Beauty Connie": {"ability": "Swift Swim", "item": "Lum Berry", "level": 74, "moves": ["Megahorn", "Drill Run", "Return", "Hydro Pump"], "nature": "Hasty"},
         "Fisherman Barny": {"ability": "Swift Swim", "item": "Lum Berry", "level": 42, "moves": ["Megahorn", "Surf", "Double-Edge", "Drill Run"], "nature": "Lax"},
-        "Parasol Lady Angelica": {"ability": "Swift Swim", "item": "Nevermeltice", "level": 51, "moves": ["Surf", "Ice Beam", "Return", "Attract"], "nature": "Bold"},
+        "Parasol Lady Angelica": {"ability": "Swift Swim", "item": "Never-Melt Ice", "level": 51, "moves": ["Surf", "Ice Beam", "Return", "Attract"], "nature": "Bold"},
         "Parasol Lady Madeline": {"ability": "Swift Swim", "item": "Cheri Berry", "level": 34, "moves": ["Rain Dance", "Waterfall", "Ice Beam", "Secret Power"], "nature": "Timid"},
         "Sailor Cory": {"ability": "Swift Swim", "item": "Quick Claw", "level": 45, "moves": ["Double-Edge", "Drill Run", "Waterfall", "Megahorn"]},
         "Swimmerf Carlee": {"ability": "Swift Swim", "level": 35, "moves": ["Ice Beam", "Double-Edge", "Drill Run", "Waterfall"], "nature": "Jolly"}
@@ -2172,7 +2172,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Seel":
     {
         "Sailor Huey": {"ability": "Thick Fat", "level": 16, "moves": ["Aurora Beam", "Water Pulse", "Ice Shard"], "nature": "Careful"},
-        "Triathlete Maria": {"ability": "Thick Fat", "item": "Nevermeltice", "level": 24, "moves": ["Ice Shard", "Waterfall", "Body Slam", "Aurora Beam"], "nature": "Quiet"}
+        "Triathlete Maria": {"ability": "Thick Fat", "item": "Never-Melt Ice", "level": 24, "moves": ["Ice Shard", "Waterfall", "Body Slam", "Aurora Beam"], "nature": "Quiet"}
     },
     "Sentret":
     {
@@ -2386,12 +2386,12 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Pokémon Breeder Nora": {"ability": "Own Tempo", "item": "Silk Scarf", "level": 54, "moves": ["Teeter Dance", "Double-Edge", "Shadow Ball", "Brick Break"], "nature": "Relaxed"},
         "Sailor Dwayne": {"ability": "Own Tempo", "level": 16, "moves": ["Metronome"], "nature": "Quiet"},
-        "Youngster Dillon": {"ability": "Own Tempo", "item": "Twistedspoon", "level": 34, "moves": ["Teeter Dance", "Secret Power", "Psychic", "Brick Break"], "nature": "Lax"}
+        "Youngster Dillon": {"ability": "Own Tempo", "item": "Twisted Spoon", "level": 34, "moves": ["Teeter Dance", "Secret Power", "Psychic", "Brick Break"], "nature": "Lax"}
     },
     "Spoink":
     {
         "Lady Sarah": {"ability": "Thick Fat", "item": "Oran Berry", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 10, "moves": ["Confusion", "Confuse Ray", "Bounce", "Secret Power"], "nature": "Relaxed"},
-        "Pokéfan Miguel": {"ability": "Thick Fat", "item": "Twistedspoon", "level": 17, "moves": ["Attract", "Psybeam", "Return", "Shadow Ball"], "nature": "Gentle"},
+        "Pokéfan Miguel": {"ability": "Thick Fat", "item": "Twisted Spoon", "level": 17, "moves": ["Attract", "Psybeam", "Return", "Shadow Ball"], "nature": "Gentle"},
         "Tuber Chandler": {"ability": "Thick Fat", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 16, "moves": ["Psybeam", "Confuse Ray", "Secret Power"], "nature": "Jolly"}
     },
     "Squirtle":
@@ -2759,7 +2759,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Walrein":
     {
-        "Cooltrainer Katelynn": {"ability": "Rain Dish", "item": "Nevermeltice", "level": 88, "moves": ["Ice Shard", "Ice Beam", "Earthquake", "Surf"], "nature": "Naive"},
+        "Cooltrainer Katelynn": {"ability": "Rain Dish", "item": "Never-Melt Ice", "level": 88, "moves": ["Ice Shard", "Ice Beam", "Earthquake", "Surf"], "nature": "Naive"},
         "Cooltrainer Ruben": {"ability": "Rain Dish", "item": "Leftovers", "level": 72, "moves": ["Ice Shard", "Surf", "Ice Beam", "Earthquake"], "nature": "Adamant"},
         "Parasol Lady Daphne": {"ability": "Rain Dish", "item": "Lum Berry", "level": 73, "moves": ["Ice Beam", "Surf", "Earthquake", "Ice Shard"], "nature": "Relaxed"},
         "Sailor Hudson": {"ability": "Rain Dish", "level": 67, "moves": ["Water Pulse", "Double-Edge", "Blizzard", "Ice Beam"], "nature": "Sassy"},
