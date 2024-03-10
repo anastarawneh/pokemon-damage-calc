@@ -36,11 +36,11 @@ var CUSTOMHACKPARTYORDER_EK = {
     // Rusturf Tunnel
     "Team Aqua Grunt @ Rusturf Tunnel": ["Dratini", "Tentacool", "Voltorb", "Barboach", "Snorunt", "Carvanha"],
     // Rustboro City
-    "Pokémon Trainer May #1.5 [Combusken]": ["Farfetch’d", "Nidorina", "Minun", "Chikorita", "Squirtle", "Combusken"],
+    "Pokémon Trainer May #1.5 [Combusken]": ["Farfetch’d", "Minun", "Nidorina", "Chikorita", "Squirtle", "Combusken"],
     "Pokémon Trainer May #1.5 [Marshtomp]": ["Farfetch’d", "Nidorina", "Minun", "Bulbasaur", "Quilava", "Marshtomp"],
     "Pokémon Trainer May #1.5 [Grovyle]": ["Farfetch’d", "Nidorina", "Minun", "Totodile", "Charmander", "Grovyle"],
     "Pokémon Trainer Brendan #1.5 [Combusken]": ["Farfetch’d", "Nidorino", "Plusle", "Chikorita", "Squirtle", "Combusken"],
-    "Pokémon Trainer Brendan #1.5 [Marshtomp]": ["Farfetch’d", "Nidorino", "Plusle", "Bulbasaur", "Quilava", "Marshtomp"],
+    "Pokémon Trainer Brendan #1.5 [Marshtomp]": ["Farfetch’d", "Nidorino", "Plusle", "Quilava", "Bulbasaur", "Marshtomp"],
     "Pokémon Trainer Brendan #1.5 [Grovyle]": ["Farfetch’d", "Nidorino", "Plusle", "Totodile", "Charmander", "Grovyle"],
     // Dewford Gym
     "Battle Girl Laura": ["Makuhita", "Machop", "Meditite"],
@@ -226,7 +226,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Swimmerm Pete": ["Raichu"],
     // Route 115
     "Battle Girl Cyndy": ["Medicham"],
-    "Ninja Boy Jaiden": ["Starmie"],
+    "Ninja Boy Jaiden": ["Starmie", "Swalot"],
     "Triathlete Kyra": ["Rapidash", "Girafarig"],
     "Black Belt Koichi": ["Machop", "Hitmonchan"],
     "Battle Girl Helene": ["Wobbuffet", "Hariyama"],
@@ -275,9 +275,9 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Pokémon Trainer May #3 [Blaziken]": ["Raichu", "Clefable", "Nidoqueen", "Meganium", "Blastoise"],
     "Pokémon Trainer May #3 [Swampert]": ["Raichu", "Clefable", "Nidoqueen", "Swampert", "Venusaur"],
     "Pokémon Trainer May #3 [Sceptile]": ["Raichu", "Clefable", "Nidoqueen", "Feraligatr", "Sceptile"],
-    "Pokémon Trainer Brendan #3 [Blaziken]": ["Raichu", "Clefable", "Nidoking", "Meganium", "Blastoise"],
-    "Pokémon Trainer Brendan #3 [Swampert]": ["Raichu", "Clefable", "Nidoking", "Swampert", "Venusaur"],
-    "Pokémon Trainer Brendan #3 [Sceptile]": ["Raichu", "Clefable", "Nidoking", "Feraligatr", "Sceptile"],
+    "Pokémon Trainer Brendan #3 [Blaziken]": ["Raichu", "Porygon2", "Nidoking", "Meganium", "Blastoise"],
+    "Pokémon Trainer Brendan #3 [Swampert]": ["Raichu", "Porygon2", "Nidoking", "Swampert", "Venusaur"],
+    "Pokémon Trainer Brendan #3 [Sceptile]": ["Raichu", "Porygon2", "Nidoking", "Feraligatr", "Sceptile"],
     "Guitarist Beth": ["Wigglytuff", "Swalot", "Azumarill", "Electabuzz"],
     "Ninja Boy Hideo": ["Kecleon", "Octillery", "Cacturne", "Ditto"],
     // Route 120
@@ -319,9 +319,9 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Pokémon Trainer May #4 [Blaziken]": ["Miltank", "Ampharos", "Nidoqueen", "Meganium", "Blastoise", "Blaziken"],
     "Pokémon Trainer May #4 [Swampert]": ["Miltank", "Ampharos", "Nidoqueen", "Typhlosion", "Venusaur", "Swampert"],
     "Pokémon Trainer May #4 [Sceptile]": ["Miltank", "Ampharos", "Nidoqueen", "Feraligatr", "Charizard", "Sceptile"],
-    "Pokémon Trainer Brendan #4 [Blaziken]": ["Miltank", "Ampharos", "Nidoking", "Meganium", "Blastoise", "Blaziken"],
-    "Pokémon Trainer Brendan #4 [Swampert]": ["Miltank", "Ampharos", "Nidoking", "Typhlosion", "Venusaur", "Swampert"],
-    "Pokémon Trainer Brendan #4 [Sceptile]": ["Miltank", "Ampharos", "Nidoking", "Feraligatr", "Charizard", "Sceptile"],
+    "Pokémon Trainer Brendan #4 [Blaziken]": ["Tauros", "Ampharos", "Nidoking", "Meganium", "Blastoise", "Blaziken"],
+    "Pokémon Trainer Brendan #4 [Swampert]": ["Tauros", "Ampharos", "Nidoking", "Typhlosion", "Venusaur", "Swampert"],
+    "Pokémon Trainer Brendan #4 [Sceptile]": ["Tauros", "Ampharos", "Nidoking", "Feraligatr", "Charizard", "Sceptile"],
     // Mt. Pyre
     "Young Couple Dez & Luke": ["Delcatty", "Machamp"],
     "Hex Maniac Leah": ["Misdreavus", "Absol", "Grumpig", "Golduck"],
