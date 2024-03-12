@@ -2087,6 +2087,17 @@ $(document).ready(function () {
 	$('#cc-advanced').change(colorCodeUpdate);
 	$('#cc-spe-border')[0].checked=true;
 	$('#cc-ohko-color')[0].checked=true;
+	
+	$('#trainer-nav-help').click(() => {
+		alert("This section displays the enemy party in the correct in-game order. Note that that is not always the order Pokémon are sent out. Click on a Pokémon sprite to load that Pokémon.\n\n" + 
+			  "If a Pokémon is marked with a red outline, there is a chance that the enemy will make a switch to that Pokémon the turn after you use a move that is also be marked with a red background. In case of multiple outlined Pokémon, the switch will only happen to a Pokémon that resists that move.");
+	});
+	$('#bait-help').click(() => {
+		alert("This section predicts what will Pokémon will be sent out after your Pokémon defeats each member of the enemy party.\n\n" + 
+			  "Click a Pokémon sprite to mark it as dead, excluding it from the list of possible next Pokémon.\n\n" + 
+			  "In very rare cases such as damage overflow, you can use the slower but more accurate \"Advanced Bait\" option.\n\n" + 
+			  "In case of an incorrect result, please DM me on Discord at @anastarawneh, or open a GitHub issue.");
+	});
 
 	$('.last-move-used > select.move-selector').val("(No Move)");
 	$('.last-move-used > select.move-selector').change();
