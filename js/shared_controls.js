@@ -492,7 +492,7 @@ $(".move-selector").change(function () {
 		} else {
 			moveGroupObj.children(".move-bp").val(actual.power);
 		}
-	} else if (gen >= 2 && gen <= 6 && HIDDEN_POWER_REGEX.test($(this).attr('data-prev'))) {
+	} else if (gen >= 2 && gen <= 6 && HIDDEN_POWER_REGEX.test($(this).attr('data-prev')) && game == "None") {
 		// If this selector was previously Hidden Power but now isn't, reset all IVs/DVs to max.
 		var pokeObj = $(this).closest(".poke-info");
 		for (var i = 0; i < LEGACY_STATS[gen].length; i++) {
