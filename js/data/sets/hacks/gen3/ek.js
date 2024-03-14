@@ -804,7 +804,7 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Elite Four Phoebe": {"ability": "Synchronize", "item": "Lum Berry", "level": 100, "moves": ["Thunder Wave", "Psychic", "Thunderbolt", "Fire Punch"], "nature": "Careful"},
         "Expert Mollie": {"ability": "Synchronize", "item": "Lum Berry", "level": 68, "moves": ["Psychic", "Hypnosis", "Fire Punch", "Thunderbolt"], "nature": "Hardy"},
-        "Gym Leaders Tate&liza": {"ability": "Synchronize", "item": "Lum Berry", "level": 70, "moves": ["Psychic", "Thunderbolt", "Fire Punch", "Hidden Power Grass"], "nature": "Sassy"},
+        "Leaders Tate&Liza": {"ability": "Synchronize", "item": "Lum Berry", "level": 70, "moves": ["Psychic", "Thunderbolt", "Fire Punch", "Hidden Power Grass"], "nature": "Sassy"},
         "Magma Admin Courtney #2": {"ability": "Synchronize", "item": "Lum Berry", "level": 70, "moves": ["Calm Mind", "Psychic", "Thunderbolt", "Fire Punch"], "nature": "Naive"},
         "Pokémon Trainer Wally #2": {"ability": "Synchronize", "item": "Lum Berry", "level": 88, "moves": ["Calm Mind", "Psychic", "Fire Punch", "Thunderbolt"], "nature": "Timid"}
     },
@@ -1105,7 +1105,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Jirachi":
     {
         "Champion Steven": {"ability": "Serene Grace", "item": "Lum Berry", "level": 100, "moves": ["Meteor Mash", "Extrasensory", "Fire Punch", "Thunderbolt"], "nature": "Relaxed"},
-        "Gym Leaders Tate&liza": {"ability": "Serene Grace", "item": "Lum Berry", "level": 70, "moves": ["Meteor Mash", "Signal Beam", "Fire Punch", "Ancientpower"], "nature": "Naughty"}
+        "Leaders Tate&Liza": {"ability": "Serene Grace", "item": "Lum Berry", "level": 70, "moves": ["Meteor Mash", "Signal Beam", "Fire Punch", "Ancientpower"], "nature": "Naughty"}
     },
     "Jolteon":
     {
@@ -1259,12 +1259,12 @@ var CUSTOMHACKSETDEX_EK = {
     "Latias":
     {
         "Elite Four Drake": {"ability": "Levitate", "item": "Soul Dew", "level": 100, "moves": ["Calm Mind", "Dragon Claw", "Hidden Power Fire", "Recover"], "nature": "Calm"},
-        "Gym Leaders Tate&liza": {"ability": "Levitate", "item": "Lum Berry", "level": 70, "moves": ["Dragon Claw", "Mist Ball", "Hidden Power Fire", "Waterfall"], "nature": "Impish"}
+        "Leaders Tate&Liza": {"ability": "Levitate", "item": "Lum Berry", "level": 70, "moves": ["Dragon Claw", "Mist Ball", "Hidden Power Fire", "Waterfall"], "nature": "Impish"}
     },
     "Latios":
     {
         "Elite Four Drake": {"ability": "Levitate", "item": "Soul Dew", "level": 100, "moves": ["Draco Meteor", "Luster Purge", "Hidden Power Fire", "Recover"], "nature": "Brave"},
-        "Gym Leaders Tate&liza": {"ability": "Levitate", "item": "Lum Berry", "level": 70, "moves": ["Dragon Claw", "Luster Purge", "Hidden Power Fire", "Thunderbolt"], "nature": "Sassy"}
+        "Leaders Tate&Liza": {"ability": "Levitate", "item": "Lum Berry", "level": 70, "moves": ["Dragon Claw", "Luster Purge", "Hidden Power Fire", "Thunderbolt"], "nature": "Sassy"}
     },
     "Ledian":
     {
@@ -1506,7 +1506,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Cooltrainer Jody": {"ability": "Pure Power", "item": "Lum Berry", "level": 42, "moves": ["Fake Out", "Hi Jump Kick", "Shadow Ball", "Rock Slide"], "nature": "Jolly"},
         "Expert Shelby": {"ability": "Pure Power", "item": "Lum Berry", "level": 37, "moves": ["Fake Out", "Brick Break", "Shadow Ball", "Rock Slide"], "nature": "Impish"},
         "Gentleman Franklin": {"ability": "Pure Power", "item": "Lum Berry", "level": 100, "moves": ["Focus Punch", "Shadow Ball", "Hidden Power Ground", "Rock Tomb"], "nature": "Careful"},
-        "Gym Leaders Tate&liza": {"ability": "Pure Power", "item": "Lum Berry", "level": 70, "moves": ["Fake Out", "Brick Break", "Hidden Power Psychic", "Shadow Ball"], "nature": "Careful"},
+        "Leaders Tate&Liza": {"ability": "Pure Power", "item": "Lum Berry", "level": 70, "moves": ["Fake Out", "Brick Break", "Hidden Power Psychic", "Shadow Ball"], "nature": "Careful"},
         "Psychic Marlene": {"ability": "Pure Power", "level": 35, "moves": ["Meditate", "Hi Jump Kick", "Rock Tomb"], "nature": "Relaxed"},
         "Sr and Jr Kate & Joy": {"ability": "Pure Power", "item": "Choice Band", "level": 53, "moves": ["Focus Punch"], "nature": "Hasty"},
         "Swimmerf Kara": {"ability": "Pure Power", "level": 65, "moves": ["Hi Jump Kick", "Psychic", "Reversal", "Recover"], "nature": "Lax"},
@@ -2415,7 +2415,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Aqua Admin Shelly #2": {"ability": "Natural Cure", "item": "Lum Berry", "level": 72, "moves": ["Hydro Pump", "Thunder", "Psychic", "Ice Beam"], "nature": "Timid"},
         "Champion Steven": {"ability": "Natural Cure", "item": "Lum Berry", "level": 100, "moves": ["Psychic", "Hydro Pump", "Thunderbolt", "Ice Beam"], "nature": "Mild"},
         "Expert Felix": {"ability": "Natural Cure", "item": "Lum Berry", "level": 88, "moves": ["Hydro Pump", "Psychic", "Ice Beam", "Thunderbolt"], "nature": "Mild"},
-        "Gym Leaders Tate&liza": {"ability": "Natural Cure", "item": "Lum Berry", "level": 70, "moves": ["Hydro Pump", "Ice Beam", "Thunderbolt", "Psychic"], "nature": "Relaxed"},
+        "Leaders Tate&Liza": {"ability": "Natural Cure", "item": "Lum Berry", "level": 70, "moves": ["Hydro Pump", "Ice Beam", "Thunderbolt", "Psychic"], "nature": "Relaxed"},
         "Ninja Boy Jaiden": {"ability": "Natural Cure", "level": 43, "moves": ["Psychic", "Recover", "Hydro Pump", "Confuse Ray"], "nature": "Serious"},
         "Old Couple Miu & Yuki": {"ability": "Natural Cure", "item": "Quick Claw", "level": 75, "moves": ["Skill Swap", "Psychic", "Hydro Pump", "Thunder"], "nature": "Mild"},
         "Psychic Jacki": {"ability": "Natural Cure", "item": "Quick Claw", "level": 74, "moves": ["Psychic", "Thunder", "Ice Beam", "Hydro Pump"], "nature": "Lonely"},

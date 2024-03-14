@@ -392,7 +392,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Expert Macey": ["Wobbuffet", "Dugtrio", "Wynaut"],
     "Expert Clifford": ["Electrode", "Snorlax", "Metagross"],
     "Hex Maniac Kathleen": ["Gengar", "Dusclops", "Misdreavus"],
-    "Gym Leaders Tate&Liza": ["Latias", "Latios", "Gardevoir", "Medicham", "Starmie", "Jirachi"],
+    "Leaders Tate&Liza": ["Latias", "Latios", "Gardevoir", "Medicham", "Starmie", "Jirachi"],
     // Mossdeep Space Center
     "Team Magma Grunt #1 @ Mossdeep Space Center": ["Clefable", "Exeggutor", "Castform"],
     "Team Magma Grunt #2 @ Mossdeep Space Center": ["Typhlosion", "Venusaur", "Houndoom"],

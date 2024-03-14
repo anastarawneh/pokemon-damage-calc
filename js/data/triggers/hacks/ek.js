@@ -330,7 +330,7 @@ var CUSTOMHACKTRIGGERS_EK = {
             "Expert Macey",
             "Expert Clifford",
             "Hex Maniac Kathleen",
-            "Gym Leaders Tate&Liza"
+            "Leaders Tate&Liza"
         ],
         "mindBadge": [
             // Mossdeep Space Center

@@ -296,7 +296,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Expert Macey",
 	"Expert Clifford",
 	"Hex Maniac Kathleen",
-	"Gym Leaders Tate&Liza",
+	"Leaders Tate&Liza",
 	// Mossdeep Space Center
 	"Team Magma Grunt #1 @ Mossdeep Space Center",
 	"Team Magma Grunt #2 @ Mossdeep Space Center",
