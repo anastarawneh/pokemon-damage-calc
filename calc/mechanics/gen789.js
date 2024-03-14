@@ -112,7 +112,11 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
                         : field.hasTerrain('Psychic') ? 'Psychic'
                             : 'Normal';
         desc.terrain = field.terrain;
-        desc.moveType = type;
+        if (!(move.named('Nature Power') && attacker.hasAbility('Prankster')) &&
+            (defender.types.includes('Dark') ||
+                (field.hasTerrain('Psychic') && (0, util_2.isGrounded)(defender, field)))) {
+            desc.moveType = type;
+        }
     }
     else if (move.named('Revelation Dance')) {
         if (attacker.teraType) {
@@ -569,6 +573,12 @@ function calculateBasePowerSMSSSV(gen, attacker, defender, move, field, hasAteAb
         case 'Nature Power':
             move.category = 'Special';
             move.secondaries = true;
+            if (attacker.hasAbility('Prankster') && defender.types.includes('Dark')) {
+                basePower = 0;
+                desc.moveName = 'Nature Power';
+                desc.attackerAbility = 'Prankster';
+                break;
+            }
             switch (field.terrain) {
                 case 'Electric':
                     basePower = 90;
@@ -583,8 +593,14 @@ function calculateBasePowerSMSSSV(gen, attacker, defender, move, field, hasAteAb
                     desc.moveName = 'Moonblast';
                     break;
                 case 'Psychic':
-                    basePower = 90;
-                    desc.moveName = 'Psychic';
+                    if (attacker.hasAbility('Prankster') && (0, util_2.isGrounded)(defender, field)) {
+                        basePower = 0;
+                        desc.attackerAbility = 'Prankster';
+                    }
+                    else {
+                        basePower = 90;
+                        desc.moveName = 'Psychic';
+                    }
                     break;
                 default:
                     basePower = 80;
