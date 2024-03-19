@@ -332,6 +332,7 @@ function checkSeedBoost(pokemon, field) {
                     ? Math.max(-6, pokemon.boosts.spd - 1)
                     : Math.min(6, pokemon.boosts.spd + 1);
             }
+            pokemon.item = '';
         }
     }
 }
