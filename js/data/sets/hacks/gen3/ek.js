@@ -135,7 +135,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Swimmerf Dana": {"ability": "Huge Power", "level": 34, "moves": ["Body Slam", "Waterfall", "Ice Beam", "Double-Edge"], "nature": "Lonely"},
         "Swimmerf Jenny": {"ability": "Huge Power", "level": 64, "moves": ["Ice Beam", "Double-Edge", "Superpower", "Hydro Pump"], "nature": "Bold"},
         "Team Aqua Grunt #4 @ Mt. Pyre": {"ability": "Huge Power", "item": "Scope Lens", "level": 53, "moves": ["Hydro Pump", "Double-Edge", "Hidden Power Ghost", "Blizzard"], "nature": "Jolly"},
-        "Winstrate Vivi": {"ability": "Huge Power", "item": "Cheri Berry", "level": 26, "moves": ["Bubblebeam", "Secret Power", "Ice Punch", "Seismic Toss"], "nature": "Adamant"},
+        "Winstrate Vivi": {"ability": "Huge Power", "item": "Cheri Berry", "level": 26, "moves": ["Bubble Beam", "Secret Power", "Ice Punch", "Seismic Toss"], "nature": "Adamant"},
         "Youngster Dillon": {"ability": "Huge Power", "item": "Mystic Water", "level": 31, "moves": ["Water Pulse", "Body Slam", "Ice Punch", "Brick Break"], "nature": "Careful"}
     },
     "Azurill":
@@ -203,7 +203,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Blastoise":
     {
-        "Black Belt Hitoshi": {"ability": "Torrent", "level": 68, "moves": ["Bubblebeam", "Body Slam", "Ice Punch", "Hydro Pump"], "nature": "Brave"},
+        "Black Belt Hitoshi": {"ability": "Torrent", "level": 68, "moves": ["Bubble Beam", "Body Slam", "Ice Punch", "Hydro Pump"], "nature": "Brave"},
         "Expert Shannon": {"ability": "Torrent", "item": "Lum Berry", "level": 84, "moves": ["Water Spout", "Mirror Coat", "Ice Beam", "Yawn"], "nature": "Impish"},
         "Pokémaniac Gilbert": {"ability": "Torrent", "item": "Mystic Water", "level": 99, "moves": ["Hydro Cannon"], "nature": "Relaxed"},
         "Pokémon Breeder Bridget": {"ability": "Torrent", "item": "Leftovers", "level": 73, "moves": ["Water Spout", "Yawn", "Mirror Coat", "Sleep Talk"], "nature": "Bashful"},
@@ -1450,7 +1450,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Team Aqua Grunt #1 @ Mt. Pyre": {"ability": "Swift Swim", "item": "King's Rock", "level": 51, "moves": ["Rain Dance", "Ice Beam", "Surf", "Air Slash"], "nature": "Adamant"},
         "Team Aqua Grunt #5 @ Weather Institute": {"ability": "Swift Swim", "item": "Focus Band", "level": 47, "moves": ["Rain Dance", "Surf", "Ice Beam", "Confuse Ray"], "nature": "Serious"},
         "Triathlete Allison": {"ability": "Swift Swim", "item": "Leppa Berry", "level": 67, "moves": ["Protect", "Ice Beam", "Hydro Pump", "Attract"], "nature": "Quiet"},
-        "Triathlete Dylan": {"ability": "Swift Swim", "item": "Cheri Berry", "level": 20, "moves": ["Agility", "Bubblebeam", "Air Slash", "Aurora Beam"], "nature": "Timid"}
+        "Triathlete Dylan": {"ability": "Swift Swim", "item": "Cheri Berry", "level": 20, "moves": ["Agility", "Bubble Beam", "Air Slash", "Aurora Beam"], "nature": "Timid"}
     },
     "Mareep":
     {
@@ -1458,8 +1458,8 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Marill":
     {
-        "Lass Janice": {"ability": "Huge Power", "level": 9, "moves": ["Bubblebeam", "Secret Power", "Tickle"], "nature": "Adamant"},
-        "Tuber Lola": {"ability": "Huge Power", "level": 16, "moves": ["Rollout", "Defense Curl", "Bubblebeam"], "nature": "Modest"}
+        "Lass Janice": {"ability": "Huge Power", "level": 9, "moves": ["Bubble Beam", "Secret Power", "Tickle"], "nature": "Adamant"},
+        "Tuber Lola": {"ability": "Huge Power", "level": 16, "moves": ["Rollout", "Defense Curl", "Bubble Beam"], "nature": "Modest"}
     },
     "Marowak":
     {
@@ -1952,7 +1952,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Psyduck":
     {
-        "Bird Keeper Elijah": {"ability": "Swift Swim", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 15, "moves": ["Bubblebeam", "Confusion", "Aerial Ace"], "nature": "Impish"}
+        "Bird Keeper Elijah": {"ability": "Swift Swim", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 15, "moves": ["Bubble Beam", "Confusion", "Aerial Ace"], "nature": "Impish"}
     },
     "Pupitar":
     {
@@ -2150,7 +2150,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Seadra":
     {
         "Fisherman Wade": {"ability": "Poison Point", "item": "Lum Berry", "level": 43, "moves": ["Hydro Pump", "Ice Beam", "Dragon Breath", "Octazooka"], "nature": "Quiet"},
-        "Triathlete Abigail": {"ability": "Poison Point", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 24, "moves": ["Bubblebeam", "Aurora Beam", "Secret Power"], "nature": "Hasty"}
+        "Triathlete Abigail": {"ability": "Poison Point", "ivs": {"at": 12, "df": 12, "hp": 12, "sa": 12, "sd": 12, "sp": 12}, "level": 24, "moves": ["Bubble Beam", "Aurora Beam", "Secret Power"], "nature": "Hasty"}
     },
     "Seaking":
     {
@@ -2206,7 +2206,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Shellder":
     {
-        "Fisherman Carter": {"ability": "Shell Armor", "level": 15, "moves": ["Ice Shard", "Bubblebeam", "Mud Shot"], "nature": "Impish"},
+        "Fisherman Carter": {"ability": "Shell Armor", "level": 15, "moves": ["Ice Shard", "Bubble Beam", "Mud Shot"], "nature": "Impish"},
         "Team Aqua Grunt #1 @ Slateport City": {"ability": "Shell Armor", "item": "Scope Lens", "level": 17, "moves": ["Icy Wind", "Self-Destruct", "Water Pulse", "Mud Shot"], "nature": "Sassy"}
     },
     "Shiftry":
@@ -2299,7 +2299,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Slowpoke":
     {
-        "Fisherman Carter": {"ability": "Oblivious", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 15, "moves": ["Slack Off", "Bubblebeam", "Confusion"], "nature": "Gentle"},
+        "Fisherman Carter": {"ability": "Oblivious", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 15, "moves": ["Slack Off", "Bubble Beam", "Confusion"], "nature": "Gentle"},
         "Fisherman Dale": {"ability": "Oblivious", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 24, "moves": ["Earthquake", "Thunder Wave", "Water Pulse"], "nature": "Naughty"},
         "Psychic Edward": {"ability": "Oblivious", "item": "Leftovers", "level": 18, "moves": ["Psychic", "Water Pulse", "Slack Off", "Body Slam"], "nature": "Hasty"},
         "Triathlete Jacob": {"ability": "Oblivious", "level": 25, "moves": ["Slack Off", "Psychic", "Ice Beam"], "nature": "Gentle"}
@@ -2431,7 +2431,7 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Fisherman Ben": {"ability": "Natural Cure", "item": "Lum Berry", "level": 27, "moves": ["Thunder Wave", "Thunderbolt", "Waterfall", "Ice Beam"], "nature": "Bold"},
         "Team Aqua Grunt #1 @ Slateport City": {"ability": "Natural Cure", "item": "King's Rock", "level": 19, "moves": ["Thunder Wave", "Shock Wave", "Water Pulse", "Tri Attack"], "nature": "Naive"},
-        "Triathlete Alyssa": {"ability": "Natural Cure", "item": "Silk Scarf", "level": 20, "moves": ["Bubblebeam", "Recover", "Tri Attack", "Signal Beam"], "nature": "Careful"}
+        "Triathlete Alyssa": {"ability": "Natural Cure", "item": "Silk Scarf", "level": 20, "moves": ["Bubble Beam", "Recover", "Tri Attack", "Signal Beam"], "nature": "Careful"}
     },
     "Steelix":
     {
@@ -2546,7 +2546,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Tentacruel":
     {
         "Cooltrainer Owen": {"ability": "Clear Body", "item": "Leftovers", "level": 85, "moves": ["Mirror Coat", "Muddy Water", "Giga Drain", "Ice Beam"], "nature": "Lax"},
-        "Fisherman Chris": {"ability": "Clear Body", "level": 40, "moves": ["Acid", "Bubblebeam", "Sludge Bomb", "Toxic"], "nature": "Jolly"},
+        "Fisherman Chris": {"ability": "Clear Body", "level": 40, "moves": ["Acid", "Bubble Beam", "Sludge Bomb", "Toxic"], "nature": "Jolly"},
         "Fisherman Henry": {"ability": "Clear Body", "level": 64, "moves": ["Sludge Bomb", "Toxic", "Confuse Ray", "Hydro Pump"], "nature": "Adamant"},
         "Fisherman Ronald": {"ability": "Clear Body", "item": "Quick Claw", "level": 66, "moves": ["Sludge Bomb", "Toxic", "Confuse Ray", "Hydro Pump"], "nature": "Calm"},
         "Pokéfan Parker": {"ability": "Clear Body", "item": "Leftovers", "level": 41, "moves": ["Confuse Ray", "Muddy Water", "Ice Beam", "Sludge Bomb"], "nature": "Hasty"},
