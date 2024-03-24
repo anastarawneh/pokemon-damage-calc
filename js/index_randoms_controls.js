@@ -410,6 +410,12 @@ function predictSwitchOrder() {
 			for (var k in enemy.moves) {
 				var move = new calc.Move(GENERATION, enemy.moves[k]);
 				if (move.category == "Status") continue;
+				if (move.name == "Weather Ball") {
+					var field = createField();
+					if (field.weather == "Sun") move.type = "Fire";
+					else if (field.weather == "Rain") move.type = "Water";
+					else if (field.weather == "Hail") move.type = "Ice";
+				}
 				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[0]];
 				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[1]];
 				var typeEffectiveness = defender.types[1] ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
@@ -477,7 +483,7 @@ function predictSwitchOrder() {
 							move.bp = 3;
 						}
 						move.bp = $(".last-move-used > .move-bp").val();
-						var calculation = calc.calculateADV(GENERATION, attacker, defender, move, createField());
+						var calculation = calc.calculateADV(GENERATION, attacker, defender, move, createField().clone().swap());
 						var damage = calculation.damage;
 						var score = damage ? damage[damage.length - 1] : damage;
 						if (score > highestDamage.score) {
