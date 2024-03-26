@@ -384,13 +384,13 @@ function predictSwitchOrder() {
 				continue;
 			}
 			var enemyDex = !partySpecies[j].includes("Castform") ? pokedex[partySpecies[j]] : pokedex["Castform"];
-			for (var matchup in phase1TypeMatchups) {
-				var type1 = matchup.split("-")[0];
-				var type2 = matchup.split("-")[1];
-				var p1types = defender.types;
-				if (!p1types[1]) p1types[1] = p1types[0];
-				for (var k in p1types) {
-					var type = p1types[k];
+			var p1types = defender.types;
+			if (!p1types[1]) p1types[1] = p1types[0];
+			for (var k in p1types) {
+				var type = p1types[k];
+				for (var matchup in phase1TypeMatchups) {
+					var type1 = matchup.split("-")[0];
+					var type2 = matchup.split("-")[1];
 					if ((type1 == type) && (type2 == enemyDex.types[0] || type2 == enemyDex.types[1])) {
 						scores[partySpecies[j]] = Math.floor(scores[partySpecies[j]] * phase1TypeMatchups[matchup]);
 					}
