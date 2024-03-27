@@ -836,6 +836,9 @@ $(".set-selector").change(function () {
 					if (riskyMoves.includes(move)) $(resultLocations[1][j].move + " + label").addClass("risky-ai-move");
 					else $(resultLocations[1][j].move + " + label").removeClass("risky-ai-move");
 				}
+			} else {
+				for (var j in resultLocations[1])
+				$(resultLocations[1][j].move + " + label").removeClass("risky-ai-move");
 			}
 		}
 	}
