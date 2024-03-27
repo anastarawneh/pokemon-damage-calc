@@ -833,11 +833,7 @@ $(".set-selector").change(function () {
 				];
 				for (var j in pokemon.moves) {
 					var move = pokemon.moves[j].name;
-					if (riskyMoves.includes(move)) {
-						$(resultLocations[1][j].move + " + label").addClass("risky-ai-move");
-						console.log(move)
-						console.log(j)
-					}
+					if (riskyMoves.includes(move)) $(resultLocations[1][j].move + " + label").addClass("risky-ai-move");
 					else $(resultLocations[1][j].move + " + label").removeClass("risky-ai-move");
 				}
 			}
