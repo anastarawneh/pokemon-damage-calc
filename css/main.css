@@ -579,6 +579,10 @@ table.field {
     background-color: green;
 }
 
+.risky-ai-move {
+    font-style: italic;
+}
+
 
 /*
     F = Faster 

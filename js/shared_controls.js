@@ -808,6 +808,41 @@ $(".set-selector").change(function () {
 		}
 		window.NO_CALC = false;
 	}
+
+	if ($(this).hasClass('opposing') && game != "None" && flags) {
+		var ai = 7;
+		for (var i in flags["ai"]) {
+			if (flags["ai"][i].includes(window.CURRENT_TRAINER)) {
+				ai = i;
+				break;
+			}
+		}
+		if (["Emerald Kaizo"].includes(game)) {
+			$("#ai-help").html(`AI Flag: [${ai}]`);
+			$("#ai-help").attr("flag", ai);
+
+			if (ai == 23) {
+				var pokemon = createPokemon($("#p2"));
+				riskyMoves = [
+					"Attract", "Counter", "Destiny Bond", "Focus Punch", "Mirror Coat",
+					"Sleep Powder", "Hypnosis", "Lovely Kiss", "Spore",
+					"Self-Destruct", "Explosion",
+					"Drill Run", "X-Scissors", "Cross Chop", "Dragon Claw",
+					"Confuse Ray", "Teeter Dance",
+					"Ancientpower", "Silver Wind"
+				];
+				for (var j in pokemon.moves) {
+					var move = pokemon.moves[j].name;
+					if (riskyMoves.includes(move)) {
+						$(resultLocations[1][j].move + " + label").addClass("risky-ai-move");
+						console.log(move)
+						console.log(j)
+					}
+					else $(resultLocations[1][j].move + " + label").removeClass("risky-ai-move");
+				}
+			}
+		}
+	}
 });
 
 function formatMovePool(moves) {
@@ -2097,6 +2132,33 @@ $(document).ready(function () {
 			  "Click a Pokémon sprite to mark it as dead, excluding it from the list of possible next Pokémon.\n\n" + 
 			  "In very rare cases such as damage overflow, you can use the slower but more accurate \"Advanced Bait\" option.\n\n" + 
 			  "In case of an incorrect result, please DM me on Discord at @anastarawneh, or open a GitHub issue.");
+	});
+	$('#ai-help').click(() => {
+		var ai = parseInt($("#ai-help").attr("flag"));
+		switch (ai) {
+			case 1:
+				alert("AI Flag [1]: Check Bad Move");
+				return;
+			case 5:
+				alert("AI Flag [5]: Check Bad Move, Check Viability");
+				return;
+			case 7:
+				alert("AI Flag [7]: Check Bad Move, Try To Faint, Check Viability");
+				return;
+			case 11:
+				alert("AI Flag [11]: Check Bad Move, Try To Faint, Setup First Turn");
+				return;
+			case 15:
+				alert("AI Flag [15]: Check Bad Move, Try To Faint, Check Viability, Setup First Turn");
+				return;
+			case 23:
+				alert("AI Flag [23]: Check Bad Move, Try To Faint, Check Viability, Risky\n\n" + 
+					  "The enemy trainer has a chance to randomly use a risky move it wouldn't normally use instead of the usual move. Those moves will be marked in italics.");
+				return;
+			default:
+				alert("Error! AI flag is set to " + ai);
+				return;
+		}
 	});
 
 	$('.last-move-used > select.move-selector').val("(No Move)");

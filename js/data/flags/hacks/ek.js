@@ -1,4 +1,53 @@
 var CUSTOMHACKFLAGS_EK = {
+    "ai": {
+        // Check Bad Move
+        1: [
+            "Youngster Calvin",
+            "Tuber Ricky",
+            "Tuber Lola",
+            "Bug Catcher Kent",
+            "Bug Maniac Brent",
+            "Fisherman Chris",
+            "Swimmerf Carlee",
+            "Swimmerf Dana"
+        ],
+        // Check Bad Move, Check Viability
+        5: [
+            "Pokémon Trainer Wally #1"
+        ],
+        // Check Bad Move, Try To Faint, Check Viability (7, default)
+        // Check Bad Move, Try To Faint, Setup First Turn
+        11: [
+            "Team Aqua Grunt #1 @ Slateport City",
+            "Team Aqua Grunt #2 @ Slateport City",
+            "Cooltrainer Jody",
+            "Pokémon Ranger Catherine",
+            "Pokémon Ranger Jenna",
+            "Leader #1 Wallace",
+            "Cooltrainer Jonathan"
+        ],
+        // Check Bad Move, Try To Faint, Check Viability, Setup First Turn
+        15: [
+            "Elite Four Sidney"
+        ],
+        // Check Bad Move, Try To Faint, Check Viability, Risky
+        23: [
+            "Twins Gina & Mia",
+            "Leader Winona",
+            "Team Aqua Grunt #4 @ Mt. Pyre",
+            "Team Aqua Grunt #5 @ Mt. Pyre",
+            "Team Aqua Grunt #10 @ Mt. Pyre",
+            "Aqua Admin Matt #1",
+            "Team Magma Grunt #2 @ Magma Hideout",
+            "Team Magma Grunt #6 @ Magma Hideout",
+            "Team Magma Grunt #7 @ Magma Hideout",
+            "Team Magma Grunt #12 @ Magma Hideout",
+            "Team Magma Grunt #13 @ Magma Hideout",
+            "Team Magma Grunt #14 @ Magma Hideout",
+            "Team Magma Grunt #16 @ Magma Hideout",
+            "Aqua Admin Matt #2"
+        ]
+    },
     "badge": {
         "none": [
             // Route 102
