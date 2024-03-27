@@ -1,4 +1,4 @@
-var CUSTOMHACKTRIGGERS_EK = {
+var CUSTOMHACKFLAGS_EK = {
     "badge": {
         "none": [
             // Route 102

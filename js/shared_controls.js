@@ -578,10 +578,10 @@ $(".set-selector").change(function () {
 			if (parseInt(i) + 1 < nextPokemon.length) switchHTML += "<br><br>";
 		}
 
-		if (triggers) {
+		if (flags) {
 			var weather = "clear";
-			for (var i in triggers["weather"]) {
-				if (triggers["weather"][i].includes(window.CURRENT_TRAINER)) {
+			for (var i in flags["weather"]) {
+				if (flags["weather"][i].includes(window.CURRENT_TRAINER)) {
 					weather = i;
 					break;
 				}
@@ -589,8 +589,8 @@ $(".set-selector").change(function () {
 			$(`#${weather}`).prop("checked", true);
 
 			var badge = "";
-			for (var i in triggers["badge"]) {
-				if (triggers["badge"][i].includes(window.CURRENT_TRAINER)) {
+			for (var i in flags["badge"]) {
+				if (flags["badge"][i].includes(window.CURRENT_TRAINER)) {
 					badge = i;
 					break;
 				}
@@ -1292,7 +1292,7 @@ var RANDDEX = [
 	typeof GEN8RANDOMBATTLE === 'undefined' ? {} : GEN8RANDOMBATTLE,
 	typeof GEN9RANDOMBATTLE === 'undefined' ? {} : GEN9RANDOMBATTLE,
 ];
-var gen, genWasChanged, notation, pokedex, setdex, partyOrder, trainerNames, triggers, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
+var gen, genWasChanged, notation, pokedex, setdex, partyOrder, trainerNames, flags, randdex, typeChart, moves, abilities, items, calcHP, calcStat, GENERATION;
 var DEFAULTGEN = 9;
 $(".gen").change(function () {
 	/*eslint-disable */

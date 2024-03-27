@@ -27,7 +27,7 @@ $(".game").change(function() {
     setdex = !isHack ? CUSTOMSETDEX[gameId] : CUSTOMHACKSETDEX[gameId];
 	partyOrder = !isHack ? CUSTOMPARTYORDER[gameId] : CUSTOMHACKPARTYORDER[gameId];
 	trainerNames = !isHack ? CUSTOMTRAINERNAMES[gameId] : CUSTOMHACKTRAINERNAMES[gameId];
-	triggers = !isHack ? CUSTOMTRIGGERS[gameId] : CUSTOMHACKTRIGGERS[gameId];
+	flags = !isHack ? CUSTOMFLAGS[gameId] : CUSTOMHACKFLAGS[gameId];
     if (typeof setdex === 'undefined') setdex = SETDEX[generation];
     clearField();
     $("#importedSets").prop("checked", false);
@@ -132,23 +132,23 @@ var CUSTOMPARTYORDER = [
 	typeof CUSTOMPARTYORDER_SM === 'undefined' ? {} : CUSTOMPARTYORDER_SM
 ];
 
-var CUSTOMTRIGGERS = [
+var CUSTOMFLAGS = [
 	undefined, // None
-    typeof CUSTOMTRIGGERS_RB === 'undefined' ? {} : CUSTOMTRIGGERS_RB,
-    typeof CUSTOMTRIGGERS_Y === 'undefined' ? {} : CUSTOMTRIGGERS_Y,
-    typeof CUSTOMTRIGGERS_GS === 'undefined' ? {} : CUSTOMTRIGGERS_GS,
-	typeof CUSTOMTRIGGERS_C === 'undefined' ? {} : CUSTOMTRIGGERS_C,
-    typeof CUSTOMTRIGGERS_RS === 'undefined' ? {} : CUSTOMTRIGGERS_RS,
-	typeof CUSTOMTRIGGERS_E === 'undefined' ? {} : CUSTOMTRIGGERS_E,
-	typeof CUSTOMTRIGGERS_FRLG === 'undefined' ? {} : CUSTOMTRIGGERS_FRLG,
-	typeof CUSTOMTRIGGERS_DP === 'undefined' ? {} : CUSTOMTRIGGERS_DP,
-    typeof CUSTOMTRIGGERS_Pl === 'undefined' ? {} : CUSTOMTRIGGERS_Pl,
-	typeof CUSTOMTRIGGERS_HGSS === 'undefined' ? {} : CUSTOMTRIGGERS_HGSS,
-	typeof CUSTOMTRIGGERS_BW === 'undefined' ? {} : CUSTOMTRIGGERS_BW,
-	typeof CUSTOMTRIGGERS_B2W2 === 'undefined' ? {} : CUSTOMTRIGGERS_B2W2,
-	typeof CUSTOMTRIGGERS_XY === 'undefined' ? {} : CUSTOMTRIGGERS_XY,
-	typeof CUSTOMTRIGGERS_ORAS === 'undefined' ? {} : CUSTOMTRIGGERS_ORAS,
-	typeof CUSTOMTRIGGERS_SM === 'undefined' ? {} : CUSTOMTRIGGERS_SM
+    typeof CUSTOMFLAGS_RB === 'undefined' ? {} : CUSTOMFLAGS_RB,
+    typeof CUSTOMFLAGS_Y === 'undefined' ? {} : CUSTOMFLAGS_Y,
+    typeof CUSTOMFLAGS_GS === 'undefined' ? {} : CUSTOMFLAGS_GS,
+	typeof CUSTOMFLAGS_C === 'undefined' ? {} : CUSTOMFLAGS_C,
+    typeof CUSTOMFLAGS_RS === 'undefined' ? {} : CUSTOMFLAGS_RS,
+	typeof CUSTOMFLAGS_E === 'undefined' ? {} : CUSTOMFLAGS_E,
+	typeof CUSTOMFLAGS_FRLG === 'undefined' ? {} : CUSTOMFLAGS_FRLG,
+	typeof CUSTOMFLAGS_DP === 'undefined' ? {} : CUSTOMFLAGS_DP,
+    typeof CUSTOMFLAGS_Pl === 'undefined' ? {} : CUSTOMFLAGS_Pl,
+	typeof CUSTOMFLAGS_HGSS === 'undefined' ? {} : CUSTOMFLAGS_HGSS,
+	typeof CUSTOMFLAGS_BW === 'undefined' ? {} : CUSTOMFLAGS_BW,
+	typeof CUSTOMFLAGS_B2W2 === 'undefined' ? {} : CUSTOMFLAGS_B2W2,
+	typeof CUSTOMFLAGS_XY === 'undefined' ? {} : CUSTOMFLAGS_XY,
+	typeof CUSTOMFLAGS_ORAS === 'undefined' ? {} : CUSTOMFLAGS_ORAS,
+	typeof CUSTOMFLAGS_SM === 'undefined' ? {} : CUSTOMFLAGS_SM
 ];
 
 var CUSTOMHACKSETDEX = [
@@ -170,9 +170,9 @@ var CUSTOMHACKPARTYORDER = [
 	typeof CUSTOMHACKPARTYORDER_EK === 'undefined' ? {} : CUSTOMHACKPARTYORDER_EK
 ];
 
-var CUSTOMHACKTRIGGERS = [
+var CUSTOMHACKFLAGS = [
 	undefined,
-	typeof CUSTOMHACKTRIGGERS_EK === 'undefined' ? {} : CUSTOMHACKTRIGGERS_EK
+	typeof CUSTOMHACKFLAGS_EK === 'undefined' ? {} : CUSTOMHACKFLAGS_EK
 ];
 
 function updateGenOptions() {
