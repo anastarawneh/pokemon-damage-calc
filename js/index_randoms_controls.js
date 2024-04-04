@@ -419,6 +419,7 @@ function predictSwitchOrder() {
 				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[0]];
 				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[1]];
 				var typeEffectiveness = defender.types[1] ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
+				if (defender.ability == "Levitate" && move.type == "Ground") typeEffectiveness = 0;
 				if (typeEffectiveness > 1) {
 					nextMon = enemy.species;
 					break;
