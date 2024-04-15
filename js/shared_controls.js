@@ -1465,7 +1465,9 @@ function getSetOptions(sets) {
 			}
 		} else {
 			if (pokeName in setdex) {
-				var setNames = Object.keys(setdex[pokeName]);
+				var setNames = partyOrder ? Object.keys(setdex[pokeName]).sort((a, b) => {
+					return Object.keys(partyOrder).includes(b) ? Object.keys(partyOrder).indexOf(a) - Object.keys(partyOrder).indexOf(b) : -1;
+				}) : Object.keys(setdex[pokeName]);
 				for (var j = 0; j < setNames.length; j++) {
 					var setName = setNames[j];
 					setOptions.push({
