@@ -264,9 +264,9 @@ $(".mode").change(function () {
 $(".gamemode").change(function () {
 	var gamemode = $(this).attr("id");
 	if (gamemode === 'vanilla') {
-		window.location.replace('index' + linkExtension);
+		window.location.replace((location.hostname == 'calc.anastarawneh.com' ? '/' : 'index' + linkExtension));
 	} else {
-		window.location.replace('hacks' + linkExtension);
+		window.location.replace('hacks' + (location.hostname == 'calc.anastarawneh.com' ? '' : linkExtension));
 	}
 });
 
