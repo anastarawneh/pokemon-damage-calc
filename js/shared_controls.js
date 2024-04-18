@@ -1080,6 +1080,20 @@ function createPokemon(pokeInfo) {
 			});
 		}
 
+		var overrides = {};
+		if (pokedex[name]) {
+			var dexPokemon = pokedex[name];
+			overrides = {
+				baseStats: {
+					hp: dexPokemon.bs.hp,
+					atk: dexPokemon.bs.at,
+					def: dexPokemon.bs.df,
+					spa: dexPokemon.bs.sa,
+					spd: dexPokemon.bs.sd,
+					spe: dexPokemon.bs.sp,
+				}
+			};
+		}
 		return new calc.Pokemon(gen, name, {
 			level: set.level,
 			ability: set.ability,
@@ -1088,7 +1102,8 @@ function createPokemon(pokeInfo) {
 			nature: set.nature,
 			ivs: ivs,
 			evs: evs,
-			moves: pokemonMoves
+			moves: pokemonMoves,
+			overrides: overrides
 		});
 	} else {
 		var setName = pokeInfo.find("input.set-selector").val();
