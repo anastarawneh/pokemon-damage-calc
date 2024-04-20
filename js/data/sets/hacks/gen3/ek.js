@@ -2278,7 +2278,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Slakoth":
     {
-        "Youngster Joey": {"ability": "Truant", "item": "Choice Band", "ivs": {"at": 24, "df": 24, "hp": 24, "sa": 24, "sd": 24, "sp": 24}, "level": 10, "moves": ["Crush Claw"], "nature": "Adamant"}
+        "Youngster Joey": {"ability": "Truant", "item": "Choice Band", "ivs": {"at": 31, "df": 31, "hp": 31, "sa": 31, "sd": 31, "sp": 31}, "level": 10, "moves": ["Crush Claw"], "nature": "Adamant"}
     },
     "Slowbro":
     {
