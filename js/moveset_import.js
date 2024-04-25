@@ -88,16 +88,6 @@ function serialize(array, separator) {
 	return text;
 }
 
-function getAbility(row) {
-	var ability = row[1] ? row[1].trim() : '';
-	if (calc.ABILITIES[9].indexOf(ability) !== -1) return ability;
-}
-
-function getTeraType(row) {
-	var teraType = row[1] ? row[1].trim() : '';
-	if (Object.keys(calc.TYPE_CHART[9]).slice(1).indexOf(teraType) !== -1) return teraType;
-}
-
 function statToLegacyStat(stat) {
 	switch (stat) {
 	case 'hp':
@@ -113,90 +103,6 @@ function statToLegacyStat(stat) {
 	case 'spe':
 		return "sp";
 	}
-}
-
-function getStats(currentPoke, rows, offset) {
-	currentPoke.nature = "Serious";
-	var currentEV;
-	var currentIV;
-	var currentAbility;
-	var currentTeraType;
-	var currentNature;
-	currentPoke.level = 100;
-	for (var x = offset; x < offset + 9; x++) {
-		var currentRow = rows[x] ? rows[x].split(/[/:]/) : '';
-		var evs = {};
-		var ivs = {};
-		var ev;
-		var j;
-
-		switch (currentRow[0]) {
-		case 'Level':
-			currentPoke.level = parseInt(currentRow[1].trim());
-			break;
-		case 'EVs':
-			for (j = 1; j < currentRow.length; j++) {
-				currentEV = currentRow[j].trim().split(" ");
-				currentEV[1] = statToLegacyStat(currentEV[1].toLowerCase());
-				evs[currentEV[1]] = parseInt(currentEV[0]);
-			}
-			currentPoke.evs = evs;
-			break;
-		case 'IVs':
-			for (j = 1; j < currentRow.length; j++) {
-				currentIV = currentRow[j].trim().split(" ");
-				currentIV[1] = statToLegacyStat(currentIV[1].toLowerCase());
-				ivs[currentIV[1]] = parseInt(currentIV[0]);
-			}
-			currentPoke.ivs = ivs;
-			break;
-
-		}
-		currentAbility = rows[x] ? rows[x].trim().split(":") : '';
-		if (currentAbility[0] == "Ability") {
-			currentPoke.ability = currentAbility[1].trim();
-		}
-
-		currentTeraType = rows[x] ? rows[x].trim().split(":") : '';
-		if (currentTeraType[0] == "Tera Type") {
-			currentPoke.teraType = currentTeraType[1].trim();
-		}
-
-		currentNature = rows[x] ? rows[x].trim().split(" ") : '';
-		if (currentNature[1] == "Nature") {
-			currentPoke.nature = currentNature[0];
-		}
-	}
-	return currentPoke;
-}
-
-function getItem(currentRow, j) {
-	for (;j < currentRow.length; j++) {
-		var item = currentRow[j].trim();
-		if (calc.ITEMS[9].indexOf(item) != -1) {
-			return item;
-		}
-	}
-}
-
-function getMoves(currentPoke, rows, offset) {
-	var movesFound = false;
-	var moves = [];
-	for (var x = offset; x < offset + 12; x++) {
-		if (rows[x]) {
-			if (rows[x][0] == "-") {
-				movesFound = true;
-				var move = rows[x].substr(2, rows[x].length - 2).replace("[", "").replace("]", "").replace("  ", "");
-				moves.push(move);
-			} else {
-				if (movesFound == true) {
-					break;
-				}
-			}
-		}
-	}
-	currentPoke.moves = moves;
-	return currentPoke;
 }
 
 function addToDex(poke) {
@@ -310,28 +216,75 @@ function addSets(pokes, name) {
 	var currentPoke;
 	var addedpokes = 0;
 	for (var i = 0; i < rows.length; i++) {
-		currentRow = rows[i].split(/[()@]/);
-		for (var j = 0; j < currentRow.length; j++) {
-			currentRow[j] = checkExeptions(currentRow[j].trim());
-			if (calc.SPECIES[9][currentRow[j].trim()] !== undefined) {
-				currentPoke = calc.SPECIES[9][currentRow[j].trim()];
-				currentPoke.name = currentRow[j].trim();
-				currentPoke.item = getItem(currentRow, j + 1);
-				if (j === 1 && currentRow[0].trim()) {
-					currentPoke.nameProp = currentRow[0].trim();
-				} else {
-					currentPoke.nameProp = name;
-				}
-				currentPoke.isCustomSet = true;
-				currentPoke.ability = getAbility(rows[i + 1].split(":"));
-				currentPoke.teraType = getTeraType(rows[i + 1].split(":"));
-				currentPoke = getStats(currentPoke, rows, i + 1);
-				currentPoke = getMoves(currentPoke, rows, i);
-				addToDex(currentPoke);
-				addBoxed(currentPoke);
-				addedpokes++;
+		currentRow = rows[i];
+		var split = currentRow.split(/^([^(@]+)(\((.+)\))? ?(@ (.+))?/);
+		if (split.length > 1 && split[2] && currentPoke) {
+			addToDex(currentPoke);
+			addBoxed(currentPoke);
+			addedpokes++;
+		}
+		if (split[3] && calc.SPECIES[9][checkExeptions(split[3].trim())]) {
+			currentPoke = calc.SPECIES[9][checkExeptions(split[3].trim())];
+			currentPoke.name = split[3].trim();
+			currentPoke.nameProp = split[1].trim();
+			currentPoke.moves = [];
+			currentPoke.nature = "Hardy";
+		} else if (split[1] && calc.SPECIES[9][checkExeptions(split[1].trim())]) {
+			currentPoke = calc.SPECIES[9][checkExeptions(split[1].trim())];
+			currentPoke.name = split[1].trim();
+			currentPoke.nameProp = name;
+			currentPoke.moves = [];
+			currentPoke.nature = "Hardy";
+		}
+		if (!currentPoke) continue;
+		if (split[5] && calc.ITEMS[9].includes(split[5].trim())) currentPoke.item = split[5].trim();
+		currentPoke.isCustomSet = true;
+		if (currentRow.includes("Ability: ")) {
+			var ability = currentRow.replace("Ability: ", "").trim();
+			if (calc.ABILITIES[9][ability]) currentPoke.ability = ability;
+		}
+		if (currentRow.includes("Level: ")) {
+			var level = currentRow.replace("Level: ", "").trim();
+			if (parseInt(level)) currentPoke.level = parseInt(level);
+			else currentPoke.level = 100;
+		}
+		if (currentRow.includes("Tera Type: ")) {
+			var teraType = currentRow.replace("Tera Type: ", "").trim();
+			if (calc.TYPE_CHART[9][teraType]) currentPoke.teraType = teraType;
+		}
+		if (currentRow.includes(" Nature")) {
+			var nature = currentRow.replace(" Nature", "").trim();
+			if (calc.NATURES[nature]) currentPoke.nature = nature;
+		}
+		if (currentRow.includes("IVs: ")) {
+			currentPoke.ivs = {};
+			var ivs = currentRow.replace("IVs: ", "").trim().split(" / ");
+			for (var j in ivs) {
+				var iv = ivs[j];
+				var stat = statToLegacyStat(iv.split(" ")[1].toLowerCase());
+				var value = parseInt(iv.split(" ")[0]);
+				currentPoke.ivs[stat] = value;
 			}
 		}
+		if (currentRow.includes("EVs: ")) {
+			currentPoke.evs = {};
+			var evs = currentRow.replace("EVs: ", "").trim().split(" / ");
+			for (var j in evs) {
+				var ev = evs[j];
+				var stat = statToLegacyStat(ev.split(" ")[1].toLowerCase());
+				var value = parseInt(ev.split(" ")[0]);
+				currentPoke.evs[stat] = value;
+			}
+		}
+		if (currentRow.startsWith("- ")) {
+			var move = currentRow.replace("- ", "").replace("[", "").replace("]", "").trim();
+			currentPoke.moves.push(move);
+		}
+	}
+	if (currentPoke) {
+		addToDex(currentPoke);
+		addBoxed(currentPoke);
+		addedpokes++;
 	}
 	if (addedpokes > 0) {
 		$(allPokemon("#importedSetsOptions")).css("display", "inline");
