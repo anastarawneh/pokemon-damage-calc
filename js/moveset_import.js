@@ -241,7 +241,7 @@ function addSets(pokes, name) {
 		currentPoke.isCustomSet = true;
 		if (currentRow.includes("Ability: ")) {
 			var ability = currentRow.replace("Ability: ", "").trim();
-			if (calc.ABILITIES[9][ability]) currentPoke.ability = ability;
+			if (calc.ABILITIES[9].includes(ability)) currentPoke.ability = ability;
 		}
 		if (currentRow.includes("Level: ")) {
 			var level = currentRow.replace("Level: ", "").trim();
