@@ -216,7 +216,7 @@ function addSets(pokes, name) {
 	var currentPoke;
 	var addedpokes = 0;
 	for (var i = 0; i < rows.length; i++) {
-		currentRow = rows[i];
+		currentRow = rows[i].replace(" (M)", "").replace(" (F)", "");
 		var split = currentRow.split(/^([^(@]+)(\((.+)\))? ?(@ (.+))?/);
 		if (split.length > 1 && split[2] && currentPoke) {
 			addToDex(currentPoke);
