@@ -218,18 +218,25 @@ function addSets(pokes, name) {
 	for (var i = 0; i < rows.length; i++) {
 		currentRow = rows[i].replace(" (M)", "").replace(" (F)", "");
 		var split = currentRow.split(/^([^(@]+)(\((.+)\))? ?(@ (.+))?/);
-		if (split.length > 1 && split[2] && currentPoke) {
-			addToDex(currentPoke);
-			addBoxed(currentPoke);
-			addedpokes++;
-		}
 		if (split[3] && calc.SPECIES[9][checkExeptions(split[3].trim())]) {
-			currentPoke = calc.SPECIES[9][checkExeptions(split[3].trim())];
+			if (currentPoke) {
+				addToDex(currentPoke);
+				addBoxed(currentPoke);
+				addedpokes++;
+			}
+
+			currentPoke = Object.assign({}, calc.SPECIES[9][checkExeptions(split[3].trim())]);
 			currentPoke.name = split[3].trim();
 			currentPoke.nameProp = split[1].trim();
 			currentPoke.moves = [];
 			currentPoke.nature = "Hardy";
 		} else if (split[1] && calc.SPECIES[9][checkExeptions(split[1].trim())]) {
+			if (currentPoke) {
+				addToDex(currentPoke);
+				addBoxed(currentPoke);
+				addedpokes++;
+			}
+
 			currentPoke = calc.SPECIES[9][checkExeptions(split[1].trim())];
 			currentPoke.name = split[1].trim();
 			currentPoke.nameProp = name;
@@ -278,6 +285,7 @@ function addSets(pokes, name) {
 		}
 		if (currentRow.startsWith("- ")) {
 			var move = currentRow.replace("- ", "").replace("[", "").replace("]", "").trim();
+			if (game == "Emerald Kaizo") move = move.replace("High Jump Kick", "Hi Jump Kick").replace("Sonic Boom", "Sonicboom").replace("Ancient Power", "Ancientpower").replace("Feint Attack", "Faint Attack");
 			currentPoke.moves.push(move);
 		}
 	}
