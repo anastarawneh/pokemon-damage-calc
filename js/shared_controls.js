@@ -1841,6 +1841,8 @@ function getTrainerPokemon(trainerName) {
 		for (i in TR_NAMES) {
 			if (TR_NAMES[i].replaceAll("*", "").trim().includes(`(${trueName})`)) {
 				matches.push(TR_NAMES[i]);
+			} else if (TR_NAMES[i].replaceAll("*", "").trim().includes(`(${trueName} (`)) {
+				matches.push(TR_NAMES[i]);
 			}
 		}
 		return matches;
