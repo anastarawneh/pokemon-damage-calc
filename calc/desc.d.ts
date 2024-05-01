@@ -31,6 +31,10 @@ export interface RawDesc {
     isFlowerGiftDefender?: boolean;
     isFriendGuard?: boolean;
     isHelpingHand?: boolean;
+    isBoulderBadge?: boolean;
+    isThunderBadge?: boolean;
+    isSoulBadge?: boolean;
+    isVolcanoBadge?: boolean;
     isStoneBadge?: boolean;
     isMindBadge?: boolean;
     isCritical?: boolean;

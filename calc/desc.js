@@ -682,6 +682,12 @@ function buildDescription(description, attacker, defender) {
     if (description.isHelpingHand) {
         output += 'Helping Hand ';
     }
+    if (description.isBoulderBadge) {
+        output += 'Atk Badge boosted ';
+    }
+    if (description.isVolcanoBadge) {
+        output += 'Spc Badge boosted ';
+    }
     if (description.isStoneBadge) {
         output += 'Atk Badge boosted ';
     }

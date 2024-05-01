@@ -1007,28 +1007,56 @@
                                 <label class="btn btn-xxwide" for="helpingHandR">Helping Hand</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm1">
+                        <tr class="game-specific" hidden>
+                            <td><div class="left" title="Has this Pok&eacute;mon's attack been boosted by Brock's badge?">
+                                <div hidden id="selectBoulderBadgeInstruction">Has this Pok&eacute;mon's attack been boosted by Brock's badge?</div>
+                                <input aria-describedby="selectBoulderBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="boulderBadge" />
+                                <label class="btn btn-xxwide" for="boulderBadge">Attack Boost</label>
+                            </div></td>
+                        </tr>
+                        <tr class="game-specific" hidden>
+                            <td><div class="left" title="Has this Pok&eacute;mon's defense been boosted by Lt. Surge's badge?">
+                                <div hidden id="selectThunderBadgeInstruction">Has this Pok&eacute;mon's defense been boosted by Lt. Surge's badge?</div>
+                                <input aria-describedby="selectThunderBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="thunderBadge" />
+                                <label class="btn btn-xxwide" for="thunderBadge">Defense Boost</label>
+                            </div></td>
+                        </tr>
+                        <tr class="game-specific" hidden>
+                            <td><div class="left" title="Has this Pok&eacute;mon's speed been boosted by Koga's badge?">
+                                <div hidden id="selectSoulBadgeInstruction">Has this Pok&eacute;mon's speed been boosted by Koga's badge?</div>
+                                <input aria-describedby="selectSoulBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="soulBadge" />
+                                <label class="btn btn-xxwide" for="soulBadge">Speed Boost</label>
+                            </div></td>
+                        </tr>
+                        <tr class="game-specific" hidden>
+                            <td><div class="left" title="Have this Pok&eacute;mon's special been boosted by Blaine's badge?">
+                                <div hidden id="selectVolcanoBadgeInstruction">Have this Pok&eacute;mon's special been boosted by Blaine's badge?</div>
+                                <input aria-describedby="selectVolcanoBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="volcanoBadge" />
+                                <label class="btn btn-xxwide" for="volcanoBadge">Special Boost</label>
+                            </div></td>
+                        </tr>
+                        <tr class="game-specific gm1" hidden>
                             <td><div class="left" title="Has this Pok&eacute;mon's attack been boosted by Roxxane's badge?">
                                 <div hidden id="selectStoneBadgeInstruction">Has this Pok&eacute;mon's attack been boosted by Roxxane's badge?</div>
                                 <input aria-describedby="selectStoneBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="stoneBadge" />
                                 <label class="btn btn-xxwide" for="stoneBadge">Attack Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm1">
+                        <tr class="game-specific gm1" hidden>
                             <td><div class="left" title="Has this Pok&eacute;mon's speed been boosted by Wattson's badge?">
                                 <div hidden id="selectDynamoBadgeInstruction">Has this Pok&eacute;mon's speed been boosted by Wattson's badge?</div>
                                 <input aria-describedby="selectDynamoBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="dynamoBadge" />
                                 <label class="btn btn-xxwide" for="dynamoBadge">Speed Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm1">
+                        <tr class="game-specific gm1" hidden>
                             <td><div class="left" title="Has this Pok&eacute;mon's defense been boosted by Norman's badge?">
                                 <div hidden id="selectBalanceBadgeInstruction">Has this Pok&eacute;mon's defense been boosted by Norman's badge?</div>
                                 <input aria-describedby="selectBalanceBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="balanceBadge" />
                                 <label class="btn btn-xxwide" for="balanceBadge">Defense Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm1">
+                        <tr class="game-specific gm1" hidden>
                             <td><div class="left" title="Have this Pok&eacute;mon's special stats been boosted by Tate & Liza's badge?">
                                 <div hidden id="selectMindBadgeInstruction">Have this Pok&eacute;mon's special stats been boosted by Tate &amp; Liza's badge?</div>
                                 <input aria-describedby="selectMindBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="mindBadge" />
@@ -1750,20 +1778,20 @@
     <script type="text/javascript" src="./calc/data/index.js?abecbd82"></script>
     <script type="text/javascript" src="./calc/move.js?6c38056c"></script>
     <script type="text/javascript" src="./calc/pokemon.js?1e459e1e"></script>
-    <script type="text/javascript" src="./calc/field.js?deefb085"></script>
+    <script type="text/javascript" src="./calc/field.js?410fb7b2"></script>
     <script type="text/javascript" src="./calc/items.js?067e42a4"></script>
-    <script type="text/javascript" src="./calc/mechanics/util.js?81bfc95f"></script>
+    <script type="text/javascript" src="./calc/mechanics/util.js?e3caca97"></script>
     <script type="text/javascript" src="./calc/mechanics/gen789.js?01d413a2"></script>
     <script type="text/javascript" src="./calc/mechanics/gen56.js?cab200f7"></script>
     <script type="text/javascript" src="./calc/mechanics/gen4.js?c8ac642f"></script>
     <script type="text/javascript" src="./calc/mechanics/gen3.js?5cacb31e"></script>
-    <script type="text/javascript" src="./calc/mechanics/gen12.js?a49058b2"></script>
+    <script type="text/javascript" src="./calc/mechanics/gen12.js?14e8e280"></script>
     <script type="text/javascript" src="./calc/calc.js?40a2d9b1"></script>
-    <script type="text/javascript" src="./calc/desc.js?2b2de5d4"></script>
+    <script type="text/javascript" src="./calc/desc.js?14c2807f"></script>
     <script type="text/javascript" src="./calc/result.js?9f8881b5"></script>
     <script type="text/javascript" src="./calc/adaptable.js?92e49194"></script>
     <script type="text/javascript" src="./calc/index.js?b8906f6c"></script>
-    <script type="text/javascript" src="./js/shared_controls.js?da4a98a2"></script>
+    <script type="text/javascript" src="./js/shared_controls.js?41fcc269"></script>
     <script type="text/javascript" src="./js/index_randoms_controls.js?34e74509"></script>
     <script type="text/javascript" src="./js/moveset_import.js?8747fb0a"></script>
 

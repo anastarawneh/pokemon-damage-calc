@@ -133,7 +133,10 @@ function getFinalSpeed(gen, pokemon, field, side) {
     var terrain = field.terrain;
     var speed = getModifiedStat(pokemon.rawStats.spe, pokemon.boosts.spe, gen);
     var speedMods = [];
-    if (field.attackerSide.isDynamoBadge) {
+    if (field.attackerSide.isSoulBadge && gen.num == 1) {
+        speed = Math.floor(speed * 1.25);
+    }
+    if (field.attackerSide.isDynamoBadge && gen.num == 3) {
         speed = Math.floor(speed * 1.1);
     }
     if (side.isTailwind)

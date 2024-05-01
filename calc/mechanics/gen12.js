@@ -119,6 +119,20 @@ function calculateRBYGSC(gen, attacker, defender, move, field) {
     var defenseStat = isPhysical ? 'def' : 'spd';
     var at = attacker.stats[attackStat];
     var df = defender.stats[defenseStat];
+    if (field.attackerSide.isBoulderBadge && move.hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison')) {
+        at = Math.floor(at * 1.25);
+        desc.isBoulderBadge = true;
+    }
+    if (field.attackerSide.isVolcanoBadge && move.hasType('Water', 'Grass', 'Fire', 'Ice', 'Electric', 'Psychic', 'Dragon')) {
+        at = Math.floor(at * 1.25);
+        desc.isVolcanoBadge = true;
+    }
+    if (field.defenderSide.isThunderBadge && isPhysical) {
+        df = Math.floor(df * 1.25);
+    }
+    if (field.defenderSide.isVolcanoBadge && !isPhysical) {
+        df = Math.floor(df * 1.25);
+    }
     var ignoreMods = move.isCrit &&
         (gen.num === 1 ||
             (gen.num === 2 && attacker.boosts[attackStat] <= defender.boosts[defenseStat]));

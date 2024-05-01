@@ -1229,6 +1229,10 @@ function createField() {
 	var isSeeded = [$("#leechSeedL").prop("checked"), $("#leechSeedR").prop("checked")];
 	var isForesight = [$("#foresightL").prop("checked"), $("#foresightR").prop("checked")];
 	var isHelpingHand = [$("#helpingHandL").prop("checked"), $("#helpingHandR").prop("checked")];
+	var isBoulderBadge = [$("#boulderBadge").prop("checked"), false];
+	var isThunderBadge = [$("#thunderBadge").prop("checked"), false];
+	var isSoulBadge = [$("#soulBadge").prop("checked"), false];
+	var isVolcanoBadge = [$("#volcanoBadge").prop("checked"), false];
 	var isStoneBadge = [$("#stoneBadge").prop("checked"), false];
 	var isDynamoBadge = [$("#dynamoBadge").prop("checked"), false];
 	var isBalanceBadge = [$("#balanceBadge").prop("checked"), false];
@@ -1249,6 +1253,7 @@ function createField() {
 			isReflect: isReflect[i], isLightScreen: isLightScreen[i],
 			isProtected: isProtected[i], isSeeded: isSeeded[i], isForesight: isForesight[i],
 			isTailwind: isTailwind[i], isHelpingHand: isHelpingHand[i],
+			isBoulderBadge: isBoulderBadge[i], isThunderBadge: isThunderBadge[i], isSoulBadge: isSoulBadge[i], isVolcanoBadge: isVolcanoBadge[i],
 			isStoneBadge: isStoneBadge[i], isDynamoBadge: isDynamoBadge[i], isBalanceBadge: isBalanceBadge[i], isMindBadge: isMindBadge[i],
 			isFlowerGift: isFlowerGift[i], isFriendGuard: isFriendGuard[i],
 			isAuroraVeil: isAuroraVeil[i], isBattery: isBattery[i], isPowerSpot: isPowerSpot[i], isSwitching: isSwitchingOut[i] ? 'out' : undefined
