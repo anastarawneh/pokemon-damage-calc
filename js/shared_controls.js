@@ -417,27 +417,13 @@ $("#p1 .item").bind("keyup change", function () {
 	autosetStatus("#p1", $(this).val());
 });
 
-var lastManualStatus = {"#p1": "Healthy"};
-var lastAutoStatus = {"#p1": "Healthy"};
 function autosetStatus(p, item) {
-	var currentStatus = $(p + " .status").val();
-	if (currentStatus !== lastAutoStatus[p]) {
-		lastManualStatus[p] = currentStatus;
-	}
 	if (item === "Flame Orb") {
-		lastAutoStatus[p] = "Burned";
 		$(p + " .status").val("Burned");
 		$(p + " .status").change();
 	} else if (item === "Toxic Orb") {
-		lastAutoStatus[p] = "Badly Poisoned";
 		$(p + " .status").val("Badly Poisoned");
 		$(p + " .status").change();
-	} else {
-		lastAutoStatus[p] = "Healthy";
-		if (currentStatus !== lastManualStatus[p]) {
-			$(p + " .status").val(lastManualStatus[p]);
-			$(p + " .status").change();
-		}
 	}
 }
 
