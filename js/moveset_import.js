@@ -137,6 +137,7 @@ function addToDex(poke) {
 	dexObject.level = poke.level;
 	dexObject.evs = poke.evs;
 	dexObject.ivs = poke.ivs;
+	dexObject.dvs = poke.dvs;
 	dexObject.moves = poke.moves;
 	dexObject.nature = poke.nature;
 	dexObject.item = poke.item;
@@ -265,14 +266,37 @@ function addSets(pokes, name) {
 			var nature = currentRow.replace(" Nature", "").trim();
 			if (calc.NATURES[nature]) currentPoke.nature = nature;
 		}
+		if (currentRow.includes("DVs: ")) {
+			currentPoke.dvs = {};
+			var dvs = currentRow.replace("DVs: ", "").trim().split(" / ");
+			for (var j in dvs) {
+				var dv = dvs[j];
+				var stat = statToLegacyStat(dv.split(" ")[1].toLowerCase());
+				var value = parseInt(dv.split(" ")[0]);
+				currentPoke.dvs[stat] = value;
+			}
+			if (currentPoke.dvs["sa"] !== undefined) currentPoke.dvs["sl"] = currentPoke.dvs["sa"];
+		}
 		if (currentRow.includes("IVs: ")) {
-			currentPoke.ivs = {};
-			var ivs = currentRow.replace("IVs: ", "").trim().split(" / ");
-			for (var j in ivs) {
-				var iv = ivs[j];
-				var stat = statToLegacyStat(iv.split(" ")[1].toLowerCase());
-				var value = parseInt(iv.split(" ")[0]);
-				currentPoke.ivs[stat] = value;
+			if (gen < 3) {
+				currentPoke.dvs = {};
+				var dvs = currentRow.replace("IVs: ", "").trim().split(" / ");
+				for (var j in dvs) {
+					var dv = dvs[j];
+					var stat = statToLegacyStat(dv.split(" ")[1].toLowerCase());
+					var value = parseInt(dv.split(" ")[0]);
+					currentPoke.dvs[stat] = value;
+				}
+				if (currentPoke.dvs["sa"] !== undefined) currentPoke.dvs["sl"] = currentPoke.dvs["sa"];
+			} else {
+				currentPoke.ivs = {};
+				var ivs = currentRow.replace("IVs: ", "").trim().split(" / ");
+				for (var j in ivs) {
+					var iv = ivs[j];
+					var stat = statToLegacyStat(iv.split(" ")[1].toLowerCase());
+					var value = parseInt(iv.split(" ")[0]);
+					currentPoke.ivs[stat] = value;
+				}
 			}
 		}
 		if (currentRow.includes("EVs: ")) {
