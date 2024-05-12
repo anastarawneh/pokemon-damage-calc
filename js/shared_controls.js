@@ -724,7 +724,20 @@ $(".set-selector").change(function () {
 			for (i = 0; i < 4; i++) {
 				moveObj = pokeObj.find(".move" + (i + 1) + " select.move-selector");
 				moveObj.attr('data-prev', moveObj.val());
-				setSelectValueIfValid(moveObj, moves[i], "(No Move)");
+				if (moves[i] === "Hidden Power") {
+					var ivs = {};
+					var maxed = true;
+					for (var i = 0; i <= LEGACY_STATS[9].length; i++) {
+						var s = LEGACY_STATS[9][i];
+						var iv = ivs[legacyStatToStat(s)] = (pokemon.ivs && pokemon.ivs[s]) || 31;
+						if (iv !== 31) maxed = false;
+					}
+
+					var expectedType = calc.Stats.getHiddenPower(GENERATION, ivs).type;
+					setSelectValueIfValid(moveObj, "Hidden Power " + expectedType, "(No Move)");
+				} else {
+					setSelectValueIfValid(moveObj, moves[i], "(No Move)");
+				}
 				moveObj.change();
 			}
 			if (randset) {

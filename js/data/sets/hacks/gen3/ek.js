@@ -640,7 +640,7 @@ var CUSTOMHACKSETDEX_EK = {
     {
         "Battle Girl Crissy": {"ability": "Static", "item": "Lum Berry", "level": 72, "moves": ["Thunder", "Cross Chop", "Ice Punch", "Psychic"], "nature": "Naughty"},
         "Cooltrainer Marcel": {"ability": "Static", "item": "Lum Berry", "level": 51, "moves": ["Thunderbolt", "Ice Punch", "Cross Chop", "Quick Attack"], "nature": "Lax"},
-        "Expert Edgar": {"ability": "Static", "item": "Lum Berry", "level": 88, "moves": ["Thunderbolt", "Hidden Power Dark", "Ice Punch", "Fire Punch"], "nature": "Naughty"},
+        "Expert Edgar": {"ability": "Static", "item": "Lum Berry", "level": 88, "moves": ["Thunderbolt", "Hidden Power", "Ice Punch", "Fire Punch"], "nature": "Naughty"},
         "Expert Keegan": {"ability": "Static", "item": " Lum Berry", "level": 37, "moves": ["Fire Punch", "Ice Punch", "Thunderbolt", "Cross Chop"], "nature": "Lonely"},
         "Guitarist Beth": {"ability": "Static", "item": "Lum Berry", "level": 49, "moves": ["Thunder", "Ice Punch", "Cross Chop", "Psychic"], "nature": "Brave"},
         "Leader Wattson": {"ability": "Static", "item": "Lum Berry", "level": 28, "moves": ["Psychic", "Thunderbolt", "Fire Punch", "Ice Punch"], "nature": "Quiet"},
