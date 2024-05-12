@@ -2636,7 +2636,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Unown":
     {
-        "Psychic Brandi": {"ability": "Levitate", "item": "Choice Band", "ivs": {"at": 29, "df": 29, "hp": 29, "sa": 29, "sd": 29, "sp": 29}, "level": 23, "moves": ["Hidden Power Dark"], "nature": "Docile"},
+        "Psychic Brandi": {"ability": "Levitate", "item": "Choice Band", "ivs": {"at": 29, "df": 29, "hp": 29, "sa": 29, "sd": 29, "sp": 29}, "level": 23, "moves": ["Hidden Power"], "nature": "Docile"},
         "Psychic Jaclyn": {"ability": "Levitate", "item": "Choice Band", "ivs": {"at": 30, "df": 30, "hp": 30, "sa": 30, "sd": 30, "sp": 30}, "level": 19, "moves": ["Hidden Power Fighting"], "nature": "Impish"}
     },
     "Ursaring":
