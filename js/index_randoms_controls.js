@@ -28,6 +28,28 @@ function performCalculations() {
 	var p1field = createField();
 	var p2field = p1field.clone().swap();
 
+	if (localStorage.customsets) {
+		var customsets = JSON.parse(localStorage.customsets);
+		if (customsets[p2.name] !== undefined && customsets[p2.name][window.CURRENT_TRAINER] !== undefined) {
+			p1field.defenderSide.isBoulderBadge = p1field.attackerSide.isBoulderBadge;
+			p1field.defenderSide.isThunderBadge = p1field.attackerSide.isThunderBadge;
+			p1field.defenderSide.isSoulBadge = p1field.attackerSide.isSoulBadge;
+			p1field.defenderSide.isVolcanoBadge = p1field.attackerSide.isVolcanoBadge;
+			p1field.defenderSide.isStoneBadge = p1field.attackerSide.isStoneBadge;
+			p1field.defenderSide.isDynamoBadge = p1field.attackerSide.isDynamoBadge;
+			p1field.defenderSide.isBalanceBadge = p1field.attackerSide.isBalanceBadge;
+			p1field.defenderSide.isMindBadge = p1field.attackerSide.isMindBadge;
+			p2field.attackerSide.isBoulderBadge = p2field.defenderSide.isBoulderBadge;
+			p2field.attackerSide.isThunderBadge = p2field.defenderSide.isThunderBadge;
+			p2field.attackerSide.isSoulBadge = p2field.defenderSide.isSoulBadge;
+			p2field.attackerSide.isVolcanoBadge = p2field.defenderSide.isVolcanoBadge;
+			p2field.attackerSide.isStoneBadge = p2field.defenderSide.isStoneBadge;
+			p2field.attackerSide.isDynamoBadge = p2field.defenderSide.isDynamoBadge;
+			p2field.attackerSide.isBalanceBadge = p2field.defenderSide.isBalanceBadge;
+			p2field.attackerSide.isMindBadge = p2field.defenderSide.isMindBadge;
+		}
+	}
+
 	damageResults = calculateAllMoves(gen, p1, p1field, p2, p2field);
 	p1 = damageResults[0][0].attacker;
 	p2 = damageResults[1][0].attacker;

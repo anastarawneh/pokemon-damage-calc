@@ -41,7 +41,7 @@
 
     <span class="title-text main-title-text">Pok&eacute;mon Damage Calculator</span>
     <div aria-label="Settings" role="region">
-        <span class="genSelection" aria-labelledby="selectGenInstruction" role="radiogroup" title="Select the generation."style="padding-top: 5px;">
+        <span class="genSelection" aria-labelledby="selectGenInstruction" role="radiogroup" title="Select the generation." style="padding-top: 5px;">
             <span class="visually-hidden" id="selectGenInstruction">Select the generation.</span>
             <input class="gen visually-hidden" type="radio" name="gen" value="1" id="gen1" /><label class="btn btn-small btn-left" for="gen1">RBY</label>
             <input class="gen visually-hidden" type="radio" name="gen" value="2" id="gen2" /><label class="btn btn-small btn-mid" for="gen2">GSC</label>
@@ -93,7 +93,6 @@
             <input class="game visually-hidden" type="radio" name="game" value="17" id="game17" disabled /><label class="btn btn-mid" for="game17">Sw/Sh</label>
             <input class="game visually-hidden" type="radio" name="game" value="18" id="game18" disabled /><label class="btn btn-mid" for="game18">BD/SP</label>
             <input class="game visually-hidden" type="radio" name="game" value="19" id="game19" disabled /><label class="btn btn-right" for="game19">S/V</label>
-
         </span>
     </div>
     <hr />
@@ -497,6 +496,7 @@
                         <option value="spd">Special Defense</option>
                         <option value="spe">Speed</option>
                     </select>
+                    <button class="transform" hidden>Transform</button>
                 </div>
                 <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
                     <label for="itemL1">Item</label>
@@ -588,6 +588,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
             <div class="move2">
                 <select class="move-selector calc-trigger small-select"></select>
@@ -624,6 +625,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
             <div class="move3">
                 <select class="move-selector calc-trigger small-select"></select>
@@ -660,6 +662,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
             <div class="move4">
                 <select class="move-selector calc-trigger small-select"></select>
@@ -696,6 +699,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
         </fieldset>
         <div class="trainer-pokes">
@@ -1513,23 +1517,24 @@
                     <label for="abilityR1">Ability</label>
                     <select class="ability terrain-trigger calc-trigger" id="abilityR1"></select>
                     <input hidden type="checkbox" title= "Is this ability active?" class="abilityToggle calc-trigger">
-                        <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
-                            <option value="0">Zero allies fainted</option>
-                            <option value="1">One ally fainted</option>
-                            <option value="2">Two allies fainted</option>
-                            <option value="3">Three allies fainted</option>
-                            <option value="4">Four allies fainted</option>
-                            <option value="5">Five allies fainted</option>
-                        </select>
-                        <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
-                            <option value="auto">Auto-Select</option>
-                            <option value="">Inactive</option>
-                            <option value="atk">Attack</option>
-                            <option value="def">Defense</option>
-                            <option value="spa">Special Attack</option>
-                            <option value="spd">Special Defense</option>
-                            <option value="spe">Speed</option>
-                        </select>
+                    <select hidden aria-label="Allies fainted" class="alliesFainted calc-trigger">
+                        <option value="0">Zero allies fainted</option>
+                        <option value="1">One ally fainted</option>
+                        <option value="2">Two allies fainted</option>
+                        <option value="3">Three allies fainted</option>
+                        <option value="4">Four allies fainted</option>
+                        <option value="5">Five allies fainted</option>
+                    </select>
+                    <select hidden aria-label="Boosted Stat" title="What stat is boosted by this ability?" class="boostedStat calc-trigger">
+                        <option value="auto">Auto-Select</option>
+                        <option value="">Inactive</option>
+                        <option value="atk">Attack</option>
+                        <option value="def">Defense</option>
+                        <option value="spa">Special Attack</option>
+                        <option value="spd">Special Defense</option>
+                        <option value="spe">Speed</option>
+                    </select>
+                    <button class="transform" hidden>Transform</button>
                 </div>
                 <div class="gen-specific g2 g3 g4 g5 g6 g7 g8 g9">
                     <label for="itemR1">Item</label>
@@ -1619,6 +1624,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
             <div class="move2">
                 <select class="move-selector calc-trigger small-select"></select>
@@ -1655,6 +1661,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
             <div class="move3">
                 <select class="move-selector calc-trigger small-select"></select>
@@ -1691,6 +1698,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
             <div class="move4">
                 <select class="move-selector calc-trigger small-select"></select>
@@ -1727,6 +1735,7 @@
                     <option value="4">4 times</option>
                     <option value="5">5 times</option>
                 </select>
+                <button class="transform" hidden>Transform</button>
             </div>
         </fieldset>
         <div class="game-specific gm1 gm2 gm3 gm4 gm5 gm6 gm7 gm8 gm9 gm10 gm11 gm12 gm13 gm14 gm15 gm16 gm17">
@@ -1810,8 +1819,8 @@
     <script type="text/javascript" src="./calc/result.js?9f8881b5"></script>
     <script type="text/javascript" src="./calc/adaptable.js?92e49194"></script>
     <script type="text/javascript" src="./calc/index.js?b8906f6c"></script>
-    <script type="text/javascript" src="./js/shared_controls.js?17e3770c"></script>
-    <script type="text/javascript" src="./js/index_randoms_controls.js?f73aee9b"></script>
+    <script type="text/javascript" src="./js/shared_controls.js?58b5dca2"></script>
+    <script type="text/javascript" src="./js/index_randoms_controls.js?cc5e5b70"></script>
     <script type="text/javascript" src="./js/moveset_import.js?371a30e1"></script>
 
     <script type="text/javascript" src="./js/game_controls.js"></script>

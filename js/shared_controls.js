@@ -280,6 +280,12 @@ $(".ability").bind("keyup change", function () {
 		$(this).closest(".poke-info").find(".alliesFainted").hide();
 
 	}
+
+	if (ability === "Imposter") {
+		$(this).siblings(".transform").show();
+	} else {
+		$(this).siblings(".transform").hide();
+	}
 });
 
 function autosetQP(pokemon) {
@@ -521,6 +527,12 @@ $(".move-selector").change(function () {
 		moveGroupObj.children(".stat-drops").hide();
 	}
 	moveGroupObj.children(".move-z").prop("checked", false);
+	
+	if (moveName === "Transform") {
+		moveGroupObj.children(".transform").show();
+	} else {
+		moveGroupObj.children(".transform").hide();
+	}
 });
 
 $(".item").change(function () {
@@ -726,11 +738,9 @@ $(".set-selector").change(function () {
 				moveObj.attr('data-prev', moveObj.val());
 				if (moves[i] === "Hidden Power") {
 					var ivs = {};
-					var maxed = true;
 					for (var i = 0; i <= LEGACY_STATS[9].length; i++) {
 						var s = LEGACY_STATS[9][i];
-						var iv = ivs[legacyStatToStat(s)] = (pokemon.ivs && pokemon.ivs[s]) || 31;
-						if (iv !== 31) maxed = false;
+						ivs[legacyStatToStat(s)] = (pokemon.ivs && pokemon.ivs[s]) || 31;
 					}
 
 					var expectedType = calc.Stats.getHiddenPower(GENERATION, ivs).type;
@@ -2144,6 +2154,42 @@ $(document).ready(function () {
 	$('#cc-advanced').change(colorCodeUpdate);
 	$('#cc-spe-border')[0].checked=true;
 	$('#cc-ohko-color')[0].checked=true;
+
+	$('.transform').on("click", function() {
+		var transformer = $(this).closest(".poke-info");
+		var target = $(transformer.attr("id") === "p1" ? "#p2" : "#p1");
+
+		transformer.siblings().find(".forme").parent().replaceWith(target.siblings().find(".forme").parent());
+		transformer.find(".type1").val(target.find(".type1").val());
+		transformer.find(".type2").val(target.find(".type2").val());
+		for (i = 0; i < LEGACY_STATS[gen].length; i++) {
+			var stat = LEGACY_STATS[gen][i];
+			if (stat === "hp") continue;
+			transformer.find("." + stat + " .evs").val(target.find("." + stat + " .evs").val());
+			transformer.find("." + stat + " .ivs").val(target.find("." + stat + " .ivs").val());
+			transformer.find("." + stat + " .dvs").val(target.find("." + stat + " .dvs").val());
+		}
+		calcStats(transformer);
+		for (i = 0; i < 4; i++) {
+			var move = target.find(".move" + (i + 1) + " select.move-selector").val();
+			if (move.startsWith("Hidden Power")) {
+				var pokemon = createPokemon(transformer);
+				var ivs = {};
+				for (var j = 0; j <= LEGACY_STATS[9].length; j++) {
+					var s = LEGACY_STATS[9][j];
+					ivs[legacyStatToStat(s)] = (pokemon.ivs && pokemon.ivs[s]) || 31;
+				}
+				
+				var expectedType = calc.Stats.getHiddenPower(GENERATION, ivs).type;
+				move = "Hidden Power " + expectedType;
+			}
+			setSelectValueIfValid(transformer.find(".move" + (i + 1) + " select.move-selector"), move, "(No Move)");
+			transformer.find(".move" + (i + 1) + " select.move-selector").change();
+		}
+		transformer.find(".ability").val(target.find(".ability").val());
+		transformer.find(".ability").change();
+		if (gen > 4) transformer.siblings().find(".gender").replaceWith(target.siblings().find(".gender"));
+	});
 	
 	$('#trainer-nav-help').click(() => {
 		alert("This section displays the enemy party in the correct in-game order. Note that that is not always the order Pokémon are sent out. Click on a Pokémon sprite to load that Pokémon.\n\n" + 
