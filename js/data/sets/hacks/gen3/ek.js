@@ -195,7 +195,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Pokémon Breeder David": {"ability": "Chlorophyll", "item": "Silk Scarf", "level": 52, "moves": ["Stun Spore", "Sleep Powder", "Giga Drain", "Return"], "nature": "Bold"},
         "Swimmerm Santiago": {"ability": "Chlorophyll", "level": 66, "moves": ["Stun Spore", "Synthesis", "Petal Dance", "Double-Edge"], "nature": "Naive"},
         "Team Magma Grunt #1 @ Route 114": {"ability": "Chlorophyll", "item": "Leftovers", "level": 35, "moves": ["Sleep Powder", "Giga Drain", "Synthesis", "Double-Edge"], "nature": "Bashful"},
-        "Team Magma Grunt #3 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 59, "moves": ["Sleep Powder", "Solar Beam", "Weather Ball", "Leech Seed"], "nature": "Mild"}
+        "Team Magma Grunt #3 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 59, "moves": ["Sleep Powder", "Solar Beam", "Weather Ball Fire", "Leech Seed"], "nature": "Mild"}
     },
     "Bellsprout":
     {
@@ -299,14 +299,14 @@ var CUSTOMHACKSETDEX_EK = {
     "Castform-Rainy":
     {
         "Cooltrainer Jennifer": {"ability": "Forecast", "item": "Salac Berry", "level": 49, "moves": ["Ice Beam", "Thunder", "Hydro Pump", "Attract"], "nature": "Careful"},
-        "Leader #1 Wallace": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Thunder", "Ice Beam", "Weather Ball", "Hidden Power Grass"], "nature": "Sassy"},
-        "Leader #2 Juan": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Weather Ball", "Ice Beam", "Thunder", "Hidden Power Grass"], "nature": "Modest"},
-        "Team Aqua Grunt #3 @ Seafloor Cavern": {"ability": "Forecast", "item": "Scope Lens", "level": 67, "moves": ["Thunder", "Weather Ball", "Ice Beam", "Attract"], "nature": "Naughty"}
+        "Leader #1 Wallace": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Thunder", "Ice Beam", "Weather Ball Water", "Hidden Power Grass"], "nature": "Sassy"},
+        "Leader #2 Juan": {"ability": "Forecast", "item": "Lum Berry", "level": 76, "moves": ["Weather Ball Water", "Ice Beam", "Thunder", "Hidden Power Grass"], "nature": "Modest"},
+        "Team Aqua Grunt #3 @ Seafloor Cavern": {"ability": "Forecast", "item": "Scope Lens", "level": 66, "moves": ["Thunder", "Weather Ball Water", "Ice Beam", "Attract"], "nature": "Naughty"}
     },
     "Castform-Sunny":
     {
         "Leader Flannery": {"ability": "Forecast", "item": "Lum Berry", "level": 42, "moves": ["Flamethrower", "Ice Beam", "Thunderbolt", "Solar Beam"], "nature": "Calm"},
-        "Magma Admin Courtney #1": {"ability": "Forecast", "item": "Lum Berry", "level": 64, "moves": ["Weather Ball", "Ice Beam", "Thunderbolt", "Solar Beam"], "nature": "Quiet"}
+        "Magma Admin Courtney #1": {"ability": "Forecast", "item": "Lum Berry", "level": 64, "moves": ["Weather Ball Fire", "Ice Beam", "Thunderbolt", "Solar Beam"], "nature": "Quiet"}
     },
     "Caterpie":
     {
@@ -849,15 +849,15 @@ var CUSTOMHACKSETDEX_EK = {
     "Glalie":
     {
         "Aqua Admin Matt #2": {"ability": "Intimidate", "item": "Lum Berry", "level": 66, "moves": ["Explosion", "Ice Shard", "Ice Beam", "Earthquake"], "nature": "Gentle"},
-        "Elite Four Glacia": {"ability": "Intimidate", "item": "Lum Berry", "level": 100, "moves": ["Weather Ball", "Ice Beam", "Spikes", "Explosion"], "nature": "Hasty"},
+        "Elite Four Glacia": {"ability": "Intimidate", "item": "Lum Berry", "level": 100, "moves": ["Weather Ball Water", "Ice Beam", "Spikes", "Explosion"], "nature": "Hasty"},
         "Expert Quincy": {"ability": "Intimidate", "item": "Lum Berry", "level": 86, "moves": ["Spikes", "Explosion"], "nature": "Jolly"},
         "Pokéfan Alexia": {"ability": "Intimidate", "item": "Lum Berry", "level": 41, "moves": ["Spikes", "Explosion"], "nature": "Hardy"},
-        "Pokémon Ranger Andrea": {"ability": "Intimidate", "item": "Lum Berry", "level": 71, "moves": ["Weather Ball", "Ice Beam", "Earthquake", "Ice Shard"], "nature": "Bold"},
+        "Pokémon Ranger Andrea": {"ability": "Intimidate", "item": "Lum Berry", "level": 71, "moves": ["Weather Ball Water", "Ice Beam", "Earthquake", "Ice Shard"], "nature": "Bold"},
         "Ruin Maniac Foster": {"ability": "Intimidate", "item": "Quick Claw", "level": 43, "moves": ["Hail", "Protect", "Earthquake", "Ice Beam"], "nature": "Bold"},
         "Team Aqua Grunt #3 @ Aqua Hideout": {"ability": "Intimidate", "item": "Choice Band", "level": 60, "moves": ["Explosion"], "nature": "Bashful"},
         "Team Aqua Grunt #4 @ Seafloor Cavern": {"ability": "Intimidate", "item": "Scope Lens", "level": 70, "moves": ["Explosion", "Ice Shard", "Ice Beam", "Earthquake"], "nature": "Relaxed"},
         "Team Aqua Grunt #7 @ Mt. Pyre": {"ability": "Intimidate", "item": "Leppa Berry", "level": 52, "moves": ["Blizzard", "Ice Shard", "Earthquake", "Crunch"], "nature": "Bashful"},
-        "Team Magma Grunt #9 @ Magma Hideout": {"ability": "Intimidate", "item": "Focus Band", "level": 60, "moves": ["Ice Beam", "Weather Ball", "Earthquake", "Ice Shard"], "nature": "Hasty"}
+        "Team Magma Grunt #9 @ Magma Hideout": {"ability": "Intimidate", "item": "Focus Band", "level": 60, "moves": ["Ice Beam", "Weather Ball Fire", "Earthquake", "Ice Shard"], "nature": "Hasty"}
     },
     "Gligar":
     {
@@ -2016,7 +2016,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Raikou":
     {
-        "Aqua Leader Archie": {"ability": "Lightningrod", "item": "Lum Berry", "level": 75, "moves": ["Thunder", "Hidden Power Grass", "Weather Ball", "Calm Mind"], "nature": "Lax"}
+        "Aqua Leader Archie": {"ability": "Lightningrod", "item": "Lum Berry", "level": 75, "moves": ["Thunder", "Hidden Power Grass", "Weather Ball Water", "Calm Mind"], "nature": "Lax"}
     },
     "Ralts":
     {
@@ -2678,13 +2678,13 @@ var CUSTOMHACKSETDEX_EK = {
     "Venusaur":
     {
         "Expert Halle": {"ability": "Chlorophyll", "item": "Leftovers", "level": 87, "moves": ["Sleep Powder", "Giga Drain", "Earthquake", "Sludge Bomb"], "nature": "Modest"},
-        "Magma Admin Courtney #1": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 65, "moves": ["Sleep Powder", "Weather Ball", "Solar Beam", "Ancientpower"], "nature": "Modest"},
+        "Magma Admin Courtney #1": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 65, "moves": ["Sleep Powder", "Weather Ball Fire", "Solar Beam", "Ancientpower"], "nature": "Modest"},
         "Pokémon Trainer Brendan #3 [Swampert]": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 50, "moves": ["Sleep Powder", "Giga Drain", "Hidden Power Water", "Ancientpower"], "nature": "Modest"},
         "Pokémon Trainer Brendan #4 [Swampert]": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 59, "moves": ["Sleep Powder", "Earthquake", "Ancientpower", "Giga Drain"], "nature": "Adamant"},
         "Pokémon Trainer May #3 [Swampert]": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 50, "moves": ["Sleep Powder", "Giga Drain", "Earthquake", "Ancientpower"], "nature": "Bold"},
         "Pokémon Trainer May #4 [Swampert]": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 59, "moves": ["Sleep Powder", "Giga Drain", "Ancientpower", "Earthquake"], "nature": "Gentle"},
         "Pokémon Trainer Red #2": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 36, "moves": ["Sleep Powder", "Giga Drain", "Sludge Bomb", "Synthesis"], "nature": "Quiet"},
-        "Pokémon Ranger Andrea": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 70, "moves": ["Sleep Powder", "Leaf Blade", "Weather Ball", "Ancientpower"], "nature": "Adamant"},
+        "Pokémon Ranger Andrea": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 70, "moves": ["Sleep Powder", "Leaf Blade", "Weather Ball Water", "Ancientpower"], "nature": "Adamant"},
         "Team Magma Grunt #11 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Scope Lens", "level": 59, "moves": ["Swords Dance", "Earthquake", "Sludge Bomb", "Ancientpower"], "nature": "Impish"},
         "Team Magma Grunt #2 @ Mossdeep Space Center": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 67, "moves": ["Sunny Day", "Hidden Power Fire", "Leaf Blade", "Sludge Bomb"], "nature": "Jolly"},
         "Team Magma Grunt #3 @ Route 114": {"ability": "Chlorophyll", "item": "Shell Bell", "level": 34, "moves": ["Sleep Powder", "Giga Drain", "Sludge Bomb", "Earthquake"], "nature": "Quirky"},
@@ -2699,14 +2699,14 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Victreebel":
     {
-        "Expert Keegan": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 38, "moves": ["Gunk Shot", "Weather Ball", "Solar Beam", "Hidden Power Rock"], "nature": "Gentle"},
-        "Parasol Lady Daphne": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 71, "moves": ["Weather Ball", "Leaf Blade", "Gunk Shot", "Sleep Powder"], "nature": "Quiet"},
+        "Expert Keegan": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 38, "moves": ["Gunk Shot", "Weather Ball Fire", "Solar Beam", "Hidden Power Rock"], "nature": "Gentle"},
+        "Parasol Lady Daphne": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 71, "moves": ["Weather Ball Water", "Leaf Blade", "Gunk Shot", "Sleep Powder"], "nature": "Quiet"},
         "Pokémon Ranger Catherine": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 45, "moves": ["Hidden Power Rock", "Sleep Powder", "Gunk Shot", "Leaf Blade"], "nature": "Lonely"},
         "Swimmerm Clarence": {"ability": "Chlorophyll", "item": "Scope Lens", "level": 66, "moves": ["Stun Spore", "Sludge Bomb", "Leaf Blade", "Double-Edge"], "nature": "Hasty"},
-        "Team Aqua Grunt #1 @ Seafloor Cavern": {"ability": "Chlorophyll", "item": "Quick Claw", "level": 68, "moves": ["Weather Ball", "Sleep Powder", "Gunk Shot", "Leaf Blade"], "nature": "Adamant"},
+        "Team Aqua Grunt #1 @ Seafloor Cavern": {"ability": "Chlorophyll", "item": "Quick Claw", "level": 68, "moves": ["Weather Ball Water", "Sleep Powder", "Gunk Shot", "Leaf Blade"], "nature": "Adamant"},
         "Team Aqua Grunt #8 @ Aqua Hideout": {"ability": "Chlorophyll", "item": "Scope Lens", "level": 63, "moves": ["Sleep Powder", "Gunk Shot", "Leaf Blade", "Hidden Power Water"], "nature": "Bold"},
-        "Team Magma Grunt #14 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 64, "moves": ["Solar Beam", "Weather Ball", "Gunk Shot", "Hidden Power Rock"], "nature": "Calm"},
-        "Team Magma Grunt #4 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Bright Powder", "level": 59, "moves": ["Sleep Powder", "Solar Beam", "Gunk Shot", "Weather Ball"], "nature": "Sassy"}
+        "Team Magma Grunt #14 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 64, "moves": ["Solar Beam", "Weather Ball Fire", "Gunk Shot", "Hidden Power Rock"], "nature": "Calm"},
+        "Team Magma Grunt #4 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Bright Powder", "level": 59, "moves": ["Sleep Powder", "Solar Beam", "Gunk Shot", "Weather Ball Fire"], "nature": "Sassy"}
     },
     "Vigoroth":
     {
@@ -2722,7 +2722,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Cooltrainer Carolina": {"ability": "Chlorophyll", "item": "Quick Claw", "level": 45, "moves": ["Sleep Powder", "Moonlight", "Sludge Bomb", "Petal Dance"], "nature": "Careful"},
         "Team Magma Grunt #1 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Leftovers", "level": 56, "moves": ["Sleep Powder", "Solar Beam", "Sludge Bomb", "Leech Seed"], "nature": "Careful"},
         "Team Magma Grunt #2 @ Route 114": {"ability": "Chlorophyll", "item": "King's Rock", "level": 35, "moves": ["Stun Spore", "Sludge Bomb", "Moonlight", "Giga Drain"], "nature": "Lonely"},
-        "Team Magma Grunt #8 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 61, "moves": ["Solar Beam", "Hidden Power Ice", "Weather Ball", "Sleep Powder"], "nature": "Mild"}
+        "Team Magma Grunt #8 @ Magma Hideout": {"ability": "Chlorophyll", "item": "Lum Berry", "level": 61, "moves": ["Solar Beam", "Hidden Power Ice", "Weather Ball Fire", "Sleep Powder"], "nature": "Mild"}
     },
     "Volbeat":
     {

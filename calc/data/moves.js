@@ -586,6 +586,8 @@ var EK_PATCH = {
     'Leaf Blade': { bp: 95 },
     'Needle Arm': { bp: 95 },
     'Spit Up': { bp: 100 },
+    'Weather Ball Water': { bp: 100, type: 'Water' },
+    'Weather Ball Fire': { bp: 100, type: 'Fire' },
     'Sky Uppercut': { bp: 90 },
     'Hyper Voice': { bp: 120 },
     'Poison Fang': { bp: 90 },
@@ -615,6 +617,32 @@ delete EK['High Jump Kick'];
 delete EK['Sonic Boom'];
 delete EK['Ancient Power'];
 delete EK['Feint Attack'];
+delete EK['Comet Punch'];
+delete EK['Vise Grip'];
+delete EK['Horn Drill'];
+delete EK['Submission'];
+delete EK['Fissure'];
+delete EK['Skull Bash'];
+delete EK['Spike Cannon'];
+delete EK['Constrict'];
+delete EK['Poison Gas'];
+delete EK['Barrage'];
+delete EK['Splash'];
+delete EK['Sharpen'];
+delete EK['Triple Kick'];
+delete EK['Cotton Spore'];
+delete EK['Outrage'];
+delete EK['Spark'];
+delete EK['Fury Cutter'];
+delete EK['Future Sight'];
+delete EK['Trick'];
+delete EK['Eruption'];
+delete EK['Arm Thrust'];
+delete EK['Astonish'];
+delete EK['Air Cutter'];
+delete EK['Metal Sound'];
+delete EK['Icicle Spear'];
+delete EK['Covet'];
 EK['Overheat'] = { bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3] };
 EK['Psycho Boost'] = { bp: 140, type: 'Psychic', recoil: [1, 4] };
 EK['Superpower'] = { bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true };
