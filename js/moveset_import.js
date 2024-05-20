@@ -229,7 +229,7 @@ function addSets(pokes, name) {
 			}
 
 			currentPoke = Object.assign({}, calc.SPECIES[9][checkExeptions(split[3].trim())]);
-			currentPoke.name = split[3].trim();
+			currentPoke.name = split[3].trim().replace("Nidoran-f", "Nidoran-F").replace("Nidoran-m", "Nidoran-M");
 			currentPoke.nameProp = split[1].trim();
 			currentPoke.moves = [];
 			currentPoke.nature = "Hardy";
@@ -241,7 +241,7 @@ function addSets(pokes, name) {
 			}
 
 			currentPoke = calc.SPECIES[9][checkExeptions(split[1].trim())];
-			currentPoke.name = split[1].trim();
+			currentPoke.name = split[1].trim().replace("-f", "-F").replace("-m", "-M");
 			currentPoke.nameProp = name;
 			currentPoke.moves = [];
 			currentPoke.nature = "Hardy";
@@ -343,6 +343,12 @@ function checkExeptions(poke) {
 		break;
 	case 'Mimikyu-Busted':
 		poke = "Mimikyu";
+		break;
+	case 'Nidoran-f':
+		poke = "Nidoran-F";
+		break;
+	case 'Nidoran-m':
+		poke = "Nidoran-M";
 		break;
 	case 'Pikachu-Belle':
 	case 'Pikachu-Cosplay':

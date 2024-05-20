@@ -737,10 +737,11 @@ $(".set-selector").change(function () {
 				moveObj = pokeObj.find(".move" + (i + 1) + " select.move-selector");
 				moveObj.attr('data-prev', moveObj.val());
 				if (moves[i] === "Hidden Power") {
+					var set = setdex[pokemonName][setName];
 					var ivs = {};
 					for (var i = 0; i <= LEGACY_STATS[9].length; i++) {
 						var s = LEGACY_STATS[9][i];
-						ivs[legacyStatToStat(s)] = (pokemon.ivs && pokemon.ivs[s]) || 31;
+						ivs[legacyStatToStat(s)] = (set.ivs && set.ivs[s]) || 31;
 					}
 
 					var expectedType = calc.Stats.getHiddenPower(GENERATION, ivs).type;
