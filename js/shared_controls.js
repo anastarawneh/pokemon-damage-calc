@@ -584,7 +584,7 @@ $(".set-selector").change(function () {
 					break;
 				}
 			}
-			$(`#${weather}`).prop("checked", true);
+			if (weather !== "any") $(`#${weather}`).prop("checked", true);
 
 			var badge = "";
 			for (var i in flags["badge"]) {
