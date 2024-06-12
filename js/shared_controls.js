@@ -572,7 +572,7 @@ $(".set-selector").change(function () {
 			var pokemonName = nextPokemon[i].split(" (")[0];
 			var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextPokemon[i]}" title="${nextPokemon[i]}">`;
 			trainerHTML += pokemonHTML;
-			switchHTML += `<span style="width: 100%;"><img class="trainer-poke-switch right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextPokemon[i]}" title="${nextPokemon[i]}"><label style="width: 75%;" class="trainer-poke-switch-explain" data-id="${nextPokemon[i]}"></label></span>`;
+			switchHTML += `<span style="width: 100%;"><img class="trainer-poke-switch right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextPokemon[i]}" title="${nextPokemon[i]}"><label style="width: 60%;" class="trainer-poke-switch-explain" data-id="${nextPokemon[i]}"></label><label class="trainer-poke-switch-xp" data-id="${nextPokemon[i]}"></label></span>`;
 			if (parseInt(i) + 1 < nextPokemon.length) switchHTML += "<br><br>";
 		}
 
@@ -850,9 +850,25 @@ $(".set-selector").change(function () {
 				for (var j in resultLocations[1])
 				$(resultLocations[1][j].move + " + label").removeClass("risky-ai-move");
 			}
+
+			if ($(".risky-ai-move").length) trySendRiskyAlert();
 		}
 	}
 });
+
+function trySendRiskyAlert() {
+	if (!localStorage.sentRiskyAlert) {
+		localStorage.sentRiskyAlert = "true";
+		alert("This trainer has Risky AI and at least one risky move (marked by italics), and it has a chance to use it instead of the move it would normally use. This alert will only be shown once.");
+	}
+}
+
+function trySendSwitchAlert() {
+	if (!localStorage.sentSwitchAlert) {
+		localStorage.sentSwitchAlert = "true";
+		alert("This Pokémon is faster than yours, and another Pokémon in the party resists at least one move (both the move and the target Pokémon are marked in red). If you use it, there's a chance the enemy trainer switches to that Pokémon. This alert will only be shown once.");
+	}
+}
 
 function formatMovePool(moves) {
 	var formatted = [];
@@ -2114,6 +2130,17 @@ function colorCodeSetsChange(ev){
 		}
 	}
 }
+
+$(".stat-changer").click((e) => {
+	var select = $(e.target).parent().siblings("td").has("select").children();
+	var increment = e.target.innerText === "+" ? 1 : -1;
+	var curValue = Number(select.val());
+	var futureValue = curValue + increment;
+	if (Math.abs(futureValue) !== 7) {
+		select.val(futureValue);
+		select.change();
+	}
+});
 
 var READY;
 $(document).ready(function () {

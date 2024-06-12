@@ -568,7 +568,12 @@ table.field {
 }
 
 .trainer-poke-switch-explain {
-    vertical-align: middle;
+    vertical-align: middle !important;
+}
+
+.trainer-poke-switch-xp {
+    vertical-align: middle !important;
+    text-align: right;
 }
 
 .dead {
@@ -581,6 +586,11 @@ table.field {
 
 .risky-ai-move {
     font-style: italic;
+}
+
+.stat-changer {
+    width: 22px;
+    margin-right: 2px;
 }
 
 

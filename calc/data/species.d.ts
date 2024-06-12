@@ -18,6 +18,7 @@ export interface SpeciesData {
     readonly abilities?: {
         0: string;
     };
+    readonly expYield?: number;
 }
 export declare const SPECIES: {
     [name: string]: SpeciesData;

@@ -320,31 +320,65 @@ function predictSwitchOrderEmerald() {
 	var advanced = $("#advanced-bait").is(":checked");
 	var p1 = createPokemon($("#p1"));
 	var partySpecies = partyOrder[window.CURRENT_TRAINER];
+
+	var hasDupes = (new Set(partySpecies)).size !== partySpecies.length;
+	var withMarkedDupes = [];
+	if (hasDupes) {
+		var count = {};
+		for (var i in partySpecies) {
+			if (!count[partySpecies[i]]) count[partySpecies[i]] = 0;
+			count[partySpecies[i]] += 1;
+		}
+		for (var i in partySpecies) {
+			if (count[partySpecies[i]] > 1) {
+				var j = 1;
+				while (withMarkedDupes.includes(`${partySpecies[i]} (${j})`)) j++;
+				withMarkedDupes[i] = `${partySpecies[i]} (${j})`;
+			} else withMarkedDupes[i] = partySpecies[i];
+		}
+	} else withMarkedDupes = partySpecies;
+
 	var partyMons = [];
-	for (var i in partySpecies) {
+	if (hasDupes) for (var i in withMarkedDupes) {
+		var current_trainer = window.CURRENT_TRAINER;
+		if (withMarkedDupes[i].includes("(")) {
+			var index = withMarkedDupes[i].split("(")[1].split(")")[0];
+			current_trainer += ` (${index})`;
+		}
+		partyMons.push(setdex[partySpecies[i]][current_trainer]);
+		try {
+			partyMons[i].species = partySpecies[i];
+			partyMons[i].setName = `${partySpecies[i]} (${current_trainer})`;
+			partyMons[i].name = withMarkedDupes[i];
+		} catch (ex) {
+			$(".trainer-poke-switch-list").html("An error has occured.");
+			return;
+		}
+	} else for (var i in partySpecies) {
 		partyMons.push(setdex[partySpecies[i]][window.CURRENT_TRAINER]);
 		try {
 			partyMons[i].species = partySpecies[i];
+			partyMons[i].setName = `${partySpecies[i]} (${window.CURRENT_TRAINER})`;
+			partyMons[i].name = partySpecies[i];
 		} catch (ex) {
 			$(".trainer-poke-switch-list").html("An error has occured.");
 			return;
 		}
 	}
+
 	var deadList = [];
 	for (var i in partyMons) {
 		var dead = partyMons[i];
-		if ($(`.trainer-poke-switch[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).hasClass("dead")) {
-			$(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html("Dead!");
+		if ($(`.trainer-poke-switch[data-id='${dead.setName}']`).hasClass("dead")) {
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("Dead!");
 			deadList.push(dead);
 		} else {
-			$(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html("That's it!");
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("That's it!");
 		}
 	}
 	for (var i in partyMons) {
 		var dead = partyMons[i];
-		if (deadList.includes(dead)) {
-			continue;
-		}
+		if (deadList.includes(dead)) continue;
 		var defender = p1.clone();
 		var nextMon = "";
 		var phase = 1;
@@ -352,11 +386,9 @@ function predictSwitchOrderEmerald() {
 		// Phase 1 => Best super effective move typing, worst pokemon typing
 		var scores = {};
 		for (var j in partyMons) {
-			scores[partySpecies[j]] = 10;
+			scores[withMarkedDupes[j]] = 10;
 			var enemy = partyMons[j];
-			if (deadList.includes(enemy)) {
-				continue;
-			}
+			if (deadList.includes(enemy)) continue;
 			var enemyDex = !partySpecies[j].includes("Castform") ? pokedex[partySpecies[j]] : pokedex["Castform"];
 			var p1types = defender.types;
 			if (!p1types[1]) p1types[1] = p1types[0];
@@ -366,7 +398,7 @@ function predictSwitchOrderEmerald() {
 					var type1 = matchup.split("-")[0];
 					var type2 = matchup.split("-")[1];
 					if ((type1 == type) && (type2 == enemyDex.types[0] || type2 == enemyDex.types[1])) {
-						scores[partySpecies[j]] = Math.floor(scores[partySpecies[j]] * phase1TypeMatchups[matchup]);
+						scores[withMarkedDupes[j]] = Math.floor(scores[withMarkedDupes[j]] * phase1TypeMatchups[matchup]);
 					}
 				}
 			}
@@ -376,7 +408,9 @@ function predictSwitchOrderEmerald() {
 
 		for (var j in sorted) {
 			if (scores[sorted[j]] == 0) continue;
-			var enemy = partyMons.filter(x => x.species == sorted[j])[0];
+			var index = 0;
+			if (sorted[j].includes("(")) index = Number(sorted[j].split("(")[1].split(")")[0]) - 1;
+			var enemy = partyMons.filter(x => x.species == sorted[j].split(" (")[0])[index];
 			if (enemy == dead) continue;
 			if (deadList.includes(enemy)) {
 				continue;
@@ -395,7 +429,7 @@ function predictSwitchOrderEmerald() {
 				var typeEffectiveness = defender.types[1] ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
 				if (defender.ability == "Levitate" && move.type == "Ground") typeEffectiveness = 0;
 				if (typeEffectiveness > 1) {
-					nextMon = enemy.species;
+					nextMon = enemy.name;
 					break;
 				}
 			}
@@ -409,11 +443,9 @@ function predictSwitchOrderEmerald() {
 			phase = 2;
 			highestDamage = { pokemon: {}, score: 0 };
 			for (var j in partyMons) {
-				if (deadList.includes(partyMons[j])) {
-					continue;
-				}
+				if (deadList.includes(partyMons[j])) continue;
 				var next = structuredClone(partyMons[j]);
-				if (next.species == dead.species) continue;
+				if (next.setName == dead.setName) continue;
 				var moves = [];
 				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
 				var attacker = new calc.Pokemon(GENERATION, dead.species, {
@@ -469,10 +501,15 @@ function predictSwitchOrderEmerald() {
 					}
 				}
 			}
-			nextMon = highestDamage.pokemon.species;
+			nextMon = highestDamage.pokemon.name;
 		}
 
-		if (nextMon) $(`.trainer-poke-switch-explain[data-id='${dead.species} (${window.CURRENT_TRAINER})']`).html(`${nextMon} (Phase ${phase})`);
+		var xp = Math.floor(Math.floor(pokedex[dead.species].expYield * dead.level / 7) * 1.5);
+
+		if (nextMon) {
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html(`${nextMon} (Phase ${phase})`);
+			$(`.trainer-poke-switch-xp[data-id='${dead.setName}']`).html(`+${xp}`);
+		}
 	}
 }
 
@@ -526,6 +563,8 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 			}
 		}
 	}
+
+	if ($(".switch-risk").length) trySendSwitchAlert();
 }
 
 function predictMidTurnSwitch(p1, p2) {
