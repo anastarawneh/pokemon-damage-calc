@@ -319,6 +319,23 @@ var phase1TypeMatchups = {
 function predictSwitchOrderEmerald() {
 	var advanced = $("#advanced-bait").is(":checked");
 	var p1 = createPokemon($("#p1"));
+	var field = createField();
+	if (p1.species.name === "Castform") {
+		switch (field.weather) {
+			case "Sun":
+				p1.types[0] = "Fire";
+				break;
+			case "Rain":
+				p1.types[0] = "Water";
+				break;
+			case "Hail":
+				p1.types[0] = "Ice";
+				break;
+			default:
+				p1.types[0] = "Normal";
+				break;
+		}
+	}
 	var partySpecies = partyOrder[window.CURRENT_TRAINER];
 
 	var hasDupes = (new Set(partySpecies)).size !== partySpecies.length;
@@ -419,7 +436,6 @@ function predictSwitchOrderEmerald() {
 				var move = new calc.Move(GENERATION, enemy.moves[k]);
 				if (move.category == "Status") continue;
 				if (move.name == "Weather Ball") {
-					var field = createField();
 					if (field.weather == "Sun") move.type = "Fire";
 					else if (field.weather == "Rain") move.type = "Water";
 					else if (field.weather == "Hail") move.type = "Ice";
