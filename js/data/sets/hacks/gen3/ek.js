@@ -327,7 +327,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Leader Flannery": {"ability": "Blaze", "item": "Lum Berry", "level": 42, "moves": ["Heat Wave", "Earthquake", "Solar Beam", "Dragon Claw"], "nature": "Lonely"},
         "Magma Admin Courtney #1": {"ability": "Blaze", "item": "Lum Berry", "level": 64, "moves": ["Overheat", "Dragon Claw", "Solar Beam", "Earthquake"], "nature": "Serious"},
         "Magma Admin Tabitha #2": {"ability": "Blaze", "item": "Lum Berry", "level": 71, "moves": ["Overheat", "Thunder Punch", "Dragon Claw", "Hidden Power Ice"], "nature": "Relaxed"},
-        "Pokémon Pokémon Trainer Brendan #4 [Sceptile]": {"ability": "Blaze", "item": "Salac Berry", "level": 59, "moves": ["Overheat", "Dragon Claw", "Hidden Power Grass", "Thunder Punch"], "nature": "Timid"},
+        "Pokémon Trainer Brendan #4 [Sceptile]": {"ability": "Blaze", "item": "Salac Berry", "level": 59, "moves": ["Overheat", "Dragon Claw", "Hidden Power Grass", "Thunder Punch"], "nature": "Timid"},
         "Pokémon Trainer May #4 [Sceptile]": {"ability": "Blaze", "item": "Lum Berry", "level": 59, "moves": ["Heat Wave", "Dragon Dance", "Earthquake", "Air Slash"], "nature": "Adamant"},
         "Pokémon Trainer Red #2": {"ability": "Blaze", "item": "Lum Berry", "level": 36, "moves": ["Flamethrower", "Aerial Ace", "Dragon Claw", "Earthquake"], "nature": "Quirky"},
         "Swimmerm Reed": {"ability": "Blaze", "item": "Salac Berry", "level": 65, "moves": ["Blast Burn", "Flamethrower", "Earthquake", "Dragon Claw"], "nature": "Mild"},
