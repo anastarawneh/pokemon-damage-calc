@@ -641,7 +641,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Battle Girl Crissy": {"ability": "Static", "item": "Lum Berry", "level": 72, "moves": ["Thunder", "Cross Chop", "Ice Punch", "Psychic"], "nature": "Naughty"},
         "Cooltrainer Marcel": {"ability": "Static", "item": "Lum Berry", "level": 51, "moves": ["Thunderbolt", "Ice Punch", "Cross Chop", "Quick Attack"], "nature": "Lax"},
         "Expert Edgar": {"ability": "Static", "item": "Lum Berry", "level": 88, "moves": ["Thunderbolt", "Hidden Power", "Ice Punch", "Fire Punch"], "nature": "Naughty"},
-        "Expert Keegan": {"ability": "Static", "item": " Lum Berry", "level": 37, "moves": ["Fire Punch", "Ice Punch", "Thunderbolt", "Cross Chop"], "nature": "Lonely"},
+        "Expert Keegan": {"ability": "Static", "item": "Lum Berry", "level": 37, "moves": ["Fire Punch", "Ice Punch", "Thunderbolt", "Cross Chop"], "nature": "Lonely"},
         "Guitarist Beth": {"ability": "Static", "item": "Lum Berry", "level": 49, "moves": ["Thunder", "Ice Punch", "Cross Chop", "Psychic"], "nature": "Brave"},
         "Leader Wattson": {"ability": "Static", "item": "Lum Berry", "level": 28, "moves": ["Psychic", "Thunderbolt", "Fire Punch", "Ice Punch"], "nature": "Quiet"},
         "Team Aqua Grunt #2 @ Seafloor Cavern": {"ability": "Static", "item": "Bright Powder", "level": 68, "moves": ["Thunder", "Cross Chop", "Ice Punch", "Psychic"], "nature": "Lax"},
@@ -1464,7 +1464,7 @@ var CUSTOMHACKSETDEX_EK = {
     "Marowak":
     {
         "Cooltrainer Albert": {"ability": "Lightningrod", "item": "Thick Club", "level": 81, "moves": ["Swords Dance", "Earthquake", "Double-Edge", "Ancientpower"], "nature": "Impish"},
-        "Cooltrainer Braxton": {"ability": "Lightningrod", "item": " Thick Club", "level": 75, "moves": ["Protect", "Earthquake", "Ancientpower", "Hidden Power Bug"], "nature": "Careful"},
+        "Cooltrainer Braxton": {"ability": "Lightningrod", "item": "Thick Club", "level": 75, "moves": ["Protect", "Earthquake", "Ancientpower", "Hidden Power Bug"], "nature": "Careful"},
         "Cooltrainer Jody": {"ability": "Lightningrod", "item": "Thick Club", "level": 42, "moves": ["Earthquake", "Double-Edge", "Ancientpower", "Hidden Power Flying"], "nature": "Hasty"},
         "Expert Shelby": {"ability": "Lightningrod", "item": "Thick Club", "level": 37, "moves": ["Double-Edge", "Earthquake", "Ancientpower", "Aerial Ace"], "nature": "Lax"},
         "Gentleman Franklin": {"ability": "Lightningrod", "item": "Thick Club", "level": 100, "moves": ["Earthquake", "Ancientpower", "Hidden Power Bug", "Return"], "nature": "Gentle"},
@@ -1762,7 +1762,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Octillery":
     {
-        "Expert Keegan": {"ability": "Suction Cups", "item": " Lum Berry", "level": 38, "moves": ["Fire Blast", "Ice Beam", "Octazooka", "Body Slam"], "nature": "Jolly"},
+        "Expert Keegan": {"ability": "Suction Cups", "item": "Lum Berry", "level": 38, "moves": ["Fire Blast", "Ice Beam", "Octazooka", "Body Slam"], "nature": "Jolly"},
         "Fisherman Ben": {"ability": "Suction Cups", "item": "Soft Sand", "level": 26, "moves": ["Thunder Wave", "Water Pulse", "Signal Beam", "Mud Shot"], "nature": "Timid"},
         "Ninja Boy Hideo": {"ability": "Suction Cups", "item": "Leftovers", "level": 48, "moves": ["Octazooka", "Ice Beam", "Body Slam", "Gunk Shot"], "nature": "Careful"},
         "Picnicker Celia": {"ability": "Suction Cups", "level": 40, "moves": ["Octazooka", "Ice Beam", "Flamethrower", "Signal Beam"], "nature": "Quirky"},
@@ -2340,7 +2340,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Cooltrainer Darcy": {"ability": "Guts", "item": "Leftovers", "level": 69, "moves": ["Curse", "Rest", "Snore", "Shadow Ball"], "nature": "Hasty"},
         "Cooltrainer Olivia": {"ability": "Guts", "item": "Lum Berry", "level": 73, "moves": ["Thunder", "Earthquake", "Body Slam", "Shadow Ball"], "nature": "Gentle"},
         "Expert Clifford": {"ability": "Guts", "item": "Choice Band", "level": 66, "moves": ["Self-Destruct"], "nature": "Naive"},
-        "Expert Frederick": {"ability": "Guts", "item": " Leftovers", "level": 76, "moves": ["Facade", "Earthquake", "Shadow Ball", "Slack Off"], "nature": "Relaxed"},
+        "Expert Frederick": {"ability": "Guts", "item": "Leftovers", "level": 76, "moves": ["Facade", "Earthquake", "Shadow Ball", "Slack Off"], "nature": "Relaxed"},
         "Expert Julie": {"ability": "Guts", "item": "Leftovers", "level": 84, "moves": ["Self-Destruct", "Body Slam", "Earthquake", "Shadow Ball"], "nature": "Hasty"},
         "Leader Norman": {"ability": "Guts", "item": "Leftovers", "level": 48, "moves": ["Curse", "Snore", "Rest", "Stockpile"], "nature": "Relaxed"},
         "Pokémon Trainer Red #2": {"ability": "Guts", "item": "Leftovers", "level": 36, "moves": ["Curse", "Snore", "Earthquake", "Rest"], "nature": "Serious"},
@@ -2424,7 +2424,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Team Aqua Grunt #5 @ Aqua Hideout": {"ability": "Natural Cure", "item": "King's Rock", "level": 62, "moves": ["Rain Dance", "Surf", "Thunder", "Psychic"], "nature": "Lax"},
         "Team Aqua Grunt #7 @ Aqua Hideout": {"ability": "Natural Cure", "item": "Scope Lens", "level": 62, "moves": ["Hydro Pump", "Signal Beam", "Psychic", "Ice Beam"], "nature": "Hasty"},
         "Team Aqua Grunt #8 @ Mt. Pyre": {"ability": "Natural Cure", "item": "Leftovers", "level": 54, "moves": ["Cosmic Power", "Recover", "Psychic", "Toxic"], "nature": "Jolly"},
-        "Team Aqua Grunt @ Route 108": {"ability": "Natural Cure", "item": " Lum Berry", "level": 45, "moves": ["Psychic", "Recover", "Hydro Pump", "Confuse Ray"], "nature": "Brave"},
+        "Team Aqua Grunt @ Route 108": {"ability": "Natural Cure", "item": "Lum Berry", "level": 45, "moves": ["Psychic", "Recover", "Hydro Pump", "Confuse Ray"], "nature": "Brave"},
         "Triathlete Brianna": {"ability": "Natural Cure", "item": "Lum Berry", "level": 70, "moves": ["Thunder", "Psychic", "Hydro Pump", "Ice Beam"], "nature": "Hasty"}
     },
     "Staryu":
