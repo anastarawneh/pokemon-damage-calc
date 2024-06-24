@@ -1773,7 +1773,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Oddish":
     {
-        "Lass Haley": {"ability": "Chlorophyll", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 9, "moves": ["Poisonpowder", "Protect", "Mega Drain", "Acid"], "nature": "Serious"}
+        "Lass Haley": {"ability": "Chlorophyll", "ivs": {"at": 18, "df": 18, "hp": 18, "sa": 18, "sd": 18, "sp": 18}, "level": 9, "moves": ["Poison Powder", "Protect", "Mega Drain", "Acid"], "nature": "Serious"}
     },
     "Omanyte":
     {
