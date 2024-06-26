@@ -1235,7 +1235,7 @@ var CUSTOMHACKSETDEX_EK = {
         "Ninja Boy Edwardo": {"ability": "Volt Absorb", "item": "Bright Powder", "level": 50, "moves": ["Thunderbolt", "Surf", "Confuse Ray", "Ice Beam"], "nature": "Brave"},
         "Pokémon Ranger Andrea": {"ability": "Volt Absorb", "item": "Lum Berry", "level": 72, "moves": ["Thunder", "Surf", "Ice Beam", "Confuse Ray"], "nature": "Gentle"},
         "Team Aqua Grunt #10 @ Mt. Pyre": {"ability": "Volt Absorb", "item": "King's Rock", "level": 54, "moves": ["Thunder Wave", "Confuse Ray", "Ice Beam", "Thunderbolt"], "nature": "Docile"},
-        "Team Aqua Grunt #3 @ Seafloor Cavern": {"ability": "Volt Absorb", "item": "Bright Powder", "level": 67, "moves": ["Thunder", "Confuse Ray", "Ice Beam", "Waterfall"], "nature": "Gentle"},
+        "Team Aqua Grunt #3 @ Seafloor Cavern": {"ability": "Volt Absorb", "item": "Bright Powder", "level": 68, "moves": ["Thunder", "Confuse Ray", "Ice Beam", "Waterfall"], "nature": "Gentle"},
         "Team Aqua Grunt #5 @ Weather Institute": {"ability": "Volt Absorb", "item": "Leftovers", "level": 46, "moves": ["Rain Dance", "Thunder", "Surf", "Ice Beam"], "nature": "Lax"},
         "Team Aqua Grunt #8 @ Aqua Hideout": {"ability": "Volt Absorb", "item": "Leftovers", "level": 64, "moves": ["Rain Dance", "Hydro Pump", "Thunder", "Ice Beam"], "nature": "Naughty"}
     },
