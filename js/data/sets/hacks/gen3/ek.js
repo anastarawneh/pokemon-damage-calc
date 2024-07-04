@@ -480,7 +480,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Cubone":
     {
-        "Pokémon Breeder Isaac": {"ability": "Lightningrod", "item": "Thick Club", "level": 23, "moves": ["Bone Rush", "Double-Edge", "Aerial Ace", "Rock Tomb"], "nature": "Calm"}
+        "Pokémon Breeder Isaac": {"ability": "Lightning Rod", "item": "Thick Club", "level": 23, "moves": ["Bone Rush", "Double-Edge", "Aerial Ace", "Rock Tomb"], "nature": "Calm"}
     },
     "Cyndaquil":
     {
@@ -1463,15 +1463,15 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Marowak":
     {
-        "Cooltrainer Albert": {"ability": "Lightningrod", "item": "Thick Club", "level": 81, "moves": ["Swords Dance", "Earthquake", "Double-Edge", "Ancientpower"], "nature": "Impish"},
-        "Cooltrainer Braxton": {"ability": "Lightningrod", "item": "Thick Club", "level": 75, "moves": ["Protect", "Earthquake", "Ancientpower", "Hidden Power Bug"], "nature": "Careful"},
-        "Cooltrainer Jody": {"ability": "Lightningrod", "item": "Thick Club", "level": 42, "moves": ["Earthquake", "Double-Edge", "Ancientpower", "Hidden Power Flying"], "nature": "Hasty"},
-        "Expert Shelby": {"ability": "Lightningrod", "item": "Thick Club", "level": 37, "moves": ["Double-Edge", "Earthquake", "Ancientpower", "Aerial Ace"], "nature": "Lax"},
-        "Gentleman Franklin": {"ability": "Lightningrod", "item": "Thick Club", "level": 100, "moves": ["Earthquake", "Ancientpower", "Hidden Power Bug", "Return"], "nature": "Gentle"},
-        "Ruin Maniac Andres": {"ability": "Lightningrod", "item": "Thick Club", "level": 66, "moves": ["Body Slam", "Rock Slide", "Earthquake", "Double-Edge"], "nature": "Naive"},
-        "Sr and Jr Kim & Iris": {"ability": "Lightningrod", "item": "Thick Club", "level": 66, "moves": ["Belly Drum", "Ancientpower", "Earthquake", "Body Slam"], "nature": "Jolly"},
-        "Team Magma Grunt #10 @ Magma Hideout": {"ability": "Lightningrod", "item": "Thick Club", "level": 60, "moves": ["Hidden Power Flying", "Double-Edge", "Earthquake", "Ancientpower"], "nature": "Lax"},
-        "Team Magma Grunt #2 @ Route 114": {"ability": "Lightningrod", "item": "Lum Berry", "level": 36, "moves": ["Earthquake", "Double-Edge", "Ancientpower", "Aerial Ace"], "nature": "Jolly"}
+        "Cooltrainer Albert": {"ability": "Lightning Rod", "item": "Thick Club", "level": 81, "moves": ["Swords Dance", "Earthquake", "Double-Edge", "Ancientpower"], "nature": "Impish"},
+        "Cooltrainer Braxton": {"ability": "Lightning Rod", "item": "Thick Club", "level": 75, "moves": ["Protect", "Earthquake", "Ancientpower", "Hidden Power Bug"], "nature": "Careful"},
+        "Cooltrainer Jody": {"ability": "Lightning Rod", "item": "Thick Club", "level": 42, "moves": ["Earthquake", "Double-Edge", "Ancientpower", "Hidden Power Flying"], "nature": "Hasty"},
+        "Expert Shelby": {"ability": "Lightning Rod", "item": "Thick Club", "level": 37, "moves": ["Double-Edge", "Earthquake", "Ancientpower", "Aerial Ace"], "nature": "Lax"},
+        "Gentleman Franklin": {"ability": "Lightning Rod", "item": "Thick Club", "level": 100, "moves": ["Earthquake", "Ancientpower", "Hidden Power Bug", "Return"], "nature": "Gentle"},
+        "Ruin Maniac Andres": {"ability": "Lightning Rod", "item": "Thick Club", "level": 66, "moves": ["Body Slam", "Rock Slide", "Earthquake", "Double-Edge"], "nature": "Naive"},
+        "Sr and Jr Kim & Iris": {"ability": "Lightning Rod", "item": "Thick Club", "level": 66, "moves": ["Belly Drum", "Ancientpower", "Earthquake", "Body Slam"], "nature": "Jolly"},
+        "Team Magma Grunt #10 @ Magma Hideout": {"ability": "Lightning Rod", "item": "Thick Club", "level": 60, "moves": ["Hidden Power Flying", "Double-Edge", "Earthquake", "Ancientpower"], "nature": "Lax"},
+        "Team Magma Grunt #2 @ Route 114": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 36, "moves": ["Earthquake", "Double-Edge", "Ancientpower", "Aerial Ace"], "nature": "Jolly"}
     },
     "Marshtomp":
     {
@@ -1850,12 +1850,12 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Pikachu":
     {
-        "Battle Girl Tara": {"ability": "Lightningrod", "item": "Light Ball", "level": 52, "moves": ["Thunder", "Surf"], "nature": "Hardy"},
-        "Lady Vivian": {"ability": "Lightningrod", "item": "Light Ball", "level": 27, "moves": ["Thunderbolt", "Seismic Toss", "Surf", "Quick Attack"], "nature": "Jolly"},
-        "Pokéfan Kaleb": {"ability": "Lightningrod", "item": "Sitrus Berry", "level": 17, "moves": ["Thunder Punch", "Quick Attack", "Thunder Wave", "Seismic Toss"], "nature": "Adamant"},
-        "Pokémon Trainer Red #1": {"ability": "Lightningrod", "item": "Sitrus Berry", "level": 9, "moves": ["Shock Wave", "Quick Attack", "Surf", "Thunder Wave"], "nature": "Rash"},
-        "Pokémon Trainer Red #2": {"ability": "Lightningrod", "item": "Light Ball", "level": 37, "moves": ["Volt Tackle", "Surf", "Hidden Power Ice", "Sing"], "nature": "Sassy"},
-        "Sis And Bro Lila & Roy": {"ability": "Lightningrod", "item": "Light Ball", "level": 65, "moves": ["Thunderbolt", "Signal Beam", "Surf", "Volt Tackle"], "nature": "Modest"}
+        "Battle Girl Tara": {"ability": "Lightning Rod", "item": "Light Ball", "level": 52, "moves": ["Thunder", "Surf"], "nature": "Hardy"},
+        "Lady Vivian": {"ability": "Lightning Rod", "item": "Light Ball", "level": 27, "moves": ["Thunderbolt", "Seismic Toss", "Surf", "Quick Attack"], "nature": "Jolly"},
+        "Pokéfan Kaleb": {"ability": "Lightning Rod", "item": "Sitrus Berry", "level": 17, "moves": ["Thunder Punch", "Quick Attack", "Thunder Wave", "Seismic Toss"], "nature": "Adamant"},
+        "Pokémon Trainer Red #1": {"ability": "Lightning Rod", "item": "Sitrus Berry", "level": 9, "moves": ["Shock Wave", "Quick Attack", "Surf", "Thunder Wave"], "nature": "Rash"},
+        "Pokémon Trainer Red #2": {"ability": "Lightning Rod", "item": "Light Ball", "level": 37, "moves": ["Volt Tackle", "Surf", "Hidden Power Ice", "Sing"], "nature": "Sassy"},
+        "Sis And Bro Lila & Roy": {"ability": "Lightning Rod", "item": "Light Ball", "level": 65, "moves": ["Thunderbolt", "Signal Beam", "Surf", "Volt Tackle"], "nature": "Modest"}
     },
     "Piloswine":
     {
@@ -1996,27 +1996,27 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Raichu":
     {
-        "Aqua Admin Shelly #2": {"ability": "Lightningrod", "item": "Lum Berry", "level": 72, "moves": ["Thunder", "Surf", "Extreme Speed", "Sing"], "nature": "Careful"},
-        "Cooltrainer Braxton": {"ability": "Lightningrod", "item": "Quick Claw", "level": 75, "moves": ["Protect", "Thunder", "Signal Beam", "Brick Break"], "nature": "Bashful"},
-        "Cooltrainer Katelynn": {"ability": "Lightningrod", "item": "Lum Berry", "level": 88, "moves": ["Extreme Speed", "Surf", "Hidden Power Grass", "Thunderbolt"], "nature": "Hardy"},
-        "Cooltrainer Olivia": {"ability": "Lightningrod", "item": "Lum Berry", "level": 74, "moves": ["Thunder", "Signal Beam", "Surf", "Brick Break"], "nature": "Naughty"},
-        "Leader Wattson": {"ability": "Lightningrod", "item": "Lum Berry", "level": 28, "moves": ["Thunder Wave", "Thunderbolt", "Surf", "Body Slam"], "nature": "Sassy"},
-        "Pokéfan Parker": {"ability": "Lightningrod", "item": "Leftovers", "level": 42, "moves": ["Teeter Dance", "Thunderbolt", "Surf", "Signal Beam"], "nature": "Brave"},
-        "Pokéfan Vanessa": {"ability": "Lightningrod", "item": "Red Scarf", "level": 53, "moves": ["Thunder Wave", "Volt Tackle", "Double Team", "Quick Attack"], "nature": "Hasty"},
+        "Aqua Admin Shelly #2": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 72, "moves": ["Thunder", "Surf", "Extreme Speed", "Sing"], "nature": "Careful"},
+        "Cooltrainer Braxton": {"ability": "Lightning Rod", "item": "Quick Claw", "level": 75, "moves": ["Protect", "Thunder", "Signal Beam", "Brick Break"], "nature": "Bashful"},
+        "Cooltrainer Katelynn": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 88, "moves": ["Extreme Speed", "Surf", "Hidden Power Grass", "Thunderbolt"], "nature": "Hardy"},
+        "Cooltrainer Olivia": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 74, "moves": ["Thunder", "Signal Beam", "Surf", "Brick Break"], "nature": "Naughty"},
+        "Leader Wattson": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 28, "moves": ["Thunder Wave", "Thunderbolt", "Surf", "Body Slam"], "nature": "Sassy"},
+        "Pokéfan Parker": {"ability": "Lightning Rod", "item": "Leftovers", "level": 42, "moves": ["Teeter Dance", "Thunderbolt", "Surf", "Signal Beam"], "nature": "Brave"},
+        "Pokéfan Vanessa": {"ability": "Lightning Rod", "item": "Red Scarf", "level": 53, "moves": ["Thunder Wave", "Volt Tackle", "Double Team", "Quick Attack"], "nature": "Hasty"},
         "Pokémon Trainer Brendan #3 [Blaziken]": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 50, "moves": ["Thunder", "Surf", "Signal Beam", "Rain Dance"], "nature": "Brave"},
         "Pokémon Trainer Brendan #3 [Sceptile]": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 49, "moves": ["Thunder", "Surf", "Signal Beam", "Rain Dance"], "nature": "Brave"},
         "Pokémon Trainer Brendan #3 [Swampert]": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 50, "moves": ["Thunder", "Surf", "Signal Beam", "Rain Dance"], "nature": "Brave"},
         "Pokémon Trainer May #3 [Blaziken]": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 50, "moves": ["Thunder", "Surf", "Signal Beam", "Rain Dance"], "nature": "Impish"},
         "Pokémon Trainer May #3 [Sceptile]": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 50, "moves": ["Thunder", "Surf", "Signal Beam", "Rain Dance"], "nature": "Impish"},
         "Pokémon Trainer May #3 [Swampert]": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 50, "moves": ["Thunder", "Surf", "Signal Beam", "Rain Dance"], "nature": "Impish"},
-        "Pokémon Trainer Wally #2": {"ability": "Lightningrod", "item": "Lum Berry", "level": 85, "moves": ["Volt Tackle", "Extreme Speed", "Surf", "Hidden Power Ice"], "nature": "Naughty"},
-        "Pokémon Ranger Ashley": {"ability": "Lightningrod", "item": "Lum Berry", "level": 50, "moves": ["Thunderbolt", "Surf", "Hidden Power Flying", "Brick Break"], "nature": "Mild"},
-        "Swimmerm Pete": {"ability": "Lightningrod", "item": "Silver Powder", "level": 43, "moves": ["Seismic Toss", "Signal Beam", "Quick Attack", "Thunderbolt"], "nature": "Relaxed"},
-        "Team Aqua Grunt #5 @ Aqua Hideout": {"ability": "Lightningrod", "item": "Bright Powder", "level": 64, "moves": ["Rain Dance", "Thunder", "Surf", "Signal Beam"], "nature": "Brave"}
+        "Pokémon Trainer Wally #2": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 85, "moves": ["Volt Tackle", "Extreme Speed", "Surf", "Hidden Power Ice"], "nature": "Naughty"},
+        "Pokémon Ranger Ashley": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 50, "moves": ["Thunderbolt", "Surf", "Hidden Power Flying", "Brick Break"], "nature": "Mild"},
+        "Swimmerm Pete": {"ability": "Lightning Rod", "item": "Silver Powder", "level": 43, "moves": ["Seismic Toss", "Signal Beam", "Quick Attack", "Thunderbolt"], "nature": "Relaxed"},
+        "Team Aqua Grunt #5 @ Aqua Hideout": {"ability": "Lightning Rod", "item": "Bright Powder", "level": 64, "moves": ["Rain Dance", "Thunder", "Surf", "Signal Beam"], "nature": "Brave"}
     },
     "Raikou":
     {
-        "Aqua Leader Archie": {"ability": "Lightningrod", "item": "Lum Berry", "level": 75, "moves": ["Thunder", "Hidden Power Grass", "Weather Ball Water", "Calm Mind"], "nature": "Lax"}
+        "Aqua Leader Archie": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 75, "moves": ["Thunder", "Hidden Power Grass", "Weather Ball Water", "Calm Mind"], "nature": "Lax"}
     },
     "Ralts":
     {
@@ -2072,15 +2072,15 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Rhydon":
     {
-        "Cooltrainer Braxton": {"ability": "Lightningrod", "item": "Quick Claw", "level": 77, "moves": ["Protect", "Earthquake", "Ancientpower", "Megahorn"], "nature": "Quirky"},
-        "Pokémaniac Steve": {"ability": "Lightningrod", "item": "Focus Band", "level": 36, "moves": ["Drill Run", "Double-Edge", "Rock Slide", "Body Slam"], "nature": "Quiet"},
-        "Ruin Maniac Andres": {"ability": "Lightningrod", "item": "Quick Claw", "level": 66, "moves": ["Rock Slide", "Double-Edge", "Earthquake", "Megahorn"], "nature": "Careful"}
+        "Cooltrainer Braxton": {"ability": "Lightning Rod", "item": "Quick Claw", "level": 77, "moves": ["Protect", "Earthquake", "Ancientpower", "Megahorn"], "nature": "Quirky"},
+        "Pokémaniac Steve": {"ability": "Lightning Rod", "item": "Focus Band", "level": 36, "moves": ["Drill Run", "Double-Edge", "Rock Slide", "Body Slam"], "nature": "Quiet"},
+        "Ruin Maniac Andres": {"ability": "Lightning Rod", "item": "Quick Claw", "level": 66, "moves": ["Rock Slide", "Double-Edge", "Earthquake", "Megahorn"], "nature": "Careful"}
     },
     "Rhyhorn":
     {
-        "School Kid Tammy": {"ability": "Lightningrod", "item": "Lum Berry", "level": 15, "moves": ["Megahorn", "Magnitude", "Rock Tomb", "Ice Beam"], "nature": "Relaxed"},
-        "Triathlete Jasmine": {"ability": "Lightningrod", "level": 25, "moves": ["Rock Tomb", "Drill Run", "Double-Edge"], "nature": "Relaxed"},
-        "Triathlete Maria": {"ability": "Lightningrod", "item": "Salac Berry", "level": 24, "moves": ["Rock Slide", "Earthquake", "Megahorn", "Endure"], "nature": "Hardy"}
+        "School Kid Tammy": {"ability": "Lightning Rod", "item": "Lum Berry", "level": 15, "moves": ["Megahorn", "Magnitude", "Rock Tomb", "Ice Beam"], "nature": "Relaxed"},
+        "Triathlete Jasmine": {"ability": "Lightning Rod", "level": 25, "moves": ["Rock Tomb", "Drill Run", "Double-Edge"], "nature": "Relaxed"},
+        "Triathlete Maria": {"ability": "Lightning Rod", "item": "Salac Berry", "level": 24, "moves": ["Rock Slide", "Earthquake", "Megahorn", "Endure"], "nature": "Hardy"}
     },
     "Roselia":
     {
