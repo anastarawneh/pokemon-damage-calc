@@ -2321,11 +2321,9 @@ var CUSTOMHACKSETDEX_EK = {
         "Team Magma Grunt #8 @ Magma Hideout": {"ability": "Own Tempo", "item": "Leftovers", "level": 60, "moves": ["Spore", "Tail Glow", "Substitute", "Baton Pass"], "nature": "Jolly"},
         "Team Magma Grunt #9 @ Route 114": {"ability": "Own Tempo", "item": "Focus Band", "level": 36, "moves": ["Spore", "Belly Drum", "Extreme Speed", "Explosion"], "nature": "Hasty"},
         "Twins Gina & Mia (1)": {"ability": "Own Tempo", "level": 8, "moves": ["Reflect", "Teeter Dance", "Soft-Boiled", "Focus Punch"], "nature": "Quiet"},
-        "Twins Gina & Mia (2)": {"ability": "Own Tempo", "level": 8, "moves": ["Light Screen", "Follow Me", "Milk Drink"]
-        },
+        "Twins Gina & Mia (2)": {"ability": "Own Tempo", "level": 8, "moves": ["Light Screen", "Follow Me", "Milk Drink"]},
         "Twins Tori & Tia (1)": {"ability": "Own Tempo", "item": "Sharp Beak", "level": 35, "moves": ["Teeter Dance", "Dragon Rage", "Extreme Speed", "Nightmare"], "nature": "Calm"},
-        "Twins Tori & Tia (2)": {"ability": "Own Tempo", "item": "Lum Berry", "level": 35, "moves": ["Spore", "Super Fang", "Dragon Rage", "Aeroblast"]
-        }
+        "Twins Tori & Tia (2)": {"ability": "Own Tempo", "item": "Lum Berry", "level": 35, "moves": ["Spore", "Super Fang", "Dragon Rage", "Aeroblast"]}
     },
     "Smoochum":
     {
