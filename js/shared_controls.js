@@ -2220,8 +2220,8 @@ $(document).ready(function () {
 	});
 	
 	$('#trainer-nav-help').click(() => {
-		alert("This section displays the enemy party in the correct in-game order. Note that that is not always the order Pokémon are sent out. Click on a Pokémon sprite to load that Pokémon.\n\n" + 
-			  "If a Pokémon is marked with a red outline, there is a chance that the enemy will make a switch to that Pokémon the turn after you use a move that is also be marked with a red background. In case of multiple outlined Pokémon, the switch will only happen to a Pokémon that resists that move.");
+		alert("This section displays the enemy party in the correct in-game order. Note that that is not always the order Pokémon are sent out. Click on a Pokémon sprite to load that Pokémon." + 
+			  (["Emerald Kaizo"].includes(game) ? "\n\nIf a Pokémon is marked with a red outline, there is a chance that the enemy will make a switch to that Pokémon the turn after you use a move that is also be marked with a red background. In case of multiple outlined Pokémon, the switch will only happen to a Pokémon that resists that move." : ""));
 	});
 	$('#bait-help').click(() => {
 		alert("This section predicts what will Pokémon will be sent out after your Pokémon defeats each member of the enemy party.\n\n" + 
@@ -2255,6 +2255,20 @@ $(document).ready(function () {
 				alert("Error! AI flag is set to " + ai);
 				return;
 		}
+	});
+
+	$('#openBetaCalc').on("click", () => {
+		var message =
+`This is a work in progress project for a more centralized resource (something similar to emi's CK+ calc).
+Completed features include:
+- Full Pokédex.
+Planned features include:
+- Calculator.
+- Encounter tracking.
+- Mobile support.
+- Any suggestions.
+Proceed with caution.`;
+		if (confirm(message)) window.open("https://ekcalc.anastarawneh.com/", '_blank').focus();
 	});
 
 	$('.last-move-used > select.move-selector').val("(No Move)");
