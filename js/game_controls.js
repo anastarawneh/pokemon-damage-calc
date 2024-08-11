@@ -528,13 +528,202 @@ function predictSwitchOrderEmerald() {
 		}
 	}
 }
+function predictSwitchOrderPlatinum() {
+	var advanced = $("#advanced-bait").is(":checked");
+	var p1 = createPokemon($("#p1"));
+	var field = createField();
+	if (p1.species.name === "Castform") {
+		switch (field.weather) {
+			case "Sun":
+				p1.types[0] = "Fire";
+				break;
+			case "Rain":
+				p1.types[0] = "Water";
+				break;
+			case "Hail":
+				p1.types[0] = "Ice";
+				break;
+			default:
+				p1.types[0] = "Normal";
+				break;
+		}
+	}
+	var partySpecies = partyOrder[window.CURRENT_TRAINER];
+	if (!partySpecies) {
+		$(".trainer-poke-switch-list").html("Switch-in data is not available for this trainer.");
+		return;
+	}
+
+	var hasDupes = (new Set(partySpecies)).size !== partySpecies.length;
+	var withMarkedDupes = [];
+	if (hasDupes) {
+		var count = {};
+		for (var i in partySpecies) {
+			if (!count[partySpecies[i]]) count[partySpecies[i]] = 0;
+			count[partySpecies[i]] += 1;
+		}
+		for (var i in partySpecies) {
+			if (count[partySpecies[i]] > 1) {
+				var j = 1;
+				while (withMarkedDupes.includes(`${partySpecies[i]} (${j})`)) j++;
+				withMarkedDupes[i] = `${partySpecies[i]} (${j})`;
+			} else withMarkedDupes[i] = partySpecies[i];
+		}
+	} else withMarkedDupes = partySpecies;
+
+	var partyMons = [];
+	if (hasDupes) for (var i in withMarkedDupes) {
+		var current_trainer = window.CURRENT_TRAINER;
+		if (withMarkedDupes[i].includes("(")) {
+			var index = withMarkedDupes[i].split("(")[1].split(")")[0];
+			current_trainer += ` (${index})`;
+		}
+		partyMons.push(setdex[partySpecies[i]][current_trainer]);
+		try {
+			partyMons[i].species = partySpecies[i];
+			partyMons[i].setName = `${partySpecies[i]} (${current_trainer})`;
+			partyMons[i].name = withMarkedDupes[i];
+		} catch (ex) {
+			$(".trainer-poke-switch-list").html("An error has occured.");
+			return;
+		}
+	} else for (var i in partySpecies) {
+		partyMons.push(setdex[partySpecies[i]][window.CURRENT_TRAINER]);
+		try {
+			partyMons[i].species = partySpecies[i];
+			partyMons[i].setName = `${partySpecies[i]} (${window.CURRENT_TRAINER})`;
+			partyMons[i].name = partySpecies[i];
+		} catch (ex) {
+			$(".trainer-poke-switch-list").html("An error has occured.");
+			return;
+		}
+	}
+
+	var deadList = [];
+	for (var i in partyMons) {
+		var dead = partyMons[i];
+		if ($(`.trainer-poke-switch[data-id='${dead.setName}']`).hasClass("dead")) {
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("Dead!");
+			deadList.push(dead);
+		} else {
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("That's it!");
+		}
+	}
+	for (var i in partyMons) {
+		var dead = partyMons[i];
+		if (deadList.includes(dead)) continue;
+		var defender = p1.clone();
+		var nextMon = "";
+		var phase = 1;
+
+		// Phase 1 => Super effective move, best offensive typing
+		var scores = {};
+		for (var j in partyMons) {
+			scores[withMarkedDupes[j]] = 0;
+			var enemy = partyMons[j];
+			if (deadList.includes(enemy)) continue;
+			var enemyDex = !partySpecies[j].includes("Castform") ? pokedex[partySpecies[j]] : pokedex["Castform"];
+			var p1types = defender.types;
+			if (!p1types[1]) p1types[1] = p1types[0];
+			var p2types = enemyDex.types;
+			if (!p2types[1]) p2types[1] = p2types[0];
+			for (var k in p2types) {
+				var type = p2types[k];
+				var typeScore = 1;
+				for (var matchup in phase1TypeMatchups) {
+					var type1 = matchup.split("-")[0];
+					var type2 = matchup.split("-")[1];
+					if ((type1 == type) && (type2 == p1types[0] || type2 == p1types[1])) {
+						typeScore *= phase1TypeMatchups[matchup];
+					}
+				}
+				if (typeScore == 1) scores[withMarkedDupes[j]] += 40;
+				else scores[withMarkedDupes[j]] += Math.floor(typeScore * 40);
+			}
+		}
+
+		var sorted = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
+
+		for (var j in sorted) {
+			var index = 0;
+			if (sorted[j].includes("(")) index = Number(sorted[j].split("(")[1].split(")")[0]) - 1;
+			var enemy = partyMons.filter(x => x.species == sorted[j].split(" (")[0])[index];
+			if (enemy == dead) continue;
+			if (deadList.includes(enemy)) {
+				continue;
+			}
+			for (var k in enemy.moves) {
+				var move = new calc.Move(GENERATION, enemy.moves[k]);
+				if (move.category == "Status") continue;
+				if (move.name == "Weather Ball") {
+					if (field.weather == "Sun") move.type = "Fire";
+					else if (field.weather == "Rain") move.type = "Water";
+					else if (field.weather == "Hail") move.type = "Ice";
+				}
+				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[0]];
+				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[defender.types[1]];
+				var typeEffectiveness = defender.types[1] ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
+				if (defender.ability == "Levitate" && move.type == "Ground") typeEffectiveness = 0;
+				if (typeEffectiveness > 1) {
+					nextMon = enemy.name;
+					break;
+				}
+			}
+			if (nextMon) break;
+		}
+
+		// Phase 2 => Highest damage dealt by the dead mon with the incoming mon's moves
+		var highestDamage;
+		if (!nextMon) {
+			phase = 2;
+			highestDamage = { pokemon: {}, score: 0 };
+			for (var j in partyMons) {
+				if (deadList.includes(partyMons[j])) continue;
+				var next = structuredClone(partyMons[j]);
+				if (next.setName == dead.setName) continue;
+				var moves = [];
+				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
+				var attacker = createPokemon(dead.setName);
+				attacker.moves = createPokemon(next.setName).moves;
+				for (var j in attacker.moves) {
+					var move = attacker.moves[j];
+					if (move.named(
+						"Fissure", "Horn Drill", "Guilotine", "Sheer Cold",
+						"Flail", "Frustration", "Low Kick", "Magnitude", "Present", "Return", "Reversal",
+						"Counter", "Mirror Coat",
+						"Dragon Rage", "Endeavor", "Night Shade", "Psywave", "Seismic Toss", "Sonic Boom", "Sonicboom", "Super Fang",
+						"Bide", "Hidden Power"
+					)) continue;
+					var calculation = calc.calculateDPP(GENERATION, attacker, defender, move, createField().clone().swap());
+					var damage = calculation.damage;
+					var score = damage ? damage[damage.length - 1] : damage;
+					if (score > highestDamage.score) {
+						score %= 256;
+						highestDamage.pokemon = next;
+						highestDamage.score = score;
+					}
+				}
+			}
+			nextMon = highestDamage.pokemon.name;
+		}
+
+		var xp = Math.floor(Math.floor(pokedex[dead.species].expYield * dead.level / 7) * 1.5);
+
+		if (nextMon) {
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html(`${nextMon} (Phase ${phase})`);
+			$(`.trainer-poke-switch-xp[data-id='${dead.setName}']`).html(`+${xp}`);
+		}
+	}
+}
 
 function predictSwitchOrder() {
 	switch (game) {
+		case "Platinum":
+			predictSwitchOrderPlatinum();
+			break;
 		case "Emerald Kaizo":
-			return predictSwitchOrderEmerald();
-		default:
-			return undefined;
+			predictSwitchOrderEmerald();
+			break;
 	}
 }
 
@@ -586,8 +775,7 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 function predictMidTurnSwitch(p1, p2) {
 	switch (game) {
 		case "Emerald Kaizo":
-			return predictMidTurnSwitchEmerald(p1, p2);
-		default:
-			return false;
+			predictMidTurnSwitchEmerald(p1, p2);
+			break;
 	}
 }

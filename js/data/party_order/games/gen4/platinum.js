@@ -105,7 +105,7 @@ var CUSTOMPARTYORDER_Pl = {
     "Camper Anthony": ["Chimchar"],
     "Picnicker Lauren": ["Pachirisu"],
     "Hiker Justin": ["Geodude", "Nosepass"],
-    "Youngster Austin": ["Luxio", "Buizel", "Gligar"],
+    "Youngster Austin": ["Buizel", "Luxio", "Gligar"],
     "Hiker Kevin": ["Geodude", "Geodude", "Onix", "Geodude"],
     "Battle Girl Helen": ["Machop", "Meditite"],
     // Route 208

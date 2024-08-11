@@ -110,11 +110,8 @@ function performCalculations() {
 	} else {
 		stickyMoves.setSelectedMove(bestResult.prop("id"));
 	}
-	var game = $("input[name='game']:checked + label").html();
-	if (["Emerald Kaizo"].includes(game)) {
-		predictMidTurnSwitch(p1, p2);
-		predictSwitchOrder();
-	}
+	predictMidTurnSwitch(p1, p2);
+	predictSwitchOrder();
 	bestResult.prop("checked", true);
 	bestResult.change();
 	$("#resultHeaderL").text(p1.name + "'s Moves (select one to show detailed results)");
