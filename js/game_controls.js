@@ -625,7 +625,7 @@ function predictSwitchOrderPlatinum() {
 			var enemyDex = !partySpecies[j].includes("Castform") ? pokedex[partySpecies[j]] : pokedex["Castform"];
 			var p1types = defender.types;
 			if (!p1types[1]) p1types[1] = p1types[0];
-			var p2types = enemyDex.types;
+			var p2types = enemyDex.types.slice();
 			if (!p2types[1]) p2types[1] = p2types[0];
 			for (var k in p2types) {
 				var type = p2types[k];
