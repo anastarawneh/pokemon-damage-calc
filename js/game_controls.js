@@ -710,7 +710,7 @@ function predictSwitchOrderPlatinum() {
 		var xp = Math.floor(Math.floor(pokedex[dead.species].expYield * dead.level / 7) * 1.5);
 
 		if (nextMon) {
-			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html(`${nextMon} (Phase ${phase})`);
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html(`${phase == 2 ? "<i>" : ""}${nextMon}${phase == 2 ? "</i>" : ""}`);
 			$(`.trainer-poke-switch-xp[data-id='${dead.setName}']`).html(`+${xp}`);
 		}
 	}
