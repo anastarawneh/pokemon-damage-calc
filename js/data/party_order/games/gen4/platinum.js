@@ -126,7 +126,7 @@ var CUSTOMPARTYORDER_Pl = {
     "Pokémon Trainer Barry #3 [Monferno]": ["Staravia", "Buizel", "Roselia", "Monferno"],
     "Pokémon Trainer Barry #3 [Prinplup]": ["Staravia", "Roselia", "Ponyta", "Prinplup"],
     "Pokémon Trainer Barry #3 [Grotle]": ["Staravia", "Buizel", "Ponyta", "Grotle"],
-    "Pokémon Breeder Albert": ["Roselia", "Bonsly", "Pikachu", "Eevee"],
+    "Pokémon Breeder Albert": ["Budew", "Bonsly", "Pichu", "Eevee"],
     "Jogger Richard": ["Luxio"],
     "Twins Emma & Lil": ["Bonsly", "Mime Jr."],
     "Poké Kid Danielle": ["Pichu"],
