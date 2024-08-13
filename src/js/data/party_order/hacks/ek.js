@@ -1,7 +1,7 @@
 var CUSTOMHACKPARTYORDER_EK = {
     // Route 102
-    "Youngster Calvin": ["Sentret", "Poochyena", "Zigzagoon"],
-    "Bug Catcher Rick": ["Caterpie", "Wurmple", "Kakuna", "Cascoon"],
+    "Youngster Calvin": ["Poochyena", "Zigzagoon", "Whismur"],
+    "Bug Catcher Rick": ["Surskit", "Pinece", "Cascoon", "Silcoon"],
     "Lass Tiana": ["Igglybuff", "Sunkern", "Togepi"],
     "Bug Catcher Allen": ["Weedle", "Wurmple", "Metapod", "Silcoon"],
     // Route 104 (South)
