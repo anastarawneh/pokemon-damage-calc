@@ -16933,44 +16933,7 @@ var CUSTOMHACKSETDEX_EK =
 			],
 			"nature": "Serious"
 		},
-		"Calvin (Trainer #330 Mon #2)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 4,
-				"df": 4,
-				"hp": 4,
-				"sa": 4,
-				"sd": 4,
-				"sp": 4
-			},
-			"level": 29,
-			"moves": [
-				"Dig",
-				"Weather Ball",
-				"Secret Power",
-				"Headbutt"
-			],
-			"nature": "Serious"
-		},
-		"Calvin (Trainer #331 Mon #2)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 5,
-				"df": 5,
-				"hp": 5,
-				"sa": 5,
-				"sd": 5,
-				"sp": 5
-			},
-			"level": 32,
-			"moves": [
-				"Dig",
-				"Weather Ball",
-				"Secret Power",
-				"Headbutt"
-			],
-			"nature": "Serious"
-		},
+
 		"Cindy (Trainer #120 Mon #1)": {
 			"ability": "Guts",
 			"item": "Nugget",
@@ -24406,82 +24369,6 @@ var CUSTOMHACKSETDEX_EK =
 		}
 	},
 	"Mightyena": {
-		"Calvin (Trainer #328 Mon #1)": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 1,
-				"df": 1,
-				"hp": 1,
-				"sa": 1,
-				"sd": 1,
-				"sp": 1
-			},
-			"level": 27,
-			"moves": [
-				"Crunch",
-				"Yawn",
-				"Roar",
-				"Heal Bell"
-			],
-			"nature": "Serious"
-		},
-		"Calvin (Trainer #329 Mon #2)": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 2,
-				"df": 2,
-				"hp": 2,
-				"sa": 2,
-				"sd": 2,
-				"sp": 2
-			},
-			"level": 30,
-			"moves": [
-				"Crunch",
-				"Yawn",
-				"Roar",
-				"Heal Bell"
-			],
-			"nature": "Serious"
-		},
-		"Calvin (Trainer #330 Mon #3)": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 4,
-				"df": 4,
-				"hp": 4,
-				"sa": 4,
-				"sd": 4,
-				"sp": 4
-			},
-			"level": 33,
-			"moves": [
-				"Iron Tail",
-				"Crunch",
-				"Yawn",
-				"Roar"
-			],
-			"nature": "Serious"
-		},
-		"Calvin (Trainer #331 Mon #3)": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 5,
-				"df": 5,
-				"hp": 5,
-				"sa": 5,
-				"sd": 5,
-				"sp": 5
-			},
-			"level": 36,
-			"moves": [
-				"Poison Fang",
-				"Iron Tail",
-				"Crunch",
-				"Yawn"
-			],
-			"nature": "Serious"
-		},
 		"Gabrielle (Trainer #840 Mon #2)": {
 			"ability": "Intimidate",
 			"ivs": {
@@ -37089,63 +36976,6 @@ var CUSTOMHACKSETDEX_EK =
 				"Quick Attack",
 				"Wing Attack",
 				"Endeavor"
-			],
-			"nature": "Serious"
-		},
-		"Calvin (Trainer #329 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 2,
-				"df": 2,
-				"hp": 2,
-				"sa": 2,
-				"sd": 2,
-				"sp": 2
-			},
-			"level": 28,
-			"moves": [
-				"Endeavor",
-				"Facade",
-				"Wing Attack",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Calvin (Trainer #330 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 4,
-				"df": 4,
-				"hp": 4,
-				"sa": 4,
-				"sd": 4,
-				"sp": 4
-			},
-			"level": 31,
-			"moves": [
-				"Endeavor",
-				"Facade",
-				"Wing Attack",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Calvin (Trainer #331 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 5,
-				"df": 5,
-				"hp": 5,
-				"sa": 5,
-				"sd": 5,
-				"sp": 5
-			},
-			"level": 34,
-			"moves": [
-				"Endeavor",
-				"Facade",
-				"Wing Attack",
-				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
