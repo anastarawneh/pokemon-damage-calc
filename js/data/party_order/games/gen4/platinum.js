@@ -344,7 +344,7 @@ var CUSTOMPARTYORDER_Pl = {
     "Ace Trainer Sergio": ["Snover", "Sneasel"],
     "Ace Trainer Brenna": ["Sneasel", "Snorunt", "Snover"],
     "Ace Trainer Isaiah": ["Piloswine"],
-    "Leader Candice": ["Sneasel", "Piloswine", "Abomesnow", "Froslass"],
+    "Leader Candice": ["Sneasel", "Piloswine", "Abomasnow", "Froslass"],
     // Galactic Warehouse
     "Team Galactic Grunt #1 @ Galactic Warehouse": ["Golbat"],
     "Team Galactic Grunt #2 @ Galactic Warehouse": ["Houndour", "Murkrow"],
