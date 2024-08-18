@@ -289,9 +289,9 @@ var CUSTOMPARTYORDER_Pl = {
     "Sailor Skyler": ["Mantyke", "Machoke"],
     "Guitarist Tony": ["Kricketune", "Magnemite"],
     // Canalave City
-    "Pokémon Trainer Barry #4 [Infernape]": ["Staraptor", "Floatzel", "Heracross", "Roserade", "Infernape"],
-    "Pokémon Trainer Barry #4 [Empoleon]": ["Staraptor", "Roserade", "Heracross", "Rapidash", "Empoleon"],
-    "Pokémon Trainer Barry #4 [Torterra]": ["Staraptor", "Floatzel", "Heracross", "Rapidash", "Torterra"],
+    "Pokémon Trainer Barry #5 [Infernape]": ["Staraptor", "Floatzel", "Heracross", "Roserade", "Infernape"],
+    "Pokémon Trainer Barry #5 [Empoleon]": ["Staraptor", "Roserade", "Heracross", "Rapidash", "Empoleon"],
+    "Pokémon Trainer Barry #5 [Torterra]": ["Staraptor", "Floatzel", "Heracross", "Rapidash", "Torterra"],
     // Canalave Gym
     "Black Belt Ricky": ["Steelix"],
     "Worker Gary": ["Magnemite"],
