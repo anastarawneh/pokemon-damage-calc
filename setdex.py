@@ -11,15 +11,16 @@ calc = open('calc.json', encoding="utf8")
 # a dictionary
 data = json.load(calc)
 
-# list of ignored trainer numbers
-ignored_trainers = []
+# list of trainers numbers in game
+number_of_ingame_trainers = [318]
 
 mon_store = {}
 party_order = {}
 for trainer in data:
   trainer_num = int(trainer[-3:])
   trainer_name = trainer[:-4]
-  if trainer_num in ignored_trainers: continue
+#sort out trainers who are duplicates
+  if trainer_num not in number_of_ingame_trainers: continue
   final_party = []
   clean_party = [x[:-2] for x in data[trainer].keys()]
   for mon_name in clean_party:
