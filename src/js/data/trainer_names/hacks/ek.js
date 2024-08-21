@@ -1,10 +1,17 @@
 var CUSTOMHACKTRAINERNAMES_EK = [
-	// Route 102
+
 	"Youngster Calvin",
 	"Bug Catcher Rick",
-	"Lass Tiana",
 	"Bug Catcher Allen",
-	// Route 104 (South)
+	"Lass Tiana",
+
+	"Collector Edwin",
+	"Guitarist Joseph",
+	"Aqua Grunt Rusturf Tunnel",
+
+
+
+
 	"Bird Keeper Billy",
 	"Fisherman Darian",
 	"Lady Cindy",
@@ -66,8 +73,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Psychic Edward",
 	"Psychic Jaclyn",
 	"Youngster Timmy",
-	"Collector Edwin",
-	"Guitarist Joseph",
+
 	"Pokémon Trainer May #2 [Combusken]",
 	"Pokémon Trainer May #2 [Marshtomp]",
 	"Pokémon Trainer May #2 [Grovyle]",
