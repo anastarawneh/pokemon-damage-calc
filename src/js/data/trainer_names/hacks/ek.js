@@ -5,8 +5,8 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Youngster Allen [#333]",
 	"Lass Tiana [#603]",
 
-	"Collector Edwin",
-	"Guitarist Joseph",
+	"Collector Edwin [#512]",
+	"Guitarist Joseph [#700]",
 	"Team Aqua Grunt [#10]",
 	"Psychic Edward [#232]",
 	"Triathlete Alyssa [#701]",
