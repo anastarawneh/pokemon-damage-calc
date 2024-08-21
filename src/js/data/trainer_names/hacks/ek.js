@@ -1,6 +1,6 @@
 var CUSTOMHACKTRAINERNAMES_EK = [
 
-	"Youngster Calvin [#329]",
+	"Youngster Calvin [#318]",
 	"Bug Catcher Rick [#615]",
 	"Youngster Allen [#333]",
 	"Lass Tiana [#603]",
