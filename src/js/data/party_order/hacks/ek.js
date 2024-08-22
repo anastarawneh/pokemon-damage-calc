@@ -7,6 +7,9 @@ var CUSTOMHACKPARTYORDER_EK = {
             "Lapras",
             "Meganium"
         ],
+        "Pokémon Trainer Wally [#656]": [
+            "Ralts"
+        ],
         "Team Aqua Grunt [#3]": [
             "Crobat",
             "Whiscash",

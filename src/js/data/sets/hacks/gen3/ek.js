@@ -16884,6 +16884,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"nature": "Serious"
 			}
 		},
+		"Ralts": {
+			"Pokémon Trainer Wally [#656]": {
+				"ability": "Trace",
+				"ivs": {
+					"at": 31,
+					"df": 31,
+					"hp": 31,
+					"sa": 31,
+					"sd": 31,
+					"sp": 31
+				},
+				"level": 12,
+				"moves": [
+					"Confusion",
+					"Shock Wave",
+					"Calm Mind"
+				],
+				"nature": "Serious"
+			}
+		},
 		"Rayquaza": {
 			"Elite Four Drake [#264]": {
 				"ability": "Air Lock",
