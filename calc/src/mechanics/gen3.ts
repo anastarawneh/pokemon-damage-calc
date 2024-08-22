@@ -376,7 +376,7 @@ export function calculateDefenseADV(
     desc.defenderAbility = defender.ability;
   }
 
-  if (move.named('Explosion', 'Self-Destruct')) {
+  if (move.named('Explosion', 'Selfdestruct')) {
     df = Math.floor(df / 2);
   }
 
