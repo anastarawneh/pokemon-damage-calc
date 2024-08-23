@@ -426,7 +426,7 @@ var CUSTOMPARTYORDER_Pl = {
     "Double Team Al & Kay": ["Staraptor", "Ambipom"],
     "Black Belt Miles": ["Machamp"],
     "Psychic Valencia": ["Chimecho", "Absol", "Dusknoir"],
-    "Double Team Pat & Jo": ["Lumineon", "Rapidash"],
+    "Double Team Jo & Pat": ["Lumineon", "Rapidash"],
     "Ace Trainer Henry": ["Rhydon", "Carnivine"],
     "Dragon Tamer Ondrej": ["Altaria", "Gabite"],
     "Veteran Edgar": ["Porygon-Z", "Tangrowth", "Empoleon"],

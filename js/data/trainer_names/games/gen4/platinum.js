@@ -357,7 +357,7 @@ var CUSTOMTRAINERNAMES_Pl = [
     "Double Team Al & Kay",
     "Black Belt Miles",
     "Psychic Valencia",
-    "Double Team Pat & Jo",
+    "Double Team Jo & Pat",
     "Ace Trainer Henry",
     "Dragon Tamer Ondrej",
     "Veteran Edgar",
