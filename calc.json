@@ -471,7 +471,7 @@
 	},
 	"Collector Ed_013":{
 		"Zangoose_1":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Brick Break", "Slash", "Metal Claw", "Quick Attack"],
@@ -812,7 +812,7 @@
 			"level":69
 		},
 		"Zangoose_4":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"item":"Brightpowder",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -1517,6 +1517,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Poison Tail", "Iron Tail", "Ice Beam"],
 			"level":48
+		},
+		"Swampert_4":{
+			"ability":"Torrent",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Muddy Water", "Rock Slide", "Toxic"],
+			"level":48
 		}
 	},
 	"Ruin Maniac Chip_045":{
@@ -2050,7 +2058,7 @@
 			"level":51
 		},
 		"Zangoose_6":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -2157,6 +2165,14 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Rock Slide", "Earthquake", "Megahorn", "Double-Edge"],
+			"level":48
+		},
+		"Weezing_4":{
+			"ability":"Levitate",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sludge Bomb", "Thunderbolt", "Psybeam", "Toxic"],
 			"level":48
 		}
 	},
@@ -3300,19 +3316,12 @@
 		}
 	},
 	"Beauty Tiffany_131":{
-		"Carvanha_1":{
-			"ability":"Rough Skin",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Poison Fang", "Crunch", "Take Down", "Bounce"],
-			"level":39
-		},
-		"Sharpedo_2":{
-			"ability":"Rough Skin",
-			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Poison Fang", "Crunch", "Take Down", "Bounce"],
-			"level":39
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Beauty Jessica_132":{
@@ -4226,6 +4235,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Spore", "Sky Uppercut", "Giga Drain", "Mach Punch"],
 			"level":48
+		},
+		"Poliwrath_5":{
+			"ability":"Swift Swim",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Superpower", "Psychic", "Mud Shot"],
+			"level":48
 		}
 	},
 	"Team Aqua Grunt_190":{
@@ -4871,6 +4888,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Fake Out", "Hyper Voice", "Shadow Ball", "Superpower"],
 			"level":48
+		},
+		"Hariyama_5":{
+			"ability":"Thick Fat",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Fake Out", "Cross Chop", "Rock Slide", "Bulk Up"],
+			"level":48
 		}
 	},
 	"Camper Beau_212":{
@@ -4879,7 +4904,7 @@
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Iron Head", "Selfdestruct", "Giga Drain", "Spikes"],
+			"moves":["Iron Head", "Earthquake", "Giga Drain", "Spikes"],
 			"level":48
 		},
 		"Claydol_2":{
@@ -5947,7 +5972,7 @@
 	},
 	"Gentleman Thomas_256":{
 		"Zangoose_1":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["X-Scissor", "Brick Break", "Slash", "Metal Claw"],
@@ -7340,7 +7365,7 @@
 	},
 	"Youngster Billy_319":{
 		"Zangoose_1":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"item":"Silk Scarf",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -7404,7 +7429,7 @@
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Rock Slide", "Brick Break", "Selfdestruct"],
+			"moves":["Earthquake", "Rock Slide", "Brick Break", "Iron Head"],
 			"level":22
 		},
 		"Anorith_2":{
@@ -7526,7 +7551,7 @@
 			"level":43
 		},
 		"Zangoose_3":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -9971,6 +9996,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crunch", "Shadow Ball", "Megahorn", "Swords Dance"],
 			"level":48
+		},
+		"Arcanine_5":{
+			"ability":"Intimidate",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Flamethrower", "Spark", "Extremespeed", "Will-O-Wisp"],
+			"level":48
 		}
 	},
 	"Picnicker Carol_471":{
@@ -10719,7 +10752,7 @@
 	},
 	"Collector Hector_513":{
 		"Zangoose_1":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Metal Claw", "Quick Attack", "Scratch", "Facade"],
@@ -10823,7 +10856,7 @@
 			"level":35
 		}
 	},
-	"Pokémon Trainer Wally_519":{
+	"Pokã©Mon Trainer Wally_519":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -10860,7 +10893,7 @@
 			"level":45
 		}
 	},
-	"Pokémon Trainer Brendan_520":{
+	"Pokã©Mon Trainer Brendan_520":{
 		"Treecko_1":{
 			"ability":"Overgrow",
 			"nature":"Serious",
@@ -10869,7 +10902,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer Brendan_521":{
+	"Pokã©Mon Trainer Brendan_521":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -10919,7 +10952,7 @@
 			"level":41
 		}
 	},
-	"Pokémon Trainer Brendan_522":{
+	"Pokã©Mon Trainer Brendan_522":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -10969,7 +11002,7 @@
 			"level":63
 		}
 	},
-	"Pokémon Trainer Brendan_523":{
+	"Pokã©Mon Trainer Brendan_523":{
 		"Torchic_1":{
 			"ability":"Blaze",
 			"nature":"Serious",
@@ -10978,7 +11011,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer Brendan_524":{
+	"Pokã©Mon Trainer Brendan_524":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11028,7 +11061,7 @@
 			"level":41
 		}
 	},
-	"Pokémon Trainer Brendan_525":{
+	"Pokã©Mon Trainer Brendan_525":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11078,7 +11111,7 @@
 			"level":63
 		}
 	},
-	"Pokémon Trainer Brendan_526":{
+	"Pokã©Mon Trainer Brendan_526":{
 		"Mudkip_1":{
 			"ability":"Torrent",
 			"nature":"Serious",
@@ -11087,7 +11120,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer Brendan_527":{
+	"Pokã©Mon Trainer Brendan_527":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11137,7 +11170,7 @@
 			"level":41
 		}
 	},
-	"Pokémon Trainer Brendan_528":{
+	"Pokã©Mon Trainer Brendan_528":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11187,7 +11220,7 @@
 			"level":63
 		}
 	},
-	"Pokémon Trainer May_529":{
+	"Pokã©Mon Trainer May_529":{
 		"Treecko_1":{
 			"ability":"Overgrow",
 			"nature":"Serious",
@@ -11196,7 +11229,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer May_530":{
+	"Pokã©Mon Trainer May_530":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11246,7 +11279,7 @@
 			"level":41
 		}
 	},
-	"Pokémon Trainer May_531":{
+	"Pokã©Mon Trainer May_531":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11296,7 +11329,7 @@
 			"level":63
 		}
 	},
-	"Pokémon Trainer May_532":{
+	"Pokã©Mon Trainer May_532":{
 		"Torchic_1":{
 			"ability":"Blaze",
 			"nature":"Serious",
@@ -11305,7 +11338,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer May_533":{
+	"Pokã©Mon Trainer May_533":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11355,7 +11388,7 @@
 			"level":41
 		}
 	},
-	"Pokémon Trainer May_534":{
+	"Pokã©Mon Trainer May_534":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11405,7 +11438,7 @@
 			"level":63
 		}
 	},
-	"Pokémon Trainer May_535":{
+	"Pokã©Mon Trainer May_535":{
 		"Mudkip_1":{
 			"ability":"Torrent",
 			"nature":"Serious",
@@ -11414,7 +11447,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer May_536":{
+	"Pokã©Mon Trainer May_536":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11456,7 +11489,7 @@
 			"level":41
 		}
 	},
-	"Pokémon Trainer May_537":{
+	"Pokã©Mon Trainer May_537":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11506,7 +11539,7 @@
 			"level":63
 		}
 	},
-	"Pokémon Breeder Isaac_538":{
+	"Pokã©Mon Breeder Isaac_538":{
 		"Shroomish_1":{
 			"ability":"Effect Spore",
 			"nature":"Serious",
@@ -11562,7 +11595,7 @@
 			"level":43
 		}
 	},
-	"Pokémon Breeder Isaac_541":{
+	"Pokã©Mon Breeder Isaac_541":{
 		"Loudred_1":{
 			"ability":"Soundproof",
 			"nature":"Serious",
@@ -11606,7 +11639,7 @@
 			"level":22
 		}
 	},
-	"Pokémon Breeder Isaac_542":{
+	"Pokã©Mon Breeder Isaac_542":{
 		"Loudred_1":{
 			"ability":"Soundproof",
 			"nature":"Serious",
@@ -11650,7 +11683,7 @@
 			"level":25
 		}
 	},
-	"Pokémon Breeder Isaac_543":{
+	"Pokã©Mon Breeder Isaac_543":{
 		"Loudred_1":{
 			"ability":"Soundproof",
 			"nature":"Serious",
@@ -11694,7 +11727,7 @@
 			"level":28
 		}
 	},
-	"Pokémon Breeder Isaac_544":{
+	"Pokã©Mon Breeder Isaac_544":{
 		"Loudred_1":{
 			"ability":"Soundproof",
 			"nature":"Serious",
@@ -11738,7 +11771,7 @@
 			"level":31
 		}
 	},
-	"Pokémon Breeder Lydia_545":{
+	"Pokã©Mon Breeder Lydia_545":{
 		"Corphish_1":{
 			"ability":"Shell Armor",
 			"nature":"Serious",
@@ -11795,7 +11828,7 @@
 			"level":26
 		}
 	},
-	"Pokémon Breeder Lydia_548":{
+	"Pokã©Mon Breeder Lydia_548":{
 		"Wingull_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -11839,7 +11872,7 @@
 			"level":22
 		}
 	},
-	"Pokémon Breeder Lydia_549":{
+	"Pokã©Mon Breeder Lydia_549":{
 		"Pelipper_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -11883,7 +11916,7 @@
 			"level":25
 		}
 	},
-	"Pokémon Breeder Lydia_550":{
+	"Pokã©Mon Breeder Lydia_550":{
 		"Pelipper_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -11927,7 +11960,7 @@
 			"level":28
 		}
 	},
-	"Pokémon Breeder Lydia_551":{
+	"Pokã©Mon Breeder Lydia_551":{
 		"Pelipper_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -12013,7 +12046,7 @@
 			"level":60
 		}
 	},
-	"Pokémon Ranger Lorenzo_553":{
+	"Pokã©Mon Ranger Lorenzo_553":{
 		"Granbull_1":{
 			"ability":"Intimidate",
 			"item":"Lum Berry",
@@ -12047,7 +12080,7 @@
 			"level":67
 		}
 	},
-	"Pokémon Ranger Sebastian_554":{
+	"Pokã©Mon Ranger Sebastian_554":{
 		"Cacturne_1":{
 			"ability":"Sand Veil",
 			"nature":"Serious",
@@ -12056,7 +12089,7 @@
 			"level":39
 		}
 	},
-	"Pokémon Ranger Jackson_555":{
+	"Pokã©Mon Ranger Jackson_555":{
 		"Breloom_1":{
 			"ability":"Effect Spore",
 			"nature":"Serious",
@@ -12065,7 +12098,7 @@
 			"level":31
 		}
 	},
-	"Pokémon Ranger Jackson_556":{
+	"Pokã©Mon Ranger Jackson_556":{
 		"Breloom_1":{
 			"ability":"Effect Spore",
 			"nature":"Serious",
@@ -12074,7 +12107,7 @@
 			"level":34
 		}
 	},
-	"Pokémon Ranger Jackson_557":{
+	"Pokã©Mon Ranger Jackson_557":{
 		"Breloom_1":{
 			"ability":"Effect Spore",
 			"nature":"Serious",
@@ -12083,7 +12116,7 @@
 			"level":37
 		}
 	},
-	"Pokémon Ranger Jackson_558":{
+	"Pokã©Mon Ranger Jackson_558":{
 		"Kecleon_1":{
 			"ability":"Color Change",
 			"nature":"Serious",
@@ -12133,7 +12166,7 @@
 			"level":60
 		}
 	},
-	"Pokémon Ranger Jenna_560":{
+	"Pokã©Mon Ranger Jenna_560":{
 		"Primeape_1":{
 			"ability":"Vital Spirit",
 			"item":"Focus Band",
@@ -12151,7 +12184,7 @@
 			"level":67
 		},
 		"Zangoose_3":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"item":"Silk Scarf",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -12167,7 +12200,7 @@
 			"level":67
 		}
 	},
-	"Pokémon Ranger Sophia_561":{
+	"Pokã©Mon Ranger Sophia_561":{
 		"Swablu_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -12183,7 +12216,7 @@
 			"level":38
 		}
 	},
-	"Pokémon Ranger Catherine_562":{
+	"Pokã©Mon Ranger Catherine_562":{
 		"Gloom_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -12199,7 +12232,7 @@
 			"level":30
 		}
 	},
-	"Pokémon Ranger Catherine_563":{
+	"Pokã©Mon Ranger Catherine_563":{
 		"Gloom_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -12215,7 +12248,7 @@
 			"level":33
 		}
 	},
-	"Pokémon Ranger Catherine_564":{
+	"Pokã©Mon Ranger Catherine_564":{
 		"Gloom_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -12231,7 +12264,7 @@
 			"level":36
 		}
 	},
-	"Pokémon Ranger Catherine_565":{
+	"Pokã©Mon Ranger Catherine_565":{
 		"Bellossom_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -12997,7 +13030,7 @@
 			"level":73
 		}
 	},
-	"Pokémon Trainer Brendan_592":{
+	"Pokã©Mon Trainer Brendan_592":{
 		"Lotad_1":{
 			"ability":"Swift Swim",
 			"nature":"Serious",
@@ -13013,7 +13046,7 @@
 			"level":15
 		}
 	},
-	"Pokémon Trainer Brendan_593":{
+	"Pokã©Mon Trainer Brendan_593":{
 		"Wingull_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -13170,7 +13203,7 @@
 			"level":33
 		}
 	},
-	"Pokémon Trainer Brendan_599":{
+	"Pokã©Mon Trainer Brendan_599":{
 		"Slugma_1":{
 			"ability":"Flame Body",
 			"nature":"Serious",
@@ -13186,7 +13219,7 @@
 			"level":15
 		}
 	},
-	"Pokémon Trainer May_600":{
+	"Pokã©Mon Trainer May_600":{
 		"Wingull_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -14413,7 +14446,7 @@
 			"level":62
 		}
 	},
-	"Pokémon Trainer Wally_656":{
+	"Pokã©Mon Trainer Wally_656":{
 		"Ralts_1":{
 			"ability":"Trace",
 			"nature":"Serious",
@@ -14422,7 +14455,7 @@
 			"level":12
 		}
 	},
-	"Pokémon Trainer Wally_657":{
+	"Pokã©Mon Trainer Wally_657":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14459,7 +14492,7 @@
 			"level":48
 		}
 	},
-	"Pokémon Trainer Wally_658":{
+	"Pokã©Mon Trainer Wally_658":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14496,7 +14529,7 @@
 			"level":51
 		}
 	},
-	"Pokémon Trainer Wally_659":{
+	"Pokã©Mon Trainer Wally_659":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14533,7 +14566,7 @@
 			"level":54
 		}
 	},
-	"Pokémon Trainer Wally_660":{
+	"Pokã©Mon Trainer Wally_660":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14570,7 +14603,7 @@
 			"level":57
 		}
 	},
-	"Pokémon Trainer Brendan_661":{
+	"Pokã©Mon Trainer Brendan_661":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14600,7 +14633,7 @@
 			"level":34
 		}
 	},
-	"Pokémon Trainer Brendan_662":{
+	"Pokã©Mon Trainer Brendan_662":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14630,7 +14663,7 @@
 			"level":34
 		}
 	},
-	"Pokémon Trainer Brendan_663":{
+	"Pokã©Mon Trainer Brendan_663":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14660,7 +14693,7 @@
 			"level":34
 		}
 	},
-	"Pokémon Trainer May_664":{
+	"Pokã©Mon Trainer May_664":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14690,7 +14723,7 @@
 			"level":34
 		}
 	},
-	"Pokémon Trainer May_665":{
+	"Pokã©Mon Trainer May_665":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14720,7 +14753,7 @@
 			"level":34
 		}
 	},
-	"Pokémon Trainer May_666":{
+	"Pokã©Mon Trainer May_666":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -16357,7 +16390,7 @@
 	},
 	"Picnicker Celia_743":{
 		"Zangoose_1":{
-			"ability":"Immunity",
+			"ability":"Guts",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -16377,7 +16410,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Aerial Ace", "Sludge Bomb", "Giga Drain", "Hydro Pump"],
+			"moves":["Aerial Ace", "Sludge Bomb", "Giga Drain", "Toxic"],
 			"level":49
 		},
 		"Lunatone_4":{
@@ -16406,12 +16439,12 @@
 			"moves":["Giga Drain", "Feint Attack", "Extrasensory", "Pursuit"],
 			"level":49
 		},
-		"Corsola_3":{
-			"ability":"Natural Cure",
+		"Xatu_3":{
+			"ability":"Synchronize",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Rock Slide", "Surf", "Recover", "Ice Beam"],
+			"moves":["Psychic", "Drill Peck", "Heat Wave", "Steel Wing"],
 			"level":49
 		},
 		"Whiscash_4":{
@@ -16422,7 +16455,15 @@
 			"moves":["Earthquake", "Rock Slide", "Ice Beam", "Muddy Water"],
 			"level":49
 		},
-		"Metagross_5":{
+		"Solrock_5":{
+			"ability":"Levitate",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Rock Slide", "Psychic", "Earthquake", "Flamethrower"],
+			"level":50
+		},
+		"Metagross_6":{
 			"ability":"Battle Armor",
 			"item":"Lum Berry",
 			"nature":"Serious",
@@ -16463,6 +16504,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Brick Break", "Fire Blast", "Thunderbolt"],
 			"level":49
+		},
+		"Umbreon_5":{
+			"ability":"Synchronize",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Wish", "Crunch", "Shadow Ball", "Psychic"],
+			"level":49
 		}
 	},
 	"Kindler Bryant_746":{
@@ -16487,7 +16536,7 @@
 			"item":"Thick Club",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Bonemerang", "Rock Slide", "Double-Edge", "Flamethrower"],
+			"moves":["Earthquake", "Rock Slide", "Double-Edge", "Flamethrower"],
 			"level":48
 		},
 		"Aggron_4":{
@@ -16496,6 +16545,14 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Rock Slide", "Iron Tail", "Earthquake", "Flamethrower"],
+			"level":48
+		},
+		"Meganium_5":{
+			"ability":"Thick Fat",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Giga Drain", "Body Slam", "Earthquake", "Counter"],
 			"level":48
 		}
 	},
@@ -16889,7 +16946,7 @@
 			"level":1
 		}
 	},
-	"Pokémon Breeder Myles_765":{
+	"Pokã©Mon Breeder Myles_765":{
 		"Ditto_1":{
 			"ability":"Limber",
 			"nature":"Serious",
@@ -16898,7 +16955,7 @@
 			"level":1
 		}
 	},
-	"Pokémon Breeder Pat_766":{
+	"Pokã©Mon Breeder Pat_766":{
 		"Ditto_1":{
 			"ability":"Limber",
 			"nature":"Serious",
@@ -16949,7 +17006,7 @@
 			"level":67
 		}
 	},
-	"Pokémon Trainer May_768":{
+	"Pokã©Mon Trainer May_768":{
 		"Lotad_1":{
 			"ability":"Swift Swim",
 			"nature":"Serious",
@@ -16965,7 +17022,7 @@
 			"level":15
 		}
 	},
-	"Pokémon Trainer May_769":{
+	"Pokã©Mon Trainer May_769":{
 		"Torkoal_1":{
 			"ability":"Shell Armor",
 			"nature":"Serious",
@@ -18369,7 +18426,7 @@
 			"level":63
 		}
 	},
-	"Pokémon Trainer Steven_804":{
+	"Pokã©Mon Trainer Steven_804":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -19086,7 +19143,7 @@
 			"level":33
 		}
 	},
-	"Pokémon Breeder Gabrielle_840":{
+	"Pokã©Mon Breeder Gabrielle_840":{
 		"Skitty_1":{
 			"ability":"Cute Charm",
 			"nature":"Serious",
@@ -19130,7 +19187,7 @@
 			"level":31
 		}
 	},
-	"Pokémon Breeder Gabrielle_841":{
+	"Pokã©Mon Breeder Gabrielle_841":{
 		"Skitty_1":{
 			"ability":"Cute Charm",
 			"nature":"Serious",
@@ -19174,7 +19231,7 @@
 			"level":33
 		}
 	},
-	"Pokémon Breeder Gabrielle_842":{
+	"Pokã©Mon Breeder Gabrielle_842":{
 		"Delcatty_1":{
 			"ability":"Cute Charm",
 			"nature":"Serious",
@@ -19218,7 +19275,7 @@
 			"level":35
 		}
 	},
-	"Pokémon Breeder Gabrielle_843":{
+	"Pokã©Mon Breeder Gabrielle_843":{
 		"Delcatty_1":{
 			"ability":"Cute Charm",
 			"nature":"Serious",
@@ -19381,7 +19438,7 @@
 			"level":41
 		}
 	},
-	"Pokémon Trainer Red_851":{
+	"Pokã©Mon Trainer Red_851":{
 		"Charmander_1":{
 			"ability":"Blaze",
 			"nature":"Serious",
@@ -19390,7 +19447,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer Leaf_852":{
+	"Pokã©Mon Trainer Leaf_852":{
 		"Bulbasaur_1":{
 			"ability":"Overgrow",
 			"nature":"Serious",
@@ -19399,7 +19456,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer Brendan_853":{
+	"Pokã©Mon Trainer Brendan_853":{
 		"Groudon_1":{
 			"ability":"Drought",
 			"nature":"Serious",
@@ -19408,7 +19465,7 @@
 			"level":5
 		}
 	},
-	"Pokémon Trainer May_854":{
+	"Pokã©Mon Trainer May_854":{
 		"Kyogre_1":{
 			"ability":"Drizzle",
 			"nature":"Serious",
