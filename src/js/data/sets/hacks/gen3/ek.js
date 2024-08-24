@@ -4794,7 +4794,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"moves": [
 					"Earthquake",
 					"Aerial Ace",
-					"Hidden Power~6",
+					"Hidden Power Bug",
 					"Rock Slide"
 				],
 				"nature": "Serious"
