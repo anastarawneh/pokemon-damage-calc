@@ -143,7 +143,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Fisherman Barny [#343]",
 	"Aroma Lady Rose [#37]",
 	"Bird Keeper Chester [#408]",
-	"Youngster Deandre [#715]",
 
 	"Team Aqua Grunt [#559]",
 	"Team Aqua Grunt [#552]",

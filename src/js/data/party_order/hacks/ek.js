@@ -1252,11 +1252,6 @@ var CUSTOMHACKPARTYORDER_EK = {
 		"Camerupt",
 		"Manectric"
 	],
-	"Youngster Deandre [#715]": [
-		"Linoone",
-		"Manectric",
-		"Pelipper"
-	],
 	"Team Magma Grunt [#716]": [
 		"Porygon2",
 		"Typhlosion",
