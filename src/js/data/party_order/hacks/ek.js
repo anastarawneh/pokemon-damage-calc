@@ -658,11 +658,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Forretress",
 		"Claydol"
 	],
-	"Pokéfan Isabel [#302]": [
-		"Miltank",
-		"Wobbuffet",
-		"Swellow"
-	],
 	"Triathlete Alyssa [#701]": [
 		"Delibird",
 		"Doduo",
