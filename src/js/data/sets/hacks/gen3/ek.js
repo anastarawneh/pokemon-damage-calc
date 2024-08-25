@@ -342,7 +342,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer~3 Steven [#804]": {
+		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Rock Head",
 			"ivs": {
 				"at": 31,
@@ -1275,7 +1275,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer~3 Steven [#804]": {
+		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Battle Armor",
 			"ivs": {
 				"at": 31,
@@ -1438,7 +1438,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Azurill": {
-		"Pokémon Breeder Isaac [#538]": {
+		"Pokã©Mon Breeder Isaac [#538]": {
 			"ability": "Huge Power",
 			"item": "Choice Band",
 			"ivs": {
@@ -1476,7 +1476,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Breeder Lydia [#545]": {
+		"Pokã©Mon Breeder Lydia [#545]": {
 			"ability": "Rock Head",
 			"item": "Salac Berry",
 			"ivs": {
@@ -1725,7 +1725,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#525]": {
+		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1745,7 +1745,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#534]": {
+		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1847,7 +1847,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#524]": {
+		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1867,7 +1867,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#525]": {
+		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1887,7 +1887,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#533]": {
+		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1907,7 +1907,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#534]": {
+		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2856,7 +2856,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#522]": {
+		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2876,7 +2876,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#531]": {
+		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -3198,7 +3198,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer~3 Steven [#804]": {
+		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Levitate",
 			"ivs": {
 				"at": 31,
@@ -3379,7 +3379,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Ranger Lorenzo [#553]": {
+		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Cute Charm",
 			"item": "Leftovers",
 			"ivs": {
@@ -3560,7 +3560,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Corphish": {
-		"Pokémon Breeder Lydia [#545]": {
+		"Pokã©Mon Breeder Lydia [#545]": {
 			"ability": "Shell Armor",
 			"ivs": {
 				"at": 31,
@@ -3703,7 +3703,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer~3 Steven [#804]": {
+		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Suction Cups",
 			"ivs": {
 				"at": 31,
@@ -4229,6 +4229,22 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Ditto": {
+		"Pokéfan Isabel [#302]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
 		"Youngster Deandre [#715]": {
 			"ability": "Limber",
 			"ivs": {
@@ -5279,7 +5295,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#522]": {
+		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5299,7 +5315,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#525]": {
+		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5319,7 +5335,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#528]": {
+		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5339,7 +5355,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#531]": {
+		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5359,7 +5375,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#534]": {
+		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5379,7 +5395,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#537]": {
+		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5601,7 +5617,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#521]": {
+		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5621,7 +5637,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#524]": {
+		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5641,7 +5657,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#527]": {
+		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5661,7 +5677,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#530]": {
+		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5681,7 +5697,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#533]": {
+		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5701,7 +5717,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#536]": {
+		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -6006,7 +6022,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		}
 	},
-	"Farfetch’d": {
+	"Farfetch'D": {
 		"Cooltrainer Berke [#74]": {
 			"ability": "Inner Focus",
 			"item": "Stick",
@@ -6090,7 +6106,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#522]": {
+		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -6110,7 +6126,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#531]": {
+		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -6357,7 +6373,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#522]": {
+		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6377,7 +6393,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#525]": {
+		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6397,7 +6413,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#528]": {
+		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6417,7 +6433,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#531]": {
+		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6437,7 +6453,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#534]": {
+		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6457,7 +6473,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#537]": {
+		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -7568,7 +7584,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Ranger Lorenzo [#553]": {
+		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
 			"ivs": {
@@ -9396,7 +9412,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#522]": {
+		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9416,7 +9432,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#525]": {
+		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9436,7 +9452,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#528]": {
+		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9456,7 +9472,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#531]": {
+		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9476,7 +9492,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#534]": {
+		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9496,7 +9512,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#537]": {
+		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -10511,7 +10527,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Larvitar": {
-		"Pokémon Breeder Isaac [#538]": {
+		"Pokã©Mon Breeder Isaac [#538]": {
 			"ability": "Guts",
 			"ivs": {
 				"at": 31,
@@ -13101,7 +13117,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#525]": {
+		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -13121,7 +13137,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#534]": {
+		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -13263,7 +13279,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer~3 Steven [#804]": {
+		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Battle Armor",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -13632,25 +13648,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Bulk Up",
 				"Milk Drink"
-			],
-			"nature": "Serious"
-		},
-		"Pokéfan Isabel [#302]": {
-			"ability": "Thick Fat",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
-			"moves": [
-				"Double-Edge",
-				"Defense Curl",
-				"Rollout"
 			],
 			"nature": "Serious"
 		},
@@ -14168,7 +14165,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Nidoqueen": {
-		"Pokémon Ranger Lorenzo [#553]": {
+		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Poison Point",
 			"item": "Lum Berry",
 			"ivs": {
@@ -14717,7 +14714,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Numel": {
-		"Pokémon Breeder Lydia [#545]": {
+		"Pokã©Mon Breeder Lydia [#545]": {
 			"ability": "Oblivious",
 			"item": "Oran Berry",
 			"ivs": {
@@ -15525,7 +15522,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#521]": {
+		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15545,7 +15542,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#524]": {
+		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15565,7 +15562,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#527]": {
+		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15585,7 +15582,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#530]": {
+		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15605,7 +15602,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#533]": {
+		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15625,7 +15622,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#536]": {
+		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -16333,7 +16330,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Ranger Jenna [#560]": {
+		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Vital Spirit",
 			"item": "Focus Band",
 			"ivs": {
@@ -16618,7 +16615,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Ranger Lorenzo [#553]": {
+		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Static",
 			"item": "Lum Berry",
 			"ivs": {
@@ -16860,7 +16857,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#521]": {
+		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -16880,7 +16877,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#527]": {
+		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -16900,7 +16897,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#530]": {
+		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17235,7 +17232,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Roselia": {
-		"Pokémon Breeder Lydia [#545]": {
+		"Pokã©Mon Breeder Lydia [#545]": {
 			"ability": "Poison Point",
 			"ivs": {
 				"at": 31,
@@ -17622,7 +17619,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#521]": {
+		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17642,7 +17639,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#522]": {
+		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17662,7 +17659,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#530]": {
+		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17682,7 +17679,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#531]": {
+		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18132,7 +18129,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Seedot": {
-		"Pokémon Breeder Isaac [#538]": {
+		"Pokã©Mon Breeder Isaac [#538]": {
 			"ability": "Chlorophyll",
 			"ivs": {
 				"at": 31,
@@ -18172,7 +18169,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Ranger Jenna [#560]": {
+		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Shed Skin",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18460,7 +18457,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Shroomish": {
-		"Pokémon Breeder Isaac [#538]": {
+		"Pokã©Mon Breeder Isaac [#538]": {
 			"ability": "Effect Spore",
 			"ivs": {
 				"at": 31,
@@ -18817,7 +18814,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#521]": {
+		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18837,7 +18834,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#524]": {
+		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18857,7 +18854,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#527]": {
+		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18877,7 +18874,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#530]": {
+		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18897,7 +18894,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#533]": {
+		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18917,7 +18914,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#536]": {
+		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18937,7 +18934,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer~3 Steven [#804]": {
+		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Keen Eye",
 			"ivs": {
 				"at": 31,
@@ -19050,86 +19047,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 57,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman (2) [#786]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman (2) [#787]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman (2) [#788]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 52,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman (2) [#789]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
 			"level": 60,
 			"moves": [
 				"Hyper Beam",
@@ -19156,6 +19073,86 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bulk Up",
 				"Superpower",
 				"Counter"
+			],
+			"nature": "Serious"
+		},
+		"Leader Norman [#786]": {
+			"ability": "Truant",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 42,
+			"moves": [
+				"Blizzard",
+				"Shadow Ball",
+				"Double-Edge",
+				"Fire Blast"
+			],
+			"nature": "Serious"
+		},
+		"Leader Norman [#787]": {
+			"ability": "Truant",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 47,
+			"moves": [
+				"Blizzard",
+				"Shadow Ball",
+				"Double-Edge",
+				"Fire Blast"
+			],
+			"nature": "Serious"
+		},
+		"Leader Norman [#788]": {
+			"ability": "Truant",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Blizzard",
+				"Shadow Ball",
+				"Double-Edge",
+				"Fire Blast"
+			],
+			"nature": "Serious"
+		},
+		"Leader Norman [#789]": {
+			"ability": "Truant",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 57,
+			"moves": [
+				"Blizzard",
+				"Shadow Ball",
+				"Double-Edge",
+				"Fire Blast"
 			],
 			"nature": "Serious"
 		},
@@ -20655,7 +20652,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#527]": {
+		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20675,7 +20672,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#528]": {
+		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20695,7 +20692,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#536]": {
+		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20715,7 +20712,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#537]": {
+		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20773,26 +20770,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Return",
 				"Endeavor",
-				"Steel Wing"
-			],
-			"nature": "Serious"
-		},
-		"Pokéfan Isabel [#302]": {
-			"ability": "Guts",
-			"item": "Focus Band",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
-			"moves": [
-				"Endeavor",
-				"Quick Attack",
-				"Aerial Ace",
 				"Steel Wing"
 			],
 			"nature": "Serious"
@@ -21081,7 +21058,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Ranger Jenna [#560]": {
+		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Liquid Ooze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -21722,7 +21699,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#528]": {
+		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -21742,7 +21719,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#537]": {
+		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22126,7 +22103,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Sleep Powder",
 				"Sludge Bomb",
-				"Metal Claw",
+				"Silver Wind",
 				"Psybeam"
 			],
 			"nature": "Serious"
@@ -22193,7 +22170,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 Brendan [#528]": {
+		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22213,7 +22190,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 3 May [#537]": {
+		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22436,7 +22413,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#524]": {
+		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22456,7 +22433,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#527]": {
+		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22476,7 +22453,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#533]": {
+		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22496,7 +22473,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#536]": {
+		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23342,7 +23319,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#521]": {
+		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23362,7 +23339,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 Brendan [#524]": {
+		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23382,7 +23359,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#530]": {
+		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23402,7 +23379,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Trainer 2 May [#533]": {
+		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23632,25 +23609,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 45,
-			"moves": [
-				"Counter",
-				"Mirror Coat",
-				"Destiny Bond"
-			],
-			"nature": "Serious"
-		},
-		"Pokéfan Isabel [#302]": {
-			"ability": "Shadow Tag",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
 			"moves": [
 				"Counter",
 				"Mirror Coat",
@@ -23998,7 +23956,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Team Magma Grunt (2) [#143]": {
+		"Team Magma Grunt [#143]": {
 			"ability": "Synchronize",
 			"item": "Scope Lens",
 			"ivs": {
@@ -24101,7 +24059,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokémon Ranger Jenna [#560]": {
+		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Guts",
 			"item": "Silk Scarf",
 			"ivs": {
