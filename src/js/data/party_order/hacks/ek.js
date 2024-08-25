@@ -234,7 +234,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Crawdaunt",
 		"Sceptile",
 		"Machamp",
-		"Farfetch'D",
+		"Farfetch’d",
 		"Zangoose"
 	],
 	"Cooltrainer Wilton [#78]": [
@@ -732,7 +732,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Triathlete Maria [#369]": [
 		"Skiploom",
-		"Farfetch'D",
+		"Farfetch’d",
 		"Natu"
 	],
 	"Dragon Tamer Aaron [#397]": [

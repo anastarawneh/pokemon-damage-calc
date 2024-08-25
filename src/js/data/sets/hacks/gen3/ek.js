@@ -6006,47 +6006,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		}
 	},
-	"Farfetch'D": {
-		"Cooltrainer Berke [#74]": {
-			"ability": "Inner Focus",
-			"item": "Stick",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Sky Attack",
-				"Slash",
-				"Leaf Blade",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Triathlete Maria [#369]": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 17,
-			"moves": [
-				"Leaf Blade",
-				"Aerial Ace",
-				"Quick Attack",
-				"Flail"
-			],
-			"nature": "Serious"
-		}
-	},
 	"Fearow": {
 		"Lass Haley [#604]": {
 			"ability": "Keen Eye",
