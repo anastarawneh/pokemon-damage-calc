@@ -90,7 +90,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Swampert",
 		"Skarmory"
 	],
-	"Pokémon Trainer~3 Brendan [#528]": [
+	"Pokémon Trainer 3 Brendan [#528]": [
 		"Swampert",
 		"Venusaur",
 		"Typhlosion",
@@ -438,7 +438,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Typhlosion",
 		"Gardevoir"
 	],
-	"Pokémon Trainer~3 Brendan [#524]": [
+	"Pokémon Trainer 3 Brendan [#524]": [
 		"Espeon",
 		"Blaziken",
 		"Pinsir",
@@ -628,7 +628,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Xatu",
 		"Claydol"
 	],
-	"Pokémon Trainer~3 Brendan [#521]": [
+	"Pokémon Trainer 3 Brendan [#521]": [
 		"Espeon",
 		"Pinsir",
 		"Sceptile",
@@ -1144,7 +1144,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Marowak",
 		"Heracross"
 	],
-	"Pokémon Trainer~3 Brendan [#527]": [
+	"Pokémon Trainer 3 Brendan [#527]": [
 		"Espeon",
 		"Pinsir",
 		"Swampert",
@@ -1268,7 +1268,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Crawdaunt",
 		"Whiscash"
 	],
-	"Pokémon Trainer~3 Brendan [#525]": [
+	"Pokémon Trainer 3 Brendan [#525]": [
 		"Blaziken",
 		"Meganium",
 		"Blastoise",
@@ -1388,7 +1388,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Poochyena",
 		"Murkrow"
 	],
-	"Pokémon Trainer~3 Brendan [#522]": [
+	"Pokémon Trainer 3 Brendan [#522]": [
 		"Sceptile",
 		"Feraligatr",
 		"Charizard",

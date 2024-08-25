@@ -18374,63 +18374,21 @@
         }
     },
     "Pokéfan Isabel_302": {
-        "Miltank_2": {
+        "Ditto_1": {
             "moves": [
-                "Double-Edge",
-                "Defense Curl",
-                "Rollout"
+                "Transform"
             ],
             "nature": "Serious",
-            "ability": "Thick Fat",
-            "item": "Sitrus Berry",
+            "ability": "Limber",
             "ivs": {
-                "hp": 31,
-                "sd": 31,
-                "df": 31,
-                "at": 31,
-                "sa": 31,
-                "sp": 31
+                "hp": 0,
+                "sd": 0,
+                "df": 0,
+                "at": 0,
+                "sa": 0,
+                "sp": 0
             },
-            "level": 41
-        },
-        "Wobbuffet_3": {
-            "moves": [
-                "Counter",
-                "Mirror Coat",
-                "Destiny Bond"
-            ],
-            "nature": "Serious",
-            "ability": "Shadow Tag",
-            "item": "Lum Berry",
-            "ivs": {
-                "hp": 31,
-                "sd": 31,
-                "df": 31,
-                "at": 31,
-                "sa": 31,
-                "sp": 31
-            },
-            "level": 41
-        },
-        "Swellow_1": {
-            "moves": [
-                "Endeavor",
-                "Quick Attack",
-                "Aerial Ace",
-                "Steel Wing"
-            ],
-            "nature": "Serious",
-            "ability": "Guts",
-            "item": "Focus Band",
-            "ivs": {
-                "hp": 31,
-                "sd": 31,
-                "df": 31,
-                "at": 31,
-                "sa": 31,
-                "sp": 31
-            },
-            "level": 41
+            "level": 1
         }
     },
     "Swimmer-F Carlee_464": {
@@ -23098,7 +23056,7 @@
             "moves": [
                 "Sleep Powder",
                 "Sludge Bomb",
-                "Metal Claw",
+                "Silver Wind",
                 "Psybeam"
             ],
             "nature": "Serious",
