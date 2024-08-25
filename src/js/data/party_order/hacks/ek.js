@@ -1,421 +1,678 @@
 var CUSTOMHACKPARTYORDER_EK = 
 {
-	"Team Aqua Grunt [#2]": [
-		"Weezing",
-		"Kangaskhan",
-		"Ludicolo",
-		"Tentacruel",
-		"Lapras",
-		"Meganium"
-	],
-	"Team Aqua Grunt [#3]": [
-		"Crobat",
-		"Whiscash",
-		"Lanturn",
-		"Donphan",
-		"Nidoqueen",
-		"Starmie"
-	],
-	"Team Aqua Grunt [#4]": [
-		"Steelix",
-		"Slowking",
-		"Jolteon",
-		"Sceptile",
-		"Milotic",
-		"Walrein"
-	],
-	"Team Aqua Grunt [#5]": [
-		"Cloyster",
-		"Sudowoodo",
-		"Dugtrio",
-		"Wobbuffet",
-		"Sharpedo",
-		"Dragonite"
-	],
-	"Team Aqua Grunt [#6]": [
-		"Ludicolo",
-		"Scizor",
-		"Blastoise",
-		"Rhydon",
-		"Porygon2",
-		"Dragonite"
-	],
-	"Team Aqua Grunt [#7]": [
-		"Tauros",
-		"Mantine",
-		"Raichu",
-		"Exploud",
-		"Kingdra",
-		"Masquerain"
-	],
-	"Team Aqua Grunt [#8]": [
-		"Persian",
-		"Politoed",
-		"Gyarados",
-		"Blissey",
-		"Venusaur",
-		"Poliwrath"
-	],
-	"Team Aqua Grunt [#10]": [
-		"Koffing",
-		"Poochyena",
-		"Carvanha",
-		"Murkrow",
-		"Shuppet"
-	],
-	"Cooltrainer Marcel [#11]": [
-		"Gardevoir",
-		"Crobat",
-		"Donphan",
-		"Magmar",
-		"Aggron"
-	],
-	"Team Aqua Grunt [#16]": [
-		"Arbok",
-		"Haunter",
-		"Croconaw",
-		"Mightyena",
-		"Wailmer"
-	],
-	"Team Aqua Grunt [#17]": [
-		"Gyarados",
-		"Glalie",
-		"Cloyster",
-		"Exploud",
-		"Slowbro"
-	],
-	"Team Aqua Grunt [#18]": [
-		"Tentacruel",
-		"Nidoking",
-		"Venusaur",
-		"Kabutops",
-		"Wailord",
-		"Sableye"
-	],
-	"Team Aqua Grunt [#19]": [
-		"Blissey",
-		"Hariyama",
-		"Snorlax",
-		"Wobbuffet",
-		"Corsola",
-		"Camerupt"
-	],
-	"Team Aqua Grunt [#20]": [
-		"Mightyena",
-		"Luvdisc",
-		"Kingler",
-		"Forretress"
-	],
-	"Team Aqua Grunt [#21]": [
-		"Swalot",
-		"Sharpedo",
-		"Smeargle",
-		"Raichu",
-		"Ludicolo"
-	],
-	"Team Aqua Grunt [#23]": [
-		"Walrein",
-		"Lapras",
-		"Claydol",
-		"Zangoose",
-		"Gyarados",
-		"Ludicolo"
-	],
-	"Team Aqua Grunt [#24]": [
-		"Medicham",
-		"Sharpedo",
-		"Aerodactyl",
-		"Raichu",
-		"Tentacruel",
-		"Octillery"
-	],
-	"Team Aqua Grunt [#26]": [
-		"Crawdaunt",
-		"Quagsire",
-		"Steelix",
-		"Umbreon",
-		"Pinsir",
-		"Magneton"
-	],
 	"Team Aqua Grunt [#27]": [
-		"Persian",
 		"Cradily",
-		"Qwilfish",
 		"Golduck",
 		"Forretress",
-		"Poliwrath"
+		"Poliwrath",
+		"Persian",
+		"Qwilfish"
 	],
-	"Team Aqua Grunt [#28]": [
-		"Miltank",
-		"Gligar",
-		"Azumarill",
-		"Gengar",
-		"Absol",
-		"Kingdra"
-	],
-	"Aqua Admin Matt [#30]": [
-		"Vaporeon",
-		"Kingdra",
-		"Pinsir",
-		"Ludicolo",
-		"Qwilfish",
-		"Raikou"
-	],
-	"Team Aqua Grunt [#31]": [
-		"Muk",
+	"Leader Juan [#799]": [
 		"Walrein",
-		"Omastar",
-		"Medicham",
-		"Forretress",
-		"Slowking"
-	],
-	"Aqua Admin Shelly [#32]": [
-		"Vaporeon",
-		"Slowking",
-		"Scizor",
-		"Relicanth",
 		"Kingdra",
-		"Suicune"
+		"Poliwhirl",
+		"Crawdaunt",
+		"Whiscash"
 	],
-	"Aqua Leader Archie [#34]": [
-		"Espeon",
+	"Team Magma Grunt [#588]": [
+		"Charizard",
+		"Scyther",
+		"Golem",
+		"Nidoking"
+	],
+	"Leader Flannery [#784]": [
+		"Torkoal",
+		"Camerupt",
+		"Growlithe",
+		"Rapidash",
+		"Houndour",
+		"Magcargo"
+	],
+	"Pokémon Trainer~3 Steven [#804]": [
+		"Cradily",
 		"Metagross",
-		"Qwilfish",
-		"Snorlax",
-		"Zapdos",
-		"Latios"
+		"Armaldo",
+		"Aggron",
+		"Claydol",
+		"Skarmory"
 	],
-	"Team Aqua Grunt [#35]": [
-		"Seaking",
-		"Wailord",
-		"Grumpig",
-		"Aerodactyl",
+	"Twins Tori & Tia [#677]": [
+		"Golbat",
+		"Ursaring"
+	],
+	"Team Magma Grunt [#146]": [
+		"Muk",
+		"Steelix",
+		"Forretress",
+		"Granbull",
+		"Ninetales"
+	],
+	"Team Magma Grunt [#717]": [
+		"Pinsir",
+		"Rhydon",
+		"Gengar",
+		"Ninetales",
+		"Machamp",
+		"Raichu"
+	],
+	"Battle Girl Laura [#426]": [
+		"Meditite",
+		"Poliwhirl",
+		"Machoke",
+		"Primeape"
+	],
+	"Elite Four Glacia [#263]": [
+		"Milotic",
+		"Jirachi",
+		"Regice",
+		"Metagross",
+		"Feraligatr",
+		"Lapras"
+	],
+	"Team Magma Grunt [#727]": [
+		"Golem",
+		"Houndoom",
+		"Pinsir",
+		"Dusclops",
+		"Pidgeot",
+		"Vileplume"
+	],
+	"Camper Travis [#218]": [
+		"Jumpluff",
+		"Piloswine",
+		"Shelgon"
+	],
+	"Pokémon Trainer~3 May [#536]": [
+		"Espeon",
+		"Pinsir",
+		"Victreebel",
+		"Swampert",
+		"Skarmory"
+	],
+	"Pokémon Trainer~3 Brendan [#528]": [
+		"Swampert",
+		"Venusaur",
+		"Typhlosion",
+		"Electrode",
+		"Forretress",
+		"Jynx"
+	],
+	"Leader Norman [#786]": [
+		"Chansey",
+		"Slaking (1)",
+		"Slaking (2)",
+		"Spinda"
+	],
+	"Bird Keeper Chester [#408]": [
+		"Altaria",
+		"Dodrio",
+		"Masquerain",
+		"Shiftry"
+	],
+	"Hiker Brice [#626]": [
+		"Nosepass",
+		"Machoke",
+		"Marowak"
+	],
+	"Hex Maniac Kathleen [#583]": [
+		"Gyarados",
+		"Kangaskhan",
+		"Mr. Mime",
+		"Heracross",
+		"Misdreavus",
+		"Magneton"
+	],
+	"Camper Tyron [#704]": [
+		"Arbok",
+		"Sandslash",
+		"Ampharos"
+	],
+	"Picnicker Becky [#470]": [
+		"Armaldo",
+		"Nidoking",
+		"Skarmory",
+		"Arcanine",
+		"Absol"
+	],
+	"Team Magma Grunt [#720]": [
+		"Lunatone",
+		"Cacturne",
+		"Sandslash",
+		"Magneton",
+		"Aggron",
+		"Sceptile"
+	],
+	"Pokémon Trainer~3 May [#531]": [
+		"Sceptile",
+		"Feraligatr",
+		"Charizard",
+		"Electrode",
+		"Forretress",
+		"Jynx"
+	],
+	"Black Belt Takao [#179]": [
+		"Magmar",
 		"Hitmontop",
+		"Electabuzz",
+		"Hitmonlee",
+		"Hitmonchan"
+	],
+	"Psychic Edward [#232]": [
+		"Smoochum",
+		"Abra",
+		"Slowpoke"
+	],
+	"Team Aqua Grunt [#2]": [
+		"Ludicolo",
+		"Kangaskhan",
+		"Tentacruel",
+		"Meganium",
+		"Weezing",
+		"Lapras"
+	],
+	"Team Aqua Grunt [#236]": [
+		"Glalie",
+		"Nidoqueen",
+		"Starmie",
+		"Venusaur",
 		"Granbull"
 	],
-	"Aroma Lady Rose [#37]": [
+	"Leader Tate&Liza [#797]": [
+		"Solrock",
+		"Lunatone",
+		"Hypno",
+		"Xatu",
+		"Claydol",
+		"Slowking"
+	],
+	"Leader Juan [#800]": [
+		"Walrein",
+		"Poliwhirl",
+		"Kingdra",
+		"Lapras",
+		"Crawdaunt",
+		"Whiscash"
+	],
+	"Pokémon Trainer~3 May [#530]": [
+		"Espeon",
+		"Pinsir",
+		"Sceptile",
+		"Whiscash",
+		"Rapidash",
+		"Skarmory"
+	],
+	"Team Magma Grunt [#338]": [
+		"Dodrio",
+		"Donphan",
+		"Electrode",
+		"Rapidash",
+		"Magcargo"
+	],
+	"Team Aqua Grunt [#761]": [
+		"Qwilfish",
+		"Octillery",
+		"Ludicolo",
+		"Raichu"
+	],
+	"Leader Brawly [#775]": [
+		"Medicham",
+		"Hitmontop",
+		"Hariyama",
+		"Machamp"
+	],
+	"Leader Winona [#790]": [
+		"Skarmory",
+		"Dratini",
 		"Tropius",
+		"Pelipper",
+		"Altaria"
+	],
+	"Cooltrainer Parker [#72]": [
+		"Xatu",
+		"Mr. Mime",
+		"Illumise",
+		"Spinda",
+		"Alakazam",
+		"Dusclops"
+	],
+	"Dragon Tamer Aaron [#397]": [
+		"Bagon"
+	],
+	"Leader Flannery [#782]": [
+		"Magcargo",
+		"Ponyta",
 		"Torkoal",
-		"Bellossom",
-		"Manectric"
+		"Camerupt"
+	],
+	"Leader Flannery [#785]": [
+		"Arcanine",
+		"Houndoom",
+		"Torkoal",
+		"Camerupt",
+		"Rapidash",
+		"Magcargo"
+	],
+	"Bug Maniac Derek [#227]": [
+		"Dustox",
+		"Swablu",
+		"Beautifly"
+	],
+	"Bird Keeper Edwardo [#404]": [
+		"Charizard",
+		"Scyther",
+		"Jumpluff",
+		"Masquerain",
+		"Aerodactyl",
+		"Crobat"
 	],
 	"Ruin Maniac Dusty [#44]": [
 		"Kabutops",
 		"Cradily",
-		"Nidoqueen",
-		"Swampert"
+		"Swampert",
+		"Nidoqueen"
 	],
-	"Cooltrainer Randall [#71]": [
-		"Ninjask",
-		"Jolteon",
-		"Crobat",
-		"Dugtrio",
-		"Persian",
-		"Rapidash"
+	"Bug Catcher Lyle [#616]": [
+		"Wurmple",
+		"Weedle",
+		"Caterpie"
 	],
-	"Cooltrainer Parker [#72]": [
-		"Spinda",
-		"Alakazam",
-		"Xatu",
-		"Dusclops",
-		"Illumise",
-		"Mr. Mime"
+	"Youngster Allen [#333]": [
+		"Slakoth",
+		"Togepi"
 	],
-	"Cooltrainer George [#73]": [
+	"Cooltrainer Alexia [#90]": [
+		"Shuckle",
+		"Cloyster",
+		"Scizor",
+		"Rhydon",
+		"Aggron",
+		"Miltank"
+	],
+	"Team Aqua Grunt [#23]": [
+		"Gyarados",
 		"Ludicolo",
-		"Blissey",
-		"Skarmory",
-		"Milotic",
-		"Miltank",
-		"Sableye"
+		"Claydol",
+		"Zangoose",
+		"Lapras",
+		"Walrein"
 	],
-	"Cooltrainer Berke [#74]": [
-		"Linoone",
+	"Leader Brawly [#774]": [
+		"Hitmontop",
+		"Meditite",
+		"Hariyama",
+		"Machamp"
+	],
+	"Parasol Lady Clarissa [#435]": [
+		"Shuckle",
+		"Nidoking",
+		"Flareon",
+		"Exeggutor"
+	],
+	"Team Aqua Grunt [#24]": [
+		"Tentacruel",
+		"Sharpedo",
+		"Raichu",
+		"Octillery",
+		"Aerodactyl",
+		"Medicham"
+	],
+	"Battle Girl Vivian [#649]": [
+		"Tyrogue",
+		"Meditite",
+		"Elekid"
+	],
+	"Kindler Jace [#204]": [
+		"Blaziken",
+		"Manectric",
+		"Magmar",
+		"Aggron",
+		"Claydol"
+	],
+	"Team Magma Grunt [#326]": [
+		"Weezing",
+		"Zangoose",
+		"Ninetales",
+		"Magmar"
+	],
+	"Team Aqua Grunt [#190]": [
+		"Banette",
+		"Miltank",
+		"Golduck",
+		"Wailord",
+		"Meganium",
+		"Absol"
+	],
+	"Team Magma Grunt [#712]": [
+		"Azumarill",
+		"Octillery",
+		"Manectric",
+		"Camerupt"
+	],
+	"Psychic Hannah [#244]": [
+		"Espeon",
+		"Medicham",
+		"Aggron",
+		"Gorebyss",
+		"Arcanine",
+		"Slaking"
+	],
+	"Cooltrainer Darius [#803]": [
+		"Tauros",
+		"Wailord",
+		"Claydol",
+		"Salamence",
+		"Houndoom",
+		"Kabutops"
+	],
+	"Twins Gina & Mia [#483]": [
+		"Vibrava",
+		"Spinda"
+	],
+	"Team Aqua Grunt [#26]": [
 		"Crawdaunt",
-		"Sceptile",
+		"Steelix",
+		"Magneton",
+		"Pinsir",
+		"Umbreon",
+		"Quagsire"
+	],
+	"Lass Tiana [#603]": [
+		"Cacnea",
+		"Diglett"
+	],
+	"Aroma Lady Shayla [#747]": [
+		"Tropius",
+		"Torkoal",
+		"Castform",
+		"Victreebel"
+	],
+	"Leader Roxanne [#770]": [
+		"Kabuto",
+		"Onix",
+		"Nosepass",
+		"Golem"
+	],
+	"Team Aqua Grunt [#19]": [
+		"Wobbuffet",
+		"Blissey",
+		"Camerupt",
+		"Snorlax",
+		"Corsola",
+		"Hariyama"
+	],
+	"Aqua Admin Matt [#30]": [
+		"Qwilfish",
+		"Ludicolo",
+		"Pinsir",
+		"Kingdra",
+		"Raikou",
+		"Vaporeon"
+	],
+	"Leader Roxanne [#772]": [
+		"Onix",
+		"Kabutops",
+		"Golem",
+		"Omastar",
+		"Nosepass"
+	],
+	"Pokémon Trainer~3 May [#533]": [
+		"Espeon",
+		"Blaziken",
+		"Pinsir",
+		"Whiscash",
+		"Victreebel",
+		"Skarmory"
+	],
+	"Gentleman Walter [#254]": [
+		"Chimecho",
 		"Machamp",
-		"Farfetch'D",
-		"Zangoose"
+		"Torkoal",
+		"Muk"
+	],
+	"Elite Four Phoebe [#262]": [
+		"Gengar",
+		"Tentacruel",
+		"Celebi",
+		"Venusaur",
+		"Typhlosion",
+		"Gardevoir"
+	],
+	"Pokémon Trainer~3 Brendan [#524]": [
+		"Espeon",
+		"Blaziken",
+		"Pinsir",
+		"Whiscash",
+		"Victreebel",
+		"Skarmory"
+	],
+	"Leader Brawly [#266]": [
+		"Hariyama",
+		"Machamp",
+		"Miltank",
+		"Breloom",
+		"Pinsir",
+		"Poliwrath"
+	],
+	"Triathlete Dylan [#364]": [
+		"Gligar",
+		"Pidgeotto",
+		"Yanma"
+	],
+	"Psychic Samantha [#245]": [
+		"Jynx",
+		"Xatu",
+		"Meganium",
+		"Cloyster",
+		"Granbull",
+		"Wigglytuff"
+	],
+	"Team Aqua Grunt [#559]": [
+		"Seaking",
+		"Golduck",
+		"Starmie",
+		"Pinsir"
+	],
+	"Guitarist Joseph [#700]": [
+		"Mareep",
+		"Electrike",
+		"Voltorb"
+	],
+	"Gentleman Clifford [#584]": [
+		"Blastoise",
+		"Jynx",
+		"Scyther",
+		"Houndoom",
+		"Machamp",
+		"Skarmory"
+	],
+	"Team Magma Grunt [#589]": [
+		"Sudowoodo",
+		"Arcanine",
+		"Hypno",
+		"Clefable"
+	],
+	"Team Aqua Grunt [#7]": [
+		"Raichu",
+		"Tauros",
+		"Kingdra",
+		"Exploud",
+		"Mantine",
+		"Masquerain"
+	],
+	"Fisherman Ned [#340]": [
+		"Seaking",
+		"Tentacruel",
+		"Golduck"
+	],
+	"Pokémon Breeder Isaac [#538]": [
+		"Larvitar",
+		"Azurill",
+		"Shroomish",
+		"Seedot"
+	],
+	"Battle Girl Callie [#763]": [
+		"Breloom",
+		"Kangaskhan",
+		"Medicham",
+		"Heracross"
+	],
+	"Bug Catcher Jose [#617]": [
+		"Shedinja",
+		"Ariados",
+		"Masquerain"
+	],
+	"Team Magma Grunt [#472]": [
+		"Scyther",
+		"Whiscash",
+		"Camerupt",
+		"Arcanine",
+		"Machamp"
+	],
+	"Team Magma Grunt [#718]": [
+		"Wobbuffet",
+		"Cradily",
+		"Metagross",
+		"Grumpig",
+		"Magcargo",
+		"Nidoking"
+	],
+	"Camper Ethan [#216]": [
+		"Golduck",
+		"Linoone",
+		"Electrode"
+	],
+	"Bird Keeper Humberto [#402]": [
+		"Skarmory",
+		"Tropius",
+		"Pidgeot",
+		"Pelipper",
+		"Dugtrio"
+	],
+	"Leader Roxanne [#771]": [
+		"Onix",
+		"Omanyte",
+		"Kabutops",
+		"Golem",
+		"Nosepass"
+	],
+	"Leader Wattson [#779]": [
+		"Magneton",
+		"Manectric",
+		"Flaaffy",
+		"Pikachu",
+		"Electrode"
 	],
 	"Cooltrainer Wilton [#78]": [
 		"Sandslash",
+		"Weezing",
 		"Cacturne",
-		"Rhydon",
-		"Weezing"
+		"Rhydon"
 	],
-	"Cooltrainer Mary [#89]": [
-		"Swellow",
-		"Starmie",
-		"Scyther",
+	"Team Aqua Grunt [#400]": [
+		"Relicanth",
+		"Mantine",
+		"Kingler",
+		"Politoed",
+		"Jolteon"
+	],
+	"Leader Brawly [#776]": [
+		"Hitmonchan",
+		"Machamp",
 		"Hariyama",
-		"Delcatty",
-		"Ampharos"
+		"Medicham",
+		"Hitmontop"
 	],
-	"Cooltrainer Alexia [#90]": [
-		"Cloyster",
+	"Aqua Admin Shelly [#32]": [
+		"Kingdra",
+		"Slowking",
 		"Scizor",
-		"Aggron",
-		"Miltank",
-		"Rhydon",
-		"Shuckle"
+		"Vaporeon",
+		"Relicanth",
+		"Suicune"
 	],
-	"Cooltrainer Jody [#91]": [
-		"Ursaring",
-		"Houndoom",
-		"Magneton",
-		"Tauros",
-		"Omastar",
-		"Smeargle"
+	"Team Aqua Grunt [#109]": [
+		"Smeargle",
+		"Dugtrio",
+		"Azumarill",
+		"Dewgong",
+		"Ludicolo",
+		"Dragonite"
 	],
-	"Cooltrainer Brooke [#94]": [
-		"Blastoise",
-		"Venusaur",
-		"Charizard",
-		"Porygon2"
+	"Cooltrainer Marcel [#11]": [
+		"Donphan",
+		"Magmar",
+		"Gardevoir",
+		"Crobat",
+		"Aggron"
 	],
 	"Hex Maniac Tammy [#107]": [
-		"Alakazam",
 		"Dusclops",
+		"Alakazam",
 		"Clefable",
 		"Shiftry"
 	],
 	"Team Aqua Grunt [#108]": [
-		"Xatu",
-		"Arcanine",
-		"Altaria",
-		"Poliwrath",
-		"Blissey",
-		"Muk"
-	],
-	"Team Aqua Grunt [#109]": [
-		"Smeargle",
-		"Ludicolo",
-		"Dewgong",
-		"Dugtrio",
-		"Dragonite",
-		"Azumarill"
-	],
-	"Lady Cindy [#114]": [
-		"Delcatty",
-		"Quilava",
-		"Sealeo"
-	],
-	"Team Magma Grunt [#116]": [
-		"Flareon",
-		"Flygon",
-		"Machamp",
-		"Typhlosion",
-		"Victreebel",
-		"Claydol"
-	],
-	"Beauty Connie [#128]": [
-		"Kingdra",
-		"Meganium",
-		"Crobat",
-		"Blissey",
-		"Weezing",
-		"Slowking"
-	],
-	"Rich Boy Winston [#136]": [
-		"Persian",
-		"Roselia",
-		"Linoone"
-	],
-	"Team Magma Grunt [#143]": [
-		"Cacturne",
-		"Dugtrio",
-		"Electrode",
-		"Xatu (1)",
-		"Xatu (2)"
-	],
-	"Team Aqua Grunt [#145]": [
-		"Mantine",
-		"Sneasel",
-		"Kingler",
-		"Vileplume",
-		"Weezing",
-		"Cloyster"
-	],
-	"Team Magma Grunt [#146]": [
-		"Granbull",
-		"Forretress",
-		"Ninetales",
 		"Muk",
-		"Steelix"
-	],
-	"Black Belt Takao [#179]": [
-		"Electabuzz",
-		"Magmar",
-		"Hitmonchan",
-		"Hitmonlee",
-		"Hitmontop"
-	],
-	"Black Belt Daisuke [#189]": [
-		"Machamp",
-		"Steelix",
-		"Magneton",
-		"Breloom",
+		"Altaria",
+		"Xatu",
+		"Blissey",
+		"Arcanine",
 		"Poliwrath"
 	],
-	"Team Aqua Grunt [#190]": [
-		"Miltank",
-		"Meganium",
-		"Banette",
-		"Absol",
-		"Golduck",
-		"Wailord"
+	"Leader Tate&Liza [#796]": [
+		"Slowpoke",
+		"Solrock",
+		"Lunatone",
+		"Hypno",
+		"Xatu",
+		"Claydol"
 	],
-	"Guitarist Kirk [#191]": [
-		"Electrike",
-		"Sandshrew",
-		"Magnemite",
-		"Cacnea"
-	],
-	"Team Aqua Grunt [#193]": [
-		"Clefable",
-		"Hariyama",
-		"Kabutops",
-		"Sneasel",
-		"Wailord",
-		"Tentacruel"
-	],
-	"Guitarist Shawn [#194]": [
-		"Voltorb",
-		"Chinchou",
-		"Flaaffy"
-	],
-	"Guitarist Dalton [#196]": [
-		"Electrode",
-		"Electabuzz",
-		"Exploud",
-		"Mawile"
-	],
-	"Kindler Cole [#201]": [
+	"Pokémon Trainer~3 Brendan [#521]": [
+		"Espeon",
 		"Pinsir",
-		"Torkoal",
-		"Vileplume",
-		"Charizard",
-		"Blissey"
-	],
-	"Kindler Jeff [#202]": [
+		"Sceptile",
+		"Whiscash",
 		"Rapidash",
-		"Hariyama",
-		"Dodrio",
-		"Magcargo",
-		"Seviper"
+		"Skarmory"
 	],
-	"Kindler Axle [#203]": [
-		"Scyther",
-		"Magmar",
+	"Team Aqua Grunt [#247]": [
+		"Lanturn",
+		"Cacturne",
+		"Mantine",
+		"Gardevoir",
+		"Steelix",
+		"Miltank"
+	],
+	"Team Aqua Grunt [#8]": [
+		"Blissey",
+		"Gyarados",
+		"Poliwrath",
+		"Venusaur",
+		"Persian",
+		"Politoed"
+	],
+	"Camper Beau [#212]": [
+		"Cradily",
+		"Flygon",
+		"Forretress",
+		"Claydol"
+	],
+	"Pokéfan Isabel [#302]": [
+		"Miltank",
 		"Wobbuffet",
-		"Dugtrio"
+		"Swellow"
 	],
-	"Kindler Jace [#204]": [
-		"Magmar",
-		"Claydol",
-		"Manectric",
-		"Blaziken",
-		"Aggron"
+	"Triathlete Alyssa [#701]": [
+		"Delibird",
+		"Doduo",
+		"Taillow"
+	],
+	"Picnicker Celia [#743]": [
+		"Lunatone",
+		"Zangoose",
+		"Omastar",
+		"Crobat"
 	],
 	"Tuber Keegan [#205]": [
 		"Gyarados",
@@ -424,539 +681,48 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Ninetales",
 		"Octillery"
 	],
-	"Team Magma Grunt [#206]": [
-		"Glalie",
-		"Typhlosion",
-		"Pinsir",
-		"Swellow",
-		"Marowak"
-	],
-	"Camper Drew [#211]": [
-		"Donphan",
-		"Mawile",
-		"Shuckle",
-		"Spinda",
-		"Hariyama"
-	],
-	"Camper Beau [#212]": [
-		"Forretress",
-		"Claydol",
-		"Cradily",
-		"Flygon"
-	],
-	"Camper Larry [#213]": [
-		"Exploud",
-		"Altaria",
-		"Wigglytuff"
-	],
-	"Team Magma Grunt [#214]": [
-		"Kangaskhan",
-		"Gengar",
-		"Houndoom",
-		"Nidoking"
-	],
-	"Camper Ethan [#216]": [
-		"Golduck",
-		"Electrode",
-		"Linoone"
-	],
-	"Camper Travis [#218]": [
-		"Jumpluff",
-		"Piloswine",
-		"Shelgon"
-	],
-	"Bug Maniac Jeffrey [#226]": [
-		"Ninjask",
-		"Shedinja",
-		"Beedrill",
-		"Armaldo"
-	],
-	"Bug Maniac Derek [#227]": [
-		"Dustox",
-		"Beautifly",
-		"Swablu"
-	],
-	"Psychic Edward [#232]": [
-		"Abra",
-		"Smoochum",
-		"Slowpoke"
-	],
-	"Psychic Preston [#233]": [
-		"Hypno",
+	"Team Magma Grunt [#586]": [
 		"Venusaur",
-		"Jolteon",
-		"Charizard",
-		"Wobbuffet",
-		"Milotic"
-	],
-	"Psychic Virgil [#234]": [
-		"Ursaring",
-		"Exeggutor",
-		"Solrock",
-		"Slowking",
-		"Raichu",
-		"Glalie"
-	],
-	"Psychic Blake [#235]": [
-		"Dusclops",
-		"Golduck",
-		"Porygon2",
-		"Lunatone",
-		"Gardevoir",
-		"Manectric"
-	],
-	"Team Aqua Grunt [#236]": [
-		"Granbull",
-		"Glalie",
-		"Nidoqueen",
-		"Starmie",
-		"Venusaur"
-	],
-	"Psychic Hannah [#244]": [
-		"Espeon",
-		"Arcanine",
-		"Aggron",
-		"Medicham",
-		"Gorebyss",
-		"Slaking"
-	],
-	"Psychic Samantha [#245]": [
-		"Jynx",
-		"Cloyster",
-		"Xatu",
-		"Wigglytuff",
-		"Granbull",
-		"Meganium"
-	],
-	"Team Aqua Grunt [#247]": [
-		"Cacturne",
-		"Mantine",
-		"Steelix",
-		"Gardevoir",
-		"Lanturn",
-		"Miltank"
-	],
-	"Gentleman Walter [#254]": [
-		"Chimecho",
-		"Machamp",
-		"Muk",
+		"Electrode",
+		"Sableye",
+		"Camerupt",
+		"Heracross",
 		"Torkoal"
 	],
-	"Elite Four Sidney [#261]": [
-		"Kangaskhan",
-		"Nidoking",
-		"Blaziken",
-		"Snorlax",
-		"Heracross",
-		"Flygon"
-	],
-	"Elite Four Phoebe [#262]": [
-		"Tentacruel",
-		"Typhlosion",
-		"Venusaur",
-		"Gardevoir",
-		"Gengar",
-		"Celebi"
-	],
-	"Elite Four Glacia [#263]": [
-		"Regice",
-		"Feraligatr",
-		"Lapras",
-		"Milotic",
-		"Metagross",
-		"Jirachi"
-	],
-	"Elite Four Drake [#264]": [
-		"Regirock",
-		"Salamence",
-		"Aerodactyl",
-		"Sceptile",
-		"Kingdra",
-		"Rayquaza"
-	],
-	"Leader Roxanne [#265]": [
-		"Shuckle",
-		"Metang",
-		"Sandslash",
-		"Relicanth",
-		"Magcargo",
-		"Skarmory"
-	],
-	"Leader Brawly [#266]": [
+	"Leader Brawly [#777]": [
+		"Medicham",
+		"Hitmontop",
+		"Hitmonlee",
+		"Hitmonchan",
 		"Hariyama",
-		"Miltank",
-		"Breloom",
-		"Poliwrath",
-		"Pinsir",
 		"Machamp"
 	],
-	"Leader Wattson [#267]": [
-		"Pikachu",
-		"Plusle",
-		"Minun",
-		"Elekid",
-		"Voltorb",
-		"Jolteon"
-	],
-	"Leader Flannery [#268]": [
-		"Charizard",
-		"Solrock",
-		"Houndoom",
-		"Arcanine",
+	"Team Magma Grunt [#116]": [
 		"Victreebel",
-		"Dragonite"
+		"Claydol",
+		"Flareon",
+		"Machamp",
+		"Typhlosion",
+		"Flygon"
 	],
-	"Leader Norman [#269]": [
-		"Tauros",
-		"Porygon2",
-		"Slaking",
-		"Azumarill",
-		"Dugtrio",
-		"Snorlax"
+	"Guitarist Kirk [#191]": [
+		"Electrike",
+		"Sandshrew",
+		"Magnemite",
+		"Cacnea"
 	],
-	"Leader Winona [#270]": [
-		"Aerodactyl",
-		"Gyarados",
-		"Gengar",
-		"Dragonite",
-		"Ho-Oh",
-		"Lugia"
-	],
-	"Leader Tate&Liza [#271]": [
-		"Metagross",
-		"Mew",
-		"Alakazam",
-		"Starmie",
-		"Medicham",
-		"Mewtwo"
-	],
-	"School Kid Karen [#280]": [
-		"Sunflora",
-		"Vigoroth",
-		"Wigglytuff"
-	],
-	"Sr. And Jr. Kate & Joy [#286]": [
-		"Gengar",
-		"Gyarados"
-	],
-	"Sr. And Jr. Anna & Meg [#287]": [
-		"Clefairy",
-		"Makuhita"
-	],
-	"Pokéfan Isabel [#302]": [
-		"Swellow",
-		"Miltank",
-		"Wobbuffet"
-	],
-	"Youngster Calvin [#318]": [
-		"Poochyena",
-		"Zigzagoon",
-		"Whismur"
-	],
-	"Youngster Billy [#319]": [
-		"Zangoose",
-		"Seviper"
-	],
-	"Youngster Josh [#320]": [
-		"Aron",
-		"Lileep",
-		"Pupitar",
-		"Mawile",
-		"Rhyhorn"
-	],
-	"Youngster Tommy [#321]": [
-		"Graveler",
-		"Anorith",
-		"Kabuto",
-		"Lunatone"
-	],
-	"Youngster Joey [#322]": [
-		"Nidorino",
-		"Furret",
-		"Noctowl"
-	],
-	"Youngster Ben [#323]": [
-		"Zigzagoon",
-		"Lickitung"
-	],
-	"Team Magma Grunt [#326]": [
-		"Weezing",
-		"Magmar",
-		"Zangoose",
-		"Ninetales"
-	],
-	"Youngster Allen [#333]": [
-		"Togepi",
-		"Slakoth"
-	],
-	"Youngster Timmy [#334]": [
-		"Venomoth",
-		"Lairon",
-		"Shiftry"
-	],
-	"Champion Wallace [#335]": [
-		"Kyogre",
-		"Swampert",
-		"Jolteon",
-		"Ludicolo",
-		"Starmie",
-		"Gyarados"
-	],
-	"Team Magma Grunt [#338]": [
-		"Donphan",
+	"Kindler Jeff [#202]": [
 		"Dodrio",
 		"Magcargo",
-		"Electrode",
-		"Rapidash"
+		"Seviper",
+		"Rapidash",
+		"Hariyama"
 	],
-	"Fisherman Elliot [#339]": [
-		"Gyarados",
-		"Huntail",
-		"Gorebyss"
-	],
-	"Fisherman Ned [#340]": [
-		"Tentacruel",
-		"Seaking",
-		"Golduck"
-	],
-	"Fisherman Barny [#343]": [
-		"Blastoise",
-		"Whiscash",
-		"Cradily",
-		"Gyarados"
-	],
-	"Triathlete Dylan [#364]": [
-		"Yanma",
-		"Pidgeotto",
-		"Gligar"
-	],
-	"Triathlete Maria [#369]": [
-		"Skiploom",
-		"Farfetch'D",
-		"Natu"
-	],
-	"Dragon Tamer Aaron [#397]": [
-		"Bagon"
-	],
-	"Team Aqua Grunt [#400]": [
-		"Jolteon",
-		"Kingler",
-		"Politoed",
-		"Mantine",
-		"Relicanth"
-	],
-	"Ninja Boy Jared [#401]": [
-		"Weezing",
-		"Ninjask",
-		"Altaria",
-		"Noctowl",
-		"Xatu",
-		"Sableye"
-	],
-	"Bird Keeper Humberto [#402]": [
-		"Pidgeot",
-		"Dugtrio",
-		"Tropius",
-		"Skarmory",
-		"Pelipper"
-	],
-	"Bird Keeper Edwardo [#404]": [
-		"Masquerain",
-		"Charizard",
-		"Scyther",
-		"Crobat",
-		"Jumpluff",
-		"Aerodactyl"
-	],
-	"Bird Keeper Chester [#408]": [
-		"Dodrio",
-		"Altaria",
-		"Masquerain",
-		"Shiftry"
-	],
-	"Team Aqua Grunt [#416]": [
-		"Gyarados",
-		"Ampharos",
-		"Slowbro",
-		"Gardevoir"
-	],
-	"Ninja Boy Lao [#419]": [
-		"Ninjask",
-		"Koffing",
-		"Ariados"
-	],
-	"Battle Girl Jocelyn [#425]": [
-		"Tauros",
-		"Medicham",
-		"Grumpig",
-		"Ludicolo"
-	],
-	"Battle Girl Laura [#426]": [
-		"Machoke",
-		"Poliwhirl",
-		"Meditite",
-		"Primeape"
-	],
-	"Parasol Lady Clarissa [#435]": [
-		"Flareon",
-		"Exeggutor",
-		"Nidoking",
-		"Shuckle"
-	],
-	"Picnicker Heidi [#469]": [
-		"Alakazam",
-		"Dugtrio",
-		"Scizor",
-		"Golem"
-	],
-	"Picnicker Becky [#470]": [
-		"Nidoking",
-		"Armaldo",
-		"Skarmory",
-		"Absol",
-		"Arcanine"
-	],
-	"Picnicker Carol [#471]": [
-		"Pidgeot",
+	"Guitarist Dalton [#196]": [
 		"Mawile",
-		"Xatu"
-	],
-	"Team Magma Grunt [#472]": [
-		"Whiscash",
-		"Scyther",
-		"Machamp",
-		"Camerupt",
-		"Arcanine"
-	],
-	"Twins Gina & Mia [#483]": [
-		"Vibrava",
-		"Spinda"
-	],
-	"Hiker Eli [#501]": [
-		"Ninetales",
-		"Kecleon",
-		"Camerupt",
-		"Golem"
-	],
-	"Cooltrainer Marley [#508]": [
-		"Manectric"
-	],
-	"Collector Edwin [#512]": [
-		"Pichu",
-		"Zubat",
-		"Bellsprout"
-	],
-	"Magma Admin Tabitha [#514]": [
-		"Armaldo",
-		"Exeggutor",
-		"Torkoal"
-	],
-	"Pokã©Mon Trainer~3 Brendan [#521]": [
-		"Skarmory",
-		"Pinsir",
-		"Espeon",
-		"Rapidash",
-		"Whiscash",
-		"Sceptile"
-	],
-	"Pokã©Mon Trainer~3 Brendan [#522]": [
-		"Forretress",
-		"Jynx",
 		"Electrode",
-		"Charizard",
-		"Feraligatr",
-		"Sceptile"
-	],
-	"Pokã©Mon Trainer~3 Brendan [#524]": [
-		"Skarmory",
-		"Pinsir",
-		"Espeon",
-		"Blaziken",
-		"Whiscash",
-		"Victreebel"
-	],
-	"Pokã©Mon Trainer~3 Brendan [#525]": [
-		"Forretress",
-		"Jynx",
-		"Electrode",
-		"Blaziken",
-		"Blastoise",
-		"Meganium"
-	],
-	"Pokã©Mon Trainer~3 Brendan [#527]": [
-		"Skarmory",
-		"Pinsir",
-		"Espeon",
-		"Rapidash",
-		"Swampert",
-		"Victreebel"
-	],
-	"Pokã©Mon Trainer~3 Brendan [#528]": [
-		"Forretress",
-		"Jynx",
-		"Electrode",
-		"Typhlosion",
-		"Swampert",
-		"Venusaur"
-	],
-	"Pokã©Mon Trainer~3 May [#530]": [
-		"Skarmory",
-		"Pinsir",
-		"Espeon",
-		"Rapidash",
-		"Whiscash",
-		"Sceptile"
-	],
-	"Pokã©Mon Trainer~3 May [#531]": [
-		"Forretress",
-		"Jynx",
-		"Electrode",
-		"Charizard",
-		"Feraligatr",
-		"Sceptile"
-	],
-	"Pokã©Mon Trainer~3 May [#533]": [
-		"Skarmory",
-		"Pinsir",
-		"Espeon",
-		"Blaziken",
-		"Whiscash",
-		"Victreebel"
-	],
-	"Pokã©Mon Trainer~3 May [#534]": [
-		"Forretress",
-		"Jynx",
-		"Electrode",
-		"Blaziken",
-		"Blastoise",
-		"Meganium"
-	],
-	"Pokã©Mon Trainer~3 May [#536]": [
-		"Skarmory",
-		"Pinsir",
-		"Espeon",
-		"Swampert",
-		"Victreebel"
-	],
-	"Pokã©Mon Trainer~3 May [#537]": [
-		"Forretress",
-		"Jynx",
-		"Electrode",
-		"Typhlosion",
-		"Swampert",
-		"Venusaur"
-	],
-	"Pokã©Mon Breeder Isaac [#538]": [
-		"Shroomish",
-		"Larvitar",
-		"Azurill",
-		"Seedot"
-	],
-	"Pokã©Mon Breeder Lydia [#545]": [
-		"Corphish",
-		"Numel",
-		"Roselia",
-		"Bagon"
+		"Exploud",
+		"Electabuzz"
 	],
 	"Team Aqua Grunt [#552]": [
 		"Kingdra",
@@ -965,57 +731,633 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Scizor",
 		"Poliwrath"
 	],
-	"Pokã©Mon Ranger Lorenzo [#553]": [
+	"Leader Wattson [#780]": [
+		"Magneton",
+		"Manectric",
+		"Ampharos",
+		"Raichu",
+		"Electrode"
+	],
+	"Leader Winona [#791]": [
+		"Dragonair",
+		"Pelipper",
+		"Altaria",
+		"Skarmory",
+		"Tropius",
+		"Hoothoot"
+	],
+	"Youngster Johnson [#754]": [
+		"Kecleon",
+		"Sneasel",
+		"Aipom"
+	],
+	"Magma Admin Tabitha [#732]": [
+		"Aerodactyl",
+		"Espeon",
+		"Typhlosion",
+		"Entei",
+		"Shiftry",
+		"Exeggutor"
+	],
+	"Leader Flannery [#783]": [
+		"Growlithe",
+		"Camerupt",
+		"Ponyta",
+		"Torkoal",
+		"Magcargo"
+	],
+	"Team Magma Grunt [#728]": [
+		"Charizard",
+		"Aggron",
+		"Primeape",
+		"Xatu",
+		"Magneton",
+		"Crobat"
+	],
+	"Leader Wattson [#267]": [
+		"Minun",
+		"Plusle",
+		"Elekid",
+		"Pikachu",
+		"Voltorb",
+		"Jolteon"
+	],
+	"Lady Cindy [#114]": [
+		"Delcatty",
+		"Sealeo",
+		"Quilava"
+	],
+	"Aroma Lady Rose [#37]": [
+		"Manectric",
+		"Bellossom",
+		"Tropius",
+		"Torkoal"
+	],
+	"Leader Wattson [#781]": [
+		"Raichu",
+		"Ampharos",
+		"Electrode",
+		"Electabuzz",
+		"Manectric",
+		"Magneton"
+	],
+	"Youngster Timmy [#334]": [
+		"Venomoth",
+		"Lairon",
+		"Shiftry"
+	],
+	"Black Belt Daisuke [#189]": [
+		"Machamp",
+		"Breloom",
+		"Magneton",
+		"Steelix",
+		"Poliwrath"
+	],
+	"Triathlete Maria [#369]": [
+		"Skiploom",
+		"Farfetch’d",
+		"Natu"
+	],
+	"Psychic Virgil [#234]": [
+		"Solrock",
+		"Ursaring",
+		"Exeggutor",
+		"Glalie",
+		"Raichu",
+		"Slowking"
+	],
+	"Sr. And Jr. Kate & Joy [#286]": [
+		"Gengar",
+		"Gyarados"
+	],
+	"Aqua Admin Shelly [#569]": [
+		"Gardevoir",
+		"Jolteon",
+		"Vaporeon",
+		"Qwilfish",
+		"Milotic",
+		"Suicune"
+	],
+	"Psychic Macey [#591]": [
+		"Omastar",
+		"Alakazam",
+		"Gengar",
+		"Pinsir",
+		"Claydol",
+		"Slowbro"
+	],
+	"Team Aqua Grunt [#31]": [
+		"Medicham",
+		"Slowking",
+		"Omastar",
+		"Forretress",
+		"Muk",
+		"Walrein"
+	],
+	"Aqua Leader Archie [#34]": [
+		"Espeon",
+		"Latios",
+		"Zapdos",
+		"Snorlax",
+		"Metagross",
+		"Qwilfish"
+	],
+	"Bug Catcher Rick [#615]": [
+		"Surskit",
+		"Cascoon",
+		"Silcoon",
+		"Pineco"
+	],
+	"Team Aqua Grunt [#6]": [
+		"Blastoise",
+		"Scizor",
+		"Dragonite",
+		"Ludicolo",
+		"Rhydon",
+		"Porygon2"
+	],
+	"Team Aqua Grunt [#567]": [
+		"Exeggutor",
+		"Dusclops",
+		"Lapras",
+		"Weezing",
+		"Ursaring",
+		"Pinsir"
+	],
+	"Team Aqua Grunt [#21]": [
+		"Sharpedo",
+		"Swalot",
+		"Raichu",
+		"Ludicolo",
+		"Smeargle"
+	],
+	"Team Aqua Grunt [#596]": [
+		"Ampharos",
+		"Mantine",
+		"Altaria",
+		"Ursaring",
+		"Claydol",
+		"Sceptile"
+	],
+	"Hiker Eric [#632]": [
+		"Lunatone",
+		"Donphan",
+		"Corsola"
+	],
+	"Youngster Billy [#319]": [
+		"Zangoose",
+		"Seviper"
+	],
+	"Leader Norman [#789]": [
+		"Kangaskhan",
+		"Tauros",
+		"Spinda",
+		"Blissey",
+		"Slaking (1)",
+		"Slaking (2)"
+	],
+	"Leader Winona [#792]": [
+		"Noctowl",
+		"Pelipper",
+		"Dragonair",
+		"Altaria",
+		"Skarmory",
+		"Tropius"
+	],
+	"Bug Maniac Angelo [#802]": [
+		"Volbeat",
+		"Ledyba",
+		"Illumise"
+	],
+	"Youngster Ben [#323]": [
+		"Zigzagoon",
+		"Lickitung"
+	],
+	"Magma Leader Maxie [#734]": [
+		"Groudon",
+		"Moltres",
+		"Salamence"
+	],
+	"Leader Norman [#788]": [
+		"Slaking (1)",
+		"Kangaskhan",
+		"Blissey",
+		"Slaking (2)",
+		"Spinda"
+	],
+	"Magma Admin Tabitha [#597]": [
+		"Gardevoir",
+		"Tauros",
+		"Sceptile",
+		"Ampharos",
+		"Charizard",
+		"Houndoom"
+	],
+	"Picnicker Heidi [#469]": [
+		"Golem",
+		"Alakazam",
+		"Dugtrio",
+		"Scizor"
+	],
+	"Team Magma Grunt [#724]": [
+		"Armaldo",
+		"Shuckle",
+		"Ampharos",
+		"Exeggutor",
+		"Torkoal",
+		"Houndoom"
+	],
+	"Pokémon Breeder Lydia [#545]": [
+		"Corphish",
+		"Numel",
+		"Bagon",
+		"Roselia"
+	],
+	"Hiker Marc [#571]": [
+		"Solrock",
+		"Sudowoodo",
+		"Corsola",
+		"Nosepass"
+	],
+	"Sailor Brenden [#572]": [
+		"Wartortle",
+		"Azumarill",
+		"Hariyama",
+		"Pelipper"
+	],
+	"Team Aqua Grunt [#20]": [
+		"Kingler",
+		"Luvdisc",
+		"Forretress",
+		"Mightyena"
+	],
+	"Team Magma Grunt [#729]": [
+		"Camerupt",
+		"Scizor",
+		"Blissey",
+		"Steelix",
+		"Claydol",
+		"Crobat"
+	],
+	"Leader Tate&Liza [#794]": [
+		"Solrock",
+		"Lunatone",
+		"Xatu",
+		"Claydol",
+		"Slowpoke"
+	],
+	"Hiker Eli [#501]": [
+		"Kecleon",
+		"Golem",
+		"Ninetales",
+		"Camerupt"
+	],
+	"Battle Girl Jocelyn [#425]": [
+		"Tauros",
+		"Medicham",
+		"Ludicolo",
+		"Grumpig"
+	],
+	"Magma Admin Tabitha [#514]": [
+		"Armaldo",
+		"Exeggutor",
+		"Torkoal"
+	],
+	"Gentleman Nate [#582]": [
+		"Gardevoir",
+		"Wailord",
+		"Quagsire",
+		"Grumpig",
+		"Porygon2",
+		"Weezing"
+	],
+	"Cooltrainer Cristin [#767]": [
+		"Claydol",
+		"Shuckle",
+		"Marowak",
+		"Tyranitar",
+		"Mawile"
+	],
+	"Bug Catcher James [#621]": [
+		"Dustox",
+		"Butterfree",
+		"Beautifly",
+		"Beedrill"
+	],
+	"Team Aqua Grunt [#416]": [
+		"Ampharos",
+		"Gardevoir",
+		"Gyarados",
+		"Slowbro"
+	],
+	"Rich Boy Winston [#136]": [
+		"Persian",
+		"Roselia",
+		"Linoone"
+	],
+	"Magma Leader Maxie [#601]": [
+		"Blaziken",
+		"Gengar",
+		"Venusaur",
+		"Armaldo",
+		"Flareon",
+		"Salamence"
+	],
+	"Cooltrainer Brooke [#94]": [
+		"Porygon2",
+		"Venusaur",
+		"Blastoise",
+		"Charizard"
+	],
+	"Cooltrainer Marley [#508]": [
+		"Manectric"
+	],
+	"Camper Branden [#745]": [
+		"Muk",
+		"Ninjask",
+		"Gligar",
+		"Sudowoodo",
+		"Umbreon"
+	],
+	"Team Magma Grunt [#206]": [
+		"Pinsir",
+		"Swellow",
+		"Typhlosion",
+		"Marowak",
+		"Glalie"
+	],
+	"Team Aqua Grunt [#4]": [
+		"Walrein",
+		"Jolteon",
+		"Milotic",
+		"Slowking",
+		"Sceptile",
+		"Steelix"
+	],
+	"Battle Girl Aisha [#757]": [
+		"Meditite",
+		"Machop",
+		"Mankey"
+	],
+	"Hiker Devan [#753]": [
+		"Swinub",
+		"Tangela",
+		"Trapinch"
+	],
+	"Cooltrainer Randall [#71]": [
+		"Ninjask",
+		"Dugtrio",
+		"Rapidash",
+		"Persian",
+		"Jolteon",
+		"Crobat"
+	],
+	"Psychic Blake [#235]": [
+		"Gardevoir",
+		"Lunatone",
+		"Golduck",
+		"Porygon2",
+		"Manectric",
+		"Dusclops"
+	],
+	"Psychic Preston [#233]": [
+		"Wobbuffet",
+		"Jolteon",
+		"Milotic",
+		"Hypno",
+		"Venusaur",
+		"Charizard"
+	],
+	"Team Magma Grunt [#629]": [
+		"Solrock",
+		"Vileplume",
+		"Rhydon",
+		"Medicham"
+	],
+	"Leader Norman [#269]": [
+		"Tauros",
+		"Slaking",
+		"Azumarill",
+		"Dugtrio",
+		"Porygon2",
+		"Snorlax"
+	],
+	"Youngster Deandre [#715]": [
+		"Ditto"
+	],
+	"Hiker Clark [#631]": [
+		"Marowak",
+		"Heracross"
+	],
+	"Pokémon Trainer~3 Brendan [#527]": [
+		"Espeon",
+		"Pinsir",
+		"Swampert",
+		"Rapidash",
+		"Victreebel",
+		"Skarmory"
+	],
+	"Team Aqua Grunt [#193]": [
+		"Kabutops",
+		"Wailord",
+		"Tentacruel",
+		"Sneasel",
+		"Clefable",
+		"Hariyama"
+	],
+	"Team Magma Grunt [#143]": [
+		"Cacturne",
+		"Xatu (1)",
+		"Xatu (2)",
+		"Electrode",
+		"Dugtrio"
+	],
+	"Youngster Tommy [#321]": [
+		"Graveler",
+		"Kabuto",
+		"Lunatone",
+		"Anorith"
+	],
+	"Team Magma Grunt [#214]": [
+		"Kangaskhan",
+		"Gengar",
+		"Nidoking",
+		"Houndoom"
+	],
+	"Hiker Trent [#627]": [
+		"Stantler",
+		"Golem",
+		"Dugtrio"
+	],
+	"Camper Flint [#654]": [
+		"Cradily",
+		"Starmie",
+		"Linoone",
+		"Absol",
+		"Dodrio",
+		"Espeon"
+	],
+	"Bug Maniac Jeffrey [#226]": [
+		"Shedinja",
+		"Beedrill",
+		"Armaldo",
+		"Ninjask"
+	],
+	"Team Aqua Grunt [#18]": [
+		"Wailord",
+		"Tentacruel",
+		"Nidoking",
+		"Venusaur",
+		"Sableye",
+		"Kabutops"
+	],
+	"Team Aqua Grunt [#145]": [
+		"Mantine",
+		"Cloyster",
+		"Sneasel",
+		"Kingler",
+		"Weezing",
+		"Vileplume"
+	],
+	"Cooltrainer Berke [#74]": [
+		"Sceptile",
+		"Zangoose",
+		"Crawdaunt",
+		"Linoone",
+		"Machamp",
+		"Farfetch’d"
+	],
+	"Pokémon Ranger Jenna [#560]": [
+		"Tentacruel",
+		"Zangoose",
+		"Primeape",
+		"Seviper"
+	],
+	"Kindler Bryant [#746]": [
+		"Aggron",
+		"Meganium",
+		"Camerupt",
+		"Torkoal",
+		"Marowak"
+	],
+	"Sr. And Jr. Anna & Meg [#287]": [
+		"Makuhita",
+		"Clefairy"
+	],
+	"Team Magma Grunt [#716]": [
+		"Venusaur",
+		"Porygon2",
+		"Typhlosion",
+		"Ursaring",
+		"Heracross",
+		"Marowak"
+	],
+	"Youngster Josh [#320]": [
+		"Pupitar",
+		"Aron",
+		"Rhyhorn",
+		"Lileep",
+		"Mawile"
+	],
+	"Team Aqua Grunt [#17]": [
+		"Gyarados",
+		"Glalie",
+		"Slowbro",
+		"Exploud",
+		"Cloyster"
+	],
+	"Leader Juan [#798]": [
+		"Walrein",
+		"Kingdra",
+		"Poliwag",
+		"Crawdaunt",
+		"Whiscash"
+	],
+	"Pokémon Trainer~3 Brendan [#525]": [
+		"Blaziken",
+		"Meganium",
+		"Blastoise",
+		"Electrode",
+		"Forretress",
+		"Jynx"
+	],
+	"Ruin Maniac Bryan [#744]": [
+		"Solrock",
+		"Xatu",
+		"Metagross",
+		"Misdreavus",
+		"Shiftry",
+		"Whiscash"
+	],
+	"Picnicker Carol [#471]": [
+		"Pidgeot",
+		"Mawile",
+		"Xatu"
+	],
+	"Pokémon Ranger Lorenzo [#553]": [
 		"Granbull",
 		"Nidoqueen",
 		"Clefable",
 		"Raichu"
 	],
-	"Team Aqua Grunt [#559]": [
-		"Golduck",
-		"Starmie",
-		"Pinsir",
-		"Seaking"
+	"Elite Four Drake [#264]": [
+		"Kingdra",
+		"Regirock",
+		"Rayquaza",
+		"Sceptile",
+		"Salamence",
+		"Aerodactyl"
 	],
-	"Pokã©Mon Ranger Jenna [#560]": [
-		"Primeape",
-		"Seviper",
-		"Zangoose",
-		"Tentacruel"
+	"Camper Drew [#211]": [
+		"Shuckle",
+		"Donphan",
+		"Hariyama",
+		"Mawile",
+		"Spinda"
 	],
-	"Team Aqua Grunt [#567]": [
-		"Pinsir",
-		"Exeggutor",
-		"Ursaring",
-		"Lapras",
+	"Leader Norman [#787]": [
+		"Slaking (1)",
+		"Kangaskhan",
+		"Slaking (2)",
+		"Chansey",
+		"Spinda"
+	],
+	"Beauty Connie [#128]": [
+		"Kingdra",
+		"Slowking",
+		"Blissey",
 		"Weezing",
-		"Dusclops"
+		"Crobat",
+		"Meganium"
 	],
-	"Aqua Admin Shelly [#569]": [
-		"Vaporeon",
-		"Milotic",
-		"Gardevoir",
-		"Qwilfish",
-		"Jolteon",
-		"Suicune"
+	"Guitarist Shawn [#194]": [
+		"Voltorb",
+		"Flaaffy",
+		"Chinchou"
 	],
-	"Hiker Marc [#571]": [
-		"Nosepass",
-		"Solrock",
-		"Corsola",
-		"Sudowoodo"
+	"Youngster Calvin [#318]": [
+		"Whismur",
+		"Zigzagoon",
+		"Poochyena"
 	],
-	"Sailor Brenden [#572]": [
-		"Pelipper",
-		"Wartortle",
-		"Azumarill",
-		"Hariyama"
+	"Psychic Brandi [#756]": [
+		"Drowzee",
+		"Kirlia",
+		"Wynaut"
 	],
-	"Battle Girl Lilith [#573]": [
-		"Cacturne",
-		"Dodrio",
-		"Rhydon",
-		"Primeape"
+	"Team Magma Grunt [#719]": [
+		"Flygon",
+		"Aerodactyl",
+		"Forretress",
+		"Whiscash",
+		"Swellow",
+		"Nidoqueen"
+	],
+	"Kindler Axle [#203]": [
+		"Scyther",
+		"Dugtrio",
+		"Magmar",
+		"Wobbuffet"
 	],
 	"Black Belt Cristian [#574]": [
 		"Kingler",
@@ -1023,685 +1365,343 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Machoke",
 		"Wobbuffet"
 	],
-	"Team Magma Grunt [#579]": [
-		"Arbok",
-		"Claydol",
-		"Golem",
-		"Magcargo",
-		"Feraligatr"
-	],
-	"Gentleman Nate [#582]": [
-		"Grumpig",
-		"Porygon2",
-		"Gardevoir",
-		"Weezing",
-		"Wailord",
-		"Quagsire"
-	],
-	"Hex Maniac Kathleen [#583]": [
-		"Magneton",
-		"Mr. Mime",
-		"Heracross",
-		"Kangaskhan",
-		"Gyarados",
-		"Misdreavus"
-	],
-	"Gentleman Clifford [#584]": [
-		"Skarmory",
-		"Blastoise",
-		"Scyther",
-		"Houndoom",
-		"Machamp",
-		"Jynx"
-	],
-	"Team Magma Grunt [#586]": [
-		"Electrode",
-		"Sableye",
-		"Heracross",
-		"Venusaur",
-		"Torkoal",
-		"Camerupt"
-	],
-	"Team Magma Grunt [#588]": [
-		"Nidoking",
-		"Scyther",
-		"Golem",
-		"Charizard"
-	],
-	"Team Magma Grunt [#589]": [
-		"Clefable",
-		"Arcanine",
-		"Hypno",
-		"Sudowoodo"
-	],
-	"Team Magma Grunt [#590]": [
-		"Dugtrio",
-		"Hariyama",
-		"Swalot",
-		"Magcargo"
-	],
-	"Psychic Macey [#591]": [
-		"Alakazam",
-		"Claydol",
-		"Gengar",
-		"Slowbro",
-		"Pinsir",
-		"Omastar"
-	],
-	"Team Aqua Grunt [#596]": [
-		"Claydol",
-		"Mantine",
-		"Ampharos",
-		"Ursaring",
-		"Sceptile",
-		"Altaria"
-	],
-	"Magma Admin Tabitha [#597]": [
-		"Tauros",
-		"Houndoom",
-		"Sceptile",
-		"Ampharos",
-		"Gardevoir",
-		"Charizard"
-	],
-	"Magma Leader Maxie [#601]": [
-		"Flareon",
-		"Armaldo",
-		"Venusaur",
-		"Blaziken",
-		"Gengar",
-		"Salamence"
-	],
-	"Magma Leader Maxie [#602]": [
-		"Gengar",
-		"Snorlax",
-		"Salamence",
-		"Steelix",
-		"Moltres",
-		"Latias"
-	],
-	"Lass Tiana [#603]": [
-		"Cacnea",
-		"Diglett"
-	],
-	"Lass Haley [#604]": [
-		"Togetic",
-		"Bayleef",
-		"Fearow"
-	],
-	"Bug Catcher Rick [#615]": [
-		"Surskit",
-		"Pineco",
-		"Cascoon",
-		"Silcoon"
-	],
-	"Bug Catcher Lyle [#616]": [
-		"Wurmple",
-		"Caterpie",
-		"Weedle"
-	],
-	"Bug Catcher Jose [#617]": [
-		"Masquerain",
-		"Shedinja",
-		"Ariados"
-	],
-	"Bug Catcher James [#621]": [
-		"Butterfree",
-		"Beedrill",
-		"Dustox",
-		"Beautifly"
-	],
-	"Hiker Brice [#626]": [
-		"Machoke",
-		"Marowak",
-		"Nosepass"
-	],
-	"Hiker Trent [#627]": [
-		"Stantler",
-		"Golem",
-		"Dugtrio"
-	],
-	"Team Magma Grunt [#628]": [
-		"Nidoqueen",
-		"Slaking",
-		"Charizard",
-		"Magneton",
-		"Exploud"
-	],
-	"Team Magma Grunt [#629]": [
-		"Rhydon",
-		"Solrock",
-		"Vileplume",
-		"Medicham"
-	],
-	"Hiker Clark [#631]": [
-		"Marowak",
-		"Heracross"
-	],
-	"Hiker Eric [#632]": [
-		"Lunatone",
-		"Corsola",
-		"Donphan"
+	"Leader Tate&Liza [#271]": [
+		"Mew",
+		"Metagross",
+		"Starmie",
+		"Mewtwo",
+		"Medicham",
+		"Alakazam"
 	],
 	"Hiker Mike [#635]": [
-		"Geodude",
 		"Cacnea",
+		"Geodude",
 		"Diglett"
 	],
-	"Cooltrainer Gerald [#648]": [
-		"Typhlosion",
-		"Steelix",
-		"Heracross",
-		"Hypno",
-		"Torkoal"
+	"Team Aqua Grunt [#28]": [
+		"Miltank",
+		"Azumarill",
+		"Gligar",
+		"Kingdra",
+		"Gengar",
+		"Absol"
 	],
-	"Battle Girl Vivian [#649]": [
-		"Meditite",
-		"Tyrogue",
-		"Elekid"
+	"Team Aqua Grunt [#10]": [
+		"Shuppet",
+		"Koffing",
+		"Carvanha",
+		"Poochyena",
+		"Murkrow"
 	],
-	"Camper Flint [#654]": [
-		"Absol",
-		"Espeon",
-		"Linoone",
-		"Starmie",
-		"Dodrio",
-		"Cradily"
-	],
-	"Picnicker Ashley [#655]": [
-		"Donphan",
-		"Pinsir",
-		"Ursaring",
-		"Steelix",
-		"Mantine",
-		"Lanturn"
-	],
-	"Twins Tori & Tia [#677]": [
-		"Ursaring",
-		"Golbat"
+	"Pokémon Trainer~3 Brendan [#522]": [
+		"Sceptile",
+		"Feraligatr",
+		"Charizard",
+		"Electrode",
+		"Forretress",
+		"Jynx"
 	],
 	"Pokéfan Kaleb [#699]": [
 		"Pikachu",
-		"Gligar",
-		"Chimecho"
-	],
-	"Guitarist Joseph [#700]": [
-		"Electrike",
-		"Voltorb",
-		"Mareep"
-	],
-	"Triathlete Alyssa [#701]": [
-		"Doduo",
-		"Delibird",
-		"Taillow"
-	],
-	"Camper Tyron [#704]": [
-		"Sandslash",
-		"Arbok",
-		"Ampharos"
-	],
-	"Aroma Lady Celina [#705]": [
-		"Breloom",
-		"Pelipper",
-		"Clefable"
-	],
-	"Kindler Hayden [#707]": [
-		"Magmar",
-		"Magcargo",
+		"Chimecho",
 		"Gligar"
 	],
-	"Team Magma Grunt [#712]": [
-		"Azumarill",
-		"Octillery",
-		"Camerupt",
-		"Manectric"
-	],
-	"Youngster Deandre [#715]": [
-		"Ditto"
-	],
-	"Team Magma Grunt [#716]": [
-		"Porygon2",
-		"Typhlosion",
-		"Ursaring",
-		"Venusaur",
-		"Heracross",
-		"Marowak"
-	],
-	"Team Magma Grunt [#717]": [
-		"Gengar",
-		"Pinsir",
-		"Machamp",
-		"Ninetales",
-		"Rhydon",
-		"Raichu"
-	],
-	"Team Magma Grunt [#718]": [
+	"Team Aqua Grunt [#35]": [
+		"Aerodactyl",
 		"Grumpig",
-		"Metagross",
-		"Magcargo",
-		"Wobbuffet",
-		"Nidoking",
-		"Cradily"
+		"Hitmontop",
+		"Wailord",
+		"Granbull",
+		"Seaking"
 	],
-	"Team Magma Grunt [#719]": [
-		"Swellow",
-		"Flygon",
-		"Forretress",
-		"Aerodactyl",
-		"Nidoqueen",
-		"Whiscash"
-	],
-	"Team Magma Grunt [#720]": [
-		"Cacturne",
-		"Aggron",
-		"Magneton",
-		"Lunatone",
-		"Sceptile",
-		"Sandslash"
-	],
-	"Team Magma Grunt [#724]": [
-		"Shuckle",
-		"Ampharos",
-		"Exeggutor",
-		"Torkoal",
-		"Armaldo",
-		"Houndoom"
-	],
-	"Team Magma Grunt [#726]": [
-		"Miltank",
-		"Scyther",
-		"Tropius",
-		"Blaziken",
-		"Hypno",
-		"Electrode"
-	],
-	"Team Magma Grunt [#727]": [
-		"Dusclops",
-		"Pidgeot",
-		"Golem",
-		"Houndoom",
-		"Vileplume",
-		"Pinsir"
-	],
-	"Team Magma Grunt [#728]": [
-		"Primeape",
-		"Xatu",
-		"Aggron",
-		"Crobat",
-		"Charizard",
-		"Magneton"
-	],
-	"Team Magma Grunt [#729]": [
-		"Crobat",
-		"Scizor",
-		"Steelix",
-		"Claydol",
-		"Camerupt",
-		"Blissey"
-	],
-	"Team Magma Grunt [#731]": [
-		"Jolteon",
-		"Exploud",
-		"Altaria",
-		"Victreebel",
-		"Arcanine",
-		"Hariyama"
-	],
-	"Magma Admin Tabitha [#732]": [
-		"Espeon",
-		"Shiftry",
-		"Typhlosion",
-		"Aerodactyl",
-		"Exeggutor",
-		"Entei"
-	],
-	"Magma Leader Maxie [#734]": [
-		"Groudon",
-		"Moltres",
-		"Salamence"
-	],
-	"Picnicker Celia [#743]": [
-		"Zangoose",
-		"Omastar",
-		"Crobat",
-		"Lunatone"
-	],
-	"Ruin Maniac Bryan [#744]": [
-		"Misdreavus",
-		"Shiftry",
-		"Xatu",
-		"Whiscash",
-		"Solrock",
-		"Metagross"
-	],
-	"Camper Branden [#745]": [
-		"Ninjask",
-		"Sudowoodo",
-		"Gligar",
-		"Muk",
-		"Umbreon"
-	],
-	"Kindler Bryant [#746]": [
-		"Torkoal",
-		"Camerupt",
-		"Marowak",
-		"Aggron",
-		"Meganium"
-	],
-	"Aroma Lady Shayla [#747]": [
-		"Castform",
-		"Torkoal",
-		"Victreebel",
-		"Tropius"
-	],
-	"Hiker Devan [#753]": [
-		"Swinub",
-		"Tangela",
-		"Trapinch"
-	],
-	"Youngster Johnson [#754]": [
-		"Kecleon",
-		"Sneasel",
-		"Aipom"
-	],
-	"Triathlete Melina [#755]": [
-		"Wingull",
-		"Rattata",
-		"Jigglypuff"
-	],
-	"Psychic Brandi [#756]": [
-		"Wynaut",
-		"Drowzee",
-		"Kirlia"
-	],
-	"Battle Girl Aisha [#757]": [
-		"Mankey",
-		"Machop",
-		"Meditite"
-	],
-	"Team Aqua Grunt [#760]": [
-		"Crobat",
-		"Sharpedo",
-		"Gorebyss",
-		"Venusaur"
-	],
-	"Team Aqua Grunt [#761]": [
-		"Ludicolo",
-		"Raichu",
-		"Qwilfish",
-		"Octillery"
-	],
-	"Cooltrainer Leonel [#762]": [
-		"Scizor",
-		"Walrein",
-		"Manectric",
-		"Poliwrath",
-		"Miltank"
-	],
-	"Battle Girl Callie [#763]": [
-		"Medicham",
-		"Heracross",
-		"Breloom",
-		"Kangaskhan"
-	],
-	"Cooltrainer Cristin [#767]": [
-		"Tyranitar",
-		"Marowak",
-		"Shuckle",
-		"Mawile",
-		"Claydol"
-	],
-	"Leader Roxanne [#770]": [
-		"Golem",
-		"Kabuto",
-		"Onix",
-		"Nosepass"
-	],
-	"Leader Roxanne [#771]": [
-		"Omanyte",
-		"Golem",
-		"Kabutops",
-		"Onix",
-		"Nosepass"
-	],
-	"Leader Roxanne [#772]": [
-		"Omastar",
-		"Golem",
-		"Kabutops",
-		"Onix",
-		"Nosepass"
+	"School Kid Karen [#280]": [
+		"Vigoroth",
+		"Wigglytuff",
+		"Sunflora"
 	],
 	"Leader Roxanne [#773]": [
-		"Aerodactyl",
+		"Nosepass",
+		"Steelix",
 		"Golem",
 		"Omastar",
-		"Kabutops",
-		"Steelix",
-		"Nosepass"
+		"Aerodactyl",
+		"Kabutops"
 	],
-	"Leader Brawly [#774]": [
-		"Machamp",
-		"Meditite",
-		"Hitmontop",
-		"Hariyama"
+	"Leader Flannery [#268]": [
+		"Arcanine",
+		"Houndoom",
+		"Victreebel",
+		"Dragonite",
+		"Charizard",
+		"Solrock"
 	],
-	"Leader Brawly [#775]": [
-		"Machamp",
-		"Medicham",
-		"Hitmontop",
-		"Hariyama"
-	],
-	"Leader Brawly [#776]": [
-		"Hitmonchan",
-		"Machamp",
-		"Medicham",
-		"Hitmontop",
-		"Hariyama"
-	],
-	"Leader Brawly [#777]": [
-		"Hitmonlee",
-		"Hitmonchan",
-		"Machamp",
-		"Medicham",
-		"Hitmontop",
-		"Hariyama"
+	"Team Magma Grunt [#731]": [
+		"Altaria",
+		"Exploud",
+		"Arcanine",
+		"Hariyama",
+		"Victreebel",
+		"Jolteon"
 	],
 	"Leader Wattson [#778]": [
+		"Magneton",
+		"Manectric",
 		"Mareep",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Wattson [#779]": [
-		"Pikachu",
-		"Flaaffy",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Wattson [#780]": [
-		"Raichu",
-		"Ampharos",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Wattson [#781]": [
-		"Electabuzz",
-		"Raichu",
-		"Ampharos",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Flannery [#782]": [
-		"Magcargo",
-		"Ponyta",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Flannery [#783]": [
-		"Growlithe",
-		"Magcargo",
-		"Ponyta",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Flannery [#784]": [
-		"Houndour",
-		"Growlithe",
-		"Magcargo",
-		"Rapidash",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Flannery [#785]": [
-		"Arcanine",
-		"Magcargo",
-		"Houndoom",
-		"Rapidash",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Norman [#786]": [
-		"Chansey",
-		"Slaking (1)",
-		"Spinda",
-		"Slaking (2)"
-	],
-	"Leader Norman [#787]": [
-		"Slaking (1)",
-		"Chansey",
-		"Kangaskhan",
-		"Spinda",
-		"Slaking (2)"
-	],
-	"Leader Norman [#788]": [
-		"Slaking (1)",
-		"Blissey",
-		"Kangaskhan",
-		"Spinda",
-		"Slaking (2)"
-	],
-	"Leader Norman [#789]": [
-		"Slaking (1)",
-		"Blissey",
-		"Kangaskhan",
-		"Tauros",
-		"Spinda",
-		"Slaking (2)"
-	],
-	"Leader Winona [#790]": [
-		"Dratini",
-		"Tropius",
-		"Pelipper",
-		"Skarmory",
-		"Altaria"
-	],
-	"Leader Winona [#791]": [
-		"Hoothoot",
-		"Tropius",
-		"Dragonair",
-		"Pelipper",
-		"Skarmory",
-		"Altaria"
-	],
-	"Leader Winona [#792]": [
-		"Noctowl",
-		"Tropius",
-		"Dragonair",
-		"Pelipper",
-		"Skarmory",
-		"Altaria"
+		"Electrode"
 	],
 	"Leader Winona [#793]": [
 		"Noctowl",
+		"Altaria",
+		"Skarmory",
 		"Tropius",
 		"Pelipper",
-		"Dragonite",
-		"Skarmory",
-		"Altaria"
-	],
-	"Leader Tate&Liza [#794]": [
-		"Slowpoke",
-		"Claydol",
-		"Xatu",
-		"Lunatone",
-		"Solrock"
+		"Dragonite"
 	],
 	"Leader Tate&Liza [#795]": [
+		"Solrock",
+		"Slowpoke",
 		"Drowzee",
-		"Slowpoke",
-		"Claydol",
-		"Xatu",
 		"Lunatone",
-		"Solrock"
+		"Claydol",
+		"Xatu"
 	],
-	"Leader Tate&Liza [#796]": [
+	"Team Magma Grunt [#628]": [
+		"Magneton",
+		"Nidoqueen",
+		"Exploud",
+		"Slaking",
+		"Charizard"
+	],
+	"Team Aqua Grunt [#16]": [
+		"Haunter",
+		"Croconaw",
+		"Arbok",
+		"Mightyena",
+		"Wailmer"
+	],
+	"Cooltrainer Gerald [#648]": [
 		"Hypno",
-		"Claydol",
-		"Slowpoke",
-		"Xatu",
-		"Lunatone",
-		"Solrock"
+		"Typhlosion",
+		"Heracross",
+		"Torkoal",
+		"Steelix"
 	],
-	"Leader Tate&Liza [#797]": [
+	"Triathlete Melina [#755]": [
+		"Jigglypuff",
+		"Wingull",
+		"Rattata"
+	],
+	"Magma Leader Maxie [#602]": [
+		"Steelix",
+		"Snorlax",
+		"Gengar",
+		"Latias",
+		"Salamence",
+		"Moltres"
+	],
+	"Youngster Joey [#322]": [
+		"Noctowl",
+		"Nidorino",
+		"Furret"
+	],
+	"Team Aqua Grunt [#760]": [
+		"Venusaur",
+		"Sharpedo",
+		"Crobat",
+		"Gorebyss"
+	],
+	"Cooltrainer Mary [#89]": [
+		"Ampharos",
+		"Scyther",
+		"Hariyama",
+		"Starmie",
+		"Delcatty",
+		"Swellow"
+	],
+	"Ninja Boy Jared [#401]": [
+		"Ninjask",
+		"Altaria",
+		"Noctowl",
+		"Sableye",
+		"Weezing",
+		"Xatu"
+	],
+	"Cooltrainer George [#73]": [
+		"Milotic",
+		"Miltank",
+		"Sableye",
+		"Ludicolo",
+		"Skarmory",
+		"Blissey"
+	],
+	"Battle Girl Lilith [#573]": [
+		"Rhydon",
+		"Primeape",
+		"Cacturne",
+		"Dodrio"
+	],
+	"Team Aqua Grunt [#5]": [
+		"Wobbuffet",
+		"Cloyster",
+		"Dragonite",
+		"Dugtrio",
+		"Sharpedo",
+		"Sudowoodo"
+	],
+	"Fisherman Elliot [#339]": [
+		"Huntail",
+		"Gyarados",
+		"Gorebyss"
+	],
+	"Kindler Cole [#201]": [
+		"Blissey",
+		"Torkoal",
+		"Pinsir",
+		"Charizard",
+		"Vileplume"
+	],
+	"Champion Wallace [#335]": [
+		"Jolteon",
+		"Ludicolo",
+		"Kyogre",
+		"Starmie",
+		"Gyarados",
+		"Swampert"
+	],
+	"Fisherman Barny [#343]": [
+		"Cradily",
+		"Gyarados",
+		"Whiscash",
+		"Blastoise"
+	],
+	"Elite Four Sidney [#261]": [
+		"Blaziken",
+		"Nidoking",
+		"Snorlax",
+		"Flygon",
+		"Heracross",
+		"Kangaskhan"
+	],
+	"Leader Roxanne [#265]": [
+		"Magcargo",
+		"Metang",
+		"Skarmory",
+		"Shuckle",
+		"Relicanth",
+		"Sandslash"
+	],
+	"Collector Edwin [#512]": [
+		"Zubat",
+		"Bellsprout",
+		"Pichu"
+	],
+	"Picnicker Ashley [#655]": [
+		"Pinsir",
+		"Steelix",
+		"Donphan",
+		"Mantine",
+		"Lanturn",
+		"Ursaring"
+	],
+	"Pokémon Trainer~3 May [#534]": [
+		"Blaziken",
+		"Meganium",
+		"Blastoise",
+		"Electrode",
+		"Forretress",
+		"Jynx"
+	],
+	"Ninja Boy Lao [#419]": [
+		"Ariados",
+		"Ninjask",
+		"Koffing"
+	],
+	"Team Magma Grunt [#726]": [
+		"Blaziken",
+		"Scyther",
+		"Miltank",
 		"Hypno",
+		"Tropius",
+		"Electrode"
+	],
+	"Camper Larry [#213]": [
+		"Exploud",
+		"Altaria",
+		"Wigglytuff"
+	],
+	"Team Aqua Grunt [#3]": [
+		"Nidoqueen",
+		"Lanturn",
+		"Starmie",
+		"Crobat",
+		"Donphan",
+		"Whiscash"
+	],
+	"Leader Winona [#270]": [
+		"Lugia",
+		"Aerodactyl",
+		"Gengar",
+		"Dragonite",
+		"Ho-Oh",
+		"Gyarados"
+	],
+	"Cooltrainer Leonel [#762]": [
+		"Scizor",
+		"Manectric",
+		"Miltank",
+		"Walrein",
+		"Poliwrath"
+	],
+	"Lass Haley [#604]": [
+		"Bayleef",
+		"Fearow",
+		"Togetic"
+	],
+	"Cooltrainer Jody [#91]": [
+		"Smeargle",
+		"Tauros",
+		"Ursaring",
+		"Magneton",
+		"Houndoom",
+		"Omastar"
+	],
+	"Team Magma Grunt [#579]": [
+		"Golem",
+		"Feraligatr",
+		"Arbok",
 		"Claydol",
-		"Slowking",
-		"Xatu",
-		"Lunatone",
-		"Solrock"
+		"Magcargo"
 	],
-	"Leader Juan [#798]": [
-		"Poliwag",
-		"Whiscash",
-		"Walrein",
-		"Crawdaunt",
-		"Kingdra"
-	],
-	"Leader Juan [#799]": [
-		"Poliwhirl",
-		"Whiscash",
-		"Walrein",
-		"Crawdaunt",
-		"Kingdra"
-	],
-	"Leader Juan [#800]": [
-		"Lapras",
-		"Whiscash",
-		"Poliwhirl",
-		"Walrein",
-		"Crawdaunt",
-		"Kingdra"
+	"Pokémon Trainer~3 May [#537]": [
+		"Swampert",
+		"Venusaur",
+		"Typhlosion",
+		"Electrode",
+		"Forretress",
+		"Jynx"
 	],
 	"Leader Juan [#801]": [
-		"Lapras",
-		"Whiscash",
-		"Politoed",
 		"Walrein",
+		"Kingdra",
+		"Politoed",
+		"Lapras",
 		"Crawdaunt",
-		"Kingdra"
+		"Whiscash"
 	],
-	"Bug Maniac Angelo [#802]": [
-		"Illumise",
-		"Volbeat",
-		"Ledyba"
+	"Aroma Lady Celina [#705]": [
+		"Pelipper",
+		"Clefable",
+		"Breloom"
 	],
-	"Cooltrainer Darius [#803]": [
-		"Tauros",
-		"Houndoom",
-		"Claydol",
-		"Kabutops",
-		"Wailord",
-		"Salamence"
+	"Team Magma Grunt [#590]": [
+		"Swalot",
+		"Hariyama",
+		"Dugtrio",
+		"Magcargo"
 	],
-	"Pokã©Mon Trainer~3 Steven [#804]": [
-		"Skarmory",
-		"Claydol",
-		"Aggron",
-		"Cradily",
-		"Armaldo",
-		"Metagross"
+	"Kindler Hayden [#707]": [
+		"Magmar",
+		"Gligar",
+		"Magcargo"
 	]
 }
