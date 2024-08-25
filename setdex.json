@@ -342,7 +342,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
+		"Pokã©Mon Trainer~3 Steven [#804]": {
 			"ability": "Rock Head",
 			"ivs": {
 				"at": 31,
@@ -842,7 +842,7 @@
 			"moves": [
 				"Thunderbolt",
 				"Fire Punch",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Tail Glow"
 			],
 			"nature": "Serious"
@@ -1275,7 +1275,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
+		"Pokã©Mon Trainer~3 Steven [#804]": {
 			"ability": "Battle Armor",
 			"ivs": {
 				"at": 31,
@@ -1725,7 +1725,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokã©Mon Trainer~3 Brendan [#525]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1745,7 +1745,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokã©Mon Trainer~3 May [#534]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1803,7 +1803,7 @@
 				"Blaze Kick",
 				"Sky Uppercut",
 				"Rock Slide",
-				"Hidden Power~11"
+				"Hidden Power Grass"
 			],
 			"nature": "Serious"
 		},
@@ -1842,12 +1842,12 @@
 			"moves": [
 				"Blaze Kick",
 				"Sky Uppercut",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Thunderpunch"
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokã©Mon Trainer~3 Brendan [#524]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1867,7 +1867,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokã©Mon Trainer~3 Brendan [#525]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1887,7 +1887,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokã©Mon Trainer~3 May [#533]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -1907,7 +1907,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokã©Mon Trainer~3 May [#534]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2709,7 +2709,7 @@
 			"moves": [
 				"Giga Drain",
 				"Psychic",
-				"Hidden Power~17",
+				"Hidden Power Fire",
 				"Leech Seed"
 			],
 			"nature": "Serious"
@@ -2856,7 +2856,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokã©Mon Trainer~3 Brendan [#522]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2876,7 +2876,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokã©Mon Trainer~3 May [#531]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -3198,7 +3198,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
+		"Pokã©Mon Trainer~3 Steven [#804]": {
 			"ability": "Levitate",
 			"ivs": {
 				"at": 31,
@@ -3703,7 +3703,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
+		"Pokã©Mon Trainer~3 Steven [#804]": {
 			"ability": "Suction Cups",
 			"ivs": {
 				"at": 31,
@@ -3838,7 +3838,7 @@
 			"level": 53,
 			"moves": [
 				"Rest",
-				"Hidden Power",
+				"Hidden Power Psychic",
 				"Taunt",
 				"Double Team"
 			],
@@ -3858,7 +3858,7 @@
 			"level": 58,
 			"moves": [
 				"Rest",
-				"Hidden Power",
+				"Hidden Power Psychic",
 				"Taunt",
 				"Double Team"
 			],
@@ -3878,7 +3878,7 @@
 			"level": 63,
 			"moves": [
 				"Rest",
-				"Hidden Power",
+				"Hidden Power Psychic",
 				"Taunt",
 				"Double Team"
 			],
@@ -4228,6 +4228,24 @@
 			"nature": "Serious"
 		}
 	},
+	"Ditto": {
+		"Youngster Deandre [#715]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Dodrio": {
 		"Battle Girl Lilith [#573]": {
 			"ability": "Early Bird",
@@ -4285,7 +4303,7 @@
 				"Drill Peck",
 				"Steel Wing",
 				"Pursuit",
-				"Hidden Power~13"
+				"Hidden Power Ground"
 			],
 			"nature": "Serious"
 		},
@@ -4794,7 +4812,7 @@
 			"moves": [
 				"Earthquake",
 				"Aerial Ace",
-				"Hidden Power~6",
+				"Hidden Power Bug",
 				"Rock Slide"
 			],
 			"nature": "Serious"
@@ -4833,7 +4851,7 @@
 			"level": 68,
 			"moves": [
 				"Earthquake",
-				"Hidden Power~8",
+				"Hidden Power Ghost",
 				"Sludge Bomb",
 				"Slash"
 			],
@@ -5261,7 +5279,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokã©Mon Trainer~3 Brendan [#522]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5281,7 +5299,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokã©Mon Trainer~3 Brendan [#525]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5301,7 +5319,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokã©Mon Trainer~3 Brendan [#528]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5321,7 +5339,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokã©Mon Trainer~3 May [#531]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5341,7 +5359,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokã©Mon Trainer~3 May [#534]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5361,7 +5379,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokã©Mon Trainer~3 May [#537]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -5435,7 +5453,7 @@
 			"moves": [
 				"Thunderbolt",
 				"Signal Beam",
-				"Hidden Power~5",
+				"Hidden Power Water",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -5516,7 +5534,7 @@
 			"moves": [
 				"Sacred Fire",
 				"Solarbeam",
-				"Hidden Power~12",
+				"Hidden Power Ice",
 				"Calm Mind"
 			],
 			"nature": "Serious"
@@ -5583,7 +5601,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokã©Mon Trainer~3 Brendan [#521]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5603,7 +5621,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokã©Mon Trainer~3 Brendan [#524]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5623,7 +5641,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokã©Mon Trainer~3 Brendan [#527]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5643,7 +5661,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokã©Mon Trainer~3 May [#530]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5663,7 +5681,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokã©Mon Trainer~3 May [#533]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5683,7 +5701,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokã©Mon Trainer~3 May [#536]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -5740,7 +5758,7 @@
 			"moves": [
 				"Solarbeam",
 				"Psychic",
-				"Hidden Power~12",
+				"Hidden Power Ice",
 				"Growth"
 			],
 			"nature": "Serious"
@@ -5760,7 +5778,7 @@
 			"moves": [
 				"Solarbeam",
 				"Psychic",
-				"Hidden Power~17",
+				"Hidden Power Fire",
 				"Reflect"
 			],
 			"nature": "Serious"
@@ -6072,7 +6090,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokã©Mon Trainer~3 Brendan [#522]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -6092,7 +6110,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokã©Mon Trainer~3 May [#531]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -6339,7 +6357,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokã©Mon Trainer~3 Brendan [#522]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6359,7 +6377,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokã©Mon Trainer~3 Brendan [#525]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6379,7 +6397,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokã©Mon Trainer~3 Brendan [#528]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6399,7 +6417,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokã©Mon Trainer~3 May [#531]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6419,7 +6437,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokã©Mon Trainer~3 May [#534]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6439,7 +6457,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokã©Mon Trainer~3 May [#537]": {
 			"ability": "Battle Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -6514,7 +6532,7 @@
 			"moves": [
 				"Iron Head",
 				"Signal Beam",
-				"Hidden Power~13",
+				"Hidden Power Ground",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -6599,7 +6617,7 @@
 				"Psychic",
 				"Magical Leaf",
 				"Calm Mind",
-				"Hidden Power~5"
+				"Hidden Power Water"
 			],
 			"nature": "Serious"
 		},
@@ -7911,7 +7929,7 @@
 			},
 			"level": 65,
 			"moves": [
-				"Hidden Power~16",
+				"Hidden Power Flying",
 				"Hydro Pump",
 				"Earthquake",
 				"Double-Edge"
@@ -7931,7 +7949,7 @@
 			},
 			"level": 67,
 			"moves": [
-				"Hidden Power~16",
+				"Hidden Power Flying",
 				"Double-Edge",
 				"Hydro Pump",
 				"Dragon Dance"
@@ -7971,7 +7989,7 @@
 			},
 			"level": 69,
 			"moves": [
-				"Hidden Power~16",
+				"Hidden Power Flying",
 				"Hydro Pump",
 				"Earthquake",
 				"Dragon Dance"
@@ -7991,7 +8009,7 @@
 			},
 			"level": 61,
 			"moves": [
-				"Hidden Power~16",
+				"Hidden Power Flying",
 				"Surf",
 				"Double-Edge",
 				"Crunch"
@@ -8033,7 +8051,7 @@
 			"moves": [
 				"Earthquake",
 				"Dragon Dance",
-				"Hidden Power~16",
+				"Hidden Power Flying",
 				"Hydro Pump"
 			],
 			"nature": "Serious"
@@ -8116,7 +8134,7 @@
 				"Fake Out",
 				"Cross Chop",
 				"Rock Slide",
-				"Hidden Power~16"
+				"Hidden Power Flying"
 			],
 			"nature": "Serious"
 		},
@@ -8699,7 +8717,7 @@
 				"Sacred Fire",
 				"Sky Attack",
 				"Thunderbolt",
-				"Hidden Power~5"
+				"Hidden Power Water"
 			],
 			"nature": "Serious"
 		}
@@ -8802,7 +8820,7 @@
 				"Overheat",
 				"Crunch",
 				"Solarbeam",
-				"Hidden Power~3"
+				"Hidden Power Electric"
 			],
 			"nature": "Serious"
 		},
@@ -9147,7 +9165,7 @@
 			"moves": [
 				"Psychic",
 				"Thunderbolt",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Calm Mind"
 			],
 			"nature": "Serious"
@@ -9168,7 +9186,7 @@
 			"level": 70,
 			"moves": [
 				"Thunder",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Crunch",
 				"Calm Mind"
 			],
@@ -9190,7 +9208,7 @@
 				"Thunder",
 				"Weather Ball",
 				"Crunch",
-				"Hidden Power~11"
+				"Hidden Power Grass"
 			],
 			"nature": "Serious"
 		},
@@ -9230,7 +9248,7 @@
 				"Shock Wave",
 				"Thunder Wave",
 				"Feint Attack",
-				"Hidden Power~11"
+				"Hidden Power Grass"
 			],
 			"nature": "Serious"
 		},
@@ -9249,7 +9267,7 @@
 			"moves": [
 				"Thunderbolt",
 				"Crunch",
-				"Hidden Power~5",
+				"Hidden Power Water",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -9269,7 +9287,7 @@
 			"moves": [
 				"Thunder",
 				"Signal Beam",
-				"Hidden Power~5",
+				"Hidden Power Water",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -9308,7 +9326,7 @@
 			"level": 71,
 			"moves": [
 				"Thunderbolt",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Light Screen",
 				"Baton Pass"
 			],
@@ -9378,7 +9396,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokã©Mon Trainer~3 Brendan [#522]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9398,7 +9416,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokã©Mon Trainer~3 Brendan [#525]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9418,7 +9436,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokã©Mon Trainer~3 Brendan [#528]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9438,7 +9456,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokã©Mon Trainer~3 May [#531]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9458,7 +9476,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokã©Mon Trainer~3 May [#534]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9478,7 +9496,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokã©Mon Trainer~3 May [#537]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -9940,7 +9958,7 @@
 			"moves": [
 				"Surf",
 				"Double-Edge",
-				"Hidden Power~3",
+				"Hidden Power Electric",
 				"Toxic"
 			],
 			"nature": "Serious"
@@ -10529,7 +10547,7 @@
 				"Dragon Claw",
 				"Mist Ball",
 				"Solarbeam",
-				"Hidden Power~17"
+				"Hidden Power Fire"
 			],
 			"nature": "Serious"
 		}
@@ -10658,7 +10676,7 @@
 				"Double-Edge",
 				"Extremespeed",
 				"Shadow Ball",
-				"Hidden Power~13"
+				"Hidden Power Ground"
 			],
 			"nature": "Serious"
 		},
@@ -10699,26 +10717,6 @@
 				"Secret Power",
 				"Quick Attack",
 				"Shadow Ball"
-			],
-			"nature": "Serious"
-		},
-		"Youngster Deandre [#715]": {
-			"ability": "Guts",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 59,
-			"moves": [
-				"Belly Drum",
-				"Extremespeed",
-				"Shadow Ball",
-				"Hidden Power~9"
 			],
 			"nature": "Serious"
 		}
@@ -12015,7 +12013,7 @@
 			"level": 44,
 			"moves": [
 				"Thunderbolt",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Toxic",
 				"Protect"
 			],
@@ -12035,7 +12033,7 @@
 			"level": 70,
 			"moves": [
 				"Thunderbolt",
-				"Hidden Power~17",
+				"Hidden Power Fire",
 				"Toxic",
 				"Iron Head"
 			],
@@ -12056,7 +12054,7 @@
 			"moves": [
 				"Thunderbolt",
 				"Iron Head",
-				"Hidden Power~17",
+				"Hidden Power Fire",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -12083,6 +12081,26 @@
 		}
 	},
 	"Manectric": {
+		"Aroma Lady Rose [#37]": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Thunderbolt",
+				"Crunch",
+				"Overheat",
+				"Sunny Day"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Static",
 			"item": "Lum Berry",
@@ -12258,7 +12276,7 @@
 				"Thunderbolt",
 				"Flamethrower",
 				"Crunch",
-				"Hidden Power~12"
+				"Hidden Power Ice"
 			],
 			"nature": "Serious"
 		},
@@ -12278,26 +12296,6 @@
 				"Thunderbolt",
 				"Crunch",
 				"Overheat",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Youngster Deandre [#715]": {
-			"ability": "Static",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 59,
-			"moves": [
-				"Thunderbolt",
-				"Flamethrower",
-				"Crunch",
 				"Quick Attack"
 			],
 			"nature": "Serious"
@@ -12727,6 +12725,26 @@
 			],
 			"nature": "Serious"
 		},
+		"Guitarist Dalton [#196]": {
+			"ability": "Intimidate",
+			"item": "Metal Coat",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Iron Head",
+				"Earthquake",
+				"Seismic Toss",
+				"Crunch"
+			],
+			"nature": "Serious"
+		},
 		"Picnicker Carol [#471]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -13083,7 +13101,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokã©Mon Trainer~3 Brendan [#525]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -13103,7 +13121,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokã©Mon Trainer~3 May [#534]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -13179,7 +13197,7 @@
 				"Giga Drain",
 				"Earthquake",
 				"Synthesis",
-				"Hidden Power~12"
+				"Hidden Power Ice"
 			],
 			"nature": "Serious"
 		}
@@ -13241,11 +13259,11 @@
 				"Meteor Mash",
 				"Psychic",
 				"Rock Slide",
-				"Hidden Power~6"
+				"Hidden Power Bug"
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
+		"Pokã©Mon Trainer~3 Steven [#804]": {
 			"ability": "Battle Armor",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -13490,7 +13508,7 @@
 			"moves": [
 				"Surf",
 				"Ice Beam",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Recover"
 			],
 			"nature": "Serious"
@@ -13553,6 +13571,26 @@
 				"Body Slam",
 				"Seismic Toss",
 				"Rock Slide",
+				"Milk Drink"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer George [#73]": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Body Slam",
+				"Seismic Toss",
+				"Charm",
 				"Milk Drink"
 			],
 			"nature": "Serious"
@@ -13714,7 +13752,7 @@
 				"Shock Wave",
 				"Thunder Wave",
 				"Quick Attack",
-				"Hidden Power~11"
+				"Hidden Power Grass"
 			],
 			"nature": "Serious"
 		}
@@ -13778,7 +13816,7 @@
 				"Overheat",
 				"Aerial Ace",
 				"Solarbeam",
-				"Hidden Power~12"
+				"Hidden Power Ice"
 			],
 			"nature": "Serious"
 		},
@@ -13798,7 +13836,7 @@
 				"Overheat",
 				"Aerial Ace",
 				"Solarbeam",
-				"Hidden Power~12"
+				"Hidden Power Ice"
 			],
 			"nature": "Serious"
 		}
@@ -15117,26 +15155,6 @@
 				"Shock Wave"
 			],
 			"nature": "Serious"
-		},
-		"Youngster Deandre [#715]": {
-			"ability": "Keen Eye",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 59,
-			"moves": [
-				"Surf",
-				"Aerial Ace",
-				"Shock Wave",
-				"Ice Beam"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Persian": {
@@ -15342,7 +15360,7 @@
 				"Thunderbolt",
 				"Surf",
 				"Thunder Wave",
-				"Hidden Power~12"
+				"Hidden Power Ice"
 			],
 			"nature": "Serious"
 		},
@@ -15507,7 +15525,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokã©Mon Trainer~3 Brendan [#521]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15527,7 +15545,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokã©Mon Trainer~3 Brendan [#524]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15547,7 +15565,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokã©Mon Trainer~3 Brendan [#527]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15567,7 +15585,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokã©Mon Trainer~3 May [#530]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15587,7 +15605,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokã©Mon Trainer~3 May [#533]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15607,7 +15625,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokã©Mon Trainer~3 May [#536]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -15785,7 +15803,7 @@
 				"Toxic",
 				"Shock Wave",
 				"Quick Attack",
-				"Hidden Power~13"
+				"Hidden Power Ground"
 			],
 			"nature": "Serious"
 		}
@@ -16695,7 +16713,7 @@
 			"moves": [
 				"Thunder",
 				"Surf",
-				"Hidden Power~12",
+				"Hidden Power Ice",
 				"Quick Attack"
 			],
 			"nature": "Serious"
@@ -16757,7 +16775,7 @@
 			"moves": [
 				"Thunder",
 				"Weather Ball",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Calm Mind"
 			],
 			"nature": "Serious"
@@ -16842,7 +16860,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokã©Mon Trainer~3 Brendan [#521]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -16862,7 +16880,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokã©Mon Trainer~3 Brendan [#527]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -16882,7 +16900,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokã©Mon Trainer~3 May [#530]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -16918,7 +16936,7 @@
 				"Flamethrower",
 				"Megahorn",
 				"Double-Edge",
-				"Hidden Power~5"
+				"Hidden Power Water"
 			],
 			"nature": "Serious"
 		}
@@ -17258,6 +17276,26 @@
 		}
 	},
 	"Sableye": {
+		"Cooltrainer George [#73]": {
+			"ability": "Keen Eye",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Shadow Ball",
+				"Seismic Toss",
+				"Toxic",
+				"Recover"
+			],
+			"nature": "Serious"
+		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Keen Eye",
 			"item": "Leftovers",
@@ -17355,7 +17393,7 @@
 			"moves": [
 				"Aerial Ace",
 				"Dragon Claw",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Fire Blast"
 			],
 			"nature": "Serious"
@@ -17579,12 +17617,12 @@
 			"moves": [
 				"Leaf Blade",
 				"Thunderpunch",
-				"Hidden Power~5",
+				"Hidden Power Water",
 				"Crush Claw"
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokã©Mon Trainer~3 Brendan [#521]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17604,7 +17642,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokã©Mon Trainer~3 Brendan [#522]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17624,7 +17662,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokã©Mon Trainer~3 May [#530]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -17644,7 +17682,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokã©Mon Trainer~3 May [#531]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18320,6 +18358,26 @@
 		}
 	},
 	"Shiftry": {
+		"Bird Keeper Chester [#408]": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 59,
+			"moves": [
+				"Giga Drain",
+				"Shadow Ball",
+				"Extrasensory",
+				"Seismic Toss"
+			],
+			"nature": "Serious"
+		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
@@ -18355,7 +18413,7 @@
 			"moves": [
 				"Solarbeam",
 				"Rock Slide",
-				"Hidden Power~12",
+				"Hidden Power Ice",
 				"Heat Wave"
 			],
 			"nature": "Serious"
@@ -18759,7 +18817,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokã©Mon Trainer~3 Brendan [#521]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18779,7 +18837,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokã©Mon Trainer~3 Brendan [#524]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18799,7 +18857,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokã©Mon Trainer~3 Brendan [#527]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18819,7 +18877,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokã©Mon Trainer~3 May [#530]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18839,7 +18897,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokã©Mon Trainer~3 May [#533]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18859,7 +18917,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokã©Mon Trainer~3 May [#536]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18879,7 +18937,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
+		"Pokã©Mon Trainer~3 Steven [#804]": {
 			"ability": "Keen Eye",
 			"ivs": {
 				"at": 31,
@@ -18921,26 +18979,6 @@
 		}
 	},
 	"Slaking": {
-		"Cooltrainer George [#73]": {
-			"ability": "Truant",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Hyper Beam",
-				"Earthquake",
-				"Shadow Ball",
-				"Slack Off"
-			],
-			"nature": "Serious"
-		},
 		"Leader Norman (1) [#786]": {
 			"ability": "Truant",
 			"item": "Sitrus Berry",
@@ -19602,26 +19640,6 @@
 				"Thunder",
 				"Surf",
 				"Refresh"
-			],
-			"nature": "Serious"
-		},
-		"Cooltrainer George [#73]": {
-			"ability": "Thick Fat",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Body Slam",
-				"Shadow Ball",
-				"Earthquake",
-				"Rest"
 			],
 			"nature": "Serious"
 		},
@@ -20637,7 +20655,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokã©Mon Trainer~3 Brendan [#527]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20657,7 +20675,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokã©Mon Trainer~3 Brendan [#528]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20677,7 +20695,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokã©Mon Trainer~3 May [#536]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20697,7 +20715,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokã©Mon Trainer~3 May [#537]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -21679,7 +21697,7 @@
 			"moves": [
 				"Heat Wave",
 				"Rock Slide",
-				"Hidden Power~11",
+				"Hidden Power Grass",
 				"Brick Break"
 			],
 			"nature": "Serious"
@@ -21704,7 +21722,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokã©Mon Trainer~3 Brendan [#528]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -21724,7 +21742,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokã©Mon Trainer~3 May [#537]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22151,7 +22169,7 @@
 				"Giga Drain",
 				"Sludge Bomb",
 				"Earthquake",
-				"Hidden Power~11"
+				"Hidden Power Psychic"
 			],
 			"nature": "Serious"
 		},
@@ -22170,12 +22188,12 @@
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
-				"Hidden Power~17",
+				"Hidden Power Fire",
 				"Take Down"
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokã©Mon Trainer~3 Brendan [#528]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22195,7 +22213,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokã©Mon Trainer~3 May [#537]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22330,7 +22348,7 @@
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
-				"Hidden Power~12",
+				"Hidden Power Ice",
 				"Earthquake"
 			],
 			"nature": "Serious"
@@ -22418,7 +22436,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokã©Mon Trainer~3 Brendan [#524]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22438,7 +22456,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokã©Mon Trainer~3 Brendan [#527]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22458,7 +22476,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokã©Mon Trainer~3 May [#533]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22478,7 +22496,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokã©Mon Trainer~3 May [#536]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22960,7 +22978,7 @@
 				"Water Pulse",
 				"Body Slam",
 				"Protect",
-				"Hidden Power~16"
+				"Hidden Power Flying"
 			],
 			"nature": "Serious"
 		},
@@ -23263,7 +23281,7 @@
 				"Rain Dance",
 				"Water Pulse",
 				"Double Team",
-				"Hidden Power~3"
+				"Hidden Power Electric"
 			],
 			"nature": "Serious"
 		},
@@ -23282,7 +23300,7 @@
 				"Rain Dance",
 				"Water Pulse",
 				"Double Team",
-				"Hidden Power~3"
+				"Hidden Power Electric"
 			],
 			"nature": "Serious"
 		},
@@ -23301,7 +23319,7 @@
 				"Rain Dance",
 				"Water Pulse",
 				"Double Team",
-				"Hidden Power~3"
+				"Hidden Power Electric"
 			],
 			"nature": "Serious"
 		},
@@ -23320,11 +23338,11 @@
 				"Rain Dance",
 				"Water Pulse",
 				"Double Team",
-				"Hidden Power~3"
+				"Hidden Power Electric"
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokã©Mon Trainer~3 Brendan [#521]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23344,7 +23362,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokã©Mon Trainer~3 Brendan [#524]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23364,7 +23382,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokã©Mon Trainer~3 May [#530]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23384,7 +23402,7 @@
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokã©Mon Trainer~3 May [#533]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -24181,7 +24199,7 @@
 				"Thunder",
 				"Aerial Ace",
 				"Weather Ball",
-				"Hidden Power~11"
+				"Hidden Power Grass"
 			],
 			"nature": "Serious"
 		}

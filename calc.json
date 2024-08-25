@@ -1381,6 +1381,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Magical Leaf", "Sunny Day", "Sleep Powder", "Weather Ball~2"],
 			"level":58
+		},
+		"Manectric_4":{
+			"ability":"Static",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Thunderbolt", "Crunch", "Overheat", "Sunny Day"],
+			"level":58
 		}
 	},
 	"Cooltrainer Felix_038":{
@@ -1796,7 +1804,7 @@
 			"level":35
 		}
 	},
-	"Tuber Ricky_064":{
+	"Tuber~2 Ricky_064":{
 		"Zigzagoon_1":{
 			"ability":"Guts",
 			"nature":"Serious",
@@ -1805,7 +1813,7 @@
 			"level":13
 		}
 	},
-	"Tuber Simon_065":{
+	"Tuber~2 Simon_065":{
 		"Azurill_1":{
 			"ability":"Huge Power",
 			"nature":"Serious",
@@ -1821,7 +1829,7 @@
 			"level":12
 		}
 	},
-	"Tuber Charlie_066":{
+	"Tuber~2 Charlie_066":{
 		"Marill_1":{
 			"ability":"Huge Power",
 			"nature":"Serious",
@@ -1830,7 +1838,7 @@
 			"level":26
 		}
 	},
-	"Tuber Ricky_067":{
+	"Tuber~2 Ricky_067":{
 		"Linoone_1":{
 			"ability":"Guts",
 			"nature":"Serious",
@@ -1839,7 +1847,7 @@
 			"level":27
 		}
 	},
-	"Tuber Ricky_068":{
+	"Tuber~2 Ricky_068":{
 		"Linoone_1":{
 			"ability":"Guts",
 			"nature":"Serious",
@@ -1848,7 +1856,7 @@
 			"level":30
 		}
 	},
-	"Tuber Ricky_069":{
+	"Tuber~2 Ricky_069":{
 		"Linoone_1":{
 			"ability":"Guts",
 			"nature":"Serious",
@@ -1857,7 +1865,7 @@
 			"level":33
 		}
 	},
-	"Tuber Ricky_070":{
+	"Tuber~2 Ricky_070":{
 		"Linoone_1":{
 			"ability":"Guts",
 			"nature":"Serious",
@@ -1999,20 +2007,20 @@
 			"moves":["Surf", "Ice Beam", "Recover", "Refresh"],
 			"level":51
 		},
-		"Snorlax_5":{
+		"Miltank_5":{
 			"ability":"Thick Fat",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Body Slam", "Shadow Ball", "Earthquake", "Rest"],
+			"moves":["Body Slam", "Seismic Toss", "Charm", "Milk Drink"],
 			"level":51
 		},
-		"Slaking_6":{
-			"ability":"Truant",
+		"Sableye_6":{
+			"ability":"Keen Eye",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Hyper Beam", "Earthquake", "Shadow Ball", "Slack Off"],
+			"moves":["Shadow Ball", "Seismic Toss", "Toxic", "Recover"],
 			"level":51
 		}
 	},
@@ -4454,6 +4462,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hyper Voice", "Surf", "Fire Blast", "Shadow Ball"],
 			"level":58
+		},
+		"Mawile_4":{
+			"ability":"Intimidate",
+			"item":"Metal Coat",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Iron Head", "Earthquake", "Seismic Toss", "Crunch"],
+			"level":58
 		}
 	},
 	"Guitarist Dalton_197":{
@@ -6115,7 +6131,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Sludge Bomb", "Earthquake", "Hidden Power~11"],
+			"moves":["Giga Drain", "Sludge Bomb", "Earthquake", "Hidden Power"],
 			"level":100
 		},
 		"Gardevoir_4":{
@@ -8991,6 +9007,14 @@
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Aerial Ace", "Silver Wind", "Giga Drain", "Ice Beam"],
 			"level":59
+		},
+		"Shiftry_4":{
+			"ability":"Chlorophyll",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Giga Drain", "Shadow Ball", "Extrasensory", "Seismic Toss"],
+			"level":59
 		}
 	},
 	"Bird Keeper Robert_409":{
@@ -10625,7 +10649,7 @@
 			"level":39
 		}
 	},
-	"Cooltrainer Jazmyn_503":{
+	"Cooltrainer~2 Jazmyn_503":{
 		"Absol_1":{
 			"ability":"Pressure",
 			"nature":"Serious",
@@ -10856,7 +10880,7 @@
 			"level":35
 		}
 	},
-	"Pokã©Mon Trainer Wally_519":{
+	"Pokã©Mon Trainer~3 Wally_519":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -10893,7 +10917,7 @@
 			"level":45
 		}
 	},
-	"Pokã©Mon Trainer Brendan_520":{
+	"Pokã©Mon Trainer~3 Brendan_520":{
 		"Treecko_1":{
 			"ability":"Overgrow",
 			"nature":"Serious",
@@ -10902,7 +10926,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer Brendan_521":{
+	"Pokã©Mon Trainer~3 Brendan_521":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -10952,7 +10976,7 @@
 			"level":41
 		}
 	},
-	"Pokã©Mon Trainer Brendan_522":{
+	"Pokã©Mon Trainer~3 Brendan_522":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11002,7 +11026,7 @@
 			"level":63
 		}
 	},
-	"Pokã©Mon Trainer Brendan_523":{
+	"Pokã©Mon Trainer~3 Brendan_523":{
 		"Torchic_1":{
 			"ability":"Blaze",
 			"nature":"Serious",
@@ -11011,7 +11035,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer Brendan_524":{
+	"Pokã©Mon Trainer~3 Brendan_524":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11061,7 +11085,7 @@
 			"level":41
 		}
 	},
-	"Pokã©Mon Trainer Brendan_525":{
+	"Pokã©Mon Trainer~3 Brendan_525":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11111,7 +11135,7 @@
 			"level":63
 		}
 	},
-	"Pokã©Mon Trainer Brendan_526":{
+	"Pokã©Mon Trainer~3 Brendan_526":{
 		"Mudkip_1":{
 			"ability":"Torrent",
 			"nature":"Serious",
@@ -11120,7 +11144,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer Brendan_527":{
+	"Pokã©Mon Trainer~3 Brendan_527":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11170,7 +11194,7 @@
 			"level":41
 		}
 	},
-	"Pokã©Mon Trainer Brendan_528":{
+	"Pokã©Mon Trainer~3 Brendan_528":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11220,7 +11244,7 @@
 			"level":63
 		}
 	},
-	"Pokã©Mon Trainer May_529":{
+	"Pokã©Mon Trainer~3 May_529":{
 		"Treecko_1":{
 			"ability":"Overgrow",
 			"nature":"Serious",
@@ -11229,7 +11253,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer May_530":{
+	"Pokã©Mon Trainer~3 May_530":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11279,7 +11303,7 @@
 			"level":41
 		}
 	},
-	"Pokã©Mon Trainer May_531":{
+	"Pokã©Mon Trainer~3 May_531":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11329,7 +11353,7 @@
 			"level":63
 		}
 	},
-	"Pokã©Mon Trainer May_532":{
+	"Pokã©Mon Trainer~3 May_532":{
 		"Torchic_1":{
 			"ability":"Blaze",
 			"nature":"Serious",
@@ -11338,7 +11362,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer May_533":{
+	"Pokã©Mon Trainer~3 May_533":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11388,7 +11412,7 @@
 			"level":41
 		}
 	},
-	"Pokã©Mon Trainer May_534":{
+	"Pokã©Mon Trainer~3 May_534":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -11438,7 +11462,7 @@
 			"level":63
 		}
 	},
-	"Pokã©Mon Trainer May_535":{
+	"Pokã©Mon Trainer~3 May_535":{
 		"Mudkip_1":{
 			"ability":"Torrent",
 			"nature":"Serious",
@@ -11447,7 +11471,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer May_536":{
+	"Pokã©Mon Trainer~3 May_536":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"item":"Lum Berry",
@@ -11489,7 +11513,7 @@
 			"level":41
 		}
 	},
-	"Pokã©Mon Trainer May_537":{
+	"Pokã©Mon Trainer~3 May_537":{
 		"Forretress_1":{
 			"ability":"Battle Armor",
 			"item":"Leftovers",
@@ -13030,7 +13054,7 @@
 			"level":73
 		}
 	},
-	"Pokã©Mon Trainer Brendan_592":{
+	"Pokã©Mon Trainer~3 Brendan_592":{
 		"Lotad_1":{
 			"ability":"Swift Swim",
 			"nature":"Serious",
@@ -13046,7 +13070,7 @@
 			"level":15
 		}
 	},
-	"Pokã©Mon Trainer Brendan_593":{
+	"Pokã©Mon Trainer~3 Brendan_593":{
 		"Wingull_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -13203,7 +13227,7 @@
 			"level":33
 		}
 	},
-	"Pokã©Mon Trainer Brendan_599":{
+	"Pokã©Mon Trainer~3 Brendan_599":{
 		"Slugma_1":{
 			"ability":"Flame Body",
 			"nature":"Serious",
@@ -13219,7 +13243,7 @@
 			"level":15
 		}
 	},
-	"Pokã©Mon Trainer May_600":{
+	"Pokã©Mon Trainer~3 May_600":{
 		"Wingull_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -14446,7 +14470,7 @@
 			"level":62
 		}
 	},
-	"Pokã©Mon Trainer Wally_656":{
+	"Pokã©Mon Trainer~3 Wally_656":{
 		"Ralts_1":{
 			"ability":"Trace",
 			"nature":"Serious",
@@ -14455,7 +14479,7 @@
 			"level":12
 		}
 	},
-	"Pokã©Mon Trainer Wally_657":{
+	"Pokã©Mon Trainer~3 Wally_657":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14492,7 +14516,7 @@
 			"level":48
 		}
 	},
-	"Pokã©Mon Trainer Wally_658":{
+	"Pokã©Mon Trainer~3 Wally_658":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14529,7 +14553,7 @@
 			"level":51
 		}
 	},
-	"Pokã©Mon Trainer Wally_659":{
+	"Pokã©Mon Trainer~3 Wally_659":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14566,7 +14590,7 @@
 			"level":54
 		}
 	},
-	"Pokã©Mon Trainer Wally_660":{
+	"Pokã©Mon Trainer~3 Wally_660":{
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
@@ -14603,7 +14627,7 @@
 			"level":57
 		}
 	},
-	"Pokã©Mon Trainer Brendan_661":{
+	"Pokã©Mon Trainer~3 Brendan_661":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14633,7 +14657,7 @@
 			"level":34
 		}
 	},
-	"Pokã©Mon Trainer Brendan_662":{
+	"Pokã©Mon Trainer~3 Brendan_662":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14663,7 +14687,7 @@
 			"level":34
 		}
 	},
-	"Pokã©Mon Trainer Brendan_663":{
+	"Pokã©Mon Trainer~3 Brendan_663":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14693,7 +14717,7 @@
 			"level":34
 		}
 	},
-	"Pokã©Mon Trainer May_664":{
+	"Pokã©Mon Trainer~3 May_664":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14723,7 +14747,7 @@
 			"level":34
 		}
 	},
-	"Pokã©Mon Trainer May_665":{
+	"Pokã©Mon Trainer~3 May_665":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -14753,7 +14777,7 @@
 			"level":34
 		}
 	},
-	"Pokã©Mon Trainer May_666":{
+	"Pokã©Mon Trainer~3 May_666":{
 		"Tropius_1":{
 			"ability":"Chlorophyll",
 			"nature":"Serious",
@@ -15245,7 +15269,7 @@
 			"level":13
 		}
 	},
-	"Tuber Chandler_698":{
+	"Tuber~2 Chandler_698":{
 		"Tentacool_1":{
 			"ability":"Liquid Ooze",
 			"nature":"Serious",
@@ -15555,29 +15579,12 @@
 		}
 	},
 	"Youngster Deandre_715":{
-		"Linoone_1":{
-			"ability":"Guts",
-			"item":"Lum Berry",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Belly Drum", "Extremespeed", "Shadow Ball", "Hidden Power~9"],
-			"level":59
-		},
-		"Manectric_2":{
-			"ability":"Static",
-			"item":"Lum Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Thunderbolt", "Flamethrower", "Crunch", "Quick Attack"],
-			"level":59
-		},
-		"Pelipper_3":{
-			"ability":"Keen Eye",
-			"item":"Lum Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Aerial Ace", "Shock Wave", "Ice Beam"],
-			"level":59
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Team Magma Grunt_716":{
@@ -17006,7 +17013,7 @@
 			"level":67
 		}
 	},
-	"Pokã©Mon Trainer May_768":{
+	"Pokã©Mon Trainer~3 May_768":{
 		"Lotad_1":{
 			"ability":"Swift Swim",
 			"nature":"Serious",
@@ -17022,7 +17029,7 @@
 			"level":15
 		}
 	},
-	"Pokã©Mon Trainer May_769":{
+	"Pokã©Mon Trainer~3 May_769":{
 		"Torkoal_1":{
 			"ability":"Shell Armor",
 			"nature":"Serious",
@@ -18426,7 +18433,7 @@
 			"level":63
 		}
 	},
-	"Pokã©Mon Trainer Steven_804":{
+	"Pokã©Mon Trainer~3 Steven_804":{
 		"Skarmory_1":{
 			"ability":"Keen Eye",
 			"nature":"Serious",
@@ -19438,7 +19445,7 @@
 			"level":41
 		}
 	},
-	"Pokã©Mon Trainer Red_851":{
+	"Pokã©Mon Trainer~3 Red_851":{
 		"Charmander_1":{
 			"ability":"Blaze",
 			"nature":"Serious",
@@ -19447,7 +19454,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer Leaf_852":{
+	"Pokã©Mon Trainer~3 Leaf_852":{
 		"Bulbasaur_1":{
 			"ability":"Overgrow",
 			"nature":"Serious",
@@ -19456,7 +19463,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer Brendan_853":{
+	"Pokã©Mon Trainer~4 Brendan_853":{
 		"Groudon_1":{
 			"ability":"Drought",
 			"nature":"Serious",
@@ -19465,7 +19472,7 @@
 			"level":5
 		}
 	},
-	"Pokã©Mon Trainer May_854":{
+	"Pokã©Mon Trainer~4 May_854":{
 		"Kyogre_1":{
 			"ability":"Drizzle",
 			"nature":"Serious",

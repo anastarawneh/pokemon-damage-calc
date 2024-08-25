@@ -195,7 +195,8 @@
 	"Aroma Lady Rose [#37]": [
 		"Tropius",
 		"Torkoal",
-		"Bellossom"
+		"Bellossom",
+		"Manectric"
 	],
 	"Ruin Maniac Dusty [#44]": [
 		"Kabutops",
@@ -224,8 +225,8 @@
 		"Blissey",
 		"Skarmory",
 		"Milotic",
-		"Snorlax",
-		"Slaking"
+		"Miltank",
+		"Sableye"
 	],
 	"Cooltrainer Berke [#74]": [
 		"Linoone",
@@ -385,7 +386,8 @@
 	"Guitarist Dalton [#196]": [
 		"Electrode",
 		"Electabuzz",
-		"Exploud"
+		"Exploud",
+		"Mawile"
 	],
 	"Kindler Cole [#201]": [
 		"Pinsir",
@@ -768,7 +770,8 @@
 	"Bird Keeper Chester [#408]": [
 		"Dodrio",
 		"Altaria",
-		"Masquerain"
+		"Masquerain",
+		"Shiftry"
 	],
 	"Team Aqua Grunt [#416]": [
 		"Gyarados",
@@ -847,7 +850,7 @@
 		"Exeggutor",
 		"Torkoal"
 	],
-	"Pokã©Mon Trainer Brendan [#521]": [
+	"Pokã©Mon Trainer~3 Brendan [#521]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -855,7 +858,7 @@
 		"Whiscash",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer Brendan [#522]": [
+	"Pokã©Mon Trainer~3 Brendan [#522]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -863,7 +866,7 @@
 		"Feraligatr",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer Brendan [#524]": [
+	"Pokã©Mon Trainer~3 Brendan [#524]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -871,7 +874,7 @@
 		"Whiscash",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer Brendan [#525]": [
+	"Pokã©Mon Trainer~3 Brendan [#525]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -879,7 +882,7 @@
 		"Blastoise",
 		"Meganium"
 	],
-	"Pokã©Mon Trainer Brendan [#527]": [
+	"Pokã©Mon Trainer~3 Brendan [#527]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -887,7 +890,7 @@
 		"Swampert",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer Brendan [#528]": [
+	"Pokã©Mon Trainer~3 Brendan [#528]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -895,7 +898,7 @@
 		"Swampert",
 		"Venusaur"
 	],
-	"Pokã©Mon Trainer May [#530]": [
+	"Pokã©Mon Trainer~3 May [#530]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -903,7 +906,7 @@
 		"Whiscash",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer May [#531]": [
+	"Pokã©Mon Trainer~3 May [#531]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -911,7 +914,7 @@
 		"Feraligatr",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer May [#533]": [
+	"Pokã©Mon Trainer~3 May [#533]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -919,7 +922,7 @@
 		"Whiscash",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer May [#534]": [
+	"Pokã©Mon Trainer~3 May [#534]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -927,14 +930,14 @@
 		"Blastoise",
 		"Meganium"
 	],
-	"Pokã©Mon Trainer May [#536]": [
+	"Pokã©Mon Trainer~3 May [#536]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
 		"Swampert",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer May [#537]": [
+	"Pokã©Mon Trainer~3 May [#537]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -1253,9 +1256,7 @@
 		"Manectric"
 	],
 	"Youngster Deandre [#715]": [
-		"Linoone",
-		"Manectric",
-		"Pelipper"
+		"Ditto"
 	],
 	"Team Magma Grunt [#716]": [
 		"Porygon2",
@@ -1694,7 +1695,7 @@
 		"Wailord",
 		"Salamence"
 	],
-	"Pokã©Mon Trainer Steven [#804]": [
+	"Pokã©Mon Trainer~3 Steven [#804]": [
 		"Skarmory",
 		"Claydol",
 		"Aggron",
