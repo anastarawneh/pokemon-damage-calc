@@ -320,7 +320,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Sacred Fire': { bp: 120, type: 'Fire' },
   'Baton Pass': { bp: 0, category: 'Status', type: 'Normal' },
   'Dragonbreath': { bp: 70, type: 'Dragon' },
-  'Dynamic Punch': { bp: 100, type: 'Fighting' },
+  'Dynamicpunch': { bp: 100, type: 'Fighting' },
   'False Swipe': { bp: 40, type: 'Normal' },
   'Flame Wheel': { bp: 60, type: 'Fire' },
   'Iron Tail': { bp: 100, type: 'Steel' },
