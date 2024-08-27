@@ -419,7 +419,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Cross Chop': { makesContact: true },
   Cut: { makesContact: true },
   'Drill Peck': { makesContact: true },
-  'Dynamic Punch': { makesContact: true },
+  'Dynamicpunch': { makesContact: true },
   'False Swipe': { makesContact: true },
   'Fire Punch': { makesContact: true },
   'Flame Wheel': { makesContact: true },
