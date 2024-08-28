@@ -1,6 +1,10 @@
 function placeBsBtn() {
 	var importBtn = "<button id='import' class='bs-btn bs-btn-default'>Import</button>";
 	$("#import-1_wrapper").append(importBtn);
+	var syncBtn = "<button id='sync' class='bs-btn bs-btn-default'>Sync</button>";
+	$("#import-1_wrapper").append(syncBtn);
+	if (gameId > 0 && GAME_FEATURES[game].sync) $("#sync.bs-btn").show();
+	else $("#sync.bs-btn").hide();
 
 	$("#import.bs-btn").click(function () {
 		var pokes = document.getElementsByClassName("import-team-text")[0].value;
@@ -11,6 +15,15 @@ function placeBsBtn() {
 		}
 		//erase the import text area
 		document.getElementsByClassName("import-team-text")[0].value="";
+	});
+
+	$("#sync.bs-btn").click(() => {
+		fetch("http://localhost:31124/update").then(x => x.text()).then(function (x) {
+			addSets(x, "Custom Set");
+			if (document.getElementById("cc-auto-refr").checked && $("#show-cc").is(":hidden")) {
+				window.refreshColorCode();
+			}
+		}).catch(() => alert("Please make sure the Lua script is running. A link to the script can be found at the bottom of the page."));
 	});
 }
 

@@ -36,6 +36,10 @@ $(".game").change(function() {
 	$(".gen-specific").not(".g" + gen).hide();
 	$(".game-specific.gm" + gameId).show();
 	$(".game-specific").not(".gm" + gameId).hide();
+
+	if (gameId > 0 && GAME_FEATURES[game].sync) $("#sync.bs-btn").show();
+	else $("#sync.bs-btn").hide();
+
 	var typeOptions = getSelectOptions(Object.keys(typeChart));
 	$("select.type1, select.move-type").find("option").remove().end().append(typeOptions);
 	$("select.type2").find("option").remove().end().append("<option value=\"\">(none)</option>" + typeOptions);
