@@ -2226,7 +2226,7 @@ $(document).ready(function () {
 	$('#bait-help').click(() => {
 		alert("This section predicts what will Pokémon will be sent out after your Pokémon defeats each member of the enemy party.\n\n" + 
 			  "Click a Pokémon sprite to mark it as dead, excluding it from the list of possible next Pokémon.\n\n" + 
-			  "In very rare cases such as damage overflow, you can use the slower but more accurate \"Advanced Bait\" option.\n\n" + 
+			  (["Emerald Kaizo"].includes(game) ? "In very rare cases such as damage overflow, you can use the slower but more accurate \"Advanced Bait\" option.\n\n" : "") + 
 			  "In case of an incorrect result, please DM me on Discord at @anastarawneh, or open a GitHub issue.");
 	});
 	$('#ai-help').click(() => {
