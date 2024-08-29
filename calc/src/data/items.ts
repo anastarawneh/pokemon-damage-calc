@@ -10,7 +10,7 @@ const GSC = [
   'Bitter Berry',
   'Black Belt',
   'Black Glasses',
-  'Bright Powder',
+  'Brightpowder',
   'Burnt Berry',
   'Charcoal',
   'Dragon Fang',
