@@ -9970,7 +9970,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 62,
 			"moves": [
 				"Surf",
 				"Double-Edge",
@@ -17037,7 +17037,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"Surf",
 				"Ancientpower",
@@ -17772,7 +17772,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -19288,7 +19288,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -20498,7 +20498,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 65,
+			"level": 63,
 			"moves": [
 				"Hydro Pump",
 				"Ice Beam",
@@ -22057,7 +22057,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"Hydro Pump",
 				"Ice Beam",
