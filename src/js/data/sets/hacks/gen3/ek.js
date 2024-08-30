@@ -1331,7 +1331,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Ice Beam",
 				"Sky Attack",
-				"Ancient Power",
+				"Ancientpower",
 				"Signal Beam"
 			],
 			"nature": "Serious"
