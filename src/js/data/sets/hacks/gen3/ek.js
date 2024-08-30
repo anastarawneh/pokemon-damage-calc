@@ -1315,7 +1315,30 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		}
 	},
+	"Articuno": {
+		"Leader Winona [#270]": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Ice Beam",
+				"Sky Attack",
+				"Ancient Power",
+				"Signal Beam"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Aron": {
+	
 		"Youngster Josh [#320]": {
 			"ability": "Rock Head",
 			"item": "Salac Berry",
@@ -10935,28 +10958,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Ice Beam",
 				"Thunderpunch"
-			],
-			"nature": "Serious"
-		}
-	},
-	"Lugia": {
-		"Leader Winona [#270]": {
-			"ability": "Pressure",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 65,
-			"moves": [
-				"Aeroblast",
-				"Psychic",
-				"Hydro Pump",
-				"Recover"
 			],
 			"nature": "Serious"
 		}

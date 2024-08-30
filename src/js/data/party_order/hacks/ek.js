@@ -619,8 +619,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Gyarados",
 		"Gengar",
 		"Dragonite",
+		"Articuno",
 		"Ho-Oh",
-		"Lugia"
 	],
 	"Leader Tate&Liza [#271]": [
 		"Metagross",
