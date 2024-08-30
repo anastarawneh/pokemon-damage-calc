@@ -55,7 +55,7 @@ const GSC = [
   'Safari Ball',
   'Scope Lens',
   'Sharp Beak',
-  'Silver Powder',
+  'Silverpowder',
   'Soft Sand',
   'Spell Tag',
   'Sport Ball',
