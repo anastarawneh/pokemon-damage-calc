@@ -228,7 +228,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Dragon Rage': { bp: 0 },
   Bite: { type: 'Dark' },
   'Night Shade': { bp: 0 },
-  'Sand Attack': { type: 'Ground' },
+  'Sand-Attack': { type: 'Ground' },
   'Seismic Toss': { bp: 0 },
   'Sonicboom': { bp: 0 },
   'Super Fang': { bp: 0 },
