@@ -5802,26 +5802,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Magma Admin Tabitha [#732]": {
-			"ability": "Chlorophyll",
-			"item": "Twistedspoon",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 73,
-			"moves": [
-				"Solarbeam",
-				"Psychic",
-				"Hidden Power Fire",
-				"Reflect"
-			],
-			"nature": "Serious"
-		},
 		"Parasol Lady Clarissa [#435]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
@@ -23119,6 +23099,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Toxic",
 				"Shadow Ball"
+			],
+			"nature": "Serious"
+		},
+		"Magma Admin Tabitha [#732]": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Sludge Bomb",
+				"Heat Wave",
+				"Thunderbolt",
+				"Explosion"
 			],
 			"nature": "Serious"
 		},
