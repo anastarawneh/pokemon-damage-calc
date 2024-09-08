@@ -5997,7 +5997,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 71,
 			"moves": [
-				"Hyper Fang",
+				"Hyper Voice",
 				"Fire Blast",
 				"Ice Beam",
 				"Crunch"
