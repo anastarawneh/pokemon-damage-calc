@@ -521,11 +521,11 @@ $(".move-selector").change(function () {
 			pokemon.find(".ability").val() === 'Skill Link' ? 5 :
 				pokemon.find(".item").val() === 'Loaded Dice' ? 4 : 3;
 		moveGroupObj.children(".move-hits").val(moveHits);
-		moveGroupObj.children(".magnitude-bp").hide();
 	} else if (dropsStats) {
 		moveGroupObj.children(".move-hits").hide();
 		moveGroupObj.children(".stat-drops").show();
 		moveGroupObj.children(".magnitude-bp").hide();
+		moveGroupObj.children(".move-bp").prop("disabled", false);
 	} else if (moveName == "Magnitude") {
 		moveGroupObj.children(".move-hits").hide();
 		moveGroupObj.children(".stat-drops").hide();
@@ -535,6 +535,7 @@ $(".move-selector").change(function () {
 		moveGroupObj.children(".move-hits").hide();
 		moveGroupObj.children(".stat-drops").hide();
 		moveGroupObj.children(".magnitude-bp").hide();
+		moveGroupObj.children(".move-bp").prop("disabled", false);
 	}
 	moveGroupObj.children(".move-z").prop("checked", false);
 	
