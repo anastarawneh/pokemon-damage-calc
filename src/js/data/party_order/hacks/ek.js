@@ -1114,7 +1114,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Gengar",
 		"Snorlax",
 		"Salamence",
-		"Steelix",
+		"Tyranitar",
 		"Moltres",
 		"Latias"
 	],

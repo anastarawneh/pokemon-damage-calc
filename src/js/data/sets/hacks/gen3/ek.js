@@ -20244,26 +20244,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Magma Leader Maxie [#602]": {
-			"ability": "Rock Head",
-			"item": "Hard Stone",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 74,
-			"moves": [
-				"Earthquake",
-				"Rock Slide",
-				"Iron Tail",
-				"Double-Edge"
-			],
-			"nature": "Serious"
-		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Rock Head",
 			"item": "Quick Claw",
@@ -21801,7 +21781,28 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast"
 			],
 			"nature": "Serious"
-		}
+		},
+		"Magma Leader Maxie [#602]": {
+			"ability": "Battle Armor",
+			"item": "Hard Stone",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 74,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Solarbeam",
+				"Crunch"
+			],
+			"nature": "Serious"
+		},
+		
 	},
 	"Tyrogue": {
 		"Battle Girl Vivian [#649]": {
