@@ -544,7 +544,7 @@ table.field {
 
 
 
-.trainer-poke-list, .trainer-poke-list-opposing {
+.trainer-poke-list, .trainer-poke-list-opposing, .tag-poke-list-opposing {
     display: flex;
     flex-wrap: wrap;
 }
@@ -677,7 +677,7 @@ table.field {
     background: linear-gradient(to right, #daff08 50%, #dd0b0b 0%);
 }
 
-.box-poke, .trainer-poke-list-opposing {
+.box-poke, .trainer-poke-list-opposing, .tag-poke-list-opposing {
     min-height: 30px;
 }
 

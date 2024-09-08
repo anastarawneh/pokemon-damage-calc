@@ -478,6 +478,57 @@ var CUSTOMHACKFLAGS_EK = {
             "Champion Steven"
         ]
     },
+    "battleType": {
+        "doubles": [
+            "Twins Gina & Mia",
+            "Twins Amy & Liv",
+            "Sr. & Jr. Anna & Meg",
+            "Bug Maniac Angelo",
+            "Interviewers Gabby & Ty #1",
+            "Twins Tori & Tia",
+            "Sr. & Jr. Tyra & Ivy",
+            "Leader Norman",
+            "Interviewers Gabby & Ty #2",
+            "Interviewers Gabby & Ty #3",
+            "Leader Winona",
+            "Sr. & Jr. Kate & Joy",
+            "Young Couple Dez & Luke",
+            "Sis & Bro Lila & Roy",
+            "Sr. & Jr. Kim & Iris",
+            "Teaders Tate&Liza",
+            "Aqua Leader Archie",
+            "Sis & Bro Reli & Ian",
+            "Leader #2 Juan",
+            "Old Couple Miu & Yuki"
+        ],
+        "tag": [
+            ["Picnicker Bianca", "Kindler Hayden"],
+            ["Camper Tyron", "Aroma Lady Celina"],
+            ["Picknicker Irene", "Camper Travis"],
+            ["Black Belt Daisuke", "Cooltrainer Brooke"],
+            ["Team Magma Grunt #1 @ Jagged Pass", "Team Magma Grunt #2 @ Jagged Pass"],
+            ["Battle Girl Melene", "Psychic Alix"],
+            ["Bird Keeper Josue", "Ruin Maniac Andres"],
+            ["Bird Keeper Phil", "Parasol Lady Missy"],
+            ["Team Aqua Grunt #1 @ Route 124", "Team Aqua Grunt #2 @ Route 124"],
+            ["Psychic Preston", "Psychic Maura"],
+            ["Psychic Samantha", "Cooltrainer Virgil"],
+            ["Gentleman Nate", "Expert Nicholas"],
+            ["Psychic Blake", "Cooltrainer Hannah"],
+            ["Hex Maniac Sylvia", "Expert Macey"],
+            ["Expert Clifford", "Hex Maniac Kathleen"],
+            ["Team Magma Grunt #1 @ Mossdeep Space Center", "Team Magma Grunt #2 @ Mossdeep Space Center"],
+            ["Magma Leader Maxie #3", "Magma Admin Tabitha #2"],
+            ["Psychic Cameron", "Aroma Lady Violet"],
+            ["Ninja Boy Jonas", "Collector Ed"],
+            ["Hex Maniac Kindra", "Guitarist Fernando"],
+            ["Bird Keeper Alberto", "Psychic Jacki"],
+            ["Parasol Lady Kayley", "Bug Maniac Davis"],
+            ["Cooltrainer Wendy", "Cooltrainer Braxton"],
+            ["Cooltrainer Jazmyn", "Expert Frederick"],
+            ["Expert Mitchell", "Expert Felix"]
+        ]
+    },
     "weather": {
         "any": [
             // Route 119

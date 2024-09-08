@@ -741,6 +741,15 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 	$(".trainer-poke.right-side").removeClass("switch-risk-mon");
 	if (slower) {
 		var partySpecies = partyOrder[window.CURRENT_TRAINER];
+		var container = ".trainer-poke-list-opposing";
+		if (flags) {
+			for (var i in flags["battleType"]["tag"]) {
+				if (flags["battleType"]["tag"][i].includes(window.CURRENT_TRAINER)) {
+					container = flags["battleType"]["tag"][i].indexOf(window.CURRENT_TRAINER) ? ".tag-poke-list-opposing" : ".trainer-poke-list-opposing";
+					break;
+				}
+			}
+		}
 		for (var i in p1.moves) {
 			var move = p1.moves[i];
 			if (move.category == "Status") continue;
@@ -763,7 +772,7 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 						var typeEffectiveness = typeEffectiveness2 !== undefined ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
 						if (typeEffectiveness > 1) {
 							$(resultLocations[0][i]["move"]).addClass("switch-risk");
-							$(".trainer-poke.right-side").each(function(index, e) {
+							$(`${container} .trainer-poke.right-side`).each(function(index, e) {
 								if (index == j) $(this).addClass("switch-risk-mon");
 							});
 						}

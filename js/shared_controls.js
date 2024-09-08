@@ -575,9 +575,10 @@ $(".set-selector").change(function () {
 		var oldTrainer = window.CURRENT_TRAINER;
 		var nextPokemon = getTrainerPokemon(fullSetName);
 		var trainerHTML = "";
+		var tagHTML = "";
 		var switchHTML = "";
 		for (var i in nextPokemon) {
-			if (nextPokemon[i][0].includes($('input.opposing').val())){
+			if (nextPokemon[i][0].includes($('input.opposing').val())) {
 				continue;
 			}
 			var pokemonName = nextPokemon[i].split(" (")[0];
@@ -632,10 +633,45 @@ $(".set-selector").change(function () {
 					$("#mindBadge").prop("checked", true);
 				}
 			}
+
+			var battleType = "singles-format";
+			$(".tag-container").hide();
+			if (flags["battleType"]["doubles"].includes(window.CURRENT_TRAINER)) {
+				battleType = "doubles-format";
+			} else for (var i in flags["battleType"]["tag"]) {
+				if (flags["battleType"]["tag"][i].includes(window.CURRENT_TRAINER)) {
+					battleType = "doubles-format";
+					$(".tag-container").show();
+					var tag = flags["battleType"]["tag"][i];
+					trainerHTML = "";
+					var nextTrainerPokemon = getTrainerPokemon(` (${tag[0]})`);
+					for (var i in nextTrainerPokemon) {
+						if (nextTrainerPokemon[i][0].includes($('input.opposing').val())) {
+							continue;
+						}
+						var pokemonName = nextTrainerPokemon[i].split(" (")[0];
+						var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextTrainerPokemon[i]}" title="${nextTrainerPokemon[i]}">`;
+						trainerHTML += pokemonHTML;
+					}
+					var nextTagPokemon = getTrainerPokemon(` (${tag[1]})`);
+					for (var i in nextTagPokemon) {
+						if (nextTagPokemon[i][0].includes($('input.opposing').val())) {
+							continue;
+						}
+						var pokemonName = nextTagPokemon[i].split(" (")[0];
+						var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextTagPokemon[i]}" title="${nextTagPokemon[i]}">`;
+						tagHTML += pokemonHTML;
+					}
+					getTrainerPokemon(fullSetName);
+					break;
+				}
+			}
+			$(`#${battleType}`).prop("checked", true).change();
 		}
 	}
 
 	$('.trainer-poke-list-opposing').html(trainerHTML);
+	$('.tag-poke-list-opposing').html(tagHTML);
 	if (oldTrainer !== window.CURRENT_TRAINER) $('.trainer-poke-switch-list').html(switchHTML);
 
 	var pokemonName = fullSetName.substring(0, fullSetName.indexOf(" ("));
