@@ -504,6 +504,8 @@ $(".move-selector").change(function () {
 	if (Array.isArray(move.multihit) || (!isNaN(move.multihit) && move.multiaccuracy)) {
 		moveGroupObj.children(".stat-drops").hide();
 		moveGroupObj.children(".move-hits").empty();
+		moveGroupObj.children(".magnitude-bp").hide();
+		moveGroupObj.children(".move-bp").prop("disabled", false);
 		if (!isNaN(move.multihit)) {
 			for (var i = 1; i <= move.multihit; i++) {
 				moveGroupObj.children(".move-hits").append("<option value=" + i + ">" + i + " hits</option>");
@@ -519,12 +521,20 @@ $(".move-selector").change(function () {
 			pokemon.find(".ability").val() === 'Skill Link' ? 5 :
 				pokemon.find(".item").val() === 'Loaded Dice' ? 4 : 3;
 		moveGroupObj.children(".move-hits").val(moveHits);
+		moveGroupObj.children(".magnitude-bp").hide();
 	} else if (dropsStats) {
 		moveGroupObj.children(".move-hits").hide();
 		moveGroupObj.children(".stat-drops").show();
+		moveGroupObj.children(".magnitude-bp").hide();
+	} else if (moveName == "Magnitude") {
+		moveGroupObj.children(".move-hits").hide();
+		moveGroupObj.children(".stat-drops").hide();
+		moveGroupObj.children(".magnitude-bp").show().val(70).change();
+		moveGroupObj.children(".move-bp").prop("disabled", true);
 	} else {
 		moveGroupObj.children(".move-hits").hide();
 		moveGroupObj.children(".stat-drops").hide();
+		moveGroupObj.children(".magnitude-bp").hide();
 	}
 	moveGroupObj.children(".move-z").prop("checked", false);
 	
@@ -1212,7 +1222,7 @@ function getMoveDetails(moveInfo, species, ability, item, useMax) {
 	var timesUsed = +moveInfo.find(".stat-drops").val();
 	var timesUsedWithMetronome = moveInfo.find(".metronome").is(':visible') ? +moveInfo.find(".metronome").val() : 1;
 	var overrides = {
-		basePower: +moveInfo.find(".move-bp").val(),
+		basePower: moveName == "Magnitude" ? +moveInfo.find(".magnitude-bp").val() : +moveInfo.find(".move-bp").val(),
 		type: moveInfo.find(".move-type").val()
 	};
 	if (gen >= 4) overrides.category = moveInfo.find(".move-cat").val();
