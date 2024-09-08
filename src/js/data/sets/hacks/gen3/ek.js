@@ -23103,7 +23103,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Magma Admin Tabitha [#732]": {
-			"ability": "Chlorophyll",
+			"ability": "Levitate",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
