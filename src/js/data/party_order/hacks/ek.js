@@ -1350,7 +1350,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Shiftry",
 		"Typhlosion",
 		"Aerodactyl",
-		"Exeggutor",
+		"Weezing",
 		"Entei"
 	],
 	"Magma Leader Maxie [#734]": [
