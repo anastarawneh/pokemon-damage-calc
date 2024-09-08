@@ -1990,7 +1990,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   'Ho-Oh': {abilities: {0: 'Pressure'}},
   Hoothoot: {abilities: {0: 'Insomnia'}},
   Hoppip: {abilities: {0: 'Chlorophyll'}},
-  Houndoom: {abilities: {0: 'Early Bird'}},
+  Houndoom: {abilities: {0: 'Intimidate'}},
   Houndour: {abilities: {0: 'Early Bird'}},
   Igglybuff: {abilities: {0: 'Cute Charm'}},
   Jumpluff: {abilities: {0: 'Chlorophyll'}},

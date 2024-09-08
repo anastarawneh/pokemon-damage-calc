@@ -284,7 +284,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Hidden Power': { bp: 0, type: 'Normal' },
   'Mean Look': { bp: 0, category: 'Status', type: 'Normal' },
   'Rapid Spin': { bp: 20, type: 'Normal' },
-  'Rock Smash': { bp: 20, type: 'Fighting' },
+  'Rock Smash': { bp: 40, type: 'Fighting' },
   'Spider Web': { bp: 0, category: 'Status', type: 'Bug' },
   Whirlpool: { bp: 15, type: 'Water' },
   'Zap Cannon': { bp: 100, type: 'Electric' },
