@@ -341,6 +341,10 @@ function predictSwitchOrderEmerald() {
 		}
 	}
 	var partySpecies = partyOrder[window.CURRENT_TRAINER];
+	if (!partySpecies) {
+		$(".trainer-poke-switch-list").html("Not available.");
+		return;
+	}
 
 	var hasDupes = (new Set(partySpecies)).size !== partySpecies.length;
 	var withMarkedDupes = [];
@@ -741,6 +745,7 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 	$(".trainer-poke.right-side").removeClass("switch-risk-mon");
 	if (slower) {
 		var partySpecies = partyOrder[window.CURRENT_TRAINER];
+		if (!partySpecies) return;
 		var container = ".trainer-poke-list-opposing";
 		if (flags) {
 			for (var i in flags["battleType"]["tag"]) {
