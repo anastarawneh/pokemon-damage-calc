@@ -254,7 +254,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Lass Crissy [#614]",
 	"Beauty Bridget [#129]",
 	"Lady Brianna [#118]",
-	"Leader Juan [#798]",
+	"Leader Juan [#272]",
 
 	"Elite Four Sidney [#261]",
 	"Elite Four Phoebe [#262]",
