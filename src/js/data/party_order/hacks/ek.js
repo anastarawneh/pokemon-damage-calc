@@ -326,7 +326,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Dugtrio",
 		"Electrode",
 		"Xatu",
-		"Xatu (1)"
+		"Persian"
 	],
 	"Team Aqua Grunt [#145]": [
 		"Mantine",
@@ -620,7 +620,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Gengar",
 		"Dragonite",
 		"Articuno",
-		"Ho-Oh",
+		"Ho-Oh"
 	],
 	"Leader Tate&Liza [#271]": [
 		"Metagross",
@@ -1031,7 +1031,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Gentleman Nate [#582]": [
 		"Grumpig",
 		"Porygon2",
-		"Gardevoir",
+		"Ninetales",
 		"Weezing",
 		"Wailord",
 		"Quagsire"
@@ -1062,7 +1062,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Team Magma Grunt [#588]": [
 		"Nidoking",
-		"Scyther",
+		"Meganium",
 		"Golem",
 		"Charizard"
 	],
@@ -1427,7 +1427,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Ludicolo",
 		"Raichu",
 		"Qwilfish",
-		"Octillery"
+		"Octillery",
+		"Meganium"
 	],
 	"Cooltrainer Leonel [#762]": [
 		"Scizor",

@@ -372,7 +372,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Rock Slide",
 				"Iron Head",
@@ -527,7 +527,7 @@
 		},
 		"Psychic Macey [#591]": {
 			"ability": "Synchronize",
-			"item": "Twistedspoon",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -536,10 +536,10 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Psychic",
-				"Calm Mind",
+				"Fire Punch",
 				"Ice Punch",
 				"Thunderpunch"
 			],
@@ -962,7 +962,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 24,
+			"level": 26,
 			"moves": [
 				"Giga Drain",
 				"Crunch",
@@ -1063,7 +1063,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Flamethrower",
 				"Spark",
@@ -1333,6 +1333,28 @@
 				"Double-Edge",
 				"Rock Tomb",
 				"Endeavor"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Articuno": {
+		"Leader Winona [#270]": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Ice Beam",
+				"Sky Attack",
+				"Ancientpower",
+				"Signal Beam"
 			],
 			"nature": "Serious"
 		}
@@ -1716,7 +1738,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -1929,7 +1951,7 @@
 		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Blaze",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2907,7 +2929,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Flamethrower",
 				"Aerial Ace",
@@ -3228,7 +3250,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Psychic",
 				"Earthquake",
@@ -3490,7 +3512,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -4008,7 +4030,7 @@
 		},
 		"Team Aqua Grunt [#3]": {
 			"ability": "Inner Focus",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4048,7 +4070,7 @@
 		},
 		"Team Magma Grunt [#728]": {
 			"ability": "Inner Focus",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4099,7 +4121,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 24,
+			"level": 26,
 			"moves": [
 				"Waterfall",
 				"Ice Punch",
@@ -4855,7 +4877,7 @@
 		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Arena Trap",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4875,7 +4897,7 @@
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Arena Trap",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4985,7 +5007,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 71,
 			"moves": [
 				"Shadow Ball",
 				"Brick Break",
@@ -5456,7 +5478,7 @@
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Static",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5551,7 +5573,7 @@
 				"Sacred Fire",
 				"Solarbeam",
 				"Hidden Power Ice",
-				"Calm Mind"
+				"Extremespeed"
 			],
 			"nature": "Serious"
 		}
@@ -5748,7 +5770,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 68,
 			"moves": [
 				"Psychic",
 				"Bite",
@@ -5776,26 +5798,6 @@
 				"Psychic",
 				"Hidden Power Ice",
 				"Growth"
-			],
-			"nature": "Serious"
-		},
-		"Magma Admin Tabitha [#732]": {
-			"ability": "Chlorophyll",
-			"item": "Twistedspoon",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 73,
-			"moves": [
-				"Solarbeam",
-				"Psychic",
-				"Hidden Power Fire",
-				"Reflect"
 			],
 			"nature": "Serious"
 		},
@@ -5830,7 +5832,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 68,
 			"moves": [
 				"Psychic",
 				"Egg Bomb",
@@ -5994,7 +5996,7 @@
 			},
 			"level": 71,
 			"moves": [
-				"Hyper Fang",
+				"Hyper Voice",
 				"Fire Blast",
 				"Ice Beam",
 				"Crunch"
@@ -6313,7 +6315,7 @@
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Levitate",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6677,26 +6679,6 @@
 			],
 			"nature": "Serious"
 		},
-		"Gentleman Nate [#582]": {
-			"ability": "Trace",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 72,
-			"moves": [
-				"Psychic",
-				"Ice Punch",
-				"Calm Mind",
-				"Hypnosis"
-			],
-			"nature": "Serious"
-		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Trace",
 			"item": "Lum Berry",
@@ -6728,10 +6710,10 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Psychic",
-				"Magical Leaf",
+				"Fire Punch",
 				"Calm Mind",
 				"Icy Wind"
 			],
@@ -6870,7 +6852,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Psychic",
 				"Shadow Ball",
@@ -6990,7 +6972,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Ice Beam",
 				"Crunch",
@@ -7233,7 +7215,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -7533,7 +7515,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Psychic",
 				"Surf",
@@ -7781,7 +7763,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 32,
+			"level": 31,
 			"moves": [
 				"Psychic",
 				"Thunder Wave",
@@ -7801,7 +7783,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Psychic",
 				"Confuse Ray",
@@ -7923,7 +7905,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Bounce",
 				"Hydro Pump",
@@ -8420,7 +8402,7 @@
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Swarm",
-			"item": "Salac Berry",
+			"item": "Chesto Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8429,7 +8411,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 68,
 			"moves": [
 				"Reversal",
 				"Megahorn",
@@ -8811,7 +8793,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Heat Wave",
 				"Crunch",
@@ -9053,7 +9035,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Psychic",
 				"Calm Mind",
@@ -9279,7 +9261,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"Thunderbolt",
 				"Crunch",
@@ -9403,7 +9385,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Psychic",
 				"Ice Beam",
@@ -9543,7 +9525,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Psychic",
 				"Ice Beam",
@@ -9789,7 +9771,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Crush Claw",
 				"Superpower",
@@ -9961,7 +9943,7 @@
 		},
 		"Aqua Admin Shelly [#32]": {
 			"ability": "Swift Swim",
-			"item": "Leftovers",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -9970,7 +9952,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 62,
 			"moves": [
 				"Surf",
 				"Double-Edge",
@@ -10154,7 +10136,7 @@
 			"moves": [
 				"Surf",
 				"Substitute",
-				"Ice Beam",
+				"Dragonbreath",
 				"Iron Head"
 			],
 			"nature": "Serious"
@@ -10769,7 +10751,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 32,
+			"level": 31,
 			"moves": [
 				"Fake Out",
 				"Surf",
@@ -10939,28 +10921,6 @@
 			"nature": "Serious"
 		}
 	},
-	"Lugia": {
-		"Leader Winona [#270]": {
-			"ability": "Pressure",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 65,
-			"moves": [
-				"Aeroblast",
-				"Psychic",
-				"Hydro Pump",
-				"Recover"
-			],
-			"nature": "Serious"
-		}
-	},
 	"Lunatone": {
 		"Hiker Eric [#632]": {
 			"ability": "Levitate",
@@ -11093,7 +11053,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Rock Slide",
 				"Psychic",
@@ -11207,7 +11167,7 @@
 		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Guts",
-			"item": "Quick Claw",
+			"item": "Chesto Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11216,7 +11176,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
@@ -11906,7 +11866,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 72,
 			"moves": [
 				"Thunderbolt",
 				"Iron Head",
@@ -12551,10 +12511,9 @@
 			},
 			"level": 20,
 			"moves": [
-				"Bonemerang",
+				"Earthquake",
 				"Rock Slide",
-				"Body Slam",
-				"Secret Power"
+				"Body Slam"
 			],
 			"nature": "Serious"
 		},
@@ -12834,7 +12793,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 32,
+			"level": 30,
 			"moves": [
 				"Fake Out",
 				"Endure",
@@ -12931,7 +12890,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 68,
 			"moves": [
 				"Psychic",
 				"Brick Break",
@@ -13168,7 +13127,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Giga Drain",
 				"Earthquake",
@@ -13214,6 +13173,46 @@
 				"Earthquake",
 				"Synthesis",
 				"Hidden Power Ice"
+			],
+			"nature": "Serious"
+		},
+		"Team Aqua Grunt [#761]": {
+			"ability": "Thick Fat",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Giga Drain",
+				"Body Slam",
+				"Rock Slide",
+				"Weather Ball"
+			],
+			"nature": "Serious"
+		},
+		"Team Magma Grunt [#588]": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 78,
+			"moves": [
+				"Giga Drain",
+				"Body Slam",
+				"Outrage",
+				"Leech Seed"
 			],
 			"nature": "Serious"
 		}
@@ -13418,7 +13417,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 24,
+			"level": 26,
 			"moves": [
 				"Bite",
 				"Take Down",
@@ -13540,7 +13539,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Surf",
 				"Mirror Coat",
@@ -13766,7 +13765,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"Mean Look",
 				"Perish Song",
@@ -13870,7 +13869,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Psychic",
 				"Calm Mind",
@@ -14309,6 +14308,26 @@
 		}
 	},
 	"Ninetales": {
+		"Gentleman Nate [#582]": {
+			"ability": "Pressure",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 70,
+			"moves": [
+				"Flamethrower",
+				"Extrasensory",
+				"Hypnosis",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
 		"Hiker Eli [#501]": {
 			"ability": "Pressure",
 			"item": "Lum Berry",
@@ -14371,7 +14390,7 @@
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Pressure",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -14627,7 +14646,7 @@
 			"moves": [
 				"Seismic Toss",
 				"Toxic",
-				"Protect",
+				"Rock Tomb",
 				"Substitute"
 			],
 			"nature": "Serious"
@@ -14928,7 +14947,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Muddy Water",
 				"Rock Slide",
@@ -14952,7 +14971,8 @@
 			"moves": [
 				"Muddy Water",
 				"Rock Slide",
-				"Ice Beam"
+				"Ice Beam",
+				"Body Slam"
 			],
 			"nature": "Serious"
 		}
@@ -15197,7 +15217,7 @@
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Limber",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15217,7 +15237,7 @@
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Limber",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15232,6 +15252,26 @@
 				"Thunder",
 				"Surf",
 				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
+		"Team Magma Grunt [#143]": {
+			"ability": "Limber",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Fake Out",
+				"Crush Claw",
+				"Thunderbolt",
+				"Metal Claw"
 			],
 			"nature": "Serious"
 		}
@@ -15653,7 +15693,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -15744,7 +15784,7 @@
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Intimidate",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16070,7 +16110,7 @@
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Swift Swim",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16199,7 +16239,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Tri Attack",
 				"Ice Beam",
@@ -16239,7 +16279,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Tri Attack",
 				"Thunderbolt",
@@ -16403,12 +16443,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Surf",
 				"Earthquake",
 				"Recover",
-				"Yawn"
+				"Amnesia"
 			],
 			"nature": "Serious"
 		},
@@ -16646,7 +16686,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Thunderbolt",
 				"Signal Beam",
@@ -16717,7 +16757,7 @@
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Static",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16772,8 +16812,8 @@
 			"moves": [
 				"Thunder",
 				"Weather Ball",
-				"Hidden Power Grass",
-				"Calm Mind"
+				"Extrasensory",
+				"Extremespeed"
 			],
 			"nature": "Serious"
 		}
@@ -16919,7 +16959,7 @@
 		},
 		"Team Magma Grunt [#338]": {
 			"ability": "Flame Body",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -17037,7 +17077,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"Surf",
 				"Ancientpower",
@@ -17772,7 +17812,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -17954,7 +17994,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -18003,29 +18043,9 @@
 			],
 			"nature": "Serious"
 		},
-		"Team Magma Grunt [#588]": {
-			"ability": "Swarm",
-			"item": "King'S Rock",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 78,
-			"moves": [
-				"Aerial Ace",
-				"X-Scissor",
-				"Brick Break",
-				"Swords Dance"
-			],
-			"nature": "Serious"
-		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Swarm",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18087,7 +18107,7 @@
 		},
 		"Team Aqua Grunt [#559]": {
 			"ability": "Swift Swim",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18689,7 +18709,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 70,
 			"moves": [
 				"Spikes",
 				"Aerial Ace",
@@ -19167,7 +19187,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 75,
 			"moves": [
 				"Hyper Beam"
 			],
@@ -19226,7 +19246,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -19288,7 +19308,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -19347,7 +19367,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 68,
 			"moves": [
 				"Psychic",
 				"Surf",
@@ -19655,7 +19675,7 @@
 			"moves": [
 				"Double-Edge",
 				"Brick Break",
-				"Shadow Ball",
+				"Crunch",
 				"Curse"
 			],
 			"nature": "Serious"
@@ -19853,7 +19873,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 68,
 			"moves": [
 				"Psychic",
 				"Rock Slide",
@@ -20263,26 +20283,6 @@
 			],
 			"nature": "Serious"
 		},
-		"Magma Leader Maxie [#602]": {
-			"ability": "Rock Head",
-			"item": "Hard Stone",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 74,
-			"moves": [
-				"Earthquake",
-				"Rock Slide",
-				"Iron Tail",
-				"Double-Edge"
-			],
-			"nature": "Serious"
-		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Rock Head",
 			"item": "Quick Claw",
@@ -20498,7 +20498,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 65,
+			"level": 63,
 			"moves": [
 				"Hydro Pump",
 				"Ice Beam",
@@ -20871,7 +20871,7 @@
 			"moves": [
 				"Leech Seed",
 				"Substitute",
-				"Protect",
+				"Toxic",
 				"Giga Drain"
 			],
 			"nature": "Serious"
@@ -20888,7 +20888,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 32,
+			"level": 30,
 			"moves": [
 				"Double-Edge",
 				"Iron Tail",
@@ -20998,7 +20998,7 @@
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Intimidate",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -21100,7 +21100,7 @@
 		},
 		"Team Aqua Grunt [#193]": {
 			"ability": "Liquid Ooze",
-			"item": "King'S Rock",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -21820,6 +21820,26 @@
 				"Fire Blast"
 			],
 			"nature": "Serious"
+		},
+		"Magma Leader Maxie [#602]": {
+			"ability": "Battle Armor",
+			"item": "Hard Stone",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 74,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Solarbeam",
+				"Crunch"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Tyrogue": {
@@ -21938,7 +21958,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Crush Claw",
 				"Superpower",
@@ -22057,7 +22077,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 64,
+			"level": 63,
 			"moves": [
 				"Hydro Pump",
 				"Ice Beam",
@@ -22221,7 +22241,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 69,
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
@@ -22730,7 +22750,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 24,
+			"level": 26,
 			"moves": [
 				"Explosion",
 				"Dive",
@@ -22772,7 +22792,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 70,
 			"moves": [
 				"Surf",
 				"Hyper Voice",
@@ -23112,12 +23132,32 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Sludge Bomb",
 				"Flamethrower",
 				"Toxic",
 				"Shadow Ball"
+			],
+			"nature": "Serious"
+		},
+		"Magma Admin Tabitha [#732]": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Sludge Bomb",
+				"Heat Wave",
+				"Thunderbolt",
+				"Explosion"
 			],
 			"nature": "Serious"
 		},
@@ -23627,7 +23667,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"Counter",
 				"Mirror Coat",
@@ -23887,7 +23927,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 69,
 			"moves": [
 				"Psychic",
 				"Aerial Ace",
@@ -23933,26 +23973,6 @@
 				"Future Sight",
 				"Aerial Ace",
 				"Giga Drain"
-			],
-			"nature": "Serious"
-		},
-		"Team Magma Grunt (1) [#143]": {
-			"ability": "Synchronize",
-			"item": "Scope Lens",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Psychic",
-				"Drill Peck",
-				"Confuse Ray",
-				"Signal Beam"
 			],
 			"nature": "Serious"
 		},
@@ -24157,7 +24177,7 @@
 				"Thunder",
 				"Aerial Ace",
 				"Weather Ball",
-				"Hidden Power Grass"
+				"Extrasensory"
 			],
 			"nature": "Serious"
 		}
