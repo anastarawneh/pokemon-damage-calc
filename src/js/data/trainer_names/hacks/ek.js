@@ -227,8 +227,8 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Team Magma Grunt [#588]",
 	"Team Magma Grunt [#589]",
 	"Team Magma Grunt [#590]",
-	"Magma Admin Tabitha [#514]",
 	"Magma Leader Maxie [#734]",
+	"Magma Admin Tabitha [#514]",
 
 	"Team Aqua Grunt [#2]",
 	"Team Aqua Grunt [#27]",

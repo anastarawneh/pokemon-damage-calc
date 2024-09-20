@@ -5008,7 +5008,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 72,
+			"level": 71,
 			"moves": [
 				"Shadow Ball",
 				"Brick Break",
