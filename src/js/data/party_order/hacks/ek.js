@@ -300,6 +300,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Quilava",
 		"Sealeo"
 	],
+	"Lady Daphne [#115]": [
+		"Wailord",
+		"Primeape",
+		"Lanturn",
+		"Dodrio",
+		"Muk",
+		"Marowak"
+	],
 	"Team Magma Grunt [#116]": [
 		"Flareon",
 		"Flygon",
@@ -308,6 +316,13 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Victreebel",
 		"Claydol"
 	],
+	"Lady Brianna [#118]": [
+		"Cloyster",
+		"Hitmontop",
+		"Seaking",
+		"Crawdaunt",
+		"Cacturne"
+	],
 	"Beauty Connie [#128]": [
 		"Kingdra",
 		"Meganium",
@@ -315,6 +330,21 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Blissey",
 		"Weezing",
 		"Slowking"
+	],
+	"Beauty Bridget [#129]": [
+		"Swalot",
+		"Sharpedo",
+		"Kingler",
+		"Forretress",
+		"Manectric"
+	],
+	"Beauty Olivia [#130]": [
+		"Persian",
+		"Azumarill",
+		"Glalie",
+		"Tentacruel",
+		"Mantine",
+		"Magneton"
 	],
 	"Rich Boy Winston [#136]": [
 		"Persian",
@@ -630,6 +660,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Medicham",
 		"Mewtwo"
 	],
+	"Leader Juan [#272]": [
+		"Vaporeon",
+		"Ludicolo",
+		"Lapras",
+		"Kingdra",
+		"Articuno",
+		"Lugia"
+	],
 	"School Kid Karen [#280]": [
 		"Sunflora",
 		"Vigoroth",
@@ -642,6 +680,14 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Sr. And Jr. Anna & Meg [#287]": [
 		"Clefairy",
 		"Makuhita"
+	],
+	"Pokéfan Bethany [#301]": [
+		"Zangoose",
+		"Ampharos",
+		"Arcanine",
+		"Dewgong",
+		"Cradily",
+		"Blastoise"
 	],
 	"Pokéfan Isabel [#302]": [
 		"Ditto"
@@ -835,6 +881,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Kecleon",
 		"Camerupt",
 		"Golem"
+	],
+	"Pokéfan Annika [#502]": [
+		"Stantler",
+		"Omastar",
+		"Magmar",
+		"Raichu",
+		"Sharpedo",
+		"Umbreon"
 	],
 	"Cooltrainer Marley [#508]": [
 		"Manectric"
@@ -1126,6 +1180,22 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Togetic",
 		"Bayleef",
 		"Fearow"
+	],
+	"Lass Andrea [#613]": [
+		"Glalie",
+		"Wigglytuff",
+		"Hariyama",
+		"Gardevoir",
+		"Walrein",
+		"Manectric"
+	],
+	"Lass Crissy [#614]": [
+		"Hariyama",
+		"Blastoise",
+		"Whiscash",
+		"Seviper",
+		"Primeape",
+		"Wailord"
 	],
 	"Bug Catcher Rick [#615]": [
 		"Surskit",

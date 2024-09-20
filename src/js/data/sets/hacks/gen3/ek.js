@@ -847,6 +847,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Pokéfan Bethany [#301]": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Thunderbolt",
+				"Ice Punch",
+				"Fire Punch",
+				"Confuse Ray"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#416]": {
 			"ability": "Static",
 			"item": "Scope Lens",
@@ -1049,6 +1069,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Spark",
 				"Extremespeed",
 				"Will-O-Wisp"
+			],
+			"nature": "Serious"
+		},
+		"Pokéfan Bethany [#301]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Flamethrower",
+				"Spark",
+				"Extremespeed",
+				"Iron Head"
 			],
 			"nature": "Serious"
 		},
@@ -1338,6 +1378,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Articuno": {
+		"Leader Juan [#272]": {
+			"ability": "Pressure",
+			"item": "Nevermeltice",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Ice Beam",
+				"Weather Ball",
+				"Extrasensory",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
 		"Leader Winona [#270]": {
 			"ability": "Pressure",
 			"item": "Lum Berry",
@@ -1360,6 +1420,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Azumarill": {
+		"Beauty Olivia [#130]": {
+			"ability": "Huge Power",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Double-Edge",
+				"Superpower",
+				"Surf",
+				"Camouflage"
+			],
+			"nature": "Serious"
+		},
 		"Leader Norman [#269]": {
 			"ability": "Huge Power",
 			"item": "Lum Berry",
@@ -1660,7 +1740,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Sunny Day",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -1747,6 +1827,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lass Crissy [#614]": {
+			"ability": "Torrent",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Hydro Pump",
+				"Iron Head",
+				"Earthquake",
+				"Iron Defense"
+			],
+			"nature": "Serious"
+		},
 		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
@@ -1784,6 +1884,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Mirror Coat",
 				"Yawn"
+			],
+			"nature": "Serious"
+		},
+		"Pokéfan Bethany [#301]": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Surf",
+				"Mirror Coat",
+				"Iron Defense",
+				"Body Slam"
 			],
 			"nature": "Serious"
 		},
@@ -2355,6 +2475,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lady Brianna [#118]": {
+			"ability": "Sand Veil",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Needle Arm",
+				"Thunderpunch",
+				"Destiny Bond",
+				"Body Slam"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Sand Veil",
 			"item": "Quick Claw",
@@ -2691,7 +2831,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 42,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -3501,6 +3641,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lady Brianna [#118]": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Explosion",
+				"Spikes"
+			],
+			"nature": "Serious"
+		},
 		"Psychic Samantha [#245]": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
@@ -3744,6 +3904,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Pokéfan Bethany [#301]": {
+			"ability": "Suction Cups",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Giga Drain",
+				"Rock Slide",
+				"Sludge Bomb",
+				"Leech Life"
+			],
+			"nature": "Serious"
+		},
 		"Ruin Maniac Dusty [#44]": {
 			"ability": "Suction Cups",
 			"item": "Lum Berry",
@@ -3822,6 +4002,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crabhammer",
 				"Crunch",
 				"X-Scissor",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Lady Brianna [#118]": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Crabhammer",
+				"Crunch",
+				"Rock Slide",
 				"Superpower"
 			],
 			"nature": "Serious"
@@ -4193,6 +4393,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Dewgong": {
+		"Pokéfan Bethany [#301]": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 84,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Body Slam",
+				"Whirlpool"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Thick Fat",
 			"item": "Brightpowder",
@@ -4362,6 +4582,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Tri Attack",
 				"Steel Wing",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Lady Daphne [#115]": {
+			"ability": "Early Bird",
+			"item": "Sharp Beak",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Drill Peck",
+				"Return",
+				"Low Kick",
+				"Swords Dance"
 			],
 			"nature": "Serious"
 		},
@@ -5633,7 +5873,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 73,
 			"moves": [
 				"Psychic",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Bite",
 				"Roar"
 			],
@@ -6355,6 +6595,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Forretress": {
+		"Beauty Bridget [#129]": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Iron Head",
+				"Signal Beam",
+				"Earthquake",
+				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
 		"Camper Beau [#212]": {
 			"ability": "Battle Armor",
 			"item": "Quick Claw",
@@ -6679,6 +6939,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lass Andrea [#613]": {
+			"ability": "Trace",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Psychic",
+				"Fire Punch",
+				"Calm Mind",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Trace",
 			"item": "Lum Berry",
@@ -6961,6 +7241,46 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Glalie": {
+		"Beauty Olivia [#130]": {
+			"ability": "Intimidate",
+			"item": "Nevermeltice",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Ice Beam",
+				"Iron Head",
+				"Spikes",
+				"Icy Wind"
+			],
+			"nature": "Serious"
+		},
+		"Lass Andrea [#613]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Ice Beam",
+				"Iron Head",
+				"Earthquake",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
 		"Psychic Virgil [#234]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -8116,6 +8436,46 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lass Andrea [#613]": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Dynamicpunch",
+				"Rock Slide",
+				"Bullet Punch",
+				"Strength"
+			],
+			"nature": "Serious"
+		},
+		"Lass Crissy [#614]": {
+			"ability": "Thick Fat",
+			"item": "Black Belt",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Cross Chop",
+				"Rock Slide",
+				"Bullet Punch",
+				"Shadow Punch"
+			],
+			"nature": "Serious"
+		},
 		"Leader Brawly [#266]": {
 			"ability": "Thick Fat",
 			"item": "Leppa Berry",
@@ -8597,6 +8957,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Endeavor",
 				"Quick Attack",
 				"Rolling Kick",
+				"Counter"
+			],
+			"nature": "Serious"
+		},
+		"Lady Brianna [#118]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Brick Break",
+				"Rock Slide",
+				"Mega Punch",
 				"Counter"
 			],
 			"nature": "Serious"
@@ -10001,6 +10381,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Leader Juan [#272]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Double-Edge",
+				"Dragon Dance"
+			],
+			"nature": "Serious"
+		},
 		"Leader Juan [#798]": {
 			"ability": "Swift Swim",
 			"item": "Chesto Berry",
@@ -10143,6 +10543,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Kingler": {
+		"Beauty Bridget [#129]": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Crabhammer",
+				"Crush Claw",
+				"Mud Shot",
+				"X-Scissor"
+			],
+			"nature": "Serious"
+		},
 		"Black Belt Cristian [#574]": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
@@ -10327,6 +10747,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Lanturn": {
+		"Lady Daphne [#115]": {
+			"ability": "Volt Absorb",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Surf",
+				"Thunderbolt",
+				"Ice Beam",
+				"Psybeam"
+			],
+			"nature": "Serious"
+		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Volt Absorb",
 			"item": "Leftovers",
@@ -10406,6 +10846,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunderbolt",
 				"Toxic"
+			],
+			"nature": "Serious"
+		},
+		"Leader Juan [#272]": {
+			"ability": "Shell Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Thunder",
+				"Iron Head"
 			],
 			"nature": "Serious"
 		},
@@ -10800,6 +11260,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Leader Juan [#272]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Surf",
+				"Giga Drain",
+				"Ice Beam",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
@@ -10917,6 +11397,28 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Ice Beam",
 				"Thunderpunch"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Lugia": {
+		"Leader Juan [#272]": {
+			"ability": "Pressure",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Aeroblast",
+				"Psychic",
+				"Hydro Pump",
+				"Recover"
 			],
 			"nature": "Serious"
 		}
@@ -11773,6 +12275,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Pokéfan Annika [#502]": {
+			"ability": "Flame Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Flamethrower",
+				"Thunderpunch",
+				"Psychic",
+				"Confuse Ray"
+			],
+			"nature": "Serious"
+		},
 		"Team Magma Grunt [#326]": {
 			"ability": "Flame Body",
 			"item": "Scope Lens",
@@ -11815,6 +12337,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Magneton": {
+		"Beauty Olivia [#130]": {
+			"ability": "Magnet Pull",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Thunderbolt",
+				"Iron Head",
+				"Reflect",
+				"Light Screen"
+			],
+			"nature": "Serious"
+		},
 		"Black Belt Daisuke [#189]": {
 			"ability": "Magnet Pull",
 			"item": "Leftovers",
@@ -12077,6 +12619,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Beauty Bridget [#129]": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Thunderbolt",
+				"Flamethrower",
+				"Crunch",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Static",
 			"item": "Lum Berry",
@@ -12133,6 +12695,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Iron Tail",
 				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Lass Andrea [#613]": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Thunderbolt",
+				"Flamethrower",
+				"Crunch",
+				"Body Slam"
 			],
 			"nature": "Serious"
 		},
@@ -12299,6 +12881,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Mantine": {
+		"Beauty Olivia [#130]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Surf",
+				"Aerial Ace",
+				"Amnesia",
+				"Double Team"
+			],
+			"nature": "Serious"
+		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
@@ -12534,6 +13136,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Double-Edge",
 				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
+		"Lady Daphne [#115]": {
+			"ability": "Rock Head",
+			"item": "Thick Club",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Double-Edge",
+				"Iron Tail"
 			],
 			"nature": "Serious"
 		},
@@ -13920,6 +14542,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lady Daphne [#115]": {
+			"ability": "Poison Point",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Sludge Bomb",
+				"Thunderbolt",
+				"Heat Wave",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#108]": {
 			"ability": "Poison Point",
 			"item": "Quick Claw",
@@ -14936,6 +15578,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Pokéfan Annika [#502]": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Muddy Water",
+				"Rock Slide",
+				"Ice Beam",
+				"Body Slam"
+			],
+			"nature": "Serious"
+		},
 		"Psychic Macey [#591]": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
@@ -15175,6 +15837,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Persian": {
+		"Beauty Olivia [#130]": {
+			"ability": "Limber",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Fake Out",
+				"Crush Claw",
+				"Thunderbolt",
+				"Water Pulse"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Limber",
 			"item": "Lum Berry",
@@ -16370,6 +17052,46 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lady Daphne [#115]": {
+			"ability": "Vital Spirit",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Brick Break",
+				"Rock Slide",
+				"Sludge Bomb",
+				"Reversal"
+			],
+			"nature": "Serious"
+		},
+		"Lass Crissy [#614]": {
+			"ability": "Vital Spirit",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Brick Break",
+				"Rock Slide",
+				"Sludge Bomb",
+				"Iron Tail"
+			],
+			"nature": "Serious"
+		},
 		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Vital Spirit",
 			"item": "Focus Band",
@@ -16672,6 +17394,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Surf",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Pokéfan Annika [#502]": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Thunderbolt",
+				"Surf",
+				"Body Slam",
+				"Thunder Wave"
 			],
 			"nature": "Serious"
 		},
@@ -18085,6 +18827,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lady Brianna [#118]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Waterfall",
+				"Megahorn",
+				"Ice Beam",
+				"Bounce"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Swift Swim",
 			"item": "Quick Claw",
@@ -18189,6 +18951,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lass Crissy [#614]": {
+			"ability": "Shed Skin",
+			"item": "Poison Barb",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Sludge Bomb",
+				"Giga Drain",
+				"Earthquake",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Shed Skin",
 			"item": "Lum Berry",
@@ -18231,6 +19013,46 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Sharpedo": {
+		"Beauty Bridget [#129]": {
+			"ability": "Rough Skin",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Crunch",
+				"Surf",
+				"Take Down",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Pokéfan Annika [#502]": {
+			"ability": "Rough Skin",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Surf",
+				"Crunch",
+				"Rock Tomb",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#21]": {
 			"ability": "Rough Skin",
 			"item": "Mystic Water",
@@ -20079,6 +20901,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn"
 			],
 			"nature": "Serious"
+		},
+		"Pokéfan Annika [#502]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Double-Edge",
+				"Megahorn",
+				"Earthquake",
+				"Hypnosis"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Starmie": {
@@ -20590,6 +21432,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Swalot": {
+		"Beauty Bridget [#129]": {
+			"ability": "Liquid Ooze",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Sludge Bomb",
+				"Giga Drain",
+				"Ice Punch",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#21]": {
 			"ability": "Liquid Ooze",
 			"item": "Leftovers",
@@ -21018,6 +21880,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Tentacruel": {
+		"Beauty Olivia [#130]": {
+			"ability": "Liquid Ooze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Muddy Water",
+				"Sludge Bomb",
+				"Toxic",
+				"Wrap"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Liquid Ooze",
 			"item": "Lum Berry",
@@ -21885,6 +22767,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Pokéfan Annika [#502]": {
+			"ability": "Synchronize",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Crunch",
+				"Refresh",
+				"Calm Mind",
+				"Moonlight"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Synchronize",
 			"item": "Leftovers",
@@ -22103,6 +23005,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Double-Edge",
 				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Leader Juan [#272]": {
+			"ability": "Drizzle",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Crunch",
+				"Toxic"
 			],
 			"nature": "Serious"
 		}
@@ -22410,7 +23332,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		},
@@ -22429,7 +23351,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball"
+				"Weather Ball~3"
 			],
 			"nature": "Serious"
 		},
@@ -22528,7 +23450,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Synthesis"
 			],
 			"nature": "Serious"
@@ -22591,7 +23513,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Moonlight"
 			],
 			"nature": "Serious"
@@ -22651,7 +23573,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Toxic"
 			],
 			"nature": "Serious"
@@ -22801,6 +23723,46 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lady Daphne [#115]": {
+			"ability": "Water Veil",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Hyper Voice",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Lass Crissy [#614]": {
+			"ability": "Water Veil",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Hydro Pump",
+				"Blizzard",
+				"Selfdestruct",
+				"Iron Head"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#18]": {
 			"ability": "Water Veil",
 			"item": "Scope Lens",
@@ -22900,6 +23862,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Earthquake",
 				"Yawn"
+			],
+			"nature": "Serious"
+		},
+		"Lass Andrea [#613]": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Rock Slide",
+				"Super Fang"
 			],
 			"nature": "Serious"
 		},
@@ -23283,6 +24265,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Lass Crissy [#614]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 81,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Substitute",
+				"Dragon Dance"
+			],
+			"nature": "Serious"
+		},
 		"Leader Juan [#798]": {
 			"ability": "Swift Swim",
 			"ivs": {
@@ -23553,6 +24555,26 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 42,
 			"moves": [
 				"Hyper Voice"
+			],
+			"nature": "Serious"
+		},
+		"Lass Andrea [#613]": {
+			"ability": "Cute Charm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Hyper Voice",
+				"Psychic",
+				"Flamethrower",
+				"Counter"
 			],
 			"nature": "Serious"
 		},
@@ -24096,6 +25118,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Brick Break",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Pokéfan Bethany [#301]": {
+			"ability": "Guts",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Crush Claw",
+				"Brick Break",
+				"X-Scissor",
+				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
