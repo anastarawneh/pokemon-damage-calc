@@ -636,34 +636,36 @@ $(".set-selector").change(function () {
 
 			var battleType = "singles-format";
 			$(".tag-container").hide();
-			if (flags["battleType"]["doubles"].includes(window.CURRENT_TRAINER)) {
-				battleType = "doubles-format";
-			} else for (var i in flags["battleType"]["tag"]) {
-				if (flags["battleType"]["tag"][i].includes(window.CURRENT_TRAINER)) {
+			if (flags["battleType"]) {
+				if (flags["battleType"]["doubles"].includes(window.CURRENT_TRAINER)) {
 					battleType = "doubles-format";
-					$(".tag-container").show();
-					var tag = flags["battleType"]["tag"][i];
-					trainerHTML = "";
-					var nextTrainerPokemon = getTrainerPokemon(` (${tag[0]})`);
-					for (var i in nextTrainerPokemon) {
-						if (nextTrainerPokemon[i][0].includes($('input.opposing').val())) {
-							continue;
+				} else for (var i in flags["battleType"]["tag"]) {
+					if (flags["battleType"]["tag"][i].includes(window.CURRENT_TRAINER)) {
+						battleType = "doubles-format";
+						$(".tag-container").show();
+						var tag = flags["battleType"]["tag"][i];
+						trainerHTML = "";
+						var nextTrainerPokemon = getTrainerPokemon(` (${tag[0]})`);
+						for (var i in nextTrainerPokemon) {
+							if (nextTrainerPokemon[i][0].includes($('input.opposing').val())) {
+								continue;
+							}
+							var pokemonName = nextTrainerPokemon[i].split(" (")[0];
+							var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextTrainerPokemon[i]}" title="${nextTrainerPokemon[i]}">`;
+							trainerHTML += pokemonHTML;
 						}
-						var pokemonName = nextTrainerPokemon[i].split(" (")[0];
-						var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextTrainerPokemon[i]}" title="${nextTrainerPokemon[i]}">`;
-						trainerHTML += pokemonHTML;
-					}
-					var nextTagPokemon = getTrainerPokemon(` (${tag[1]})`);
-					for (var i in nextTagPokemon) {
-						if (nextTagPokemon[i][0].includes($('input.opposing').val())) {
-							continue;
+						var nextTagPokemon = getTrainerPokemon(` (${tag[1]})`);
+						for (var i in nextTagPokemon) {
+							if (nextTagPokemon[i][0].includes($('input.opposing').val())) {
+								continue;
+							}
+							var pokemonName = nextTagPokemon[i].split(" (")[0];
+							var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextTagPokemon[i]}" title="${nextTagPokemon[i]}">`;
+							tagHTML += pokemonHTML;
 						}
-						var pokemonName = nextTagPokemon[i].split(" (")[0];
-						var pokemonHTML = `<img class="trainer-poke right-side" src="https://raw.githubusercontent.com/May8th1995/sprites/master/${pokemonName}.png" data-id="${nextTagPokemon[i]}" title="${nextTagPokemon[i]}">`;
-						tagHTML += pokemonHTML;
+						getTrainerPokemon(fullSetName);
+						break;
 					}
-					getTrainerPokemon(fullSetName);
-					break;
 				}
 			}
 			$(`#${battleType}`).prop("checked", true).change();
