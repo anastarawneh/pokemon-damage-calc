@@ -1880,7 +1880,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Sunny Day",
 				"Sleep Powder",
-				"Weather Ball~2"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		}
@@ -2991,7 +2991,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 42,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball~2"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		}
@@ -6272,7 +6272,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 73,
 			"moves": [
 				"Psychic",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Bite",
 				"Roar"
 			],
@@ -24910,7 +24910,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Sleep Powder",
-				"Weather Ball~2"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -24929,7 +24929,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Encore"
 			],
 			"nature": "Serious"
@@ -24949,7 +24949,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -25048,7 +25048,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Synthesis"
 			],
 			"nature": "Serious"
@@ -25111,7 +25111,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Moonlight"
 			],
 			"nature": "Serious"
@@ -25171,7 +25171,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Toxic"
 			],
 			"nature": "Serious"
