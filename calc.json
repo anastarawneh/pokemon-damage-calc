@@ -727,7 +727,7 @@
 			"level":41
 		},
 		"Forretress_4":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -993,7 +993,7 @@
 			"level":79
 		},
 		"Forretress_5":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -1159,7 +1159,7 @@
 			"level":68
 		},
 		"Forretress_5":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -1392,19 +1392,53 @@
 		}
 	},
 	"Cooltrainer Felix_038":{
-		"Medicham_1":{
-			"ability":"Pure Power",
+		"Linoone_1":{
+			"ability":"Guts",
+			"item":"Brightpowder",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Psychic"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Extremespeed", "Hidden Power~13", "Shadow Ball", "Belly Drum"],
+			"level":96
 		},
-		"Claydol_2":{
-			"ability":"Levitate",
+		"Heracross_2":{
+			"ability":"Swarm",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Skill Swap", "Earthquake"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Megahorn", "Brick Break", "Reversal", "Substitute"],
+			"level":97
+		},
+		"Absol_3":{
+			"ability":"Pressure",
+			"item":"Brightpowder",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Crunch", "Shadow Ball", "Megahorn", "Superpower"],
+			"level":96
+		},
+		"Jynx_4":{
+			"ability":"Oblivious",
+			"item":"Nevermeltice",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Ice Beam", "Psychic", "Sweet Kiss", "Lovely Kiss"],
+			"level":98
+		},
+		"Blastoise_5":{
+			"ability":"Torrent",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Hydro Pump", "Body Slam", "Crunch", "Brick Break"],
+			"level":96
+		},
+		"Shedinja_6":{
+			"ability":"Wonder Guard",
+			"item":"Focus Band",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Shadow Ball", "X-Scissor", "Confuse Ray", "Swords Dance"],
+			"level":99
 		}
 	},
 	"Aroma Lady Violet_039":{
@@ -1483,7 +1517,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Sky Uppercut", "Sludge", "Toxic", "Synthesis"],
+			"moves":["Sky Uppercut", "Sludge", "Mach Punch", "Toxic"],
 			"level":34
 		},
 		"Gloom_2":{
@@ -1950,7 +1984,7 @@
 			"level":51
 		},
 		"Dusclops_4":{
-			"ability":"Pressure",
+			"ability":"Keen Eye",
 			"item":"Sitrus Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -2185,111 +2219,253 @@
 		}
 	},
 	"Cooltrainer Edgar_079":{
-		"Cacturne_1":{
-			"ability":"Sand Veil",
+		"Walrein_1":{
+			"ability":"Thick Fat",
+			"item":"Leftovers",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Thunderpunch", "Brick Break", "Grasswhistle", "Counter"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Ice Beam", "Whirlpool", "Iron Head"],
+			"level":95
 		},
-		"Pelipper_2":{
-			"ability":"Keen Eye",
+		"Armaldo_2":{
+			"ability":"Battle Armor",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Sky Attack", "Sludge Bomb", "Ice Beam", "Aerial Ace"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Rock Slide", "X-Scissor", "Aerial Ace", "Swords Dance"],
+			"level":98
+		},
+		"Alakazam_3":{
+			"ability":"Synchronize",
+			"item":"Twistedspoon",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Thunderpunch", "Ice Punch", "Calm Mind"],
+			"level":95
+		},
+		"Machamp_4":{
+			"ability":"Guts",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Cross Chop", "Rock Slide", "Bullet Punch", "Belly Drum"],
+			"level":97
+		},
+		"Tauros_5":{
+			"ability":"Intimidate",
+			"item":"Silk Scarf",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Double-Edge", "Iron Head", "Blizzard", "Thunderbolt"],
+			"level":96
+		},
+		"Pinsir_6":{
+			"ability":"Intimidate",
+			"item":"Silverpowder",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["X-Scissor", "Aerial Ace", "Superpower", "Swords Dance"],
+			"level":97
 		}
 	},
 	"Cooltrainer Albert_080":{
-		"Magneton_1":{
-			"ability":"Magnet Pull",
+		"Cradily_1":{
+			"ability":"Suction Cups",
+			"item":"Leftovers",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Spark", "Iron Head", "Tri Attack", "Shock Wave"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Rock Slide", "Swords Dance", "Toxic"],
+			"level":97
 		},
-		"Muk_2":{
-			"ability":"Poison Point",
+		"Houndoom_2":{
+			"ability":"Intimidate",
+			"item":"Charcoal",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Brick Break", "Toxic", "Mud Shot", "Sludge"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Heat Wave", "Crunch", "Shadow Ball", "Sludge Bomb"],
+			"level":96
+		},
+		"Granbull_3":{
+			"ability":"Intimidate",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Return", "Sludge Bomb", "Iron Tail", "Flamethrower"],
+			"level":97
+		},
+		"Forretress_4":{
+			"ability":"Shell Armor",
+			"item":"Quick Claw",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Signal Beam", "Earthquake", "Curse", "Iron Head"],
+			"level":98
+		},
+		"Gyarados_5":{
+			"ability":"Intimidate",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Iron Head", "Hydro Pump", "Earthquake", "Thunder"],
+			"level":96
+		},
+		"Zangoose_6":{
+			"ability":"Guts",
+			"item":"Silk Scarf",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Crush Claw", "X-Scissor", "Brick Break", "Belly Drum"],
+			"level":97
 		}
 	},
 	"Cooltrainer Samuel_081":{
-		"Swellow_1":{
-			"ability":"Guts",
+		"Shuckle_1":{
+			"ability":"Battle Armor",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Aerial Ace", "Endeavor", "Steel Wing", "Wing Attack"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Spikes", "Toxic", "Wrap", "Endeavor"],
+			"level":98
 		},
-		"Mawile_2":{
-			"ability":"Intimidate",
+		"Scizor_2":{
+			"ability":"Swarm",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Knock Off", "Rock Slide", "Iron Head", "Crunch"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Iron Head", "X-Scissor", "Superpower", "Pursuit"],
+			"level":96
 		},
-		"Kadabra_3":{
-			"ability":"Synchronize",
+		"Flygon_3":{
+			"ability":"Levitate",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Future Sight", "Psybeam", "Disable", "Confusion"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Dragon Claw", "Rock Slide", "Heat Wave"],
+			"level":96
+		},
+		"Kingdra_4":{
+			"ability":"Swift Swim",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Octazooka", "Dragonbreath", "Iron Head", "Toxic"],
+			"level":96
+		},
+		"Typhlosion_5":{
+			"ability":"Blaze",
+			"item":"Charcoal",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Overheat", "Extrasensory", "Earthquake", "Thunderpunch"],
+			"level":97
+		},
+		"Rhydon_6":{
+			"ability":"Rock Head",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Rock Slide", "Earthquake", "Megahorn", "Substitute"],
+			"level":98
 		}
 	},
 	"Cooltrainer Vito_082":{
-		"Dodrio_1":{
-			"ability":"Early Bird",
+		"Hypno_1":{
+			"ability":"Insomnia",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Drill Peck", "Tri Attack", "Steel Wing", "Uproar"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Brick Break", "Ice Punch", "Hypnosis"],
+			"level":97
 		},
-		"Kadabra_2":{
-			"ability":"Synchronize",
+		"Weezing_2":{
+			"ability":"Levitate",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Future Sight", "Psybeam", "Disable", "Confusion"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sludge Bomb", "Flamethrower", "Thunderbolt", "Explosion"],
+			"level":98
 		},
-		"Electrode_3":{
-			"ability":"Static",
+		"Porygon2_3":{
+			"ability":"Trace",
+			"item":"Leftovers",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Thunderbolt", "Spark", "Signal Beam", "Swift"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Ice Beam", "Recover", "Toxic"],
+			"level":96
 		},
-		"Shiftry_4":{
-			"ability":"Chlorophyll",
+		"Metagross_4":{
+			"ability":"Battle Armor",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Shadow Ball", "Extrasensory", "Synthesis", "Feint Attack"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Meteor Mash", "Earthquake", "Psychic", "Thunderpunch"],
+			"level":95
+		},
+		"Feraligatr_5":{
+			"ability":"Torrent",
+			"item":"Sharp Beak",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Aerial Ace", "Rock Slide", "Earthquake", "Dragon Dance"],
+			"level":97
+		},
+		"Golem_6":{
+			"ability":"Rock Head",
+			"item":"Quick Claw",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Rock Slide", "Double-Edge", "Flamethrower"],
+			"level":98
 		}
 	},
 	"Cooltrainer Owen_083":{
-		"Kecleon_1":{
-			"ability":"Color Change",
+		"Vaporeon_1":{
+			"ability":"Drizzle",
+			"item":"Leftovers",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Knock Off", "Brick Break", "Slash", "Counter"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Hyper Voice", "Acid Armor", "Iron Defense"],
+			"level":96
 		},
-		"Graveler_2":{
-			"ability":"Rock Head",
+		"Persian_2":{
+			"ability":"Limber",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Rock Slide", "Body Slam", "Dig", "Secret Power"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Crush Claw", "Thunder", "X-Scissor", "Water Pulse"],
+			"level":99
 		},
-		"Wailord_3":{
-			"ability":"Water Veil",
+		"Exeggutor_3":{
+			"ability":"Chlorophyll",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Double-Edge", "Hyper Voice", "Take Down", "Bounce"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Giga Drain", "Sludge Bomb", "Explosion"],
+			"level":97
+		},
+		"Lapras_4":{
+			"ability":"Shell Armor",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Ice Beam", "Thunder", "Iron Tail"],
+			"level":96
+		},
+		"Masquerain_5":{
+			"ability":"Intimidate",
+			"item":"Mystic Water",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Hydro Pump", "Aerial Ace", "X-Scissor", "Giga Drain"],
+			"level":99
+		},
+		"Poliwrath_6":{
+			"ability":"Swift Swim",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Superpower", "Surf", "Psychic", "Hypnosis"],
+			"level":97
 		}
 	},
 	"Cooltrainer Wilton_084":{
@@ -2633,83 +2809,212 @@
 		}
 	},
 	"Cooltrainer Hope_096":{
-		"Roselia_1":{
-			"ability":"Poison Point",
+		"Raichu_1":{
+			"ability":"Static",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Petal Dance", "Giga Drain", "Toxic", "Synthesis"],
-			"level":45
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Thunderbolt", "Surf", "Reflect", "Light Screen"],
+			"level":98
+		},
+		"Crobat_2":{
+			"ability":"Inner Focus",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sludge Bomb", "Heat Wave", "Toxic", "Mean Look"],
+			"level":97
+		},
+		"Venusaur_3":{
+			"ability":"Thick Fat",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Giga Drain", "Sludge Bomb", "Leech Seed", "Sleep Powder"],
+			"level":96
+		},
+		"Claydol_4":{
+			"ability":"Levitate",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Psychic", "Ice Beam", "Calm Mind"],
+			"level":97
+		},
+		"Medicham_5":{
+			"ability":"Pure Power",
+			"item":"Black Belt",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Brick Break", "Psychic", "Aerial Ace", "Bullet Punch"],
+			"level":98
+		},
+		"Steelix_6":{
+			"ability":"Rock Head",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Iron Tail", "Rock Slide", "Explosion"],
+			"level":99
 		}
 	},
 	"Cooltrainer Shannon_097":{
-		"Claydol_1":{
-			"ability":"Levitate",
+		"Jumpluff_1":{
+			"ability":"Chlorophyll",
+			"item":"Leftovers",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Psychic", "Rock Slide", "Signal Beam", "Psybeam"],
-			"level":45
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sleep Powder", "Substitute", "Leech Life", "Memento"],
+			"level":99
+		},
+		"Dugtrio_2":{
+			"ability":"Arena Trap",
+			"item":"Soft Sand",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Aerial Ace", "Rock Slide", "Sludge Bomb"],
+			"level":97
+		},
+		"Grumpig_3":{
+			"ability":"Thick Fat",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Ice Punch", "Fire Punch", "Future Sight"],
+			"level":98
+		},
+		"Lanturn_4":{
+			"ability":"Volt Absorb",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Thunderbolt", "Ice Beam", "Confuse Ray"],
+			"level":97
+		},
+		"Exploud_5":{
+			"ability":"Soundproof",
+			"item":"Silk Scarf",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Hyper Voice", "Surf", "Earthquake", "Thunderbolt"],
+			"level":97
+		},
+		"Altaria_6":{
+			"ability":"Natural Cure",
+			"item":"Sharp Beak",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sky Attack", "Dragon Claw", "Fire Spin", "Flamethrower"],
+			"level":98
 		}
 	},
 	"Cooltrainer Michelle_098":{
-		"Torkoal_1":{
+		"Chimecho_1":{
+			"ability":"Levitate",
+			"item":"Quick Claw",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Signal Beam", "Hypnosis", "Mirror Coat"],
+			"level":99
+		},
+		"Torkoal_2":{
 			"ability":"Shell Armor",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Flamethrower", "Rock Slide", "Body Slam", "Yawn"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Flamethrower", "Rock Slide", "Earthquake", "Explosion"],
+			"level":97
 		},
-		"Medicham_2":{
-			"ability":"Pure Power",
+		"Slowking_3":{
+			"ability":"Own Tempo",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Psychic", "Brick Break", "Rock Slide", "Psybeam"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Psychic", "Flamethrower", "Thunderpunch"],
+			"level":96
 		},
-		"Ludicolo_3":{
-			"ability":"Swift Swim",
+		"Snorlax_4":{
+			"ability":"Thick Fat",
+			"item":"Silk Scarf",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Magical Leaf", "Ice Punch", "Nature Power", "Mega Drain"],
-			"level":42
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Return", "Flamethrower", "Slack Off", "Selfdestruct"],
+			"level":96
+		},
+		"Electabuzz_5":{
+			"ability":"Static",
+			"item":"Black Belt",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Thunderbolt", "Cross Chop", "Ice Punch", "Fire Punch"],
+			"level":98
+		},
+		"Sableye_6":{
+			"ability":"Keen Eye",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Night Shade", "Ice Punch", "Cosmic Power", "Recover"],
+			"level":98
 		}
 	},
 	"Cooltrainer Caroline_099":{
-		"Skarmory_1":{
-			"ability":"Keen Eye",
+		"Flareon_1":{
+			"ability":"Drought",
+			"item":"Quick Claw",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Drill Peck", "Steel Wing", "Slash", "Wing Attack"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Overheat", "Solarbeam", "Superpower", "Crunch"],
+			"level":97
 		},
-		"Sableye_2":{
-			"ability":"Keen Eye",
+		"Victreebel_2":{
+			"ability":"Chlorophyll",
+			"item":"Poison Barb",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Mean Look", "Confuse Ray", "Feint Attack", "Knock Off"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Solarbeam", "Sludge Bomb", "Weather Ball~3", "Encore"],
+			"level":97
+		},
+		"Charizard_3":{
+			"ability":"Blaze",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Heat Wave", "Solarbeam", "Thunderpunch", "Earthquake"],
+			"level":96
+		},
+		"Aggron_4":{
+			"ability":"Rock Head",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Iron Head", "Rock Slide", "Earthquake", "Fire Blast"],
+			"level":98
+		},
+		"Nidoking_5":{
+			"ability":"Poison Point",
+			"item":"Soft Sand",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sludge Bomb", "Earthquake", "Flamethrower", "Megahorn"],
+			"level":97
+		},
+		"Ampharos_6":{
+			"ability":"Static",
+			"item":"Magnet",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Thunderbolt", "Fire Punch", "Dragonbreath", "Thunder Wave"],
+			"level":98
 		}
 	},
 	"Cooltrainer Julie_100":{
-		"Sandslash_1":{
-			"ability":"Sand Veil",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
-			"level":42
-		},
-		"Ninetales_2":{
-			"ability":"Pressure",
-			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Flamethrower", "Safeguard", "Body Slam", "Will-O-Wisp"],
-			"level":42
-		},
-		"Tropius_3":{
-			"ability":"Chlorophyll",
-			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Aerial Ace", "Magical Leaf", "Air Cutter", "Stomp"],
-			"level":42
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Cooltrainer Brooke_101":{
@@ -2846,7 +3151,7 @@
 			"level":67
 		},
 		"Dusclops_2":{
-			"ability":"Pressure",
+			"ability":"Keen Eye",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -3381,7 +3686,7 @@
 			"level":81
 		},
 		"Forretress_4":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -3730,7 +4035,7 @@
 			"level":43
 		},
 		"Forretress_2":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -5040,7 +5345,7 @@
 	},
 	"Camper Beau_212":{
 		"Forretress_1":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -5603,7 +5908,7 @@
 	},
 	"Psychic Blake_235":{
 		"Dusclops_1":{
-			"ability":"Pressure",
+			"ability":"Keen Eye",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -6393,7 +6698,7 @@
 			"level":24
 		},
 		"Metang_2":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -6742,7 +7047,15 @@
 			"moves":["Surf", "Ice Beam", "Crunch", "Toxic"],
 			"level":85
 		},
-		"Ludicolo_2":{
+		"Kingdra_2":{
+			"ability":"Swift Swim",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Surf", "Ice Beam", "Double-Edge", "Dragon Dance"],
+			"level":85
+		},
+		"Ludicolo_3":{
 			"ability":"Swift Swim",
 			"item":"Lum Berry",
 			"nature":"Serious",
@@ -6750,28 +7063,20 @@
 			"moves":["Surf", "Giga Drain", "Ice Beam", "Thunderpunch"],
 			"level":85
 		},
-		"Lapras_3":{
-			"ability":"Shell Armor",
-			"item":"Leftovers",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Thunder", "Iron Head"],
-			"level":85
-		},
-		"Kingdra_4":{
-			"ability":"Swift Swim",
-			"item":"Lum Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Double-Edge", "Dragon Dance"],
-			"level":85
-		},
-		"Articuno_5":{
+		"Articuno_4":{
 			"ability":"Pressure",
 			"item":"Nevermeltice",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Ice Beam", "Weather Ball", "Extrasensory", "Aerial Ace"],
+			"level":85
+		},
+		"Lapras_5":{
+			"ability":"Shell Armor",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Ice Beam", "Thunder", "Iron Head"],
 			"level":85
 		},
 		"Lugia_6":{
@@ -6972,7 +7277,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":32
 		},
 		"Loudred_2":{
@@ -6988,7 +7293,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":6, "at":6, "df":6, "sa":6, "sd":6, "sp":6},
-			"moves":["Sky Uppercut", "Sludge", "Toxic", "Synthesis"],
+			"moves":["Sky Uppercut", "Sludge", "Mach Punch", "Toxic"],
 			"level":35
 		},
 		"Exploud_2":{
@@ -7272,7 +7577,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Rock Slide", "Sludge Bomb", "Leech Life"],
+			"moves":["Giga Drain", "Rock Slide", "Sludge Bomb", "Leech Seed"],
 			"level":83
 		},
 		"Blastoise_6":{
@@ -7660,20 +7965,54 @@
 			"level":14
 		}
 	},
-	"Cooltrainer Quincy_324":{
-		"Slaking_1":{
-			"ability":"Truant",
+	"Tuber Donut_324":{
+		"Shuckle_1":{
+			"ability":"Battle Armor",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Attract", "Ice Beam", "Thunderbolt", "Flamethrower"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Rock Slide", "Earthquake", "Explosion", "Spikes"],
+			"level":99
 		},
-		"Dusclops_2":{
-			"ability":"Pressure",
+		"Donphan_2":{
+			"ability":"Battle Armor",
+			"item":"Quick Claw",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Skill Swap", "Protect", "Will-O-Wisp", "Toxic"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Rock Slide", "Super Fang"],
+			"level":99
+		},
+		"Marowak_3":{
+			"ability":"Rock Head",
+			"item":"Thick Club",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Double-Edge", "Bone Rush", "Rock Slide"],
+			"level":99
+		},
+		"Muk_4":{
+			"ability":"Poison Point",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sludge Bomb", "Giga Drain", "Fire Blast", "Explosion"],
+			"level":98
+		},
+		"Snorlax_5":{
+			"ability":"Thick Fat",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Return", "Crunch", "Brick Break", "Selfdestruct"],
+			"level":95
+		},
+		"Dragonite_6":{
+			"ability":"Inner Focus",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sky Attack", "Extremespeed", "Sky Uppercut", "Explosion"],
+			"level":95
 		}
 	},
 	"Cooltrainer Katelynn_325":{
@@ -7841,7 +8180,7 @@
 	},
 	"Youngster Timmy_334":{
 		"Venomoth_1":{
-			"ability":"Shield Dust",
+			"ability":"Compoundeyes",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -9293,19 +9632,53 @@
 		}
 	},
 	"Cooltrainer Dianne_417":{
-		"Claydol_1":{
-			"ability":"Levitate",
+		"Swellow_1":{
+			"ability":"Guts",
+			"item":"Focus Band",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Skill Swap", "Earthquake"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Endeavor", "Reversal", "Double Team", "Aerial Ace"],
+			"level":99
 		},
-		"Lanturn_2":{
-			"ability":"Volt Absorb",
+		"Milotic_2":{
+			"ability":"Marvel Scale",
+			"item":"Leftovers",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Thunderbolt", "Earthquake"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Ice Beam", "Recover", "Refresh"],
+			"level":96
+		},
+		"Starmie_3":{
+			"ability":"Natural Cure",
+			"item":"Silk Scarf",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Ice Beam", "Camouflage", "Return"],
+			"level":98
+		},
+		"Ninetales_4":{
+			"ability":"Pressure",
+			"item":"Charcoal",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Overheat", "Extrasensory", "Double-Edge", "Hypnosis"],
+			"level":98
+		},
+		"Salamence_5":{
+			"ability":"Intimidate",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Aerial Ace", "Dragon Claw", "Flamethrower", "Crunch"],
+			"level":95
+		},
+		"Gengar_6":{
+			"ability":"Levitate",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sludge Bomb", "Shadow Ball", "Fire Punch", "Giga Drain"],
+			"level":98
 		}
 	},
 	"Tuber Jani_418":{
@@ -9577,7 +9950,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Toxic", "Synthesis", "Mega Drain", "Headbutt"],
+			"moves":["Mach Punch", "Toxic", "Synthesis", "Mega Drain"],
 			"level":27
 		}
 	},
@@ -10326,7 +10699,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":28
 		},
 		"Gloom_2":{
@@ -10349,7 +10722,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":31
 		},
 		"Gloom_2":{
@@ -10372,7 +10745,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Giga Drain", "Sky Uppercut", "Sludge", "Toxic"],
+			"moves":["Giga Drain", "Sky Uppercut", "Sludge", "Mach Punch"],
 			"level":40
 		},
 		"Vileplume_2":{
@@ -11059,37 +11432,44 @@
 		"Altaria_1":{
 			"ability":"Natural Cure",
 			"nature":"Serious",
-			"ivs":{"hp":18, "at":18, "df":18, "sa":18, "sd":18, "sp":18},
-			"moves":["Aerial Ace", "Safeguard", "Dragonbreath", "Dragon Dance"],
-			"level":44
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Heat Wave", "Recover", "Dragon Claw", "Earthquake"],
+			"level":96
 		},
-		"Delcatty_2":{
-			"ability":"Cute Charm",
+		"Altaria_2":{
+			"ability":"Natural Cure",
 			"nature":"Serious",
-			"ivs":{"hp":18, "at":18, "df":18, "sa":18, "sd":18, "sp":18},
-			"moves":["Sing", "Assist", "Charm", "Feint Attack"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Heat Wave", "Recover", "Dragon Claw", "Earthquake"],
+			"level":96
 		},
-		"Roselia_3":{
-			"ability":"Poison Point",
+		"Altaria_3":{
+			"ability":"Natural Cure",
 			"nature":"Serious",
-			"ivs":{"hp":18, "at":18, "df":18, "sa":18, "sd":18, "sp":18},
-			"moves":["Magical Leaf", "Leech Seed", "Giga Drain", "Toxic"],
-			"level":44
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Heat Wave", "Recover", "Dragon Claw", "Earthquake"],
+			"level":96
 		},
-		"Magneton_4":{
-			"ability":"Magnet Pull",
+		"Altaria_4":{
+			"ability":"Natural Cure",
 			"nature":"Serious",
-			"ivs":{"hp":18, "at":18, "df":18, "sa":18, "sd":18, "sp":18},
-			"moves":["Supersonic", "Thunderbolt", "Tri Attack", "Screech"],
-			"level":41
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Heat Wave", "Recover", "Dragon Claw", "Earthquake"],
+			"level":96
 		},
-		"Gardevoir_5":{
+		"Altaria_5":{
+			"ability":"Natural Cure",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Heat Wave", "Recover", "Dragon Claw", "Earthquake"],
+			"level":96
+		},
+		"Gardevoir_6":{
 			"ability":"Trace",
 			"nature":"Serious",
-			"ivs":{"hp":30, "at":30, "df":30, "sa":30, "sd":30, "sp":30},
-			"moves":["Double Team", "Calm Mind", "Psychic", "Future Sight"],
-			"level":45
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Signal Beam", "Thunder Wave", "Psychic"],
+			"level":100
 		}
 	},
 	"Pokã©Mon Trainer Brendan_520":{
@@ -11153,7 +11533,7 @@
 	},
 	"Pokã©Mon Trainer Brendan_522":{
 		"Forretress_1":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11262,7 +11642,7 @@
 	},
 	"Pokã©Mon Trainer Brendan_525":{
 		"Forretress_1":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11371,7 +11751,7 @@
 	},
 	"Pokã©Mon Trainer Brendan_528":{
 		"Forretress_1":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11480,7 +11860,7 @@
 	},
 	"Pokã©Mon Trainer May_531":{
 		"Forretress_1":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11589,7 +11969,7 @@
 	},
 	"Pokã©Mon Trainer May_534":{
 		"Forretress_1":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11690,7 +12070,7 @@
 	},
 	"Pokã©Mon Trainer May_537":{
 		"Forretress_1":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11779,19 +12159,53 @@
 		}
 	},
 	"Cooltrainer Mitchell_540":{
-		"Lunatone_1":{
-			"ability":"Levitate",
+		"Clefable_1":{
+			"ability":"Cute Charm",
+			"item":"Leftovers",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Explosion", "Reflect", "Light Screen", "Psychic"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Seismic Toss", "Ice Beam", "Counter", "Cosmic Power"],
+			"level":98
 		},
-		"Solrock_2":{
-			"ability":"Levitate",
+		"Nidoqueen_2":{
+			"ability":"Poison Point",
+			"item":"Lum Berry",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Explosion", "Reflect", "Light Screen", "Shadow Ball"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Sludge Bomb", "Earthquake", "Superpower", "Flamethrower"],
+			"level":97
+		},
+		"Marowak_3":{
+			"ability":"Rock Head",
+			"item":"Thick Club",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Rock Slide", "Iron Tail", "Thrash"],
+			"level":98
+		},
+		"Umbreon_4":{
+			"ability":"Synchronize",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Crunch", "Shadow Ball", "Toxic", "Moonlight"],
+			"level":97
+		},
+		"Dragonite_5":{
+			"ability":"Inner Focus",
+			"item":"Lum Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Outrage", "Hydro Pump", "Flamethrower", "Thunderbolt"],
+			"level":96
+		},
+		"Quagsire_6":{
+			"ability":"Water Absorb",
+			"item":"Brightpowder",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Muddy Water", "Earthquake", "Amnesia", "Recover"],
+			"level":98
 		}
 	},
 	"Pokã©Mon Breeder Isaac_541":{
@@ -12003,19 +12417,53 @@
 		}
 	},
 	"Cooltrainer Halle_546":{
-		"Sableye_1":{
-			"ability":"Keen Eye",
+		"Mawile_1":{
+			"ability":"Intimidate",
+			"item":"Brightpowder",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Mean Look", "Confuse Ray", "Feint Attack", "Knock Off"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Seismic Toss", "Iron Head", "Swords Dance", "Explosion"],
+			"level":99
 		},
-		"Absol_2":{
-			"ability":"Pressure",
+		"Arcanine_2":{
+			"ability":"Intimidate",
+			"item":"Charcoal",
 			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Shadow Ball", "Wish", "Crunch", "Bite"],
-			"level":43
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Overheat", "Spark", "Extremespeed", "Crunch"],
+			"level":98
+		},
+		"Jolteon_3":{
+			"ability":"Static",
+			"item":"Magnet",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Thunderbolt", "Crunch", "Shadow Ball", "Body Slam"],
+			"level":97
+		},
+		"Kangaskhan_4":{
+			"ability":"Early Bird",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Crush Claw", "Shadow Ball", "Whirlpool", "Bulk Up"],
+			"level":96
+		},
+		"Donphan_5":{
+			"ability":"Battle Armor",
+			"item":"Silk Scarf",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Earthquake", "Rock Slide", "Amnesia", "Explosion"],
+			"level":98
+		},
+		"Wailord_6":{
+			"ability":"Water Veil",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Hyper Voice", "Earthquake", "Selfdestruct"],
+			"level":98
 		}
 	},
 	"Ruin Maniac Garrison_547":{
@@ -12083,7 +12531,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Toxic", "Synthesis", "Mega Drain", "Headbutt"],
+			"moves":["Mach Punch", "Toxic", "Synthesis", "Mega Drain"],
 			"level":25
 		},
 		"Marill_3":{
@@ -12127,7 +12575,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":28
 		},
 		"Marill_3":{
@@ -12171,7 +12619,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":31
 		},
 		"Azumarill_3":{
@@ -12293,7 +12741,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":7, "at":7, "df":7, "sa":7, "sd":7, "sp":7},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":31
 		}
 	},
@@ -12302,7 +12750,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":9, "at":9, "df":9, "sa":9, "sd":9, "sp":9},
-			"moves":["Sky Uppercut", "Sludge", "Toxic", "Synthesis"],
+			"moves":["Sky Uppercut", "Sludge", "Mach Punch", "Toxic"],
 			"level":34
 		}
 	},
@@ -12311,7 +12759,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":10, "at":10, "df":10, "sa":10, "sd":10, "sp":10},
-			"moves":["Sky Uppercut", "Sludge", "Toxic", "Synthesis"],
+			"moves":["Sky Uppercut", "Sludge", "Mach Punch", "Toxic"],
 			"level":37
 		}
 	},
@@ -12327,7 +12775,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":11, "at":11, "df":11, "sa":11, "sd":11, "sp":11},
-			"moves":["Sky Uppercut", "Sludge", "Toxic", "Synthesis"],
+			"moves":["Sky Uppercut", "Sludge", "Mach Punch", "Toxic"],
 			"level":39
 		}
 	},
@@ -12530,7 +12978,7 @@
 			"level":80
 		},
 		"Dusclops_6":{
-			"ability":"Pressure",
+			"ability":"Keen Eye",
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -13273,7 +13721,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":33
 		}
 	},
@@ -13510,7 +13958,7 @@
 			"level":74
 		},
 		"Tyranitar_4":{
-			"ability":"Battle Armor",
+			"ability":"Intimidate",
 			"item":"Hard Stone",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -13636,7 +14084,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":29
 		}
 	},
@@ -13652,7 +14100,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Sludge", "Toxic", "Synthesis", "Mega Drain"],
+			"moves":["Sludge", "Mach Punch", "Toxic", "Synthesis"],
 			"level":32
 		}
 	},
@@ -13675,7 +14123,7 @@
 			"ability":"Effect Spore",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Sky Uppercut", "Sludge", "Toxic", "Synthesis"],
+			"moves":["Sky Uppercut", "Sludge", "Mach Punch", "Toxic"],
 			"level":34
 		}
 	},
@@ -13775,7 +14223,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Hydro Pump", "Iron Head", "Earthquake", "Iron Defense"],
+			"moves":["Hydro Pump", "Iron Head", "Earthquake", "Brick Break"],
 			"level":81
 		},
 		"Whiscash_3":{
@@ -13820,7 +14268,7 @@
 			"level":7
 		},
 		"Pineco_2":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Bide"],
@@ -16005,7 +16453,7 @@
 			"level":70
 		},
 		"Forretress_3":{
-			"ability":"Battle Armor",
+			"ability":"Shell Armor",
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -16225,7 +16673,7 @@
 	},
 	"Team Magma Grunt_727":{
 		"Dusclops_1":{
-			"ability":"Pressure",
+			"ability":"Keen Eye",
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -17231,7 +17679,7 @@
 	},
 	"Cooltrainer Cristin_767":{
 		"Tyranitar_1":{
-			"ability":"Battle Armor",
+			"ability":"Intimidate",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -18738,7 +19186,7 @@
 	},
 	"Salon Maiden Anabel_805":{
 		"Beldum_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Take Down"],
@@ -18747,7 +19195,7 @@
 	},
 	"Dome Ace Tucker_806":{
 		"Beldum_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Take Down"],
@@ -18756,7 +19204,7 @@
 	},
 	"Palace Maven Spenser_807":{
 		"Beldum_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Take Down"],
@@ -18765,7 +19213,7 @@
 	},
 	"Arena Tycoon Greta_808":{
 		"Beldum_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Take Down"],
@@ -18774,7 +19222,7 @@
 	},
 	"Factory Head Noland_809":{
 		"Beldum_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Take Down"],
@@ -18783,7 +19231,7 @@
 	},
 	"Pike Queen Lucy_810":{
 		"Beldum_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Take Down"],
@@ -18792,7 +19240,7 @@
 	},
 	"Pyramid King Brandon_811":{
 		"Beldum_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Take Down"],

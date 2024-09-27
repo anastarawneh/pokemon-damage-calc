@@ -199,6 +199,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Bellossom",
 		"Manectric"
 	],
+	"Cooltrainer Felix [#38]": [
+		"Linoone",
+		"Heracross",
+		"Absol",
+		"Jynx",
+		"Blastoise",
+		"Shedinja"
+	],
 	"Ruin Maniac Dusty [#44]": [
 		"Kabutops",
 		"Cradily",
@@ -243,6 +251,46 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Rhydon",
 		"Weezing"
 	],
+	"Cooltrainer Edgar [#79]": [
+		"Walrein",
+		"Armaldo",
+		"Alakazam",
+		"Machamp",
+		"Tauros",
+		"Pinsir"
+	],
+	"Cooltrainer Albert [#80]": [
+		"Cradily",
+		"Houndoom",
+		"Granbull",
+		"Forretress",
+		"Gyarados",
+		"Zangoose"
+	],
+	"Cooltrainer Samuel [#81]": [
+		"Shuckle",
+		"Scizor",
+		"Flygon",
+		"Kingdra",
+		"Typhlosion",
+		"Rhydon"
+	],
+	"Cooltrainer Vito [#82]": [
+		"Hypno",
+		"Weezing",
+		"Porygon2",
+		"Metagross",
+		"Feraligatr",
+		"Golem"
+	],
+	"Cooltrainer Owen [#83]": [
+		"Vaporeon",
+		"Persian",
+		"Exeggutor",
+		"Lapras",
+		"Masquerain",
+		"Poliwrath"
+	],
 	"Cooltrainer Mary [#89]": [
 		"Swellow",
 		"Starmie",
@@ -272,6 +320,38 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Venusaur",
 		"Charizard",
 		"Porygon2"
+	],
+	"Cooltrainer Hope [#96]": [
+		"Raichu",
+		"Crobat",
+		"Venusaur",
+		"Claydol",
+		"Medicham",
+		"Steelix"
+	],
+	"Cooltrainer Shannon [#97]": [
+		"Jumpluff",
+		"Dugtrio",
+		"Grumpig",
+		"Lanturn",
+		"Exploud",
+		"Altaria"
+	],
+	"Cooltrainer Michelle [#98]": [
+		"Chimecho",
+		"Torkoal",
+		"Slowking",
+		"Snorlax",
+		"Electabuzz",
+		"Sableye"
+	],
+	"Cooltrainer Caroline [#99]": [
+		"Flareon",
+		"Victreebel",
+		"Charizard",
+		"Aggron",
+		"Nidoking",
+		"Ampharos"
 	],
 	"Hex Maniac Tammy [#107]": [
 		"Alakazam",
@@ -662,10 +742,10 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Leader Juan [#272]": [
 		"Vaporeon",
-		"Ludicolo",
-		"Lapras",
 		"Kingdra",
+		"Ludicolo",
 		"Articuno",
+		"Lapras",
 		"Lugia"
 	],
 	"School Kid Karen [#280]": [
@@ -722,6 +802,14 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Youngster Ben [#323]": [
 		"Zigzagoon",
 		"Lickitung"
+	],
+	"Tuber Donut [#324]": [
+		"Shuckle",
+		"Donphan",
+		"Marowak",
+		"Muk",
+		"Snorlax",
+		"Dragonite"
 	],
 	"Team Magma Grunt [#326]": [
 		"Weezing",
@@ -823,6 +911,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Ampharos",
 		"Slowbro",
 		"Gardevoir"
+	],
+	"Cooltrainer Dianne [#417]": [
+		"Swellow",
+		"Milotic",
+		"Starmie",
+		"Ninetales",
+		"Salamence",
+		"Gengar"
 	],
 	"Ninja Boy Lao [#419]": [
 		"Ninjask",
@@ -1004,11 +1100,27 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Azurill",
 		"Seedot"
 	],
+	"Cooltrainer Mitchell [#540]": [
+		"Clefable",
+		"Nidoqueen",
+		"Marowak",
+		"Umbreon",
+		"Dragonite",
+		"Quagsire"
+	],
 	"Pokã©Mon Breeder Lydia [#545]": [
 		"Corphish",
 		"Numel",
 		"Roselia",
 		"Bagon"
+	],
+	"Cooltrainer Halle [#546]": [
+		"Mawile",
+		"Arcanine",
+		"Jolteon",
+		"Kangaskhan",
+		"Donphan",
+		"Wailord"
 	],
 	"Team Aqua Grunt [#552]": [
 		"Kingdra",

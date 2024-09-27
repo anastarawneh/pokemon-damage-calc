@@ -39,6 +39,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Felix [#38]": {
+			"ability": "Pressure",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Crunch",
+				"Shadow Ball",
+				"Megahorn",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
 		"Picnicker Becky [#470]": {
 			"ability": "Pressure",
 			"item": "Lum Berry",
@@ -282,6 +302,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Caroline [#99]": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Iron Head",
+				"Rock Slide",
+				"Earthquake",
+				"Fire Blast"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Marcel [#11]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -445,6 +485,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Alakazam": {
+		"Cooltrainer Edgar [#79]": {
+			"ability": "Synchronize",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Psychic",
+				"Thunderpunch",
+				"Ice Punch",
+				"Calm Mind"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Parker [#72]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
@@ -584,6 +644,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hyper Voice",
 				"Dragonbreath",
 				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Shannon [#97]": {
+			"ability": "Natural Cure",
+			"item": "Sharp Beak",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Sky Attack",
+				"Dragon Claw",
+				"Fire Spin",
+				"Flamethrower"
 			],
 			"nature": "Serious"
 		},
@@ -766,6 +846,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Tail Glow",
 				"Thunder Wave",
 				"Fire Punch"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Caroline [#99]": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Thunderbolt",
+				"Fire Punch",
+				"Dragonbreath",
+				"Thunder Wave"
 			],
 			"nature": "Serious"
 		},
@@ -1013,6 +1113,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Arcanine": {
+		"Cooltrainer Halle [#546]": {
+			"ability": "Intimidate",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Overheat",
+				"Spark",
+				"Extremespeed",
+				"Crunch"
+			],
+			"nature": "Serious"
+		},
 		"Leader Flannery [#268]": {
 			"ability": "Intimidate",
 			"item": "Leftovers",
@@ -1252,6 +1372,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Aerial Ace",
 				"Crush Claw"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Edgar [#79]": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Rock Slide",
+				"X-Scissor",
+				"Aerial Ace",
+				"Swords Dance"
 			],
 			"nature": "Serious"
 		},
@@ -1740,7 +1880,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Sunny Day",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -1784,6 +1924,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Mirror Coat",
 				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Felix [#38]": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Hydro Pump",
+				"Body Slam",
+				"Crunch",
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -1843,7 +2003,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Iron Head",
 				"Earthquake",
-				"Iron Defense"
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -2831,7 +2991,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 42,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -2955,6 +3115,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Dragon Rage",
 				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Caroline [#99]": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Heat Wave",
+				"Solarbeam",
+				"Thunderpunch",
+				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -3140,6 +3320,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Chimecho": {
+		"Cooltrainer Michelle [#98]": {
+			"ability": "Levitate",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Psychic",
+				"Signal Beam",
+				"Hypnosis",
+				"Mirror Coat"
+			],
+			"nature": "Serious"
+		},
 		"Gentleman Walter [#254]": {
 			"ability": "Levitate",
 			"item": "Focus Band",
@@ -3261,6 +3461,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Shadow Ball",
 				"Cosmic Power"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Hope [#96]": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Earthquake",
+				"Psychic",
+				"Ice Beam",
+				"Calm Mind"
 			],
 			"nature": "Serious"
 		},
@@ -3518,6 +3738,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Moonlight",
 				"Magical Leaf",
 				"Seismic Toss"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Mitchell [#540]": {
+			"ability": "Cute Charm",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Seismic Toss",
+				"Ice Beam",
+				"Counter",
+				"Cosmic Power"
 			],
 			"nature": "Serious"
 		},
@@ -3865,6 +4105,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Albert [#80]": {
+			"ability": "Suction Cups",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Swords Dance",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Fisherman Barny [#343]": {
 			"ability": "Suction Cups",
 			"item": "Lum Berry",
@@ -3920,7 +4180,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Rock Slide",
 				"Sludge Bomb",
-				"Leech Life"
+				"Leech Seed"
 			],
 			"nature": "Serious"
 		},
@@ -4165,6 +4425,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Hypnosis",
 				"Giga Drain"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Hope [#96]": {
+			"ability": "Inner Focus",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Sludge Bomb",
+				"Heat Wave",
+				"Toxic",
+				"Mean Look"
 			],
 			"nature": "Serious"
 		},
@@ -4668,6 +4948,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Halle [#546]": {
+			"ability": "Battle Armor",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Amnesia",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Marcel [#11]": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -4767,6 +5067,25 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flail"
 			],
 			"nature": "Serious"
+		},
+		"Tuber Donut [#324]": {
+			"ability": "Battle Armor",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Super Fang"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Dragonair": {
@@ -4812,6 +5131,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Dragonite": {
+		"Cooltrainer Mitchell [#540]": {
+			"ability": "Inner Focus",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Outrage",
+				"Hydro Pump",
+				"Flamethrower",
+				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
 		"Leader Flannery [#268]": {
 			"ability": "Inner Focus",
 			"item": "Charcoal",
@@ -4931,6 +5270,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder"
 			],
 			"nature": "Serious"
+		},
+		"Tuber Donut [#324]": {
+			"ability": "Inner Focus",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Sky Attack",
+				"Extremespeed",
+				"Sky Uppercut",
+				"Explosion"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Dratini": {
@@ -5033,6 +5392,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Slide",
 				"Sand Tomb",
+				"Sludge Bomb"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Shannon [#97]": {
+			"ability": "Arena Trap",
+			"item": "Soft Sand",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Earthquake",
+				"Aerial Ace",
+				"Rock Slide",
 				"Sludge Bomb"
 			],
 			"nature": "Serious"
@@ -5197,7 +5576,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Dusclops": {
 		"Cooltrainer Parker [#72]": {
-			"ability": "Pressure",
+			"ability": "Keen Eye",
 			"item": "Sitrus Berry",
 			"ivs": {
 				"at": 31,
@@ -5217,7 +5596,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Hex Maniac Tammy [#107]": {
-			"ability": "Pressure",
+			"ability": "Keen Eye",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -5237,7 +5616,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Psychic Blake [#235]": {
-			"ability": "Pressure",
+			"ability": "Keen Eye",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -5257,7 +5636,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Team Aqua Grunt [#567]": {
-			"ability": "Pressure",
+			"ability": "Keen Eye",
 			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
@@ -5277,7 +5656,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Team Magma Grunt [#727]": {
-			"ability": "Pressure",
+			"ability": "Keen Eye",
 			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
@@ -5356,6 +5735,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Brick Break",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Michelle [#98]": {
+			"ability": "Static",
+			"item": "Black Belt",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Thunderbolt",
+				"Cross Chop",
+				"Ice Punch",
+				"Fire Punch"
 			],
 			"nature": "Serious"
 		},
@@ -5873,7 +6272,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 73,
 			"moves": [
 				"Psychic",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Bite",
 				"Roar"
 			],
@@ -6021,6 +6420,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Exeggutor": {
+		"Cooltrainer Owen [#83]": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Psychic",
+				"Giga Drain",
+				"Sludge Bomb",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
 		"Magma Admin Tabitha [#514]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
@@ -6140,6 +6559,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Surf",
 				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Shannon [#97]": {
+			"ability": "Soundproof",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Hyper Voice",
+				"Surf",
+				"Earthquake",
+				"Thunderbolt"
 			],
 			"nature": "Serious"
 		},
@@ -6328,6 +6767,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Feraligatr": {
+		"Cooltrainer Vito [#82]": {
+			"ability": "Torrent",
+			"item": "Sharp Beak",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Aerial Ace",
+				"Rock Slide",
+				"Earthquake",
+				"Dragon Dance"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Torrent",
 			"item": "Sharp Beak",
@@ -6451,6 +6910,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Flareon": {
+		"Cooltrainer Caroline [#99]": {
+			"ability": "Drought",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Overheat",
+				"Solarbeam",
+				"Superpower",
+				"Crunch"
+			],
+			"nature": "Serious"
+		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Drought",
 			"item": "Charcoal",
@@ -6533,6 +7012,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Samuel [#81]": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Earthquake",
+				"Dragon Claw",
+				"Rock Slide",
+				"Heat Wave"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -6596,7 +7095,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Forretress": {
 		"Beauty Bridget [#129]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -6616,7 +7115,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Camper Beau [#212]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
@@ -6635,8 +7134,28 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Albert [#80]": {
+			"ability": "Shell Armor",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Signal Beam",
+				"Earthquake",
+				"Curse",
+				"Iron Head"
+			],
+			"nature": "Serious"
+		},
 		"Pokã©Mon Trainer Brendan [#522]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6656,7 +7175,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Pokã©Mon Trainer Brendan [#525]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6676,7 +7195,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6696,7 +7215,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Pokã©Mon Trainer May [#531]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6716,7 +7235,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Pokã©Mon Trainer May [#534]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6736,7 +7255,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Pokã©Mon Trainer May [#537]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -6756,7 +7275,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Team Aqua Grunt [#20]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
@@ -6776,7 +7295,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Team Aqua Grunt [#27]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Scope Lens",
 			"ivs": {
 				"at": 31,
@@ -6796,7 +7315,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Team Aqua Grunt [#31]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Scope Lens",
 			"ivs": {
 				"at": 31,
@@ -6816,7 +7335,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Team Magma Grunt [#146]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -6836,7 +7355,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Team Magma Grunt [#719]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
@@ -7041,6 +7560,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Gengar": {
+		"Cooltrainer Dianne [#417]": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Sludge Bomb",
+				"Shadow Ball",
+				"Fire Punch",
+				"Giga Drain"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -7606,6 +8145,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Golem": {
+		"Cooltrainer Vito [#82]": {
+			"ability": "Rock Head",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Double-Edge",
+				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
 		"Hiker Eli [#501]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -7886,6 +8445,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Albert [#80]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Return",
+				"Sludge Bomb",
+				"Iron Tail",
+				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
 		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -8092,6 +8671,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Shannon [#97]": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Psychic",
+				"Ice Punch",
+				"Fire Punch",
+				"Future Sight"
+			],
+			"nature": "Serious"
+		},
 		"Gentleman Nate [#582]": {
 			"ability": "Thick Fat",
 			"item": "Leftovers",
@@ -8171,6 +8770,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Thunder",
 				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Albert [#80]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Iron Head",
+				"Hydro Pump",
+				"Earthquake",
+				"Thunder"
 			],
 			"nature": "Serious"
 		},
@@ -8720,6 +9339,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Felix [#38]": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Megahorn",
+				"Brick Break",
+				"Reversal",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Swarm",
 			"item": "Black Belt",
@@ -9122,6 +9761,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Houndoom": {
+		"Cooltrainer Albert [#80]": {
+			"ability": "Intimidate",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Heat Wave",
+				"Crunch",
+				"Shadow Ball",
+				"Sludge Bomb"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Darius [#803]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -9366,6 +10025,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Vito [#82]": {
+			"ability": "Insomnia",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Psychic",
+				"Brick Break",
+				"Ice Punch",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
 		"Leader Tate&Liza [#796]": {
 			"ability": "Insomnia",
 			"ivs": {
@@ -9590,6 +10269,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Halle [#546]": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Thunderbolt",
+				"Crunch",
+				"Shadow Ball",
+				"Body Slam"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Static",
 			"item": "Magnet",
@@ -9751,9 +10450,49 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute"
 			],
 			"nature": "Serious"
+		},
+		"Cooltrainer Shannon [#97]": {
+			"ability": "Chlorophyll",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Sleep Powder",
+				"Substitute",
+				"Leech Life",
+				"Memento"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Jynx": {
+		"Cooltrainer Felix [#38]": {
+			"ability": "Oblivious",
+			"item": "Nevermeltice",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Ice Beam",
+				"Psychic",
+				"Sweet Kiss",
+				"Lovely Kiss"
+			],
+			"nature": "Serious"
+		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
@@ -10120,6 +10859,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Halle [#546]": {
+			"ability": "Early Bird",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Crush Claw",
+				"Shadow Ball",
+				"Whirlpool",
+				"Bulk Up"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Early Bird",
 			"item": "Mystic Water",
@@ -10361,6 +11120,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Samuel [#81]": {
+			"ability": "Swift Swim",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Octazooka",
+				"Dragonbreath",
+				"Iron Head",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Drake [#264]": {
 			"ability": "Swift Swim",
 			"item": "Leftovers",
@@ -10385,12 +11164,12 @@ var CUSTOMHACKSETDEX_EK = {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
 			},
 			"level": 85,
 			"moves": [
@@ -10747,6 +11526,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Lanturn": {
+		"Cooltrainer Shannon [#97]": {
+			"ability": "Volt Absorb",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Surf",
+				"Thunderbolt",
+				"Ice Beam",
+				"Confuse Ray"
+			],
+			"nature": "Serious"
+		},
 		"Lady Daphne [#115]": {
 			"ability": "Volt Absorb",
 			"item": "Lum Berry",
@@ -10829,6 +11628,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Lapras": {
+		"Cooltrainer Owen [#83]": {
+			"ability": "Shell Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Thunder",
+				"Iron Tail"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
@@ -11154,6 +11973,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Slash",
 				"Shadow Ball",
 				"Quick Attack",
+				"Belly Drum"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Felix [#38]": {
+			"ability": "Guts",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Extremespeed",
+				"Hidden Power Ground",
+				"Shadow Ball",
 				"Belly Drum"
 			],
 			"nature": "Serious"
@@ -11664,6 +12503,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Fire Blast",
 				"Facade"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Edgar [#79]": {
+			"ability": "Guts",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Cross Chop",
+				"Rock Slide",
+				"Bullet Punch",
+				"Belly Drum"
 			],
 			"nature": "Serious"
 		},
@@ -13082,6 +13941,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Mitchell [#540]": {
+			"ability": "Rock Head",
+			"item": "Thick Club",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Iron Tail",
+				"Thrash"
+			],
+			"nature": "Serious"
+		},
 		"Hiker Brice [#626]": {
 			"ability": "Rock Head",
 			"item": "Thick Club",
@@ -13198,6 +14077,25 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head"
 			],
 			"nature": "Serious"
+		},
+		"Tuber Donut [#324]": {
+			"ability": "Rock Head",
+			"item": "Thick Club",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Double-Edge",
+				"Bone Rush",
+				"Rock Slide"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Masquerain": {
@@ -13260,6 +14158,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Owen [#83]": {
+			"ability": "Intimidate",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Hydro Pump",
+				"Aerial Ace",
+				"X-Scissor",
+				"Giga Drain"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Intimidate",
 			"item": "Quick Claw",
@@ -13319,6 +14237,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Crunch",
 				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Halle [#546]": {
+			"ability": "Intimidate",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Seismic Toss",
+				"Iron Head",
+				"Swords Dance",
+				"Explosion"
 			],
 			"nature": "Serious"
 		},
@@ -13421,6 +14359,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Endure",
 				"Reversal",
 				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Hope [#96]": {
+			"ability": "Pure Power",
+			"item": "Black Belt",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Brick Break",
+				"Psychic",
+				"Aerial Ace",
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -13860,6 +14818,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Vito [#82]": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Meteor Mash",
+				"Earthquake",
+				"Psychic",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -13963,7 +14941,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Metang": {
 		"Leader Roxanne [#265]": {
-			"ability": "Battle Armor",
+			"ability": "Clear Body",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -14107,6 +15085,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Ice Beam",
 				"Recover"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Dianne [#417]": {
+			"ability": "Marvel Scale",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Recover",
+				"Refresh"
 			],
 			"nature": "Serious"
 		},
@@ -14621,6 +15619,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion"
 			],
 			"nature": "Serious"
+		},
+		"Tuber Donut [#324]": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Sludge Bomb",
+				"Giga Drain",
+				"Fire Blast",
+				"Explosion"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Murkrow": {
@@ -14664,6 +15682,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Nidoking": {
+		"Cooltrainer Caroline [#99]": {
+			"ability": "Poison Point",
+			"item": "Soft Sand",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Sludge Bomb",
+				"Earthquake",
+				"Flamethrower",
+				"Megahorn"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Poison Point",
 			"item": "Lum Berry",
@@ -14806,6 +15844,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Nidoqueen": {
+		"Cooltrainer Mitchell [#540]": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Sludge Bomb",
+				"Earthquake",
+				"Superpower",
+				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
 		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Poison Point",
 			"item": "Lum Berry",
@@ -14950,6 +16008,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Ninetales": {
+		"Cooltrainer Dianne [#417]": {
+			"ability": "Pressure",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Overheat",
+				"Extrasensory",
+				"Double-Edge",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
 		"Gentleman Nate [#582]": {
 			"ability": "Pressure",
 			"item": "Leftovers",
@@ -15857,6 +16935,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Owen [#83]": {
+			"ability": "Limber",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Crush Claw",
+				"Thunder",
+				"X-Scissor",
+				"Water Pulse"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Limber",
 			"item": "Lum Berry",
@@ -16147,7 +17245,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Pineco": {
 		"Bug Catcher Rick [#615]": {
-			"ability": "Battle Armor",
+			"ability": "Shell Armor",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16180,6 +17278,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Aerial Ace",
 				"Rock Slide",
+				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Edgar [#79]": {
+			"ability": "Intimidate",
+			"item": "Silverpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Superpower",
 				"Swords Dance"
 			],
 			"nature": "Serious"
@@ -16710,6 +17828,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Owen [#83]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Superpower",
+				"Surf",
+				"Psychic",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
 		"Leader Brawly [#266]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
@@ -16907,6 +18045,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Ice Beam",
 				"Recover"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Vito [#82]": {
+			"ability": "Trace",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Recover",
+				"Toxic"
 			],
 			"nature": "Serious"
 		},
@@ -17154,6 +18312,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Quagsire": {
+		"Cooltrainer Mitchell [#540]": {
+			"ability": "Water Absorb",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Muddy Water",
+				"Earthquake",
+				"Amnesia",
+				"Recover"
+			],
+			"nature": "Serious"
+		},
 		"Gentleman Nate [#582]": {
 			"ability": "Water Absorb",
 			"item": "Leftovers",
@@ -17339,6 +18517,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Raichu": {
+		"Cooltrainer Hope [#96]": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Thunderbolt",
+				"Surf",
+				"Reflect",
+				"Light Screen"
+			],
+			"nature": "Serious"
+		},
 		"Leader Wattson [#780]": {
 			"ability": "Static",
 			"ivs": {
@@ -17910,6 +19108,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Samuel [#81]": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Megahorn",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Wilton [#78]": {
 			"ability": "Rock Head",
 			"item": "Hard Stone",
@@ -18075,6 +19293,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Michelle [#98]": {
+			"ability": "Keen Eye",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Night Shade",
+				"Ice Punch",
+				"Cosmic Power",
+				"Recover"
+			],
+			"nature": "Serious"
+		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Keen Eye",
 			"item": "Leftovers",
@@ -18149,6 +19387,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 63,
+			"moves": [
+				"Aerial Ace",
+				"Dragon Claw",
+				"Flamethrower",
+				"Crunch"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Dianne [#417]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
 			"moves": [
 				"Aerial Ace",
 				"Dragon Claw",
@@ -18600,6 +19858,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Steel Wing",
 				"Bullet Punch"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Samuel [#81]": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Iron Head",
+				"X-Scissor",
+				"Superpower",
+				"Pursuit"
 			],
 			"nature": "Serious"
 		},
@@ -19172,6 +20450,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic"
 			],
 			"nature": "Serious"
+		},
+		"Cooltrainer Felix [#38]": {
+			"ability": "Wonder Guard",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Shadow Ball",
+				"X-Scissor",
+				"Confuse Ray",
+				"Swords Dance"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Shelgon": {
@@ -19380,6 +20678,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Samuel [#81]": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Spikes",
+				"Toxic",
+				"Wrap",
+				"Endeavor"
+			],
+			"nature": "Serious"
+		},
 		"Leader Roxanne [#265]": {
 			"ability": "Battle Armor",
 			"item": "Sitrus Berry",
@@ -19437,6 +20755,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Wrap",
 				"Flash"
+			],
+			"nature": "Serious"
+		},
+		"Tuber Donut [#324]": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Explosion",
+				"Spikes"
 			],
 			"nature": "Serious"
 		}
@@ -20159,6 +21497,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Michelle [#98]": {
+			"ability": "Own Tempo",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Surf",
+				"Psychic",
+				"Flamethrower",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
 		"Leader Tate&Liza [#797]": {
 			"ability": "Own Tempo",
 			"ivs": {
@@ -20482,6 +21840,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Michelle [#98]": {
+			"ability": "Thick Fat",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Return",
+				"Flamethrower",
+				"Slack Off",
+				"Selfdestruct"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Thick Fat",
 			"item": "Leftovers",
@@ -20559,6 +21937,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Ice Beam",
 				"Counter"
+			],
+			"nature": "Serious"
+		},
+		"Tuber Donut [#324]": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Return",
+				"Crunch",
+				"Brick Break",
+				"Selfdestruct"
 			],
 			"nature": "Serious"
 		}
@@ -20964,6 +22362,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Dianne [#417]": {
+			"ability": "Natural Cure",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Camouflage",
+				"Return"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Natural Cure",
 			"item": "Lum Berry",
@@ -21102,6 +22520,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Slide",
 				"Iron Tail",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Hope [#96]": {
+			"ability": "Rock Head",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Earthquake",
+				"Iron Tail",
+				"Rock Slide",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -21616,6 +23054,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Swellow": {
+		"Cooltrainer Dianne [#417]": {
+			"ability": "Guts",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Endeavor",
+				"Reversal",
+				"Double Team",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Guts",
 			"item": "Silk Scarf",
@@ -21776,6 +23234,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Iron Tail",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Edgar [#79]": {
+			"ability": "Intimidate",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Double-Edge",
+				"Iron Head",
+				"Blizzard",
+				"Thunderbolt"
 			],
 			"nature": "Serious"
 		},
@@ -22139,6 +23617,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Earthquake",
 				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Michelle [#98]": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Flamethrower",
+				"Rock Slide",
+				"Earthquake",
+				"Explosion"
 			],
 			"nature": "Serious"
 		},
@@ -22541,6 +24039,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Samuel [#81]": {
+			"ability": "Blaze",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Overheat",
+				"Extrasensory",
+				"Earthquake",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
@@ -22684,7 +24202,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Tyranitar": {
 		"Cooltrainer Cristin [#767]": {
-			"ability": "Battle Armor",
+			"ability": "Intimidate",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -22704,7 +24222,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Magma Leader Maxie [#602]": {
-			"ability": "Battle Armor",
+			"ability": "Intimidate",
 			"item": "Hard Stone",
 			"ivs": {
 				"at": 31,
@@ -22764,6 +24282,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Shadow Ball",
 				"Psychic"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Mitchell [#540]": {
+			"ability": "Synchronize",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Crunch",
+				"Shadow Ball",
+				"Toxic",
+				"Moonlight"
 			],
 			"nature": "Serious"
 		},
@@ -23008,6 +24546,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Owen [#83]": {
+			"ability": "Drizzle",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Surf",
+				"Hyper Voice",
+				"Acid Armor",
+				"Iron Defense"
+			],
+			"nature": "Serious"
+		},
 		"Leader Juan [#272]": {
 			"ability": "Drizzle",
 			"item": "Leftovers",
@@ -23031,7 +24589,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Venomoth": {
 		"Youngster Timmy [#334]": {
-			"ability": "Shield Dust",
+			"ability": "Compoundeyes",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -23068,6 +24626,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Sludge Bomb",
 				"Earthquake",
+				"Sleep Powder"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Hope [#96]": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Giga Drain",
+				"Sludge Bomb",
+				"Leech Seed",
 				"Sleep Powder"
 			],
 			"nature": "Serious"
@@ -23332,7 +24910,27 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Caroline [#99]": {
+			"ability": "Chlorophyll",
+			"item": "Poison Barb",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Solarbeam",
+				"Sludge Bomb",
+				"Weather Ball~3",
+				"Encore"
 			],
 			"nature": "Serious"
 		},
@@ -23351,7 +24949,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball"
+				"Weather Ball~3"
 			],
 			"nature": "Serious"
 		},
@@ -23450,7 +25048,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Synthesis"
 			],
 			"nature": "Serious"
@@ -23513,7 +25111,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Moonlight"
 			],
 			"nature": "Serious"
@@ -23573,7 +25171,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Toxic"
 			],
 			"nature": "Serious"
@@ -23700,6 +25298,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Hyper Voice",
 				"Whirlpool"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Halle [#546]": {
+			"ability": "Water Veil",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Surf",
+				"Hyper Voice",
+				"Earthquake",
+				"Selfdestruct"
 			],
 			"nature": "Serious"
 		},
@@ -23845,6 +25463,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Walrein": {
+		"Cooltrainer Edgar [#79]": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Whirlpool",
+				"Iron Head"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
@@ -24080,6 +25718,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Flamethrower",
 				"Will-O-Wisp"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Vito [#82]": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Sludge Bomb",
+				"Flamethrower",
+				"Thunderbolt",
+				"Explosion"
 			],
 			"nature": "Serious"
 		},
@@ -25061,6 +26719,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Zangoose": {
+		"Cooltrainer Albert [#80]": {
+			"ability": "Guts",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Crush Claw",
+				"X-Scissor",
+				"Brick Break",
+				"Belly Drum"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Berke [#74]": {
 			"ability": "Guts",
 			"item": "Scope Lens",
