@@ -328,7 +328,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Megahorn: { bp: 120, type: 'Bug' },
   'Metal Claw': { bp: 50, type: 'Steel' },
   'Mud-Slap': { bp: 20, type: 'Ground' },
-  Octazooka: { bp: 65, type: 'Water' },
+  Octazooka: { bp: 95, type: 'Water' },
   'Pain Split': { bp: 0, category: 'Status', type: 'Normal' },
   'Shadow Ball': { bp: 80, type: 'Ghost' },
   'Sludge Bomb': { bp: 100, type: 'Poison' },
