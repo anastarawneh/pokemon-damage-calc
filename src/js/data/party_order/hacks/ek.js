@@ -268,7 +268,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Zangoose"
 	],
 	"Cooltrainer Samuel [#81]": [
-		"Shuckle",
+		"Sceptile",
 		"Scizor",
 		"Flygon",
 		"Kingdra",
@@ -672,7 +672,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Regice",
 		"Feraligatr",
 		"Lapras",
-		"Milotic",
+		"Steelix",
 		"Metagross",
 		"Jirachi"
 	],
@@ -741,12 +741,12 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Mewtwo"
 	],
 	"Leader Juan [#272]": [
-		"Vaporeon",
+		"Kyogre",
 		"Kingdra",
 		"Ludicolo",
-		"Articuno",
+		"Lanturn",
 		"Lapras",
-		"Lugia"
+		"Articuno"
 	],
 	"School Kid Karen [#280]": [
 		"Sunflora",
@@ -827,12 +827,12 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Shiftry"
 	],
 	"Champion Wallace [#335]": [
-		"Kyogre",
+		"Milotic",
 		"Swampert",
 		"Jolteon",
-		"Ludicolo",
-		"Starmie",
-		"Gyarados"
+		"Gyarados",
+		"Armaldo",
+		"Lugia"
 	],
 	"Team Magma Grunt [#338]": [
 		"Donphan",

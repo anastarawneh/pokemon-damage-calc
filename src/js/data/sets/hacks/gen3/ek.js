@@ -1375,6 +1375,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Champion Wallace [#335]": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Rock Slide",
+				"X-Scissor",
+				"Superpower",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Edgar [#79]": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -8764,12 +8784,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 98,
+			"level": 100,
 			"moves": [
-				"Double-Edge",
-				"Surf",
-				"Thunder",
-				"Earthquake"
+				"Hidden Power Flying",
+				"Earthquake",
+				"Hydro Pump",
+				"Thunderbolt"
 			],
 			"nature": "Serious"
 		},
@@ -10251,7 +10271,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Champion Wallace [#335]": {
 			"ability": "Static",
-			"item": "Lum Berry",
+			"item": "Magnet",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10260,12 +10280,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 99,
+			"level": 100,
 			"moves": [
-				"Thunder",
-				"Weather Ball",
+				"Thunderbolt",
 				"Crunch",
-				"Hidden Power Grass"
+				"Hidden Power Grass",
+				"Calm Mind"
 			],
 			"nature": "Serious"
 		},
@@ -10466,7 +10486,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Sleep Powder",
 				"Substitute",
-				"Leech Life",
+				"Aerial Ace",
 				"Memento"
 			],
 			"nature": "Serious"
@@ -11142,7 +11162,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Elite Four Drake [#264]": {
 			"ability": "Swift Swim",
-			"item": "Leftovers",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11175,7 +11195,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Ice Beam",
-				"Double-Edge",
+				"Body Slam",
 				"Dragon Dance"
 			],
 			"nature": "Serious"
@@ -11482,7 +11502,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Kyogre": {
-		"Champion Wallace [#335]": {
+		"Leader Juan [#272]": {
 			"ability": "Drizzle",
 			"item": "Lum Berry",
 			"ivs": {
@@ -11493,11 +11513,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 100,
+			"level": 85,
 			"moves": [
 				"Surf",
-				"Thunder",
 				"Ice Beam",
+				"Thunder",
 				"Iron Head"
 			],
 			"nature": "Serious"
@@ -11561,6 +11581,26 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Thunderbolt",
+				"Ice Beam",
+				"Psybeam"
+			],
+			"nature": "Serious"
+		},
+		"Leader Juan [#272]": {
+			"ability": "Volt Absorb",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Surf",
+				"Thunder",
 				"Ice Beam",
 				"Psybeam"
 			],
@@ -11684,7 +11724,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Ice Beam",
 				"Thunder",
-				"Iron Head"
+				"Body Slam"
 			],
 			"nature": "Serious"
 		},
@@ -12059,26 +12099,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Champion Wallace [#335]": {
-			"ability": "Swift Swim",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
-			"moves": [
-				"Surf",
-				"Giga Drain",
-				"Ice Beam",
-				"Leech Seed"
-			],
-			"nature": "Serious"
-		},
 		"Cooltrainer George [#73]": {
 			"ability": "Swift Swim",
 			"item": "Leftovers",
@@ -12241,9 +12261,9 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Lugia": {
-		"Leader Juan [#272]": {
+		"Champion Wallace [#335]": {
 			"ability": "Pressure",
-			"item": "Leftovers",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12252,12 +12272,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 85,
+			"level": 100,
 			"moves": [
 				"Aeroblast",
-				"Psychic",
 				"Hydro Pump",
-				"Recover"
+				"Psychic",
+				"Ice Beam"
 			],
 			"nature": "Serious"
 		}
@@ -14092,7 +14112,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 99,
 			"moves": [
 				"Double-Edge",
-				"Bone Rush",
+				"Earthquake",
 				"Rock Slide"
 			],
 			"nature": "Serious"
@@ -15088,6 +15108,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Champion Wallace [#335]": {
+			"ability": "Marvel Scale",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Psychic",
+				"Acid Armor"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Dianne [#417]": {
 			"ability": "Marvel Scale",
 			"item": "Leftovers",
@@ -15125,26 +15165,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Recover",
 				"Refresh"
-			],
-			"nature": "Serious"
-		},
-		"Elite Four Glacia [#263]": {
-			"ability": "Marvel Scale",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 99,
-			"moves": [
-				"Surf",
-				"Ice Beam",
-				"Hidden Power Grass",
-				"Recover"
 			],
 			"nature": "Serious"
 		},
@@ -19619,6 +19639,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Samuel [#81]": {
+			"ability": "Overgrow",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Leaf Blade",
+				"Dragon Claw",
+				"Thunderpunch",
+				"Crush Claw"
+			],
+			"nature": "Serious"
+		},
 		"Elite Four Drake [#264]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
@@ -20245,7 +20285,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Giga Drain",
 				"Earthquake",
-				"Toxic"
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -20675,26 +20715,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Bind",
 				"Protect"
-			],
-			"nature": "Serious"
-		},
-		"Cooltrainer Samuel [#81]": {
-			"ability": "Battle Armor",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 98,
-			"moves": [
-				"Spikes",
-				"Toxic",
-				"Wrap",
-				"Endeavor"
 			],
 			"nature": "Serious"
 		},
@@ -22342,26 +22362,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Champion Wallace [#335]": {
-			"ability": "Natural Cure",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 99,
-			"moves": [
-				"Surf",
-				"Thunder",
-				"Psychic",
-				"Ice Beam"
-			],
-			"nature": "Serious"
-		},
 		"Cooltrainer Dianne [#417]": {
 			"ability": "Natural Cure",
 			"item": "Silk Scarf",
@@ -22536,6 +22536,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 99,
+			"moves": [
+				"Earthquake",
+				"Iron Tail",
+				"Rock Slide",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Elite Four Glacia [#263]": {
+			"ability": "Rock Head",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
 			"moves": [
 				"Earthquake",
 				"Iron Tail",
@@ -24070,7 +24090,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 98,
+			"level": 100,
 			"moves": [
 				"Heat Wave",
 				"Rock Slide",
@@ -24563,26 +24583,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hyper Voice",
 				"Acid Armor",
 				"Iron Defense"
-			],
-			"nature": "Serious"
-		},
-		"Leader Juan [#272]": {
-			"ability": "Drizzle",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 85,
-			"moves": [
-				"Surf",
-				"Ice Beam",
-				"Crunch",
-				"Toxic"
 			],
 			"nature": "Serious"
 		}
