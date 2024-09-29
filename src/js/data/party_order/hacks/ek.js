@@ -672,7 +672,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Regice",
 		"Feraligatr",
 		"Lapras",
-		"Steelix",
+		"Aggron",
 		"Metagross",
 		"Jirachi"
 	],

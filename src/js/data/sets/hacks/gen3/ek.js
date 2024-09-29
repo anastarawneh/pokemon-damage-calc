@@ -301,7 +301,28 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave"
 			],
 			"nature": "Serious"
+		
+	},
+		"Elite Four Glacia [#263]": {
+		"ability": "Rock Head",
+		"item": "LLum Berry",
+		"ivs": {
+			"at": 31,
+			"df": 31,
+			"hp": 31,
+			"sa": 31,
+			"sd": 31,
+			"sp": 31
 		},
+		"level": 100,
+		"moves": [
+			"Earthquake",
+			"Iron Tail",
+			"Rock Slide",
+			"Double-Edge"
+		],
+		"nature": "Serious"
+	},
 		"Cooltrainer Caroline [#99]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -22536,26 +22557,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 99,
-			"moves": [
-				"Earthquake",
-				"Iron Tail",
-				"Rock Slide",
-				"Explosion"
-			],
-			"nature": "Serious"
-		},
-		"Elite Four Glacia [#263]": {
-			"ability": "Rock Head",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 100,
 			"moves": [
 				"Earthquake",
 				"Iron Tail",
