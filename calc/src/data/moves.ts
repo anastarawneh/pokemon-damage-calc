@@ -469,7 +469,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Block: { bp: 0, category: 'Status', type: 'Normal' },
   Bounce: { bp: 90, type: 'Flying', makesContact: true },
   'Bullet Punch': {  bp: 40, type: 'Steel', makesContact: true, },
-  'Bullet Seed': { bp: 25, type: 'Grass', multihit: 2 },
+  'Bullet Seed': { bp: 30, type: 'Grass', multihit: 2 },
   Camouflage: { bp: 0, category: 'Status', type: 'Normal' },
   Charge: { bp: 0, category: 'Status', type: 'Electric' },
   Covet: { bp: 40, type: 'Normal' },
