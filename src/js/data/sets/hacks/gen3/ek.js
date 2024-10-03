@@ -17333,7 +17333,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Aerial Ace",
 				"Superpower",
-				"Rock Slide"
+				"Earthquake"
 			],
 			"nature": "Serious"
 		},
