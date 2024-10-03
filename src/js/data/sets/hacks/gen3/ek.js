@@ -233,7 +233,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 69,
 			"moves": [
-				"Sky Attack",
+				"Aerial Ace",
 				"Earthquake",
 				"Double-Edge",
 				"Dragon Dance"
@@ -242,7 +242,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Rock Head",
-			"item": "Focus Band",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -301,28 +301,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave"
 			],
 			"nature": "Serious"
-		
-	},
-		"Elite Four Glacia [#263]": {
-		"ability": "Rock Head",
-		"item": "LLum Berry",
-		"ivs": {
-			"at": 31,
-			"df": 31,
-			"hp": 31,
-			"sa": 31,
-			"sd": 31,
-			"sp": 31
 		},
-		"level": 100,
-		"moves": [
-			"Earthquake",
-			"Iron Tail",
-			"Rock Slide",
-			"Double-Edge"
-		],
-		"nature": "Serious"
-	},
 		"Cooltrainer Caroline [#99]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -360,6 +339,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Fire Blast",
 				"Thunder"
+			],
+			"nature": "Serious"
+		},
+		"Elite Four Glacia [#263]": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 100,
+			"moves": [
+				"Earthquake",
+				"Iron Tail",
+				"Rock Slide",
+				"Double-Edge"
 			],
 			"nature": "Serious"
 		},
@@ -999,7 +998,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 60,
 			"moves": [
 				"Thunder",
 				"Ice Punch",
@@ -1347,7 +1346,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 21,
 			"moves": [
-				"Sludge Bomb",
+				"Sludge",
 				"Signal Beam",
 				"Giga Drain",
 				"Toxic"
@@ -1376,26 +1375,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Armaldo": {
-		"Bug Maniac Jeffrey [#226]": {
-			"ability": "Battle Armor",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"Ancientpower",
-				"X-Scissor",
-				"Aerial Ace",
-				"Crush Claw"
-			],
-			"nature": "Serious"
-		},
 		"Champion Wallace [#335]": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -1880,26 +1859,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Toxic",
 				"Brick Break"
-			],
-			"nature": "Serious"
-		},
-		"Bug Maniac Jeffrey [#226]": {
-			"ability": "Swarm",
-			"item": "Silverpowder",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"X-Scissor",
-				"Sludge Bomb",
-				"Toxic",
-				"Aerial Ace"
 			],
 			"nature": "Serious"
 		}
@@ -4792,6 +4751,22 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Ditto": {
+		"Bug Maniac Jeffrey [#226]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
 		"Pokéfan Isabel [#302]": {
 			"ability": "Limber",
 			"ivs": {
@@ -6315,7 +6290,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Weather Ball",
 				"Bite",
-				"Roar"
+				"Body Slam"
 			],
 			"nature": "Serious"
 		},
@@ -7590,7 +7565,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 60,
 			"moves": [
 				"Psychic",
 				"Magical Leaf",
@@ -8985,7 +8960,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 60,
 			"moves": [
 				"Hidden Power Flying",
 				"Surf",
@@ -9472,9 +9447,8 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 20,
 			"moves": [
-				"Brick Break",
-				"X-Scissor",
-				"Body Slam"
+				"Rock Smash",
+				"Pin Missile"
 			],
 			"nature": "Serious"
 		},
@@ -11972,7 +11946,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower",
 				"Giga Drain",
 				"Recover",
-				"Sludge Bomb"
+				"Sludge"
 			],
 			"nature": "Serious"
 		}
@@ -12276,7 +12250,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Giga Drain",
 				"Ice Beam",
-				"Thunderpunch"
+				"Leech Seed"
 			],
 			"nature": "Serious"
 		}
@@ -16191,26 +16165,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Ninjask": {
-		"Bug Maniac Jeffrey [#226]": {
-			"ability": "Speed Boost",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"Protect",
-				"Substitute",
-				"Swords Dance",
-				"Baton Pass"
-			],
-			"nature": "Serious"
-		},
 		"Camper Branden [#745]": {
 			"ability": "Speed Boost",
 			"item": "Leftovers",
@@ -18994,7 +18948,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 100,
 			"moves": [
-				"Sky Attack",
+				"Aerial Ace",
 				"Dragon Claw",
 				"Extremespeed",
 				"Earthquake"
@@ -19471,7 +19425,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Aerial Ace",
 				"Dragon Claw",
-				"Hidden Power Grass",
+				"Hydro Pump",
 				"Fire Blast"
 			],
 			"nature": "Serious"
@@ -20492,26 +20446,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Bug Maniac Jeffrey [#226]": {
-			"ability": "Wonder Guard",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"X-Scissor",
-				"Shadow Ball",
-				"Swords Dance",
-				"Toxic"
-			],
-			"nature": "Serious"
-		},
 		"Cooltrainer Felix [#38]": {
 			"ability": "Wonder Guard",
 			"item": "Focus Band",
@@ -20921,7 +20855,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Roxanne [#265]": {
 			"ability": "Keen Eye",
-			"item": "Leftovers",
+			"item": "Oran Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -21487,7 +21421,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 60,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -22323,6 +22257,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Stantler": {
+		"Bird Keeper Humberto [#402]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Return",
+				"Megahorn",
+				"Earthquake",
+				"Extrasensory"
+			],
+			"nature": "Serious"
+		},
 		"Hiker Trent [#627]": {
 			"ability": "Intimidate",
 			"item": "Choice Band",
@@ -22360,12 +22314,32 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis"
 			],
 			"nature": "Serious"
+		},
+		"Team Aqua Grunt [#5]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 79,
+			"moves": [
+				"Double-Edge",
+				"Megahorn",
+				"Superpower",
+				"Hypnosis"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Starmie": {
 		"Camper Flint [#654]": {
 			"ability": "Natural Cure",
-			"item": "Lum Berry",
+			"item": "Silk Scarf",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22378,8 +22352,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Psychic",
-				"Thunderbolt",
-				"Ice Beam"
+				"Camouflage",
+				"Return"
 			],
 			"nature": "Serious"
 		},
@@ -22498,8 +22472,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Hydro Pump",
 				"Thunder",
-				"Psychic",
-				"Ice Beam"
+				"Ice Beam",
+				"Thunder Wave"
 			],
 			"nature": "Serious"
 		}
@@ -22737,12 +22711,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 23,
+			"level": 22,
 			"moves": [
 				"Rock Slide",
-				"Double-Edge",
-				"Earthquake",
-				"Ice Punch"
+				"Sand Tomb",
+				"Ice Punch",
+				"Defense Curl"
 			],
 			"nature": "Serious"
 		},
@@ -22801,10 +22775,10 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 63,
 			"moves": [
-				"Hydro Pump",
-				"Ice Beam",
+				"Surf",
+				"Icy Wind",
 				"Extrasensory",
-				"Icy Wind"
+				"Rest"
 			],
 			"nature": "Serious"
 		},
@@ -22840,12 +22814,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 20,
+			"level": 19,
 			"moves": [
 				"Giga Drain",
 				"Synthesis",
 				"Grasswhistle",
-				"Sludge Bomb"
+				"Sludge"
 			],
 			"nature": "Serious"
 		}
@@ -23137,7 +23111,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Magma Grunt [#719]": {
 			"ability": "Guts",
-			"item": "Focus Band",
+			"item": "Brightpowder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24529,7 +24503,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Aqua Admin Shelly [#32]": {
 			"ability": "Drizzle",
-			"item": "Quick Claw",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24540,7 +24514,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 63,
 			"moves": [
-				"Hydro Pump",
+				"Surf",
 				"Ice Beam",
 				"Double-Edge",
 				"Bite"
@@ -24549,7 +24523,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Aqua Admin Shelly [#569]": {
 			"ability": "Drizzle",
-			"item": "Focus Band",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24560,7 +24534,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 70,
 			"moves": [
-				"Surf",
+				"Hydro Pump",
 				"Ice Beam",
 				"Double-Edge",
 				"Bite"
@@ -25087,7 +25061,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 20,
+			"level": 19,
 			"moves": [
 				"Crush Claw",
 				"Counter",
@@ -26267,7 +26241,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 20,
+			"level": 19,
 			"moves": [
 				"Hyper Voice",
 				"Sing",
@@ -26368,25 +26342,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 61,
-			"moves": [
-				"Counter",
-				"Mirror Coat",
-				"Destiny Bond"
-			],
-			"nature": "Serious"
-		},
-		"Team Aqua Grunt [#5]": {
-			"ability": "Shadow Tag",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 79,
 			"moves": [
 				"Counter",
 				"Mirror Coat",
@@ -26873,7 +26828,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 31,
 			"moves": [
-				"Crush Claw",
+				"Facade",
 				"Brick Break",
 				"X-Scissor",
 				"Swords Dance"

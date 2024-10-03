@@ -27,7 +27,7 @@
 		"Cloyster",
 		"Sudowoodo",
 		"Dugtrio",
-		"Wobbuffet",
+		"Stantler",
 		"Sharpedo",
 		"Dragonite"
 	],
@@ -575,10 +575,7 @@
 		"Shelgon"
 	],
 	"Bug Maniac Jeffrey [#226]": [
-		"Ninjask",
-		"Shedinja",
-		"Beedrill",
-		"Armaldo"
+		"Ditto"
 	],
 	"Bug Maniac Derek [#227]": [
 		"Dustox",
@@ -671,7 +668,7 @@
 		"Regice",
 		"Feraligatr",
 		"Lapras",
-		"Steelix",
+		"Aggron",
 		"Metagross",
 		"Jirachi"
 	],
@@ -889,7 +886,8 @@
 		"Dugtrio",
 		"Tropius",
 		"Skarmory",
-		"Pelipper"
+		"Pelipper",
+		"Stantler"
 	],
 	"Bird Keeper Edwardo [#404]": [
 		"Masquerain",

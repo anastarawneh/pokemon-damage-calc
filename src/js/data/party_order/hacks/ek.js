@@ -28,7 +28,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Cloyster",
 		"Sudowoodo",
 		"Dugtrio",
-		"Wobbuffet",
+		"Stantler",
 		"Sharpedo",
 		"Dragonite"
 	],
@@ -576,10 +576,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Shelgon"
 	],
 	"Bug Maniac Jeffrey [#226]": [
-		"Ninjask",
-		"Shedinja",
-		"Beedrill",
-		"Armaldo"
+		"Ditto"
 	],
 	"Bug Maniac Derek [#227]": [
 		"Dustox",
@@ -890,7 +887,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Dugtrio",
 		"Tropius",
 		"Skarmory",
-		"Pelipper"
+		"Pelipper",
+		"Stantler"
 	],
 	"Bird Keeper Edwardo [#404]": [
 		"Masquerain",
