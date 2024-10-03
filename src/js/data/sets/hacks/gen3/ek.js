@@ -1633,7 +1633,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 31,
 			"moves": [
-				"Double-Edge",
+				"Bodyslam",
 				"Waterfall",
 				"Karate Chop",
 				"Seismic Toss"
