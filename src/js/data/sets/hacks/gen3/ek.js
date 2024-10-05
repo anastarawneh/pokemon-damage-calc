@@ -79,6 +79,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Pokéfan Kaleb [#699]": {
+			"ability": "Pressure",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 41,
+			"moves": [
+				"Crunch",
+				"Shadow Ball",
+				"Iron Tail",
+				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Pressure",
 			"item": "Quick Claw",
@@ -644,26 +664,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Earthquake",
 				"Heat Wave"
-			],
-			"nature": "Serious"
-		},
-		"Camper Larry [#213]": {
-			"ability": "Natural Cure",
-			"item": "Soft Sand",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Aerial Ace",
-				"Hyper Voice",
-				"Dragonbreath",
-				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -1631,9 +1631,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 31,
+			"level": 29,
 			"moves": [
-				"Bodyslam",
+				"Body Slam",
 				"Waterfall",
 				"Karate Chop",
 				"Seismic Toss"
@@ -4246,6 +4246,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Crawdaunt": {
+		"Aroma Lady Celina [#705]": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 41,
+			"moves": [
+				"Crunch",
+				"Crabhammer",
+				"Body Slam",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Berke [#74]": {
 			"ability": "Shell Armor",
 			"item": "Scope Lens",
@@ -4752,6 +4772,38 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Ditto": {
 		"Bug Maniac Jeffrey [#226]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Camper Larry [#213]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Kindler Hayden [#707]": {
 			"ability": "Limber",
 			"ivs": {
 				"at": 0,
@@ -6308,7 +6360,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 41,
 			"moves": [
 				"Psychic",
-				"Signal Beam",
+				"Body Slam",
 				"Bite",
 				"Quick Attack"
 			],
@@ -6328,7 +6380,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 41,
 			"moves": [
 				"Psychic",
-				"Signal Beam",
+				"Body Slam",
 				"Bite",
 				"Quick Attack"
 			],
@@ -6348,7 +6400,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 41,
 			"moves": [
 				"Psychic",
-				"Signal Beam",
+				"Body Slam",
 				"Bite",
 				"Quick Attack"
 			],
@@ -6368,7 +6420,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 41,
 			"moves": [
 				"Psychic",
-				"Signal Beam",
+				"Body Slam",
 				"Bite",
 				"Quick Attack"
 			],
@@ -6388,7 +6440,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 41,
 			"moves": [
 				"Psychic",
-				"Signal Beam",
+				"Body Slam",
 				"Bite",
 				"Quick Attack"
 			],
@@ -6408,7 +6460,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 41,
 			"moves": [
 				"Psychic",
-				"Signal Beam",
+				"Body Slam",
 				"Bite",
 				"Quick Attack"
 			],
@@ -6558,26 +6610,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Exploud": {
-		"Camper Larry [#213]": {
-			"ability": "Soundproof",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Hyper Voice",
-				"Flamethrower",
-				"Surf",
-				"Brick Break"
-			],
-			"nature": "Serious"
-		},
 		"Cooltrainer Shannon [#97]": {
 			"ability": "Soundproof",
 			"item": "Silk Scarf",
@@ -7816,6 +7848,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Camper Tyron [#704]": {
+			"ability": "Intimidate",
+			"item": "Nevermeltice",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 41,
+			"moves": [
+				"Ice Beam",
+				"Iron Head",
+				"Headbutt",
+				"Water Pulse"
+			],
+			"nature": "Serious"
+		},
 		"Lass Andrea [#613]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -7935,26 +7987,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"X-Scissor",
 				"Swords Dance"
-			],
-			"nature": "Serious"
-		},
-		"Kindler Hayden [#707]": {
-			"ability": "Hyper Cutter",
-			"item": "Sharp Beak",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Aerial Ace",
-				"Earthquake",
-				"X-Scissor",
-				"Agility"
 			],
 			"nature": "Serious"
 		},
@@ -8452,7 +8484,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 31,
+			"level": 28,
 			"moves": [
 				"Brick Break",
 				"Take Down",
@@ -9113,7 +9145,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Thick Fat",
-			"item": "Leppa Berry",
+			"item": "Sharp Beak",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -9125,7 +9157,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 33,
 			"moves": [
 				"Fake Out",
-				"Cross Chop",
+				"Vital Throw",
 				"Rock Slide",
 				"Hidden Power Flying"
 			],
@@ -9222,7 +9254,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 31,
+			"level": 29,
 			"moves": [
 				"Belly Drum",
 				"Brick Break",
@@ -12089,8 +12121,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Fake Out",
 				"Surf",
-				"Giga Drain",
-				"Ice Beam"
+				"Magical Leaf",
+				"Ice Punch"
 			],
 			"nature": "Serious"
 		},
@@ -12597,7 +12629,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bullet Punch",
 				"Vital Throw",
 				"Reversal",
-				"Bulk Up"
+				"Smellingsalt"
 			],
 			"nature": "Serious"
 		},
@@ -12754,7 +12786,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 30,
 			"moves": [
 				"Vital Throw",
 				"Seismic Toss",
@@ -12774,7 +12806,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 31,
+			"level": 29,
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
@@ -12827,26 +12859,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Magcargo": {
-		"Kindler Hayden [#707]": {
-			"ability": "Flame Body",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Flamethrower",
-				"Ancientpower",
-				"Recover",
-				"Will-O-Wisp"
-			],
-			"nature": "Serious"
-		},
 		"Kindler Jeff [#202]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
@@ -13106,26 +13118,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Cross Chop",
 				"Solarbeam"
-			],
-			"nature": "Serious"
-		},
-		"Kindler Hayden [#707]": {
-			"ability": "Flame Body",
-			"item": "Charcoal",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Flamethrower",
-				"Thunderpunch",
-				"Brick Break",
-				"Fire Spin"
 			],
 			"nature": "Serious"
 		},
@@ -14584,7 +14576,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 30,
+			"level": 31,
 			"moves": [
 				"Brick Break",
 				"Rock Slide"
@@ -15267,7 +15259,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Thick Fat",
-			"item": "Leftovers",
+			"item": "Black Belt",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15652,6 +15644,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Fire Blast",
 				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Youngster Timmy [#334]": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 41,
+			"moves": [
+				"Sludge Bomb",
+				"Fire Punch",
+				"Thunderpunch",
+				"Mud Shot"
 			],
 			"nature": "Serious"
 		}
@@ -16241,7 +16253,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Aerial Ace",
 				"Giga Drain",
-				"Dig"
+				"Shadow Ball"
 			],
 			"nature": "Serious"
 		}
@@ -16899,7 +16911,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 30,
+			"level": 31,
 			"moves": [
 				"Surf",
 				"Wing Attack",
@@ -17332,7 +17344,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
-				"Superpower",
+				"Brick Break",
 				"Earthquake"
 			],
 			"nature": "Serious"
@@ -17734,7 +17746,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 30,
+			"level": 31,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -17845,7 +17857,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Swift Swim",
-			"item": "Lum Berry",
+			"item": "Oran Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18176,7 +18188,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 30,
+			"level": 29,
 			"moves": [
 				"Karate Chop",
 				"Seismic Toss",
@@ -18200,8 +18212,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Bulk Up",
 				"Brick Break",
-				"Sludge Bomb",
-				"Rock Slide"
+				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
@@ -18749,6 +18760,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Weather Ball",
 				"Extrasensory",
 				"Extremespeed"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Ralts": {
+		"Pokã©Mon Trainer Wally [#656]": {
+			"ability": "Trace",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 12,
+			"moves": [
+				"Confusion",
+				"Shock Wave",
+				"Calm Mind"
 			],
 			"nature": "Serious"
 		}
@@ -19325,6 +19356,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mean Look",
 				"Seismic Toss",
 				"Recover"
+			],
+			"nature": "Serious"
+		},
+		"Ninja Boy Lao [#419]": {
+			"ability": "Keen Eye",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 42,
+			"moves": [
+				"Shadow Ball",
+				"Brick Break",
+				"Fire Punch",
+				"Thunderpunch"
 			],
 			"nature": "Serious"
 		},
@@ -23205,7 +23256,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 30,
 			"moves": [
-				"Double-Edge",
+				"Take Down",
 				"Iron Tail",
 				"Blizzard",
 				"Quick Attack"
@@ -24904,7 +24955,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Encore"
 			],
 			"nature": "Serious"
@@ -25050,6 +25101,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Vigoroth": {
+		"Camper Travis [#218]": {
+			"ability": "Vital Spirit",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 42,
+			"moves": [
+				"Crush Claw",
+				"Ice Beam",
+				"Aerial Ace",
+				"Brick Break"
+			],
+			"nature": "Serious"
+		},
 		"School Kid Karen [#280]": {
 			"ability": "Vital Spirit",
 			"item": "Silk Scarf",
@@ -25353,6 +25424,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Blizzard",
 				"Selfdestruct",
 				"Iron Head"
+			],
+			"nature": "Serious"
+		},
+		"Picnicker Carol [#471]": {
+			"ability": "Water Veil",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 42,
+			"moves": [
+				"Surf",
+				"Bounce",
+				"Body Slam",
+				"Amnesia"
 			],
 			"nature": "Serious"
 		},
@@ -26174,23 +26265,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Wigglytuff": {
-		"Camper Larry [#213]": {
-			"ability": "Cute Charm",
-			"item": "Choice Band",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Hyper Voice"
-			],
-			"nature": "Serious"
-		},
 		"Lass Andrea [#613]": {
 			"ability": "Cute Charm",
 			"item": "Lum Berry",
@@ -26826,7 +26900,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 31,
+			"level": 30,
 			"moves": [
 				"Facade",
 				"Brick Break",

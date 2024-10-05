@@ -555,9 +555,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Flygon"
 	],
 	"Camper Larry [#213]": [
-		"Exploud",
-		"Altaria",
-		"Wigglytuff"
+		"Ditto"
 	],
 	"Team Magma Grunt [#214]": [
 		"Kangaskhan",
@@ -573,7 +571,8 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Camper Travis [#218]": [
 		"Jumpluff",
 		"Piloswine",
-		"Shelgon"
+		"Shelgon",
+		"Vigoroth"
 	],
 	"Bug Maniac Jeffrey [#226]": [
 		"Ditto"
@@ -819,9 +818,10 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Slakoth"
 	],
 	"Youngster Timmy [#334]": [
-		"Venomoth",
+		"Muk",
 		"Lairon",
-		"Shiftry"
+		"Shiftry",
+		"Venomoth"
 	],
 	"Champion Wallace [#335]": [
 		"Milotic",
@@ -921,7 +921,8 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Ninja Boy Lao [#419]": [
 		"Ninjask",
 		"Koffing",
-		"Ariados"
+		"Ariados",
+		"Sableye"
 	],
 	"Battle Girl Jocelyn [#425]": [
 		"Tauros",
@@ -957,7 +958,8 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Picnicker Carol [#471]": [
 		"Pidgeot",
 		"Mawile",
-		"Xatu"
+		"Xatu",
+		"Wailord"
 	],
 	"Team Magma Grunt [#472]": [
 		"Whiscash",
@@ -1394,6 +1396,9 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Mantine",
 		"Lanturn"
 	],
+	"Pokã©Mon Trainer Wally [#656]": [
+		"Ralts"
+	],
 	"Twins Tori & Tia [#677]": [
 		"Ursaring",
 		"Golbat"
@@ -1401,7 +1406,8 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Pokéfan Kaleb [#699]": [
 		"Pikachu",
 		"Gligar",
-		"Chimecho"
+		"Chimecho",
+		"Absol"
 	],
 	"Guitarist Joseph [#700]": [
 		"Electrike",
@@ -1416,12 +1422,17 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Camper Tyron [#704]": [
 		"Sandslash",
 		"Arbok",
-		"Ampharos"
+		"Ampharos",
+		"Glalie"
 	],
 	"Aroma Lady Celina [#705]": [
 		"Breloom",
 		"Pelipper",
-		"Clefable"
+		"Clefable",
+		"Crawdaunt"
+	],
+	"Kindler Hayden [#707]": [
+		"Ditto"
 	],
 	"Team Magma Grunt [#712]": [
 		"Azumarill",

@@ -82,7 +82,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Camper Tyron [#704]",
 	"Camper Travis [#218]",
 
-	"Camper Larry [#213]",
 	"Picnicker Carol [#471]",
 	"Hiker Brice [#626]",
 	"Hiker Trent [#627]",
