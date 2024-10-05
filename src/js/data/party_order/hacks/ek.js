@@ -1331,11 +1331,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Dustox",
 		"Beautifly"
 	],
-	"Hiker Brice [#626]": [
-		"Machoke",
-		"Marowak",
-		"Nosepass"
-	],
 	"Hiker Trent [#627]": [
 		"Stantler",
 		"Golem",

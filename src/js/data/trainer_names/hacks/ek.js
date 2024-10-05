@@ -83,7 +83,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Camper Travis [#218]",
 
 	"Picnicker Carol [#471]",
-	"Hiker Brice [#626]",
 	"Hiker Trent [#627]",
 	"Aroma Lady Shayla [#747]",
 	"Cooltrainer Brooke [#94]",
