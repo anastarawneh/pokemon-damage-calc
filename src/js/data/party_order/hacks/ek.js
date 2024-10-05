@@ -1423,11 +1423,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Pelipper",
 		"Clefable"
 	],
-	"Kindler Hayden [#707]": [
-		"Magmar",
-		"Magcargo",
-		"Gligar"
-	],
 	"Team Magma Grunt [#712]": [
 		"Azumarill",
 		"Octillery",

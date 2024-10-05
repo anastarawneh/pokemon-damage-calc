@@ -80,7 +80,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 
 	"Aroma Lady Celina [#705]",
 	"Camper Tyron [#704]",
-	"Kindler Hayden [#707]",
 	"Camper Travis [#218]",
 
 	"Camper Larry [#213]",
