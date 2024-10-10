@@ -413,7 +413,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Rock Slide",
 				"Earthquake",
@@ -684,6 +684,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Claw",
 				"Fire Spin",
 				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
+		"Leader Flannery [#268]": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Heat Wave",
+				"Dragon Claw",
+				"Aerial Ace",
+				"Solarbeam"
 			],
 			"nature": "Serious"
 		},
@@ -958,7 +978,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 46,
+			"level": 45,
 			"moves": [
 				"Thunderbolt",
 				"Fire Punch",
@@ -1776,6 +1796,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Destiny Bond"
 			],
 			"nature": "Serious"
+		},
+		"Team Magma Grunt [#712]": {
+			"ability": "Insomnia",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Shadow Ball",
+				"Curse",
+				"Will-O-Wisp",
+				"Pain Split"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Bayleef": {
@@ -1880,7 +1920,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Sunny Day",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -2109,26 +2149,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Kindler Jace [#204]": {
-			"ability": "Blaze",
-			"item": "Charcoal",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Overheat",
-				"Sky Uppercut",
-				"Rock Slide",
-				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
@@ -2144,7 +2164,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Blaze Kick",
 				"Sky Uppercut",
-				"Hidden Power Grass",
+				"Solarbeam",
 				"Thunderpunch"
 			],
 			"nature": "Serious"
@@ -2868,7 +2888,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Flamethrower",
@@ -2991,7 +3011,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 42,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -3113,7 +3133,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Flamethrower",
 				"Aerial Ace",
-				"Dragon Rage",
+				"Dragonbreath",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -3189,7 +3209,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 47,
+			"level": 45,
 			"moves": [
 				"Thunderpunch",
 				"Earthquake",
@@ -4014,7 +4034,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Rock Slide",
 				"Surf",
@@ -4803,6 +4823,22 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Hiker Brice [#626]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
 		"Kindler Hayden [#707]": {
 			"ability": "Limber",
 			"ivs": {
@@ -4924,7 +4960,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 47,
 			"moves": [
 				"Drill Peck",
 				"Tri Attack",
@@ -4964,7 +5000,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Tri Attack",
 				"Drill Peck",
@@ -5067,7 +5103,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -5216,26 +5252,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Flamethrower",
 				"Thunderbolt"
-			],
-			"nature": "Serious"
-		},
-		"Leader Flannery [#268]": {
-			"ability": "Inner Focus",
-			"item": "Charcoal",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Dragon Claw",
-				"Aerial Ace",
-				"Heat Wave",
-				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -5683,6 +5699,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Ninja Boy Lao [#419]": {
+			"ability": "Keen Eye",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 42,
+			"moves": [
+				"Shadow Ball",
+				"Seismic Toss",
+				"Will-O-Wisp",
+				"Pain Split"
+			],
+			"nature": "Serious"
+		},
 		"Psychic Blake [#235]": {
 			"ability": "Keen Eye",
 			"item": "Lum Berry",
@@ -5908,26 +5944,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Electrode": {
-		"Camper Ethan [#216]": {
-			"ability": "Static",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Thunderbolt",
-				"Explosion",
-				"Signal Beam",
-				"Thunder Wave"
-			],
-			"nature": "Serious"
-		},
 		"Guitarist Dalton [#196]": {
 			"ability": "Static",
 			"item": "Silk Scarf",
@@ -6175,7 +6191,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Thunderbolt",
 				"Selfdestruct",
@@ -6340,7 +6356,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 73,
 			"moves": [
 				"Psychic",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Bite",
 				"Body Slam"
 			],
@@ -6704,9 +6720,9 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 44,
 			"moves": [
 				"Hyper Voice",
-				"Surf",
-				"Fire Blast",
-				"Thunder"
+				"Flamethrower",
+				"Brick Break",
+				"Thunderpunch"
 			],
 			"nature": "Serious"
 		},
@@ -6911,7 +6927,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Ice Beam",
 				"Aerial Ace",
-				"Double-Edge"
+				"Brick Break"
 			],
 			"nature": "Serious"
 		}
@@ -7542,7 +7558,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Hypnosis",
 				"Ice Punch",
-				"Magical Leaf"
+				"Calm Mind"
 			],
 			"nature": "Serious"
 		},
@@ -7959,7 +7975,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Explosion",
 				"Ice Beam",
@@ -7987,6 +8003,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"X-Scissor",
 				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
+		"Camper Ethan [#216]": {
+			"ability": "Hyper Cutter",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Earthquake",
+				"Aerial Ace",
+				"X-Scissor",
+				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
@@ -8224,7 +8260,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -9094,7 +9130,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 46,
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
@@ -9938,7 +9974,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 46,
+			"level": 45,
 			"moves": [
 				"Fire Blast",
 				"Crunch",
@@ -10063,12 +10099,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 47,
 			"moves": [
 				"Psychic",
 				"Hypnosis",
 				"Dream Eater",
-				"Ice Punch"
+				"Fire Punch"
 			],
 			"nature": "Serious"
 		},
@@ -11076,9 +11112,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 47,
 			"moves": [
-				"Dizzy Punch",
+				"Solarbeam",
 				"Rock Slide",
 				"Flamethrower",
 				"Aerial Ace"
@@ -12321,7 +12357,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Psychic",
 				"Rock Slide",
@@ -12814,26 +12850,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam"
 			],
 			"nature": "Serious"
-		},
-		"Hiker Brice [#626]": {
-			"ability": "Guts",
-			"item": "Hard Stone",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Vital Throw",
-				"Rock Slide",
-				"Facade",
-				"Mega Kick"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Machop": {
@@ -12870,11 +12886,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 47,
 			"moves": [
 				"Heat Wave",
 				"Ancientpower",
-				"Explosion",
+				"Earthquake",
 				"Fire Spin"
 			],
 			"nature": "Serious"
@@ -12990,7 +13006,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Heat Wave",
 				"Ancientpower",
@@ -13132,7 +13148,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Flamethrower",
 				"Thunderpunch",
@@ -13555,12 +13571,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Thunderbolt",
 				"Flamethrower",
 				"Iron Tail",
-				"Bite"
+				"Crunch"
 			],
 			"nature": "Serious"
 		},
@@ -13968,25 +13984,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Hiker Brice [#626]": {
-			"ability": "Rock Head",
-			"item": "Thick Club",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Bonemerang",
-				"Double-Edge",
-				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
 		"Hiker Clark [#631]": {
 			"ability": "Rock Head",
 			"ivs": {
@@ -14056,11 +14053,10 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
-				"Bonemerang",
+				"Earthquake",
 				"Double-Edge",
-				"Headbutt",
 				"Brick Break"
 			],
 			"nature": "Serious"
@@ -16086,7 +16082,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Flamethrower",
 				"Extrasensory",
@@ -16339,25 +16335,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Nosepass": {
-		"Hiker Brice [#626]": {
-			"ability": "Battle Armor",
-			"item": "Silk Scarf",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Earthquake",
-				"Rock Slide",
-				"Selfdestruct"
-			],
-			"nature": "Serious"
-		},
 		"Hiker Marc [#571]": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -17580,11 +17557,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"X-Scissor",
 				"Superpower",
-				"Rock Slide",
+				"Aerial Ace",
 				"Brick Break"
 			],
 			"nature": "Serious"
@@ -18216,6 +18193,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Hiker Eric [#632]": {
+			"ability": "Vital Spirit",
+			"item": "Black Belt",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Cross Chop",
+				"Earthquake",
+				"Body Slam",
+				"Bulk Up"
+			],
+			"nature": "Serious"
+		},
 		"Lady Daphne [#115]": {
 			"ability": "Vital Spirit",
 			"item": "Lum Berry",
@@ -18816,7 +18813,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 45,
 			"moves": [
 				"Heat Wave",
 				"Bounce",
@@ -20286,7 +20283,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 46,
 			"moves": [
 				"Poison Tail",
 				"Flamethrower",
@@ -22550,6 +22547,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Camper Ethan [#216]": {
+			"ability": "Rock Head",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Earthquake",
+				"Iron Head",
+				"Hyper Beam",
+				"Curse"
+			],
+			"nature": "Serious"
+		},
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -22561,7 +22578,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -22989,7 +23006,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 99,
+			"level": 100,
 			"moves": [
 				"Earthquake",
 				"Muddy Water",
@@ -23151,7 +23168,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 45,
 			"moves": [
 				"Aerial Ace",
 				"Steel Wing",
@@ -23373,7 +23390,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 46,
+			"level": 45,
 			"moves": [
 				"Double-Edge",
 				"Thunderbolt",
@@ -23967,6 +23984,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Kindler Axle [#203]": {
+			"ability": "Chlorophyll",
+			"item": "Miracle Seed",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 46,
+			"moves": [
+				"Solarbeam",
+				"Weather Ball~3",
+				"Aerial Ace",
+				"Body Slam"
+			],
+			"nature": "Serious"
+		},
 		"Leader Winona [#790]": {
 			"ability": "Chlorophyll",
 			"ivs": {
@@ -24216,7 +24253,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"Flamethrower",
 				"Double-Edge",
@@ -24936,7 +24973,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		},
@@ -24975,7 +25012,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball"
+				"Weather Ball~3"
 			],
 			"nature": "Serious"
 		},
@@ -25074,7 +25111,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Synthesis"
 			],
 			"nature": "Serious"
@@ -25157,7 +25194,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Moonlight"
 			],
 			"nature": "Serious"
@@ -25217,7 +25254,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Toxic"
 			],
 			"nature": "Serious"
@@ -26216,7 +26253,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Muddy Water",
@@ -26359,25 +26396,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 31,
-			"moves": [
-				"Counter",
-				"Mirror Coat",
-				"Destiny Bond"
-			],
-			"nature": "Serious"
-		},
-		"Kindler Axle [#203]": {
-			"ability": "Shadow Tag",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
 			"moves": [
 				"Counter",
 				"Mirror Coat",
@@ -26880,9 +26898,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 42,
 			"moves": [
-				"Slash",
+				"Crush Claw",
 				"Brick Break",
 				"X-Scissor",
 				"Quick Attack"

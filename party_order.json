@@ -516,14 +516,13 @@
 	"Kindler Axle [#203]": [
 		"Scyther",
 		"Magmar",
-		"Wobbuffet",
+		"Tropius",
 		"Dugtrio"
 	],
 	"Kindler Jace [#204]": [
 		"Magmar",
 		"Claydol",
 		"Manectric",
-		"Blaziken",
 		"Aggron"
 	],
 	"Tuber Keegan [#205]": [
@@ -564,8 +563,9 @@
 	],
 	"Camper Ethan [#216]": [
 		"Golduck",
-		"Electrode",
-		"Linoone"
+		"Gligar",
+		"Linoone",
+		"Steelix"
 	],
 	"Camper Travis [#218]": [
 		"Jumpluff",
@@ -707,9 +707,9 @@
 		"Charizard",
 		"Solrock",
 		"Houndoom",
-		"Arcanine",
+		"Altaria",
 		"Victreebel",
-		"Dragonite"
+		"Arcanine"
 	],
 	"Leader Norman [#269]": [
 		"Tauros",
@@ -921,7 +921,8 @@
 		"Ninjask",
 		"Koffing",
 		"Ariados",
-		"Sableye"
+		"Sableye",
+		"Dusclops"
 	],
 	"Battle Girl Jocelyn [#425]": [
 		"Tauros",
@@ -1331,9 +1332,7 @@
 		"Beautifly"
 	],
 	"Hiker Brice [#626]": [
-		"Machoke",
-		"Marowak",
-		"Nosepass"
+		"Ditto"
 	],
 	"Hiker Trent [#627]": [
 		"Stantler",
@@ -1360,7 +1359,8 @@
 	"Hiker Eric [#632]": [
 		"Lunatone",
 		"Corsola",
-		"Donphan"
+		"Donphan",
+		"Primeape"
 	],
 	"Hiker Mike [#635]": [
 		"Geodude",
@@ -1437,7 +1437,8 @@
 		"Azumarill",
 		"Octillery",
 		"Camerupt",
-		"Manectric"
+		"Manectric",
+		"Banette"
 	],
 	"Youngster Deandre [#715]": [
 		"Ditto"

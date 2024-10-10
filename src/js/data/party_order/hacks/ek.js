@@ -517,14 +517,13 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Kindler Axle [#203]": [
 		"Scyther",
 		"Magmar",
-		"Wobbuffet",
+		"Tropius",
 		"Dugtrio"
 	],
 	"Kindler Jace [#204]": [
 		"Magmar",
 		"Claydol",
 		"Manectric",
-		"Blaziken",
 		"Aggron"
 	],
 	"Tuber Keegan [#205]": [
@@ -565,8 +564,9 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Camper Ethan [#216]": [
 		"Golduck",
-		"Electrode",
-		"Linoone"
+		"Gligar",
+		"Linoone",
+		"Steelix"
 	],
 	"Camper Travis [#218]": [
 		"Jumpluff",
@@ -708,9 +708,9 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Charizard",
 		"Solrock",
 		"Houndoom",
-		"Arcanine",
+		"Altaria",
 		"Victreebel",
-		"Dragonite"
+		"Arcanine"
 	],
 	"Leader Norman [#269]": [
 		"Tauros",
@@ -922,7 +922,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Ninjask",
 		"Koffing",
 		"Ariados",
-		"Sableye"
+		"Sableye",
+		"Dusclops"
 	],
 	"Battle Girl Jocelyn [#425]": [
 		"Tauros",
@@ -1331,6 +1332,9 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Dustox",
 		"Beautifly"
 	],
+	"Hiker Brice [#626]": [
+		"Ditto"
+	],
 	"Hiker Trent [#627]": [
 		"Stantler",
 		"Golem",
@@ -1356,7 +1360,8 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Hiker Eric [#632]": [
 		"Lunatone",
 		"Corsola",
-		"Donphan"
+		"Donphan",
+		"Primeape"
 	],
 	"Hiker Mike [#635]": [
 		"Geodude",
@@ -1433,7 +1438,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Azumarill",
 		"Octillery",
 		"Camerupt",
-		"Manectric"
+		"Manectric",
+		"Banette"
 	],
 	"Youngster Deandre [#715]": [
 		"Ditto"
