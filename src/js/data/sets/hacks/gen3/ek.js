@@ -4023,26 +4023,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Corsola": {
-		"Hiker Eric [#632]": {
-			"ability": "Natural Cure",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Rock Slide",
-				"Surf",
-				"Ice Beam",
-				"Mirror Coat"
-			],
-			"nature": "Serious"
-		},
 		"Hiker Marc [#571]": {
 			"ability": "Natural Cure",
 			"item": "Lum Berry",
@@ -4807,6 +4787,22 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Camper Ethan [#216]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
 		"Camper Larry [#213]": {
 			"ability": "Limber",
 			"ivs": {
@@ -4824,6 +4820,22 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Hiker Brice [#626]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Hiker Eric [#632]": {
 			"ability": "Limber",
 			"ivs": {
 				"at": 0,
@@ -5092,26 +5104,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Hiker Eric [#632]": {
-			"ability": "Battle Armor",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Earthquake",
-				"Rock Slide",
-				"Flail",
-				"Superpower"
-			],
-			"nature": "Serious"
-		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Battle Armor",
 			"item": "Focus Band",
@@ -5193,6 +5185,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Dragonair": {
+		"Kindler Axle [#203]": {
+			"ability": "Shed Skin",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Outrage",
+				"Flamethrower",
+				"Thunderbolt",
+				"Extremespeed"
+			],
+			"nature": "Serious"
+		},
 		"Leader Winona [#791]": {
 			"ability": "Shed Skin",
 			"item": "Sitrus Berry",
@@ -5515,26 +5527,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Earthquake",
 				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
-		"Kindler Axle [#203]": {
-			"ability": "Arena Trap",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Earthquake",
-				"Aerial Ace",
-				"Rock Slide",
-				"Sand Tomb"
 			],
 			"nature": "Serious"
 		},
@@ -8006,26 +7998,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Camper Ethan [#216]": {
-			"ability": "Hyper Cutter",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Earthquake",
-				"Aerial Ace",
-				"X-Scissor",
-				"Sludge Bomb"
-			],
-			"nature": "Serious"
-		},
 		"Pokéfan Kaleb [#699]": {
 			"ability": "Hyper Cutter",
 			"item": "Sharp Beak",
@@ -8107,26 +8079,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Golduck": {
-		"Camper Ethan [#216]": {
-			"ability": "Swift Swim",
-			"item": "Mystic Water",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Hydro Pump",
-				"Ice Beam",
-				"Psychic",
-				"Hypnosis"
-			],
-			"nature": "Serious"
-		},
 		"Fisherman Ned [#340]": {
 			"ability": "Swift Swim",
 			"item": "Sitrus Berry",
@@ -12020,26 +11972,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Linoone": {
-		"Camper Ethan [#216]": {
-			"ability": "Guts",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Belly Drum",
-				"Double-Edge",
-				"Facade",
-				"Dig"
-			],
-			"nature": "Serious"
-		},
 		"Camper Flint [#654]": {
 			"ability": "Guts",
 			"item": "Silk Scarf",
@@ -12346,26 +12278,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Lunatone": {
-		"Hiker Eric [#632]": {
-			"ability": "Levitate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Psychic",
-				"Rock Slide",
-				"Moonlight",
-				"Cosmic Power"
-			],
-			"nature": "Serious"
-		},
 		"Leader Tate&Liza [#794]": {
 			"ability": "Levitate",
 			"item": "Chesto Berry",
@@ -18193,26 +18105,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Hiker Eric [#632]": {
-			"ability": "Vital Spirit",
-			"item": "Black Belt",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Cross Chop",
-				"Earthquake",
-				"Body Slam",
-				"Bulk Up"
-			],
-			"nature": "Serious"
-		},
 		"Lady Daphne [#115]": {
 			"ability": "Vital Spirit",
 			"item": "Lum Berry",
@@ -22544,26 +22436,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Iron Tail",
 				"Double-Edge"
-			],
-			"nature": "Serious"
-		},
-		"Camper Ethan [#216]": {
-			"ability": "Rock Head",
-			"item": "Silk Scarf",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Earthquake",
-				"Iron Head",
-				"Hyper Beam",
-				"Curse"
 			],
 			"nature": "Serious"
 		},

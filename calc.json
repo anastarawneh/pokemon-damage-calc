@@ -5018,12 +5018,12 @@
 			"moves":["Solarbeam", "Weather Ball~3", "Aerial Ace", "Body Slam"],
 			"level":46
 		},
-		"Dugtrio_4":{
-			"ability":"Arena Trap",
+		"Dragonair_4":{
+			"ability":"Shed Skin",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Aerial Ace", "Rock Slide", "Sand Tomb"],
+			"moves":["Outrage", "Flamethrower", "Thunderbolt", "Extremespeed"],
 			"level":45
 		}
 	},
@@ -5338,37 +5338,12 @@
 		}
 	},
 	"Camper Ethan_216":{
-		"Golduck_1":{
-			"ability":"Swift Swim",
-			"item":"Mystic Water",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Hydro Pump", "Ice Beam", "Psychic", "Hypnosis"],
-			"level":44
-		},
-		"Gligar_2":{
-			"ability":"Hyper Cutter",
-			"item":"Sitrus Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Aerial Ace", "X-Scissor", "Sludge Bomb"],
-			"level":44
-		},
-		"Linoone_3":{
-			"ability":"Guts",
-			"item":"Sitrus Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Belly Drum", "Double-Edge", "Facade", "Dig"],
-			"level":44
-		},
-		"Steelix_4":{
-			"ability":"Rock Head",
-			"item":"Silk Scarf",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Iron Head", "Hyper Beam", "Curse"],
-			"level":44
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Picnicker Autumn_217":{
@@ -14520,37 +14495,12 @@
 		}
 	},
 	"Hiker Eric_632":{
-		"Lunatone_1":{
-			"ability":"Levitate",
-			"item":"Lum Berry",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Psychic", "Rock Slide", "Moonlight", "Cosmic Power"],
-			"level":44
-		},
-		"Corsola_2":{
-			"ability":"Natural Cure",
-			"item":"Lum Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Rock Slide", "Surf", "Ice Beam", "Mirror Coat"],
-			"level":44
-		},
-		"Donphan_3":{
-			"ability":"Battle Armor",
-			"item":"Lum Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Rock Slide", "Flail", "Superpower"],
-			"level":44
-		},
-		"Primeape_4":{
-			"ability":"Vital Spirit",
-			"item":"Black Belt",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Cross Chop", "Earthquake", "Body Slam", "Bulk Up"],
-			"level":44
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Hiker Lucas_633":{

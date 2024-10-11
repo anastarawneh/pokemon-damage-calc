@@ -518,7 +518,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Scyther",
 		"Magmar",
 		"Tropius",
-		"Dugtrio"
+		"Dragonair"
 	],
 	"Kindler Jace [#204]": [
 		"Magmar",
@@ -563,10 +563,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Nidoking"
 	],
 	"Camper Ethan [#216]": [
-		"Golduck",
-		"Gligar",
-		"Linoone",
-		"Steelix"
+		"Ditto"
 	],
 	"Camper Travis [#218]": [
 		"Jumpluff",
@@ -1358,10 +1355,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Heracross"
 	],
 	"Hiker Eric [#632]": [
-		"Lunatone",
-		"Corsola",
-		"Donphan",
-		"Primeape"
+		"Ditto"
 	],
 	"Hiker Mike [#635]": [
 		"Geodude",
