@@ -199,7 +199,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Bellossom",
 		"Manectric"
 	],
-	"Cooltrainer Felix [#38]": [
+	"Hiker Adrian [#38]": [
 		"Linoone",
 		"Heracross",
 		"Absol",
