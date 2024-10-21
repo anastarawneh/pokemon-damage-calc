@@ -714,7 +714,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Porygon2",
 		"Slaking",
 		"Azumarill",
-		"Dugtrio",
+		"Clefable",
 		"Snorlax"
 	],
 	"Leader Winona [#270]": [

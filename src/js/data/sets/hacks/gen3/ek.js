@@ -3761,6 +3761,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+			"Leader Norman [#269]": {
+				"ability": "Cute Charm",
+				"item": "Leftovers",
+				"ivs": {
+					"at": 31,
+					"df": 31,
+					"hp": 31,
+					"sa": 31,
+					"sd": 31,
+					"sp": 31
+				},
+				"level": 52,
+				"moves": [
+					"Flamethrower",
+					"Ice Beam",
+					"Softboiled",
+					"Calm Mind"
+				],
+				"nature": "Serious"
+		},
 		"Cooltrainer Mitchell [#540]": {
 			"ability": "Cute Charm",
 			"item": "Leftovers",
@@ -5530,26 +5550,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Leader Norman [#269]": {
-			"ability": "Arena Trap",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 52,
-			"moves": [
-				"Earthquake",
-				"Aerial Ace",
-				"Hidden Power Bug",
-				"Rock Slide"
-			],
-			"nature": "Serious"
-		},
+
 		"Picnicker Heidi [#469]": {
 			"ability": "Arena Trap",
 			"item": "Lum Berry",
