@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <title>Pok&eacute;mon Damage Calculator</title>
     <link type="text/css" rel="stylesheet" href="./js/vendor/select2/select2.css" />
-    <link type="text/css" rel="stylesheet" href="./css/main.css?10e749cf" />
+    <link type="text/css" rel="stylesheet" href="./css/main.css?4d61fa34" />
     <link type="text/css" rel="stylesheet" href="./css/vendor/bootstrap.css" />
     <link type="text/css" rel="stylesheet" href="./css/dark-theme.css" id="dark-theme-styles">
     <!-- Immediately loads the dark theme in order to reduce FOIT -->
@@ -23,6 +23,31 @@
 </head>
 
 <body class="dark-theme">
+<div class="hide" id="settings-container">
+    <fieldset>
+        <legend align="center">Settings</legend>
+        <legend align="center">Switch-in Guide</legend>
+        <span class="switchGuideSelection" aria-labelledby="selectSwitchGuideInstruction" role="radiogroup" title="Toggle the Switch-in Guide.">
+            <span class="visually-hidden" id="selectSwitchGuideInstruction">Toggle the Switch-in Guide.</span>
+            <input class="visually-hidden" type="radio" name="switchGuide" value="On" id="switchGuideOn" checked="checked" /><label class="btn btn-left" for="switchGuideOn">Enabled</label>
+            <input class="visually-hidden" type="radio" name="switchGuide" value="Off" id="switchGuideOff" /><label class="btn btn-right" for="switchGuideOff">Disabled</label>
+        </span>
+        <hr />
+        <legend align="center">Risky AI Alerts</legend>
+        <span class="riskyAISelection" aria-labelledby="selectRiskyAIInstruction" role="radiogroup" title="Toggle Risky AI alerts.">
+            <span class="visually-hidden" id="selectRiskyAIInstruction">Toggle the Switch-in Guide.</span>
+            <input class="visually-hidden" type="radio" name="riskyAI" value="On" id="riskyAIOn" checked="checked" /><label class="btn btn-left" for="riskyAIOn">Enabled</label>
+            <input class="visually-hidden" type="radio" name="riskyAI" value="Off" id="riskyAIOff" /><label class="btn btn-right" for="riskyAIOff">Disabled</label>
+        </span>
+        <hr />
+        <legend align="center">Switch-Out Alerts</legend>
+        <span class="switchOutSelection" aria-labelledby="selectSwitchOutInstruction" role="radiogroup" title="Toggle Switch-Out alerts.">
+            <span class="visually-hidden" id="selectSwitchOutInstruction">Toggle Switch-Out alerts.</span>
+            <input class="visually-hidden" type="radio" name="switchOut" value="On" id="switchOutOn" checked="checked" /><label class="btn btn-left" for="switchOutOn">Enabled</label>
+            <input class="visually-hidden" type="radio" name="switchOut" value="Off" id="switchOutOff" /><label class="btn btn-right" for="switchOutOff">Disabled</label>
+        </span>
+    </fieldset>
+</div>
 
 <nav hidden><div class="header"><div class="header-inner">
     <ul class="nav">
@@ -70,6 +95,7 @@
             <input class="gamemode visually-hidden" type="radio" name="gamemode" id="vanilla" /><label class="btn btn-left btn-wide" for="vanilla">Vanilla</label>
             <input class="gamemode visually-hidden" type="radio" name="gamemode" id="hacks" checked="checked" /><label class="btn btn-right btn-wide" for="hacks">ROM Hacks</label>
         </span>
+        <button class="btn" id="settings">Settings</button>
         <br />
         <span class="gameSelection" aria-labelledby="selectGameInstruction" role="radiogroup" title="Select the game." style="padding-top: 5px;">
             <span class="visually-hidden" id="selectGameInstruction">Select the game.</span>
@@ -1914,11 +1940,12 @@
     <script type="text/javascript" src="./calc/result.js?9f8881b5"></script>
     <script type="text/javascript" src="./calc/adaptable.js?92e49194"></script>
     <script type="text/javascript" src="./calc/index.js?b8906f6c"></script>
-    <script type="text/javascript" src="./js/shared_controls.js?9055be8c"></script>
+    <script type="text/javascript" src="./js/settings.js?7b1dc386"></script>
+    <script type="text/javascript" src="./js/shared_controls.js?62f0a19a"></script>
     <script type="text/javascript" src="./js/index_randoms_controls.js?880df9ae"></script>
     <script type="text/javascript" src="./js/moveset_import.js?bf536856"></script>
 
-    <script type="text/javascript" src="./js/game_controls.js?337a6721"></script>
+    <script type="text/javascript" src="./js/game_controls.js?2540da45"></script>
 </div>
 
 <div class="credits">Original calculator created by Honko, maintained by Austin and Kris

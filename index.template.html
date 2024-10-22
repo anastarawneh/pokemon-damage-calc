@@ -23,6 +23,31 @@
 </head>
 
 <body class="dark-theme">
+<div class="hide" id="settings-container">
+    <fieldset>
+        <legend align="center">Settings</legend>
+        <legend align="center">Switch-in Guide</legend>
+        <span class="switchGuideSelection" aria-labelledby="selectSwitchGuideInstruction" role="radiogroup" title="Toggle the Switch-in Guide.">
+            <span class="visually-hidden" id="selectSwitchGuideInstruction">Toggle the Switch-in Guide.</span>
+            <input class="visually-hidden" type="radio" name="switchGuide" value="On" id="switchGuideOn" checked="checked" /><label class="btn btn-left" for="switchGuideOn">Enabled</label>
+            <input class="visually-hidden" type="radio" name="switchGuide" value="Off" id="switchGuideOff" /><label class="btn btn-right" for="switchGuideOff">Disabled</label>
+        </span>
+        <hr />
+        <legend align="center">Risky AI Alerts</legend>
+        <span class="riskyAISelection" aria-labelledby="selectRiskyAIInstruction" role="radiogroup" title="Toggle Risky AI alerts.">
+            <span class="visually-hidden" id="selectRiskyAIInstruction">Toggle the Switch-in Guide.</span>
+            <input class="visually-hidden" type="radio" name="riskyAI" value="On" id="riskyAIOn" checked="checked" /><label class="btn btn-left" for="riskyAIOn">Enabled</label>
+            <input class="visually-hidden" type="radio" name="riskyAI" value="Off" id="riskyAIOff" /><label class="btn btn-right" for="riskyAIOff">Disabled</label>
+        </span>
+        <hr />
+        <legend align="center">Switch-Out Alerts</legend>
+        <span class="switchOutSelection" aria-labelledby="selectSwitchOutInstruction" role="radiogroup" title="Toggle Switch-Out alerts.">
+            <span class="visually-hidden" id="selectSwitchOutInstruction">Toggle Switch-Out alerts.</span>
+            <input class="visually-hidden" type="radio" name="switchOut" value="On" id="switchOutOn" checked="checked" /><label class="btn btn-left" for="switchOutOn">Enabled</label>
+            <input class="visually-hidden" type="radio" name="switchOut" value="Off" id="switchOutOff" /><label class="btn btn-right" for="switchOutOff">Disabled</label>
+        </span>
+    </fieldset>
+</div>
 
 <nav hidden><div class="header"><div class="header-inner">
     <ul class="nav">
@@ -70,6 +95,7 @@
             <input class="gamemode visually-hidden" type="radio" name="gamemode" id="vanilla" checked="checked" /><label class="btn btn-left btn-wide" for="vanilla">Vanilla</label>
             <input class="gamemode visually-hidden" type="radio" name="gamemode" id="hacks" /><label class="btn btn-right btn-wide" for="hacks">ROM Hacks</label>
         </span>
+        <button class="btn" id="settings">Settings</button>
         <br />
         <span class="gameSelection" aria-labelledby="selectGameInstruction" role="radiogroup" title="Select the game." style="padding-top: 5px;">
             <span class="visually-hidden" id="selectGameInstruction">Select the game.</span>
@@ -1936,6 +1962,7 @@
     <script type="text/javascript" src="./calc/result.js?"></script>
     <script type="text/javascript" src="./calc/adaptable.js?"></script>
     <script type="text/javascript" src="./calc/index.js?"></script>
+    <script type="text/javascript" src="./js/settings.js?"></script>
     <script type="text/javascript" src="./js/shared_controls.js?"></script>
     <script type="text/javascript" src="./js/index_randoms_controls.js?"></script>
     <script type="text/javascript" src="./js/moveset_import.js?"></script>

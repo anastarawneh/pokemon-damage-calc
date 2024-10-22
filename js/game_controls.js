@@ -36,6 +36,7 @@ $(".game").change(function() {
 	$(".gen-specific").not(".g" + gen).hide();
 	$(".game-specific.gm" + gameId).show();
 	$(".game-specific").not(".gm" + gameId).hide();
+	setSwitchGuide();
 
 	if (gameId > 0 && GAME_FEATURES[game].sync) $("#sync.bs-btn").show();
 	else $("#sync.bs-btn").hide();
