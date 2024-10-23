@@ -201,7 +201,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Hiker Adrian [#38]": [
 		"Linoone",
-		"Heracross",
+		"Metagross",
 		"Absol",
 		"Jynx",
 		"Blastoise",
@@ -211,7 +211,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Kabutops",
 		"Cradily",
 		"Nidoqueen",
-		"Swampert"
+		"Swampert",
+		"Primeape"
 	],
 	"Cooltrainer Randall [#71]": [
 		"Ninjask",
@@ -292,8 +293,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Poliwrath"
 	],
 	"Cooltrainer Mary [#89]": [
-		"Swellow",
 		"Starmie",
+		"Swellow",
 		"Scyther",
 		"Hariyama",
 		"Delcatty",
@@ -463,7 +464,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Black Belt Daisuke [#189]": [
 		"Machamp",
 		"Steelix",
-		"Magneton",
+		"Clefable",
 		"Breloom",
 		"Poliwrath"
 	],
@@ -680,7 +681,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Leader Roxanne [#265]": [
 		"Shuckle",
 		"Metang",
-		"Sandslash",
+		"Cubone",
 		"Relicanth",
 		"Magcargo",
 		"Skarmory"
@@ -942,9 +943,10 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Picnicker Heidi [#469]": [
 		"Alakazam",
-		"Dugtrio",
+		"Typhlosion",
 		"Scizor",
-		"Golem"
+		"Golem",
+		"Miltank"
 	],
 	"Picnicker Becky [#470]": [
 		"Nidoking",
@@ -1351,7 +1353,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Medicham"
 	],
 	"Hiker Clark [#631]": [
-		"Marowak",
+		"Sandslash",
 		"Heracross"
 	],
 	"Hiker Eric [#632]": [

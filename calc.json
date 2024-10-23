@@ -1370,21 +1370,21 @@
 			"level":58
 		}
 	},
-	"Cooltrainer Felix_038":{
+	"Hiker Adrian_038":{
 		"Linoone_1":{
 			"ability":"Guts",
-			"item":"Brightpowder",
+			"item":"Focus Band",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Extremespeed", "Hidden Power~13", "Shadow Ball", "Belly Drum"],
 			"level":96
 		},
-		"Heracross_2":{
-			"ability":"Swarm",
-			"item":"Lum Berry",
+		"Metagross_2":{
+			"ability":"Battle Armor",
+			"item":"Metal Coat",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Megahorn", "Brick Break", "Reversal", "Substitute"],
+			"moves":["Meteor Mash", "Psybeam", "Thunderpunch", "Explosion"],
 			"level":97
 		},
 		"Absol_3":{
@@ -1528,7 +1528,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Rock Slide", "Giga Drain", "Recover", "Mirror Coat"],
+			"moves":["Earthquake", "Giga Drain", "Recover", "Mirror Coat"],
 			"level":48
 		},
 		"Nidoqueen_3":{
@@ -1545,6 +1545,14 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Muddy Water", "Rock Slide", "Toxic"],
+			"level":48
+		},
+		"Primeape_5":{
+			"ability":"Vital Spirit",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Brick Break", "Rock Slide", "Body Slam", "Sludge Bomb"],
 			"level":48
 		}
 	},
@@ -2150,7 +2158,7 @@
 			"item":"Hard Stone",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Rock Slide", "Earthquake", "Megahorn", "Double-Edge"],
+			"moves":["Rock Slide", "Earthquake", "Brick Break", "Double-Edge"],
 			"level":48
 		},
 		"Weezing_4":{
@@ -2521,20 +2529,20 @@
 		}
 	},
 	"Cooltrainer Mary_089":{
-		"Swellow_1":{
+		"Starmie_1":{
+			"ability":"Natural Cure",
+			"item":"Sitrus Berry",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Shock Wave", "Surf", "Reflect", "Light Screen"],
+			"level":51
+		},
+		"Swellow_2":{
 			"ability":"Guts",
 			"item":"Silk Scarf",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Aerial Ace", "Return", "Endeavor", "Steel Wing"],
-			"level":51
-		},
-		"Starmie_2":{
-			"ability":"Natural Cure",
-			"item":"Lum Berry",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Shock Wave", "Surf", "Psychic", "Ice Beam"],
 			"level":51
 		},
 		"Scyther_3":{
@@ -2558,7 +2566,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Fake Out", "Hyper Voice", "Thunder Wave", "Shadow Ball"],
+			"moves":["Fake Out", "Hyper Voice", "Sweet Kiss", "Shadow Ball"],
 			"level":51
 		},
 		"Ampharos_6":{
@@ -4569,7 +4577,7 @@
 			"item":"Black Belt",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Cross Chop", "Rock Slide", "Counter", "Fire Punch"],
+			"moves":["Cross Chop", "Rock Slide", "Strength", "Fire Punch"],
 			"level":48
 		},
 		"Steelix_2":{
@@ -4580,12 +4588,12 @@
 			"moves":["Earthquake", "Rock Slide", "Iron Tail", "Double-Edge"],
 			"level":48
 		},
-		"Magneton_3":{
-			"ability":"Magnet Pull",
+		"Clefable_3":{
+			"ability":"Cute Charm",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Thunderbolt", "Substitute", "Toxic", "Protect"],
+			"moves":["Brick Break", "Meteor Mash", "Fire Punch", "Thunderpunch"],
 			"level":48
 		},
 		"Breloom_4":{
@@ -4601,7 +4609,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Superpower", "Psychic", "Mud Shot"],
+			"moves":["Surf", "Superpower", "Psychic"],
 			"level":48
 		}
 	},
@@ -4932,7 +4940,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Solarbeam", "Sludge Bomb", "Weather Ball~3", "Moonlight"],
-			"level":45
+			"level":44
 		},
 		"Charizard_4":{
 			"ability":"Blaze",
@@ -4940,7 +4948,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Flamethrower", "Aerial Ace", "Earthquake", "Thunderpunch"],
-			"level":45
+			"level":44
 		},
 		"Blissey_5":{
 			"ability":"Natural Cure",
@@ -5007,7 +5015,7 @@
 			"item":"Charcoal",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Overheat", "Thunderpunch", "Cross Chop", "Solarbeam"],
+			"moves":["Overheat", "Body Slam", "Cross Chop", "Solarbeam"],
 			"level":45
 		},
 		"Tropius_3":{
@@ -5024,7 +5032,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Outrage", "Flamethrower", "Thunderbolt", "Extremespeed"],
-			"level":45
+			"level":46
 		}
 	},
 	"Kindler Jace_204":{
@@ -5247,7 +5255,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Fake Out", "Cross Chop", "Rock Slide", "Bulk Up"],
+			"moves":["Fake Out", "Brick Break", "Rock Slide", "Bulk Up"],
 			"level":48
 		}
 	},
@@ -5273,7 +5281,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Ancientpower", "Recover", "Earthquake"],
+			"moves":["Giga Drain", "Ancientpower", "Recover", "Stockpile"],
 			"level":48
 		},
 		"Flygon_4":{
@@ -6555,12 +6563,12 @@
 			"moves":["Meteor Mash", "Psybeam", "Take Down", "Thunderpunch"],
 			"level":24
 		},
-		"Sandslash_3":{
-			"ability":"Sand Veil",
-			"item":"Soft Sand",
+		"Cubone_3":{
+			"ability":"Rock Head",
+			"item":"Thick Club",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Rock Slide", "Crush Claw", "Swords Dance"],
+			"moves":["Earthquake", "Rock Slide", "Body Slam", "Iron Head"],
 			"level":24
 		},
 		"Relicanth_4":{
@@ -6695,7 +6703,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Heat Wave", "Aerial Ace", "Thunderpunch", "Earthquake"],
-			"level":48
+			"level":47
 		},
 		"Solrock_2":{
 			"ability":"Levitate",
@@ -6711,7 +6719,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Overheat", "Crunch", "Solarbeam", "Hidden Power~3"],
-			"level":48
+			"level":47
 		},
 		"Altaria_4":{
 			"ability":"Natural Cure",
@@ -6719,7 +6727,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Heat Wave", "Dragon Claw", "Aerial Ace", "Solarbeam"],
-			"level":48
+			"level":47
 		},
 		"Victreebel_5":{
 			"ability":"Chlorophyll",
@@ -6727,14 +6735,14 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Solarbeam", "Sludge Bomb", "Weather Ball~3"],
-			"level":48
+			"level":47
 		},
 		"Arcanine_6":{
 			"ability":"Intimidate",
-			"item":"Leftovers",
+			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Heat Wave", "Solarbeam", "Spark", "Extremespeed"],
+			"moves":["Flamethrower", "Solarbeam", "Spark", "Extremespeed"],
 			"level":48
 		}
 	},
@@ -6771,13 +6779,13 @@
 			"moves":["Double-Edge", "Surf", "Ice Beam", "Superpower"],
 			"level":52
 		},
-		"Dugtrio_5":{
-			"ability":"Arena Trap",
-			"item":"Lum Berry",
+		"Clefable_5":{
+			"ability":"Cute Charm",
+			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Aerial Ace", "Hidden Power~6", "Rock Slide"],
-			"level":52
+			"moves":["Flamethrower", "Ice Beam", "Softboiled", "Calm Mind"],
+			"level":53
 		},
 		"Snorlax_6":{
 			"ability":"Thick Fat",
@@ -8488,51 +8496,30 @@
 		}
 	},
 	"Triathlete Jacob_351":{
-		"Voltorb_1":{
-			"ability":"Static",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Thundershock", "Tackle"],
-			"level":6
-		},
-		"Voltorb_2":{
-			"ability":"Static",
-			"nature":"Serious",
-			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Thundershock", "Tackle"],
-			"level":6
-		},
-		"Magnemite_3":{
-			"ability":"Magnet Pull",
-			"nature":"Serious",
-			"ivs":{"hp":24, "at":24, "df":24, "sa":24, "sd":24, "sp":24},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
-			"level":14
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Triathlete Anthony_352":{
-		"Magnemite_1":{
-			"ability":"Magnet Pull",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
-			"level":14
-		},
-		"Magnemite_2":{
-			"ability":"Magnet Pull",
-			"nature":"Serious",
-			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
-			"level":14
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Triathlete Benjamin_353":{
-		"Magnemite_1":{
-			"ability":"Magnet Pull",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
-			"level":16
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Triathlete Benjamin_354":{
@@ -8572,35 +8559,21 @@
 		}
 	},
 	"Triathlete Abigail_358":{
-		"Magnemite_1":{
-			"ability":"Magnet Pull",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
-			"level":16
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Triathlete Jasmine_359":{
-		"Magnemite_1":{
-			"ability":"Magnet Pull",
-			"nature":"Serious",
-			"ivs":{"hp":10, "at":10, "df":10, "sa":10, "sd":10, "sp":10},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
-			"level":14
-		},
-		"Magnemite_2":{
-			"ability":"Magnet Pull",
-			"nature":"Serious",
-			"ivs":{"hp":10, "at":10, "df":10, "sa":10, "sd":10, "sp":10},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
-			"level":14
-		},
-		"Voltorb_3":{
-			"ability":"Static",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Thundershock", "Tackle"],
-			"level":6
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Triathlete Abigail_360":{
@@ -10348,12 +10321,12 @@
 			"moves":["Psychic", "Thunderpunch", "Fire Punch", "Ice Punch"],
 			"level":48
 		},
-		"Dugtrio_2":{
-			"ability":"Arena Trap",
-			"item":"Lum Berry",
+		"Typhlosion_2":{
+			"ability":"Blaze",
+			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Rock Tomb", "Slash", "Sludge Bomb"],
+			"moves":["Flamethrower", "Earthquake", "Iron Head", "Will-O-Wisp"],
 			"level":48
 		},
 		"Scizor_3":{
@@ -10370,6 +10343,14 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Rock Slide", "Double-Edge", "Explosion"],
+			"level":48
+		},
+		"Miltank_5":{
+			"ability":"Thick Fat",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Seismic Toss", "Surf", "Charm", "Thunder Wave"],
 			"level":48
 		}
 	},
@@ -10400,7 +10381,7 @@
 		},
 		"Absol_4":{
 			"ability":"Pressure",
-			"item":"Lum Berry",
+			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crunch", "Shadow Ball", "Megahorn", "Swords Dance"],
@@ -14479,11 +14460,11 @@
 		}
 	},
 	"Hiker Clark_631":{
-		"Marowak_1":{
-			"ability":"Rock Head",
+		"Sandslash_1":{
+			"ability":"Sand Veil",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Rock Slide", "Body Slam"],
+			"moves":["Earthquake", "Rock Throw", "Slash"],
 			"level":20
 		},
 		"Heracross_2":{
@@ -16957,7 +16938,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Feint Attack", "Extrasensory", "Pursuit"],
+			"moves":["Leaf Blade", "Feint Attack", "Shadow Ball", "Pursuit"],
 			"level":49
 		},
 		"Xatu_3":{
@@ -17031,7 +17012,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Wish", "Crunch", "Shadow Ball", "Psychic"],
+			"moves":["Wish", "Crunch", "Shadow Ball", "Toxic"],
 			"level":49
 		}
 	},
@@ -17073,7 +17054,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Body Slam", "Earthquake", "Counter"],
+			"moves":["Giga Drain", "Body Slam", "Earthquake", "Poisonpowder"],
 			"level":48
 		}
 	},

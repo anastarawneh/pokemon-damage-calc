@@ -39,7 +39,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Cooltrainer Felix [#38]": {
+		"Hiker Adrian [#38]": {
 			"ability": "Pressure",
 			"item": "Brightpowder",
 			"ivs": {
@@ -61,7 +61,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Picnicker Becky [#470]": {
 			"ability": "Pressure",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -698,7 +698,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Heat Wave",
 				"Dragon Claw",
@@ -1175,7 +1175,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Flannery [#268]": {
 			"ability": "Intimidate",
-			"item": "Leftovers",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -1186,7 +1186,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 48,
 			"moves": [
-				"Heat Wave",
+				"Flamethrower",
 				"Solarbeam",
 				"Spark",
 				"Extremespeed"
@@ -1967,26 +1967,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Cooltrainer Felix [#38]": {
-			"ability": "Torrent",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 96,
-			"moves": [
-				"Hydro Pump",
-				"Body Slam",
-				"Crunch",
-				"Brick Break"
-			],
-			"nature": "Serious"
-		},
 		"Fisherman Barny [#343]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
@@ -2024,6 +2004,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Earthquake",
 				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Hiker Adrian [#38]": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Hydro Pump",
+				"Body Slam",
+				"Crunch",
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -3169,7 +3169,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 44,
 			"moves": [
 				"Flamethrower",
 				"Aerial Ace",
@@ -3189,7 +3189,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Heat Wave",
 				"Aerial Ace",
@@ -3761,25 +3761,25 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-			"Leader Norman [#269]": {
-				"ability": "Cute Charm",
-				"item": "Leftovers",
-				"ivs": {
-					"at": 31,
-					"df": 31,
-					"hp": 31,
-					"sa": 31,
-					"sd": 31,
-					"sp": 31
-				},
-				"level": 52,
-				"moves": [
-					"Flamethrower",
-					"Ice Beam",
-					"Softboiled",
-					"Calm Mind"
-				],
-				"nature": "Serious"
+		"Black Belt Daisuke [#189]": {
+			"ability": "Cute Charm",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Brick Break",
+				"Meteor Mash",
+				"Fire Punch",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
 		},
 		"Cooltrainer Mitchell [#540]": {
 			"ability": "Cute Charm",
@@ -3818,6 +3818,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Seismic Toss",
 				"Moonlight",
 				"Wish"
+			],
+			"nature": "Serious"
+		},
+		"Leader Norman [#269]": {
+			"ability": "Cute Charm",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 53,
+			"moves": [
+				"Flamethrower",
+				"Ice Beam",
+				"Softboiled",
+				"Calm Mind"
 			],
 			"nature": "Serious"
 		},
@@ -4101,7 +4121,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Ancientpower",
 				"Recover",
-				"Earthquake"
+				"Stockpile"
 			],
 			"nature": "Serious"
 		},
@@ -4217,7 +4237,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 48,
 			"moves": [
-				"Rock Slide",
+				"Earthquake",
 				"Giga Drain",
 				"Recover",
 				"Mirror Coat"
@@ -4651,6 +4671,28 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		}
 	},
+	"Cubone": {
+		"Leader Roxanne [#265]": {
+			"ability": "Rock Head",
+			"item": "Thick Club",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 24,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Body Slam",
+				"Iron Head"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Delcatty": {
 		"Cooltrainer Mary [#89]": {
 			"ability": "Cute Charm",
@@ -4667,7 +4709,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Fake Out",
 				"Hyper Voice",
-				"Thunder Wave",
+				"Sweet Kiss",
 				"Shadow Ball"
 			],
 			"nature": "Serious"
@@ -5216,7 +5258,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Outrage",
 				"Flamethrower",
@@ -5547,27 +5589,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Earthquake",
 				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
-
-		"Picnicker Heidi [#469]": {
-			"ability": "Arena Trap",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Earthquake",
-				"Rock Tomb",
-				"Slash",
-				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
@@ -9046,7 +9067,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 48,
 			"moves": [
 				"Fake Out",
-				"Cross Chop",
+				"Brick Break",
 				"Rock Slide",
 				"Bulk Up"
 			],
@@ -9373,26 +9394,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Rock Slide",
 				"Earthquake"
-			],
-			"nature": "Serious"
-		},
-		"Cooltrainer Felix [#38]": {
-			"ability": "Swarm",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 97,
-			"moves": [
-				"Megahorn",
-				"Brick Break",
-				"Reversal",
-				"Substitute"
 			],
 			"nature": "Serious"
 		},
@@ -9888,7 +9889,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Overheat",
 				"Crunch",
@@ -10509,26 +10510,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Jynx": {
-		"Cooltrainer Felix [#38]": {
-			"ability": "Oblivious",
-			"item": "Nevermeltice",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 98,
-			"moves": [
-				"Ice Beam",
-				"Psychic",
-				"Sweet Kiss",
-				"Lovely Kiss"
-			],
-			"nature": "Serious"
-		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
@@ -10546,6 +10527,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Substitute",
 				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
+		"Hiker Adrian [#38]": {
+			"ability": "Oblivious",
+			"item": "Nevermeltice",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Ice Beam",
+				"Psychic",
+				"Sweet Kiss",
+				"Lovely Kiss"
 			],
 			"nature": "Serious"
 		},
@@ -12013,9 +12014,9 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Cooltrainer Felix [#38]": {
+		"Hiker Adrian [#38]": {
 			"ability": "Guts",
-			"item": "Brightpowder",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12477,7 +12478,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
-				"Counter",
+				"Strength",
 				"Fire Punch"
 			],
 			"nature": "Serious"
@@ -13044,7 +13045,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 45,
 			"moves": [
 				"Overheat",
-				"Thunderpunch",
+				"Body Slam",
 				"Cross Chop",
 				"Solarbeam"
 			],
@@ -13149,26 +13150,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Reflect",
 				"Light Screen"
-			],
-			"nature": "Serious"
-		},
-		"Black Belt Daisuke [#189]": {
-			"ability": "Magnet Pull",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Thunderbolt",
-				"Substitute",
-				"Toxic",
-				"Protect"
 			],
 			"nature": "Serious"
 		},
@@ -13897,24 +13878,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Hiker Clark [#631]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 20,
-			"moves": [
-				"Earthquake",
-				"Rock Slide",
-				"Body Slam"
-			],
-			"nature": "Serious"
-		},
 		"Kindler Bryant [#746]": {
 			"ability": "Rock Head",
 			"item": "Thick Club",
@@ -14568,7 +14531,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Body Slam",
 				"Earthquake",
-				"Counter"
+				"Poisonpowder"
 			],
 			"nature": "Serious"
 		},
@@ -14770,6 +14733,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Meteor Mash",
 				"Psychic",
 				"Earthquake",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Hiker Adrian [#38]": {
+			"ability": "Battle Armor",
+			"item": "Metal Coat",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Meteor Mash",
+				"Psybeam",
+				"Thunderpunch",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -15183,6 +15166,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Bulk Up",
 				"Milk Drink"
+			],
+			"nature": "Serious"
+		},
+		"Picnicker Heidi [#469]": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Seismic Toss",
+				"Surf",
+				"Charm",
+				"Thunder Wave"
 			],
 			"nature": "Serious"
 		},
@@ -17700,8 +17703,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Superpower",
-				"Psychic",
-				"Mud Shot"
+				"Psychic"
 			],
 			"nature": "Serious"
 		},
@@ -18162,6 +18164,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reversal",
 				"Rock Slide",
 				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Ruin Maniac Dusty [#44]": {
+			"ability": "Vital Spirit",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Brick Break",
+				"Rock Slide",
+				"Body Slam",
+				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
@@ -19059,7 +19081,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Rock Slide",
 				"Earthquake",
-				"Megahorn",
+				"Brick Break",
 				"Double-Edge"
 			],
 			"nature": "Serious"
@@ -19493,9 +19515,8 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Leader Roxanne [#265]": {
+		"Hiker Clark [#631]": {
 			"ability": "Sand Veil",
-			"item": "Soft Sand",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19504,12 +19525,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 24,
+			"level": 20,
 			"moves": [
 				"Earthquake",
-				"Rock Slide",
-				"Crush Claw",
-				"Swords Dance"
+				"Rock Throw",
+				"Slash"
 			],
 			"nature": "Serious"
 		},
@@ -20387,7 +20407,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Cooltrainer Felix [#38]": {
+		"Hiker Adrian [#38]": {
 			"ability": "Wonder Guard",
 			"item": "Focus Band",
 			"ivs": {
@@ -20504,9 +20524,9 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 49,
 			"moves": [
-				"Giga Drain",
+				"Leaf Blade",
 				"Feint Attack",
-				"Extrasensory",
+				"Shadow Ball",
 				"Pursuit"
 			],
 			"nature": "Serious"
@@ -22320,7 +22340,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Natural Cure",
-			"item": "Lum Berry",
+			"item": "Sitrus Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22333,8 +22353,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Shock Wave",
 				"Surf",
-				"Psychic",
-				"Ice Beam"
+				"Reflect",
+				"Light Screen"
 			],
 			"nature": "Serious"
 		},
@@ -24055,6 +24075,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Picnicker Heidi [#469]": {
+			"ability": "Blaze",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Flamethrower",
+				"Earthquake",
+				"Iron Head",
+				"Will-O-Wisp"
+			],
+			"nature": "Serious"
+		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
@@ -24237,7 +24277,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Wish",
 				"Crunch",
 				"Shadow Ball",
-				"Psychic"
+				"Toxic"
 			],
 			"nature": "Serious"
 		},
@@ -24881,7 +24921,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
@@ -25063,7 +25103,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 44,
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
