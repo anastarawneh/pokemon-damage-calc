@@ -4686,7 +4686,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 24,
 			"moves": [
 				"Earthquake",
-				"Rock Slide",
+				"Rock Throw",
 				"Body Slam",
 				"Iron Head"
 			],
