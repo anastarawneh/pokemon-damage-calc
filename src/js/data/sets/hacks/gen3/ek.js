@@ -25534,7 +25534,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Ice Beam",
-				"Earthquake",
+				"Body Slam",
 				"Yawn"
 			],
 			"nature": "Serious"
