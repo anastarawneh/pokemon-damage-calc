@@ -20486,8 +20486,8 @@ var CUSTOMHACKSETDEX_EK = {
 					"moves": [
 						"Leaf Blade",
 						"Shadow Ball",
-						"Aerial  Ace",
-						"SRock Slide"
+						"Aerial Ace",
+						"Rock Slide"
 					],
 					"nature": "Serious"},
 

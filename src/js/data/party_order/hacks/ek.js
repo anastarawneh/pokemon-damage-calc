@@ -87,7 +87,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Team Aqua Grunt [#18]": [
 		"Tentacruel",
 		"Nidoking",
-		"Venusaur",
+		"Shiftry",
 		"Kabutops",
 		"Wailord",
 		"Sableye"
