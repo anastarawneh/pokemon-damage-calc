@@ -20471,6 +20471,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Team Aqua Grunt [#18]": {
+			"ability": "Chlorophyll",
+					"item": "Scope Lens",
+					"ivs": {
+						"at": 31,
+						"df": 31,
+						"hp": 31,
+						"sa": 31,
+						"sd": 31,
+						"sp": 31
+					},
+					"level": 61,
+					"moves": [
+						"Leaf Blade",
+						"Shadow Ball",
+						"Aerial  Ace",
+						"SRock Slide"
+					],
+					"nature": "Serious"},
+
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
@@ -24743,26 +24763,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Earthquake",
 				"Double-Edge"
-			],
-			"nature": "Serious"
-		},
-		"Team Aqua Grunt [#18]": {
-			"ability": "Thick Fat",
-			"item": "Quick Claw",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 61,
-			"moves": [
-				"Giga Drain",
-				"Sludge Bomb",
-				"Earthquake",
-				"Sleep Powder"
 			],
 			"nature": "Serious"
 		},
