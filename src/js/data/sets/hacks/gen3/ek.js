@@ -22238,6 +22238,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Team Aqua Grunt [#760]": {
+			"ability": "Intimidate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Frustration",
+				"Megahorn",
+				"Thunder",
+				"Earthquake"
+			],
+			"nature": "Serious"},
+
 		"Hiker Trent [#627]": {
 			"ability": "Intimidate",
 			"item": "Choice Band",
@@ -24782,7 +24802,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Sludge Bomb",
 				"Earthquake",
-				"Ancientpower"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},

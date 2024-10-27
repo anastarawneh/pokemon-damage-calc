@@ -1604,7 +1604,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Crobat",
 		"Sharpedo",
 		"Gorebyss",
-		"Venusaur"
+		"Venusaur",
+		"Stantler"
 	],
 	"Team Aqua Grunt [#761]": [
 		"Ludicolo",
