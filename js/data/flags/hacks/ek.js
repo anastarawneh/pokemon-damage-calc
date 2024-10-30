@@ -504,7 +504,7 @@ var CUSTOMHACKFLAGS_EK = {
         "tag": [
             ["Picnicker Bianca", "Kindler Hayden"],
             ["Camper Tyron", "Aroma Lady Celina"],
-            ["Picknicker Irene", "Camper Travis"],
+            ["Picnicker Irene", "Camper Travis"],
             ["Black Belt Daisuke", "Cooltrainer Brooke"],
             ["Team Magma Grunt #1 @ Jagged Pass", "Team Magma Grunt #2 @ Jagged Pass"],
             ["Battle Girl Melene", "Psychic Alix"],
