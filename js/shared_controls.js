@@ -2306,7 +2306,7 @@ $(document).ready(function () {
 		}
 	});
 
-	$('#openBetaCalc').on("click", () => {
+	/*$('#openBetaCalc').on("click", () => {
 		var message =
 `This is a work in progress project for a more centralized resource (something similar to emi's CK+ calc).
 Completed features include:
@@ -2318,7 +2318,7 @@ Planned features include:
 - Any suggestions.
 Proceed with caution.`;
 		if (confirm(message)) window.open("https://ekcalc.anastarawneh.com/", '_blank').focus();
-	});
+	});*/
 
 	$('.last-move-used > select.move-selector').val("(No Move)");
 	$('.last-move-used > select.move-selector').change();

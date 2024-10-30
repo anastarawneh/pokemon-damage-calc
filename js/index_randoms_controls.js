@@ -211,6 +211,18 @@ $(".result-move").change(function () {
 			if (desc.indexOf('--') === -1) desc += ' -- possibly the worst move ever';
 			$("#mainResult").text(desc);
 			$("#damageValues").text("Possible damage amounts: (" + displayDamageHits(result.damage) + ")");
+			if (game == "Emerald Kaizo") {
+				if (result.move.recoil && !result.attacker.hasAbility("Rock Head") && (result.damage > 0 || result.damage[0] > 0)) {
+					$("#recoilValues").show().text("Possible recoil amounts: (" + displayRecoilHits(result.damage, result.move.recoil) + ")");
+				} else {
+					$("#recoilValues").hide();
+				}
+				if (result.move.drain && !result.defender.hasAbility("Liquid Ooze") && (result.damage > 0 || result.damage[0] > 0)) {
+					$("#drainValues").show().text("Possible drain amounts: (" + displayRecoilHits(result.damage, result.move.drain) + ")");
+				} else {
+					$("#drainValues").hide();
+				}
+			}
 		}
 	}
 });
@@ -226,6 +238,20 @@ function displayDamageHits(damage) {
 	}
 	// Parental Bond Damage
 	return '1st Hit: ' + damage[0].join(', ') + '; 2nd Hit: ' + damage[1].join(', ');
+}
+
+function displayRecoilHits(damage, recoil) {
+	// Fixed Damage
+	if (typeof damage === 'number') return Math.max(Math.floor(damage * recoil[0] / recoil[1]), 1);
+	// Standard Damage
+	if (damage.length > 2) return damage.map(x => Math.max(Math.floor(x * recoil[0] / recoil[1]), 1)).join(', ');
+}
+
+function displayDrainHits(damage, drain) {
+	// Fixed Damage
+	if (typeof damage === 'number') return Math.max(Math.floor(damage * drain[0] / drain[1]), 1);
+	// Standard Damage
+	if (damage.length > 2) return damage.map(x => Math.max(Math.floor(x * drain[0] / drain[1]), 1)).join(', ');
 }
 
 function findDamageResult(resultMoveObj) {
