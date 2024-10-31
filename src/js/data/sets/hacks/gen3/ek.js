@@ -157,7 +157,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Rock Slide",
 				"Double-Edge",
-				"Supersonic"
+				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -1575,26 +1575,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Weather Ball",
 				"Extrasensory",
 				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
-		"Leader Winona [#270]": {
-			"ability": "Pressure",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 65,
-			"moves": [
-				"Ice Beam",
-				"Sky Attack",
-				"Ancientpower",
-				"Signal Beam"
 			],
 			"nature": "Serious"
 		}
@@ -3100,7 +3080,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Charizard": {
 		"Bird Keeper Edwardo [#404]": {
 			"ability": "Blaze",
-			"item": "Lum Berry",
+			"item": "Dragon Fang",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -3464,26 +3444,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Cooltrainer Darius [#803]": {
-			"ability": "Levitate",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 63,
-			"moves": [
-				"Earthquake",
-				"Psychic",
-				"Shadow Ball",
-				"Cosmic Power"
-			],
-			"nature": "Serious"
-		},
 		"Cooltrainer Hope [#96]": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -3597,6 +3557,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Psychic",
 				"Light Screen"
+			],
+			"nature": "Serious"
+		},
+		"Leader Winona [#270]": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Earthquake",
+				"Psychic",
+				"Ice Beam",
+				"Shadow Ball"
 			],
 			"nature": "Serious"
 		},
@@ -4139,9 +4119,9 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 62,
 			"moves": [
 				"Giga Drain",
-				"Ingrain",
-				"Toxic",
-				"Recover"
+				"Rock Slide",
+				"Leech Seed",
+				"Ingrain"
 			],
 			"nature": "Serious"
 		},
@@ -4437,7 +4417,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 61,
 			"moves": [
 				"Crabhammer",
 				"Crunch",
@@ -4470,7 +4450,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Bird Keeper Edwardo [#404]": {
 			"ability": "Inner Focus",
-			"item": "Lum Berry",
+			"item": "Sharp Beak",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4483,7 +4463,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Sludge Bomb",
 				"Aerial Ace",
-				"Hypnosis",
+				"Heat Wave",
 				"Giga Drain"
 			],
 			"nature": "Serious"
@@ -6682,7 +6662,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#17]": {
 			"ability": "Soundproof",
-			"item": "Quick Claw",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8017,6 +7997,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"X-Scissor",
 				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Darius [#803]": {
+			"ability": "Hyper Cutter",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Earthquake",
+				"Aerial Ace",
+				"Rock Slide",
+				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
@@ -10847,7 +10847,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 61,
 			"moves": [
-				"Ancientpower",
+				"Rock Slide",
 				"Surf",
 				"X-Scissor",
 				"Ice Beam"
@@ -13284,7 +13284,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 63,
 			"moves": [
 				"Thunderbolt",
 				"Substitute",
@@ -16143,8 +16143,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 62,
 			"moves": [
 				"Signal Beam",
-				"Aerial Ace",
-				"Toxic",
+				"Baton Pass",
+				"Swords Dance",
 				"Substitute"
 			],
 			"nature": "Serious"
@@ -17413,7 +17413,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 61,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -18958,7 +18958,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 63,
 			"moves": [
 				"Surf",
-				"Ancientpower",
+				"Rock Slide",
 				"Earthquake",
 				"Double-Edge"
 			],
@@ -19941,7 +19941,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Scyther": {
 		"Bird Keeper Edwardo [#404]": {
 			"ability": "Swarm",
-			"item": "Lum Berry",
+			"item": "Sharp Beak",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20471,26 +20471,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Team Aqua Grunt [#18]": {
-			"ability": "Chlorophyll",
-					"item": "Scope Lens",
-					"ivs": {
-						"at": 31,
-						"df": 31,
-						"hp": 31,
-						"sa": 31,
-						"sd": 31,
-						"sp": 31
-					},
-					"level": 61,
-					"moves": [
-						"Leaf Blade",
-						"Shadow Ball",
-						"Aerial Ace",
-						"Rock Slide"
-					],
-					"nature": "Serious"},
-
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
@@ -20548,6 +20528,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Feint Attack",
 				"Shadow Ball",
 				"Pursuit"
+			],
+			"nature": "Serious"
+		},
+		"Team Aqua Grunt [#18]": {
+			"ability": "Chlorophyll",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Leaf Blade",
+				"Shadow Ball",
+				"Aerial Ace",
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -20689,7 +20689,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Wrap",
 				"Earthquake",
-				"Safeguard",
+				"Curse",
 				"Toxic"
 			],
 			"nature": "Serious"
@@ -20787,10 +20787,10 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 62,
 			"moves": [
-				"Aerial Ace",
+				"Drill Peck",
 				"Iron Tail",
 				"X-Scissor",
-				"Recover"
+				"Hidden Power Ground"
 			],
 			"nature": "Serious"
 		},
@@ -21849,10 +21849,10 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 53,
 			"moves": [
-				"Return",
+				"Body Slam",
 				"Fire Blast",
-				"Curse",
-				"Earthquake"
+				"Earthquake",
+				"Curse"
 			],
 			"nature": "Serious"
 		},
@@ -22258,26 +22258,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Team Aqua Grunt [#760]": {
-			"ability": "Intimidate",
-			"item": "Scope Lens",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 60,
-			"moves": [
-				"Frustration",
-				"Megahorn",
-				"Thunder",
-				"Earthquake"
-			],
-			"nature": "Serious"},
-
 		"Hiker Trent [#627]": {
 			"ability": "Intimidate",
 			"item": "Choice Band",
@@ -22333,6 +22313,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Superpower",
 				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
+		"Team Aqua Grunt [#760]": {
+			"ability": "Intimidate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Frustration",
+				"Megahorn",
+				"Thunder",
+				"Earthquake"
 			],
 			"nature": "Serious"
 		}
@@ -22561,7 +22561,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Rock Head",
-			"item": "Quick Claw",
+			"item": "Soft Sand",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22610,7 +22610,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 61,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -22774,7 +22774,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 63,
+			"level": 64,
 			"moves": [
 				"Surf",
 				"Icy Wind",
@@ -24372,10 +24372,10 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 61,
 			"moves": [
 				"Toxic",
-				"Wish",
+				"Curse",
 				"Baton Pass",
 				"Pursuit"
 			],
@@ -24405,7 +24405,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Guts",
-			"item": "Quick Claw",
+			"item": "Chesto Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,

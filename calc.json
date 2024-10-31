@@ -572,7 +572,7 @@
 		},
 		"Exploud_4":{
 			"ability":"Soundproof",
-			"item":"Quick Claw",
+			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hyper Voice", "Fire Blast", "Surf", "Extrasensory"],
@@ -604,12 +604,12 @@
 			"moves":["Earthquake", "Poison Tail", "Megahorn", "Thunderbolt"],
 			"level":61
 		},
-		"Venusaur_3":{
-			"ability":"Thick Fat",
-			"item":"Quick Claw",
+		"Shiftry_3":{
+			"ability":"Chlorophyll",
+			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Sludge Bomb", "Earthquake", "Sleep Powder"],
+			"moves":["Leaf Blade", "Shadow Ball", "Aerial Ace", "Rock Slide"],
 			"level":61
 		},
 		"Kabutops_4":{
@@ -617,7 +617,7 @@
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Ancientpower", "Surf", "X-Scissor", "Ice Beam"],
+			"moves":["Rock Slide", "Surf", "X-Scissor", "Ice Beam"],
 			"level":61
 		},
 		"Wailord_5":{
@@ -902,7 +902,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crabhammer", "Crunch", "Sludge Bomb", "Body Slam"],
-			"level":62
+			"level":61
 		},
 		"Quagsire_2":{
 			"ability":"Water Absorb",
@@ -918,15 +918,15 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Rock Slide", "Iron Tail", "Swagger"],
-			"level":62
+			"level":61
 		},
 		"Umbreon_4":{
 			"ability":"Synchronize",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Toxic", "Wish", "Baton Pass", "Pursuit"],
-			"level":62
+			"moves":["Toxic", "Curse", "Baton Pass", "Pursuit"],
+			"level":61
 		},
 		"Pinsir_5":{
 			"ability":"Intimidate",
@@ -934,7 +934,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["X-Scissor", "Aerial Ace", "Earthquake", "Swords Dance"],
-			"level":62
+			"level":61
 		},
 		"Magneton_6":{
 			"ability":"Magnet Pull",
@@ -942,7 +942,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Thunderbolt", "Substitute", "Toxic", "Double-Edge"],
-			"level":62
+			"level":63
 		}
 	},
 	"Team Aqua Grunt_027":{
@@ -1184,7 +1184,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ancientpower", "Earthquake", "Double-Edge"],
+			"moves":["Surf", "Rock Slide", "Earthquake", "Double-Edge"],
 			"level":63
 		},
 		"Kingdra_5":{
@@ -1201,7 +1201,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Icy Wind", "Extrasensory", "Rest"],
-			"level":63
+			"level":64
 		}
 	},
 	"Aqua Admin Shelly_033":{
@@ -6568,7 +6568,7 @@
 			"item":"Thick Club",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Rock Slide", "Body Slam", "Iron Head"],
+			"moves":["Earthquake", "Rock Throw", "Body Slam", "Iron Head"],
 			"level":24
 		},
 		"Relicanth_4":{
@@ -6792,7 +6792,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Return", "Fire Blast", "Curse", "Earthquake"],
+			"moves":["Body Slam", "Fire Blast", "Earthquake", "Curse"],
 			"level":53
 		}
 	},
@@ -6829,12 +6829,12 @@
 			"moves":["Dragon Claw", "Aerial Ace", "Extremespeed", "Earthquake"],
 			"level":65
 		},
-		"Articuno_5":{
-			"ability":"Pressure",
+		"Claydol_5":{
+			"ability":"Levitate",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Ice Beam", "Sky Attack", "Ancientpower", "Signal Beam"],
+			"moves":["Earthquake", "Psychic", "Ice Beam", "Shadow Ball"],
 			"level":65
 		},
 		"Ho-Oh_6":{
@@ -9112,7 +9112,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Signal Beam", "Aerial Ace", "Toxic", "Substitute"],
+			"moves":["Signal Beam", "Baton Pass", "Swords Dance", "Substitute"],
 			"level":62
 		},
 		"Altaria_3":{
@@ -9178,7 +9178,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Aerial Ace", "Iron Tail", "X-Scissor", "Recover"],
+			"moves":["Drill Peck", "Iron Tail", "X-Scissor", "Hidden Power~13"],
 			"level":62
 		},
 		"Pelipper_5":{
@@ -9218,7 +9218,7 @@
 		},
 		"Charizard_2":{
 			"ability":"Blaze",
-			"item":"Lum Berry",
+			"item":"Dragon Fang",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Flamethrower", "Aerial Ace", "Bite", "Dragon Claw"],
@@ -9226,7 +9226,7 @@
 		},
 		"Scyther_3":{
 			"ability":"Swarm",
-			"item":"Lum Berry",
+			"item":"Sharp Beak",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Aerial Ace", "X-Scissor", "Double-Edge", "Quick Attack"],
@@ -9234,10 +9234,10 @@
 		},
 		"Crobat_4":{
 			"ability":"Inner Focus",
-			"item":"Lum Berry",
+			"item":"Sharp Beak",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Sludge Bomb", "Aerial Ace", "Hypnosis", "Giga Drain"],
+			"moves":["Sludge Bomb", "Aerial Ace", "Heat Wave", "Giga Drain"],
 			"level":62
 		},
 		"Jumpluff_5":{
@@ -9253,7 +9253,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Aerial Ace", "Rock Slide", "Double-Edge", "Supersonic"],
+			"moves":["Aerial Ace", "Rock Slide", "Double-Edge", "Earthquake"],
 			"level":62
 		}
 	},
@@ -9899,7 +9899,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Wrap", "Earthquake", "Safeguard", "Toxic"],
+			"moves":["Wrap", "Earthquake", "Curse", "Toxic"],
 			"level":61
 		}
 	},
@@ -14931,7 +14931,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Ingrain", "Toxic", "Recover"],
+			"moves":["Giga Drain", "Rock Slide", "Leech Seed", "Ingrain"],
 			"level":62
 		}
 	},
@@ -14954,7 +14954,7 @@
 		},
 		"Ursaring_3":{
 			"ability":"Guts",
-			"item":"Quick Claw",
+			"item":"Chesto Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crush Claw", "Brick Break", "Earthquake", "Sludge Bomb"],
@@ -14962,7 +14962,7 @@
 		},
 		"Steelix_4":{
 			"ability":"Rock Head",
-			"item":"Quick Claw",
+			"item":"Soft Sand",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Iron Tail", "Rock Slide", "Curse"],
@@ -17325,7 +17325,15 @@
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Sludge Bomb", "Earthquake", "Ancientpower"],
+			"moves":["Giga Drain", "Sludge Bomb", "Earthquake", "Weather Ball"],
+			"level":60
+		},
+		"Stantler_5":{
+			"ability":"Intimidate",
+			"item":"Scope Lens",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Frustration", "Megahorn", "Thunder", "Earthquake"],
 			"level":60
 		}
 	},
@@ -17385,7 +17393,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Earthquake", "Yawn"],
+			"moves":["Surf", "Ice Beam", "Body Slam", "Yawn"],
 			"level":67
 		},
 		"Manectric_3":{
@@ -18903,12 +18911,12 @@
 			"moves":["Flamethrower", "Crunch", "Poison Fang", "Pursuit"],
 			"level":63
 		},
-		"Claydol_3":{
-			"ability":"Levitate",
-			"item":"Leftovers",
+		"Gligar_3":{
+			"ability":"Hyper Cutter",
+			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Earthquake", "Psychic", "Shadow Ball", "Cosmic Power"],
+			"moves":["Earthquake", "Aerial Ace", "Rock Slide", "Sludge Bomb"],
 			"level":63
 		},
 		"Kabutops_4":{

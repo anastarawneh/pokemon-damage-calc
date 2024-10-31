@@ -723,7 +723,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Gyarados",
 		"Gengar",
 		"Dragonite",
-		"Articuno",
+		"Claydol",
 		"Ho-Oh"
 	],
 	"Leader Tate&Liza [#271]": [
@@ -1874,7 +1874,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Cooltrainer Darius [#803]": [
 		"Tauros",
 		"Houndoom",
-		"Claydol",
+		"Gligar",
 		"Kabutops",
 		"Wailord",
 		"Salamence"
