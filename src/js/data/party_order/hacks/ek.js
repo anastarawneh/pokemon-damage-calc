@@ -747,10 +747,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Vigoroth",
 		"Wigglytuff"
 	],
-	"Sr. And Jr. Kate & Joy [#286]": [
-		"Gengar",
-		"Gyarados"
-	],
 	"Sr. And Jr. Anna & Meg [#287]": [
 		"Clefairy",
 		"Makuhita"

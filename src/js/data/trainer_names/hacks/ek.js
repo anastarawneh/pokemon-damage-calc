@@ -178,7 +178,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Bug Maniac Jeffrey [#226]",
 
 	"Hex Maniac Tammy [#107]",
-	"Sr. And Jr. Kate & Joy [#286]",
 	"Cooltrainer Marcel [#11]",
 	"Gentleman Walter [#254]",
 	"Cooltrainer Cristin [#767]",
