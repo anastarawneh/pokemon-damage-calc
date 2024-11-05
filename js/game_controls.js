@@ -768,7 +768,7 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 				var typeEffectiveness1 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[0]];
 				var typeEffectiveness2 = GENERATION.types.get(toID(move.type)).effectiveness[dexMon.types[1]];
 				var typeEffectiveness = typeEffectiveness2 !== undefined ? typeEffectiveness1 * typeEffectiveness2 : typeEffectiveness1;
-				if (typeEffectiveness < 1) {
+				if (typeEffectiveness < 1 || (move.type == "Ground" && setdex[enemy][window.CURRENT_TRAINER].ability == "Levitate")) {
 					var enemyMoves = setdex[enemy][window.CURRENT_TRAINER].moves;
 					for (var k in enemyMoves) {
 						var enemyMove = new calc.Move(GENERATION, enemyMoves[k]);
