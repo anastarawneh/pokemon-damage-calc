@@ -358,7 +358,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Alakazam",
 		"Dusclops",
 		"Clefable",
-		"Shiftry"
+		"Shiftry",
+		"Whiscash"
 	],
 	"Team Aqua Grunt [#108]": [
 		"Xatu",
@@ -372,7 +373,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Smeargle",
 		"Ludicolo",
 		"Dewgong",
-		"Dugtrio",
+		"Sandslash",
 		"Dragonite",
 		"Azumarill"
 	],
@@ -614,7 +615,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Glalie",
 		"Nidoqueen",
 		"Starmie",
-		"Venusaur"
+		"Venusaur",
+		"Dodrio"
 	],
 	"Psychic Hannah [#244]": [
 		"Espeon",
@@ -700,7 +702,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Minun",
 		"Elekid",
 		"Voltorb",
-		"Jolteon"
+		"Manectric"
 	],
 	"Leader Flannery [#268]": [
 		"Charizard",
@@ -746,6 +748,10 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Sunflora",
 		"Vigoroth",
 		"Wigglytuff"
+	],
+	"Sr. And Jr. Kate & Joy [#286]": [
+		"Ditto",
+		"Ditto (1)"
 	],
 	"Sr. And Jr. Anna & Meg [#287]": [
 		"Clefairy",
@@ -805,7 +811,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Weezing",
 		"Magmar",
 		"Zangoose",
-		"Ninetales"
+		"Ninetales",
+		"Rhydon"
 	],
 	"Youngster Allen [#333]": [
 		"Togepi",
@@ -859,7 +866,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Natu"
 	],
 	"Dragon Tamer Aaron [#397]": [
-		"Bagon"
+		"Ditto"
 	],
 	"Team Aqua Grunt [#400]": [
 		"Jolteon",
@@ -983,7 +990,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Umbreon"
 	],
 	"Cooltrainer Marley [#508]": [
-		"Manectric"
+		"Ditto"
 	],
 	"Collector Edwin [#512]": [
 		"Pichu",
@@ -1129,7 +1136,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Granbull",
 		"Nidoqueen",
 		"Clefable",
-		"Raichu"
+		"Raichu",
+		"Muk"
 	],
 	"Team Aqua Grunt [#559]": [
 		"Golduck",
@@ -1482,7 +1490,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Exeggutor",
 		"Torkoal",
 		"Armaldo",
-		"Houndoom"
+		"Rapidash"
 	],
 	"Team Magma Grunt [#726]": [
 		"Miltank",
@@ -1619,7 +1627,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Battle Girl Callie [#763]": [
 		"Medicham",
-		"Heracross",
+		"Hariyama",
 		"Breloom",
 		"Kangaskhan"
 	],
@@ -1627,7 +1635,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Tyranitar",
 		"Marowak",
 		"Shuckle",
-		"Mawile",
+		"Electabuzz",
 		"Claydol"
 	],
 	"Leader Roxanne [#770]": [

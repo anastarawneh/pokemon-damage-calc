@@ -211,7 +211,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 65,
+			"level": 653,
 			"moves": [
 				"Sky Attack",
 				"Rock Slide",
@@ -231,7 +231,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 72,
 			"moves": [
 				"Sky Attack",
 				"Rock Slide",
@@ -274,7 +274,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 68,
 			"moves": [
 				"Aerial Ace",
-				"Ancientpower",
+				"Rock Slide",
 				"Flamethrower",
 				"Steel Wing"
 			],
@@ -1288,7 +1288,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Overheat",
 				"Spark",
 				"Extremespeed",
-				"Roar"
+				"Crunch"
 			],
 			"nature": "Serious"
 		},
@@ -1343,9 +1343,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
-				"Overheat",
+				"Flamethrower",
 				"Solarbeam",
 				"Extremespeed",
 				"Crunch"
@@ -1719,25 +1719,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Bagon": {
-		"Dragon Tamer Aaron [#397]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 34,
-			"moves": [
-				"Dragonbreath",
-				"Headbutt",
-				"Focus Energy",
-				"Ember"
-			],
-			"nature": "Serious"
-		},
 		"Pokã©Mon Breeder Lydia [#545]": {
 			"ability": "Rock Head",
 			"item": "Salac Berry",
@@ -2464,10 +2445,10 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 67,
 			"moves": [
-				"Stun Spore",
-				"Substitute",
 				"Focus Punch",
-				"Rock Slide"
+				"Giga Drain",
+				"Spore",
+				"Stun Spore"
 			],
 			"nature": "Serious"
 		},
@@ -3309,7 +3290,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Heat Wave",
 				"Aerial Ace",
@@ -3571,7 +3552,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 65,
+			"level": 64,
 			"moves": [
 				"Earthquake",
 				"Psychic",
@@ -4861,6 +4842,38 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Cooltrainer Marley [#508]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Dragon Tamer Aaron [#397]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
 		"Hiker Brice [#626]": {
 			"ability": "Limber",
 			"ivs": {
@@ -4910,6 +4923,38 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Pokéfan Isabel [#302]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Sr. And Jr. Kate & Joy (1) [#286]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Sr. And Jr. Kate & Joy [#286]": {
 			"ability": "Limber",
 			"ivs": {
 				"at": 0,
@@ -5040,6 +5085,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Return",
 				"Low Kick",
 				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
+		"Team Aqua Grunt [#236]": {
+			"ability": "Early Bird",
+			"item": "Sharp Beak",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 68,
+			"moves": [
+				"Drill Peck",
+				"Return",
+				"Hidden Power Ground",
+				"Low Kick"
 			],
 			"nature": "Serious"
 		},
@@ -5320,7 +5385,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 65,
+			"level": 63,
 			"moves": [
 				"Dragon Claw",
 				"Aerial Ace",
@@ -5572,26 +5637,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Team Aqua Grunt [#109]": {
-			"ability": "Arena Trap",
-			"item": "Kings Rock",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 68,
-			"moves": [
-				"Earthquake",
-				"Hidden Power Ghost",
-				"Sludge Bomb",
-				"Slash"
-			],
-			"nature": "Serious"
-		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Arena Trap",
 			"item": "Kings Rock",
@@ -5833,6 +5878,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Brick Break",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Cooltrainer Cristin [#767]": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 67,
+			"moves": [
+				"Thunderbolt",
+				"Psychic",
+				"Ice Punch",
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -6227,7 +6292,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 71,
 			"moves": [
 				"Thunderbolt",
-				"Explosion"
+				"Explosion",
+				"Hidden Power Ice"
 			],
 			"nature": "Serious"
 		}
@@ -6276,7 +6342,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Entei": {
 		"Magma Admin Tabitha [#732]": {
 			"ability": "Pressure",
-			"item": "Charcoal",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6285,7 +6351,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 72,
 			"moves": [
 				"Sacred Fire",
 				"Solarbeam",
@@ -6347,7 +6413,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"Psychic",
 				"Weather Ball",
@@ -6613,8 +6679,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Psychic",
-				"Hypnosis",
-				"Growth"
+				"Explosion",
+				"Sleep Powder"
 			],
 			"nature": "Serious"
 		}
@@ -7387,7 +7453,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Iron Head",
 				"Signal Beam",
-				"Hidden Power Ground",
+				"Earthquake",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -7669,7 +7735,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 65,
+			"level": 64,
 			"moves": [
 				"Psychic",
 				"Shadow Ball",
@@ -7709,7 +7775,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 74,
+			"level": 72,
 			"moves": [
 				"Fire Punch",
 				"Giga Drain",
@@ -7735,26 +7801,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Sludge Bomb",
 				"Hypnosis"
-			],
-			"nature": "Serious"
-		},
-		"Sr. And Jr. Kate & Joy [#286]": {
-			"ability": "Levitate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"Thunderbolt",
-				"Thunderpunch",
-				"Shock Wave",
-				"Imprison"
 			],
 			"nature": "Serious"
 		},
@@ -7812,8 +7858,9 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 69,
 			"moves": [
 				"Shadow Ball",
-				"Explosion",
-				"Baton Pass"
+				"Fire Punch",
+				"Ice Punch",
+				"Explosion"
 			],
 			"nature": "Serious"
 		}
@@ -8784,7 +8831,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Psychic",
 				"Body Slam",
-				"Signal Beam",
+				"Fire Punch",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -8922,32 +8969,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 65,
+			"level": 63,
 			"moves": [
 				"Hidden Power Flying",
 				"Hydro Pump",
 				"Earthquake",
 				"Double-Edge"
-			],
-			"nature": "Serious"
-		},
-		"Sr. And Jr. Kate & Joy [#286]": {
-			"ability": "Intimidate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"Hidden Power Flying",
-				"Double-Edge",
-				"Hydro Pump",
-				"Dragon Dance"
 			],
 			"nature": "Serious"
 		},
@@ -8973,7 +9000,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#23]": {
 			"ability": "Intimidate",
-			"item": "Scope Lens",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8987,7 +9014,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Flying",
 				"Hydro Pump",
 				"Earthquake",
-				"Dragon Dance"
+				"Flamethrower"
 			],
 			"nature": "Serious"
 		},
@@ -9053,6 +9080,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Hariyama": {
+		"Battle Girl Callie [#763]": {
+			"ability": "Thick Fat",
+			"item": "Chesto Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 67,
+			"moves": [
+				"Cross Chop",
+				"Rock Slide",
+				"Shadow Punch",
+				"Smellingsalt"
+			],
+			"nature": "Serious"
+		},
 		"Camper Drew [#211]": {
 			"ability": "Thick Fat",
 			"item": "Leftovers",
@@ -9377,26 +9424,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Heracross": {
-		"Battle Girl Callie [#763]": {
-			"ability": "Swarm",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"Brick Break",
-				"Megahorn",
-				"Rock Slide",
-				"Earthquake"
-			],
-			"nature": "Serious"
-		},
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Swarm",
 			"item": "Black Belt",
@@ -9496,7 +9523,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Swarm",
-			"item": "Quick Claw",
+			"item": "Scope Lens",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -9957,26 +9984,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Team Magma Grunt [#724]": {
-			"ability": "Intimidate",
-			"item": "Charcoal",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 71,
-			"moves": [
-				"Overheat",
-				"Crunch",
-				"Solarbeam",
-				"Pursuit"
-			],
-			"nature": "Serious"
-		},
 		"Team Magma Grunt [#727]": {
 			"ability": "Intimidate",
 			"item": "Scope Lens",
@@ -10171,11 +10178,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Psychic",
 				"Fire Punch",
-				"Future Sight",
+				"Ice Punch",
 				"Calm Mind"
 			],
 			"nature": "Serious"
@@ -10280,7 +10287,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 70,
 			"moves": [
 				"Thunder",
-				"Hidden Power Grass",
+				"Weather Ball",
 				"Crunch",
 				"Calm Mind"
 			],
@@ -10343,26 +10350,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Bite",
 				"Thunder Wave"
-			],
-			"nature": "Serious"
-		},
-		"Leader Wattson [#267]": {
-			"ability": "Static",
-			"item": "Magnet",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 16,
-			"moves": [
-				"Shock Wave",
-				"Thunder Wave",
-				"Feint Attack",
-				"Hidden Power Grass"
 			],
 			"nature": "Serious"
 		},
@@ -10441,8 +10428,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Thunderbolt",
 				"Hidden Power Grass",
-				"Light Screen",
-				"Baton Pass"
+				"Crunch",
+				"Thunder Wave"
 			],
 			"nature": "Serious"
 		}
@@ -11645,7 +11632,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Volt Absorb",
-			"item": "Brightpowder",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11876,7 +11863,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 74,
+			"level": 73,
 			"moves": [
 				"Dragon Claw",
 				"Mist Ball",
@@ -12718,7 +12705,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
-				"Bulk Up",
+				"Smellingsalt",
 				"Earthquake"
 			],
 			"nature": "Serious"
@@ -13327,7 +13314,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 70,
 			"moves": [
 				"Thunderbolt",
-				"Hidden Power Fire",
+				"Hidden Power Grass",
 				"Toxic",
 				"Iron Head"
 			],
@@ -13435,25 +13422,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Cooltrainer Marley [#508]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 34,
-			"moves": [
-				"Bite",
-				"Roar",
-				"Thunder Wave",
-				"Thunderbolt"
-			],
-			"nature": "Serious"
-		},
 		"Kindler Jace [#204]": {
 			"ability": "Static",
 			"item": "Lum Berry",
@@ -13491,6 +13459,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Crunch",
 				"Body Slam"
+			],
+			"nature": "Serious"
+		},
+		"Leader Wattson [#267]": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 16,
+			"moves": [
+				"Shock Wave",
+				"Thunder Wave",
+				"Feint Attack",
+				"Hidden Power Grass"
 			],
 			"nature": "Serious"
 		},
@@ -13950,7 +13938,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 69,
 			"moves": [
-				"Bonemerang",
+				"Earthquake",
 				"Rock Slide",
 				"Mega Kick",
 				"Iron Head"
@@ -14096,26 +14084,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Super Fang",
 				"Slash"
-			],
-			"nature": "Serious"
-		},
-		"Cooltrainer Cristin [#767]": {
-			"ability": "Intimidate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 67,
-			"moves": [
-				"Super Fang",
-				"Iron Head",
-				"Crunch",
-				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -14360,7 +14328,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Pure Power",
-			"item": "Focus Band",
+			"item": "Black Belt",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -14431,7 +14399,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 17,
+			"level": 15,
 			"moves": [
 				"Brick Break"
 			],
@@ -14610,8 +14578,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Giga Drain",
 				"Earthquake",
-				"Reflect",
-				"Light Screen"
+				"Body Slam",
+				"Leech Seed"
 			],
 			"nature": "Serious"
 		},
@@ -14981,8 +14949,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 70,
 			"moves": [
 				"Surf",
-				"Psychic",
 				"Ice Beam",
+				"Mirror Coat",
 				"Recover"
 			],
 			"nature": "Serious"
@@ -15260,7 +15228,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Return",
 				"Earthquake",
@@ -15337,7 +15305,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Moltres": {
 		"Magma Leader Maxie [#602]": {
 			"ability": "Pressure",
-			"item": "Charcoal",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15346,9 +15314,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 74,
+			"level": 72,
 			"moves": [
-				"Overheat",
+				"Flamethrower",
 				"Aerial Ace",
 				"Solarbeam",
 				"Hidden Power Ice"
@@ -15475,6 +15443,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Thunderbolt",
 				"Heat Wave",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
+		"Pokã©Mon Ranger Lorenzo [#553]": {
+			"ability": "Poison Point",
+			"item": "Poison Barb",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 67,
+			"moves": [
+				"Sludge Bomb",
+				"Flamethrower",
+				"Thunderbolt",
 				"Toxic"
 			],
 			"nature": "Serious"
@@ -16049,7 +16037,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Pressure",
-			"item": "Kings Rock",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -17496,9 +17484,9 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 69,
 			"moves": [
 				"X-Scissor",
-				"Swords Dance",
 				"Earthquake",
-				"Return"
+				"Return",
+				"Aerial Ace"
 			],
 			"nature": "Serious"
 		},
@@ -18854,6 +18842,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Water"
 			],
 			"nature": "Serious"
+		},
+		"Team Magma Grunt [#724]": {
+			"ability": "Flame Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 70,
+			"moves": [
+				"Flamethrower",
+				"Megahorn",
+				"Solarbeam",
+				"Low Kick"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Rattata": {
@@ -19103,6 +19111,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Megahorn",
 				"Thunder"
+			],
+			"nature": "Serious"
+		},
+		"Team Magma Grunt [#326]": {
+			"ability": "Rock Head",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 43,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Double-Edge",
+				"Substitute"
 			],
 			"nature": "Serious"
 		},
@@ -19424,7 +19452,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 74,
+			"level": 72,
 			"moves": [
 				"Aerial Ace",
 				"Dragon Claw",
@@ -19530,6 +19558,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Throw",
 				"Slash"
+			],
+			"nature": "Serious"
+		},
+		"Team Aqua Grunt [#109]": {
+			"ability": "Sand Veil",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 68,
+			"moves": [
+				"Earthquake",
+				"X-Scissor",
+				"Crush Claw",
+				"Swords Dance"
 			],
 			"nature": "Serious"
 		},
@@ -20050,7 +20098,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Aerial Ace",
 				"X-Scissor",
@@ -20484,10 +20532,10 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 67,
 			"moves": [
-				"Fake Out",
+				"Leaf Blade",
 				"Extrasensory",
-				"Swagger",
-				"Giga Drain"
+				"Fake Out",
+				"Swagger"
 			],
 			"nature": "Serious"
 		},
@@ -20502,7 +20550,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"Solarbeam",
 				"Rock Slide",
@@ -21514,7 +21562,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Own Tempo",
-			"item": "Brightpowder",
+			"item": "Scope Lens",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -21527,8 +21575,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Psychic",
 				"Surf",
-				"Future Sight",
-				"Fire Blast"
+				"Thunderpunch",
+				"Slack Off"
 			],
 			"nature": "Serious"
 		},
@@ -21664,9 +21712,8 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 68,
 			"moves": [
+				"Reflect",
 				"Light Screen",
-				"Spikes",
-				"Baton Pass",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -21729,8 +21776,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Aerial Ace",
 				"X-Scissor",
-				"Substitute",
-				"Swords Dance"
+				"Ice Beam",
+				"Metal Claw"
 			],
 			"nature": "Serious"
 		},
@@ -21867,12 +21914,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 74,
+			"level": 72,
 			"moves": [
-				"Double-Edge",
-				"Shadow Ball",
-				"Curse",
-				"Fire Blast"
+				"Body Slam",
+				"Crunch",
+				"Fire Blast",
+				"Iron Head"
 			],
 			"nature": "Serious"
 		},
@@ -22594,8 +22641,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Earthquake",
 				"Iron Tail",
-				"Roar",
-				"Explosion"
+				"Explosion",
+				"Sandstorm"
 			],
 			"nature": "Serious"
 		},
@@ -22798,8 +22845,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Ice Beam",
-				"Calm Mind",
-				"Whirlpool"
+				"Extrasensory",
+				"Extremespeed"
 			],
 			"nature": "Serious"
 		}
@@ -23124,8 +23171,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 70,
 			"moves": [
 				"Facade",
+				"Hidden Power Ghost",
 				"Substitute",
-				"Double Team",
 				"Endeavor"
 			],
 			"nature": "Serious"
@@ -24106,7 +24153,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 71,
 			"moves": [
 				"Heat Wave",
 				"Earthquake",
@@ -24268,7 +24315,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 74,
+			"level": 72,
 			"moves": [
 				"Rock Slide",
 				"Earthquake",
@@ -24485,7 +24532,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Guts",
-			"item": "Quick Claw",
+			"item": "Scope Lens",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24497,9 +24544,9 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 69,
 			"moves": [
 				"Crush Claw",
-				"Superpower",
 				"Earthquake",
-				"Swords Dance"
+				"Thunderpunch",
+				"Ice Punch"
 			],
 			"nature": "Serious"
 		},
@@ -24564,7 +24611,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Aqua Admin Shelly [#569]": {
 			"ability": "Drizzle",
-			"item": "Quick Claw",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25051,7 +25098,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Magma Grunt [#731]": {
 			"ability": "Chlorophyll",
-			"item": "Scope Lens",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25060,7 +25107,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
@@ -25174,7 +25221,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Magma Grunt [#727]": {
 			"ability": "Chlorophyll",
-			"item": "Rawst Berry",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25183,7 +25230,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
@@ -25828,7 +25875,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 73,
+			"level": 72,
 			"moves": [
 				"Sludge Bomb",
 				"Heat Wave",
@@ -25956,6 +26003,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Slide",
 				"Whirlpool"
+			],
+			"nature": "Serious"
+		},
+		"Hex Maniac Tammy [#107]": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 67,
+			"moves": [
+				"Earthquake",
+				"Muddy Water",
+				"Ice Beam",
+				"Future Sight"
 			],
 			"nature": "Serious"
 		},
@@ -26211,7 +26278,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Muddy Water",
 				"Ice Beam",
-				"Future Sight"
+				"Body Slam"
 			],
 			"nature": "Serious"
 		}
@@ -26631,7 +26698,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 68,
 			"moves": [
 				"Psychic",
-				"Future Sight",
+				"Heat Wave",
 				"Aerial Ace",
 				"Giga Drain"
 			],
@@ -26668,7 +26735,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Psychic",
 				"Aerial Ace",
@@ -26802,7 +26869,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#23]": {
 			"ability": "Guts",
-			"item": "Brightpowder",
+			"item": "Chesto Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
