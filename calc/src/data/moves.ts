@@ -494,7 +494,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'Role Play': { bp: 0, category: 'Status', type: 'Psychic' },
   'Sand Tomb': { bp: 15, type: 'Ground' },
   'Skill Swap': { bp: 0, category: 'Status', type: 'Psychic' },
-  'Smelling Salts': { bp: 60, type: 'Normal', makesContact: true },
+  'Smellingsalts': { bp: 60, type: 'Normal', makesContact: true },
   'Spit Up': { bp: 0, type: 'Normal' },
   Stockpile: { bp: 0, category: 'Status', type: 'Normal' },
   Swallow: { bp: 0, category: 'Status', type: 'Normal' },
