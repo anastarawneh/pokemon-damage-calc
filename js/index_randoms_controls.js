@@ -144,21 +144,24 @@ function calculationsColors(p1info, p2, advanced) {
 	for (var i = 0; i < 4; i++) {
 		// P1
 		result = damageResults[0][i];
+		var isExplosion = result.move.named("Explosion", "Self-Destruct");
 		//lowest rolls in %
 		damage = result.damage[0] ? result.damage[0] : result.damage;
 		lowestRoll = damage / p2.stats.hp * 100;
 		damage = result.damage[15] ? result.damage[15] : result.damage;
 		highestRoll = damage / p2.stats.hp * 100;
-		if (highestRoll > p1HD) {
-			p1HD = highestRoll;
-		}
-		if (lowestRoll >= 100) {
-			p1KO = 1;
-		} else { //if lowest kill obviously highest will
-			//highest rolls in %
-			if (highestRoll >= 100) {
-				if (p1KO == 0) {
-					p1KO = 2;
+		if (!isExplosion) {
+			if (highestRoll > p1HD) {
+				p1HD = highestRoll;
+			}
+			if (lowestRoll >= 100) {
+				p1KO = 1;
+			} else { //if lowest kill obviously highest will
+				//highest rolls in %
+				if (highestRoll >= 100) {
+					if (p1KO == 0) {
+						p1KO = 2;
+					}
 				}
 			}
 		}
