@@ -609,7 +609,7 @@
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Leaf Blade", "Shadow Ball", "Aerial Ace", "Rock Slide"],
+			"moves":["Leaf Blade", "Shadow Ball", "Aerial Ace", "Heat Wave"],
 			"level":61
 		},
 		"Kabutops_4":{
@@ -1230,7 +1230,7 @@
 			"level":84
 		},
 		"Metagross_2":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -1308,7 +1308,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Brick Break", "Rock Slide", "Mach Punch", "Aerial Ace"],
+			"moves":["Brick Break", "Rock Slide", "Aerial Ace", "Bulk Up"],
 			"level":68
 		},
 		"Granbull_6":{
@@ -1316,7 +1316,7 @@
 			"item":"Focus Band",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Return", "Crunch", "Counter", "Thunder Wave"],
+			"moves":["Return", "Crunch", "Earthquake", "Counter"],
 			"level":68
 		}
 	},
@@ -1373,7 +1373,7 @@
 			"level":96
 		},
 		"Metagross_2":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Metal Coat",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -2318,7 +2318,7 @@
 			"level":96
 		},
 		"Metagross_4":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -3067,7 +3067,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Leaf Blade", "Extrasensory", "Fake Out", "Swagger"],
+			"moves":["Leaf Blade", "Extrasensory", "Heat Wave", "Swagger"],
 			"level":67
 		},
 		"Whiscash_5":{
@@ -3897,12 +3897,12 @@
 			"moves":["Crabhammer", "X-Scissor", "Earthquake", "Crush Claw"],
 			"level":68
 		},
-		"Vileplume_4":{
-			"ability":"Chlorophyll",
-			"item":"Lum Berry",
+		"Venusaur_4":{
+			"ability":"Thick Fat",
+			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Sludge Bomb", "Sleep Powder", "Moonlight"],
+			"moves":["Giga Drain", "Sludge Bomb", "Earthquake", "Leech Seed"],
 			"level":68
 		},
 		"Weezing_5":{
@@ -6142,7 +6142,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Sludge Bomb", "Toxic", "Mean Look", "Brick Break"],
+			"moves":["Sludge Bomb", "Flamethrower", "Toxic", "Mean Look"],
 			"level":67
 		},
 		"Torkoal_4":{
@@ -6377,7 +6377,7 @@
 			"level":100
 		},
 		"Metagross_5":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -6700,7 +6700,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sky Attack", "Rock Slide", "Fire Blast", "Earthquake"],
-			"level":653
+			"level":65
 		},
 		"Gyarados_2":{
 			"ability":"Intimidate",
@@ -6745,7 +6745,7 @@
 	},
 	"Leader Tate&Liza_271":{
 		"Metagross_1":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -8945,7 +8945,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Aerial Ace", "Outrage", "Earthquake", "Heat Wave"],
+			"moves":["Aerial Ace", "Outrage", "Earthquake", "Body Slam"],
 			"level":62
 		},
 		"Noctowl_4":{
@@ -8953,7 +8953,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Aerial Ace", "Double-Edge", "Extrasensory", "Hypnosis"],
+			"moves":["Aerial Ace", "Heat Wave", "Extrasensory", "Hypnosis"],
 			"level":62
 		},
 		"Xatu_5":{
@@ -8961,7 +8961,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Aerial Ace", "Psychic", "Confuse Ray", "Signal Beam"],
+			"moves":["Aerial Ace", "Psychic", "Heat Wave", "Signal Beam"],
 			"level":62
 		},
 		"Sableye_6":{
@@ -9071,7 +9071,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Leech Seed", "Substitute", "Giga Drain", "Aerial Ace"],
-			"level":62
+			"level":63
 		},
 		"Aerodactyl_6":{
 			"ability":"Rock Head",
@@ -9278,7 +9278,7 @@
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Psychic", "Magical Leaf", "Shadow Ball", "Ice Punch"],
+			"moves":["Psychic", "Magical Leaf", "Thunderbolt", "Ice Punch"],
 			"level":60
 		}
 	},
@@ -9694,7 +9694,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Solarbeam", "Psychic", "Sleep Powder", "Explosion"],
+			"moves":["Solarbeam", "Psychic", "Earthquake", "Explosion"],
 			"level":61
 		},
 		"Nidoking_3":{
@@ -9705,12 +9705,12 @@
 			"moves":["Earthquake", "Poison Tail", "Flamethrower", "Megahorn"],
 			"level":61
 		},
-		"Shuckle_4":{
-			"ability":"Battle Armor",
-			"item":"Leftovers",
+		"Ninetales_4":{
+			"ability":"Pressure",
+			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Wrap", "Earthquake", "Curse", "Toxic"],
+			"moves":["Flamethrower", "Extrasensory", "Quick Attack", "Hypnosis"],
 			"level":61
 		}
 	},
@@ -12272,7 +12272,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Return", "Cosmic Power", "Meteor Mash", "Moonlight"],
+			"moves":["Return", "Meteor Mash", "Curse", "Moonlight"],
 			"level":67
 		},
 		"Raichu_4":{
@@ -12400,7 +12400,7 @@
 			"item":"Silk Scarf",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Body Slam", "X-Scissor", "Brick Break", "Quick Attack"],
+			"moves":["Body Slam", "X-Scissor", "Brick Break", "Swords Dance"],
 			"level":67
 		},
 		"Tentacruel_4":{
@@ -13315,7 +13315,7 @@
 			"item":"Quick Claw",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Crush Claw", "Cross Chop", "Facade", "Rock Slide"],
+			"moves":["Crush Claw", "Cross Chop", "Earthquake", "Rock Slide"],
 			"level":61
 		},
 		"Sceptile_5":{
@@ -13323,7 +13323,7 @@
 			"item":"Scope Lens",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Leaf Blade", "X-Scissor", "Dragon Claw", "Crush Claw"],
+			"moves":["Leaf Blade", "X-Scissor", "Dragon Claw", "Endeavor"],
 			"level":61
 		},
 		"Altaria_6":{
@@ -14590,11 +14590,11 @@
 		},
 		"Linoone_3":{
 			"ability":"Guts",
-			"item":"Silk Scarf",
+			"item":"Soft Sand",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Double-Edge", "Extremespeed", "Shadow Ball", "Hidden Power~13"],
-			"level":62
+			"level":64
 		},
 		"Starmie_4":{
 			"ability":"Natural Cure",
@@ -14610,15 +14610,15 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Drill Peck", "Steel Wing", "Pursuit", "Hidden Power~13"],
-			"level":62
+			"level":64
 		},
 		"Cradily_6":{
 			"ability":"Suction Cups",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Rock Slide", "Leech Seed", "Ingrain"],
-			"level":62
+			"moves":["Giga Drain", "Rock Slide", "Earthquake", "Leech Seed"],
+			"level":64
 		}
 	},
 	"Picnicker Ashley_655":{
@@ -15850,7 +15850,7 @@
 			"level":70
 		},
 		"Metagross_2":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Metal Coat",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -16568,7 +16568,7 @@
 			"level":50
 		},
 		"Metagross_6":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -18569,7 +18569,7 @@
 			"level":76
 		},
 		"Metagross_6":{
-			"ability":"Battle Armor",
+			"ability":"Clear Body",
 			"item":"Sitrus Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},

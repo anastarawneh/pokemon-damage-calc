@@ -444,7 +444,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Mantine",
 		"Sneasel",
 		"Kingler",
-		"Vileplume",
+		"Venusaur",
 		"Weezing",
 		"Cloyster"
 	],
@@ -942,7 +942,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Flareon",
 		"Exeggutor",
 		"Nidoking",
-		"Shuckle"
+		"Ninetales"
 	],
 	"Picnicker Heidi [#469]": [
 		"Alakazam",
