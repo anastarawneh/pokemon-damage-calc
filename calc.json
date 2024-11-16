@@ -1608,7 +1608,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":6, "at":6, "df":6, "sa":6, "sd":6, "sp":6},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
+			"moves":["Thunder Wave", "Supersonic", "Thundershock", "Tackle"],
 			"level":17
 		},
 		"Whismur_2":{
@@ -1624,7 +1624,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
+			"moves":["Sonicboom", "Thunder Wave", "Supersonic", "Thundershock"],
 			"level":27
 		},
 		"Loudred_2":{
@@ -1640,7 +1640,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":18, "at":18, "df":18, "sa":18, "sd":18, "sp":18},
-			"moves":["Tri Attack", "Shock Wave", "Thunder Wave", "Sonicboom"],
+			"moves":["Tri Attack", "Shock Wave", "Sonicboom", "Thunder Wave"],
 			"level":30
 		},
 		"Loudred_2":{
@@ -1656,7 +1656,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":24, "at":24, "df":24, "sa":24, "sd":24, "sp":24},
-			"moves":["Tri Attack", "Shock Wave", "Thunder Wave", "Sonicboom"],
+			"moves":["Tri Attack", "Shock Wave", "Sonicboom", "Thunder Wave"],
 			"level":33
 		},
 		"Loudred_2":{
@@ -1672,7 +1672,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":30, "at":30, "df":30, "sa":30, "sd":30, "sp":30},
-			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Thunder Wave"],
+			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Sonicboom"],
 			"level":36
 		},
 		"Loudred_2":{
@@ -4733,7 +4733,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":1, "at":1, "df":1, "sa":1, "sd":1, "sp":1},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
+			"moves":["Sonicboom", "Thunder Wave", "Supersonic", "Thundershock"],
 			"level":25
 		},
 		"Whismur_2":{
@@ -4747,7 +4747,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":1, "at":1, "df":1, "sa":1, "sd":1, "sp":1},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
+			"moves":["Sonicboom", "Thunder Wave", "Supersonic", "Thundershock"],
 			"level":25
 		}
 	},
@@ -4756,7 +4756,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Shock Wave", "Thunder Wave", "Sonicboom", "Supersonic"],
+			"moves":["Shock Wave", "Sonicboom", "Thunder Wave", "Supersonic"],
 			"level":28
 		},
 		"Loudred_2":{
@@ -4770,7 +4770,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Shock Wave", "Thunder Wave", "Sonicboom", "Supersonic"],
+			"moves":["Shock Wave", "Sonicboom", "Thunder Wave", "Supersonic"],
 			"level":28
 		}
 	},
@@ -4779,7 +4779,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Tri Attack", "Shock Wave", "Thunder Wave", "Sonicboom"],
+			"moves":["Tri Attack", "Shock Wave", "Sonicboom", "Thunder Wave"],
 			"level":31
 		},
 		"Loudred_2":{
@@ -4793,7 +4793,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Tri Attack", "Shock Wave", "Thunder Wave", "Sonicboom"],
+			"moves":["Tri Attack", "Shock Wave", "Sonicboom", "Thunder Wave"],
 			"level":31
 		}
 	},
@@ -4802,7 +4802,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Thunder Wave"],
+			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Sonicboom"],
 			"level":34
 		},
 		"Exploud_2":{
@@ -4816,7 +4816,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Thunder Wave"],
+			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Sonicboom"],
 			"level":34
 		}
 	},
@@ -5599,21 +5599,21 @@
 			"moves":["Thunderbolt", "Crunch", "Hidden Power~5", "Thunder Wave"],
 			"level":71
 		},
-		"Charizard_4":{
-			"ability":"Blaze",
-			"item":"Petaya Berry",
+		"Gengar_4":{
+			"ability":"Levitate",
+			"item":"Poison Barb",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Flamethrower", "Aerial Ace", "Thunderpunch", "Substitute"],
-			"level":70
+			"moves":["Psychic", "Fire Punch", "Sludge Bomb", "Hypnosis"],
+			"level":69
 		},
-		"Wobbuffet_5":{
-			"ability":"Shadow Tag",
-			"item":"Leftovers",
+		"Rhydon_5":{
+			"ability":"Rock Head",
+			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Counter", "Mirror Coat", "Destiny Bond"],
-			"level":71
+			"moves":["Earthquake", "Rock Slide", "Body Slam", "Iron Tail"],
+			"level":70
 		},
 		"Milotic_6":{
 			"ability":"Marvel Scale",
@@ -5631,7 +5631,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crush Claw", "Superpower", "Earthquake", "Crunch"],
-			"level":69
+			"level":67
 		},
 		"Exeggutor_2":{
 			"ability":"Chlorophyll",
@@ -5649,13 +5649,13 @@
 			"moves":["Psychic", "Rock Slide", "Hypnosis", "Flamethrower"],
 			"level":68
 		},
-		"Slowking_4":{
-			"ability":"Own Tempo",
-			"item":"Lum Berry",
+		"Wailord_4":{
+			"ability":"Water Veil",
+			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Psychic", "Surf", "Ice Beam", "Slack Off"],
-			"level":68
+			"moves":["Surf", "Hyper Voice", "Earthquake", "Yawn"],
+			"level":69
 		},
 		"Raichu_5":{
 			"ability":"Static",
@@ -5691,12 +5691,12 @@
 			"moves":["Surf", "Psychic", "Ice Beam", "Hypnosis"],
 			"level":69
 		},
-		"Porygon2_3":{
-			"ability":"Trace",
+		"Clefable_3":{
+			"ability":"Cute Charm",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Tri Attack", "Thunderbolt", "Ice Beam", "Recover"],
+			"moves":["Seismic Toss", "Pursuit", "Cosmic Power", "Softboiled"],
 			"level":70
 		},
 		"Lunatone_4":{
@@ -5886,7 +5886,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Flamethrower", "Spark", "Extremespeed", "Will-O-Wisp"],
+			"moves":["Flamethrower", "Spark", "Morning Sun", "Will-O-Wisp"],
 			"level":70
 		},
 		"Aggron_3":{
@@ -5897,21 +5897,21 @@
 			"moves":["Rock Slide", "Iron Head", "Double-Edge", "Superpower"],
 			"level":70
 		},
-		"Medicham_4":{
-			"ability":"Pure Power",
-			"item":"Black Belt",
+		"Sneasel_4":{
+			"ability":"Inner Focus",
+			"item":"Sharp Beak",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Psychic", "Brick Break", "Shadow Ball", "Fake Out"],
-			"level":68
+			"moves":["Aerial Ace", "X-Scissor", "Ice Beam", "Brick Break"],
+			"level":72
 		},
-		"Gorebyss_5":{
-			"ability":"Swift Swim",
-			"item":"Leftovers",
+		"Slowking_5":{
+			"ability":"Own Tempo",
+			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Psychic", "Surf", "Amnesia", "Double Team"],
-			"level":69
+			"moves":["Psychic", "Surf", "Ice Beam", "Slack Off"],
+			"level":68
 		},
 		"Slaking_6":{
 			"ability":"Truant",
@@ -5973,26 +5973,12 @@
 		}
 	},
 	"Psychic Maura_246":{
-		"Kadabra_1":{
-			"ability":"Synchronize",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Future Sight", "Psybeam", "Disable", "Confusion"],
-			"level":36
-		},
-		"Kadabra_2":{
-			"ability":"Synchronize",
-			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Future Sight", "Psybeam", "Disable", "Confusion"],
-			"level":36
-		},
-		"Kadabra_3":{
-			"ability":"Synchronize",
-			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Future Sight", "Psybeam", "Disable", "Confusion"],
-			"level":36
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Team Aqua Grunt_247":{
@@ -8401,7 +8387,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":1, "at":1, "df":1, "sa":1, "sd":1, "sp":1},
-			"moves":["Tri Attack", "Shock Wave", "Thunder Wave", "Sonicboom"],
+			"moves":["Tri Attack", "Shock Wave", "Sonicboom", "Thunder Wave"],
 			"level":30
 		}
 	},
@@ -8410,7 +8396,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Tri Attack", "Shock Wave", "Thunder Wave", "Sonicboom"],
+			"moves":["Tri Attack", "Shock Wave", "Sonicboom", "Thunder Wave"],
 			"level":33
 		}
 	},
@@ -8419,7 +8405,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Thunder Wave"],
+			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Sonicboom"],
 			"level":36
 		}
 	},
@@ -8428,7 +8414,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Thunder Wave"],
+			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Sonicboom"],
 			"level":39
 		}
 	},
@@ -8455,7 +8441,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":1, "at":1, "df":1, "sa":1, "sd":1, "sp":1},
-			"moves":["Shock Wave", "Thunder Wave", "Sonicboom", "Supersonic"],
+			"moves":["Shock Wave", "Sonicboom", "Thunder Wave", "Supersonic"],
 			"level":28
 		}
 	},
@@ -8464,7 +8450,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Tri Attack", "Shock Wave", "Thunder Wave", "Sonicboom"],
+			"moves":["Tri Attack", "Shock Wave", "Sonicboom", "Thunder Wave"],
 			"level":31
 		}
 	},
@@ -8473,7 +8459,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Thunder Wave"],
+			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Sonicboom"],
 			"level":34
 		}
 	},
@@ -8482,7 +8468,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Thunder Wave"],
+			"moves":["Iron Head", "Tri Attack", "Shock Wave", "Sonicboom"],
 			"level":37
 		}
 	},
@@ -12511,7 +12497,7 @@
 			"ability":"Magnet Pull",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Thunder Wave", "Sonicboom", "Supersonic", "Thundershock"],
+			"moves":["Sonicboom", "Thunder Wave", "Supersonic", "Thundershock"],
 			"level":21
 		}
 	},
@@ -12784,12 +12770,12 @@
 		}
 	},
 	"Hex Maniac Sylvia_575":{
-		"Meditite_1":{
-			"ability":"Pure Power",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
-			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Brick Break", "Rock Slide", "Psybeam", "Rock Throw"],
-			"level":36
+			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Swimmer-M Leonardo_576":{
@@ -12893,7 +12879,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Tri Attack", "Ice Beam", "Recover", "Thunder Wave"],
+			"moves":["Thunderbolt", "Flamethrower", "Ice Beam", "Thunder Wave"],
 			"level":69
 		},
 		"Ninetales_3":{
@@ -12902,23 +12888,23 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Flamethrower", "Extrasensory", "Hypnosis", "Quick Attack"],
-			"level":70
+			"level":68
 		},
-		"Weezing_4":{
-			"ability":"Levitate",
+		"Muk_4":{
+			"ability":"Poison Point",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Flamethrower", "Toxic", "Shadow Ball"],
 			"level":69
 		},
-		"Wailord_5":{
-			"ability":"Water Veil",
+		"Gorebyss_5":{
+			"ability":"Swift Swim",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Hyper Voice", "Ice Beam", "Yawn"],
-			"level":70
+			"moves":["Psychic", "Surf", "Amnesia", "Double Team"],
+			"level":69
 		},
 		"Quagsire_6":{
 			"ability":"Water Absorb",
@@ -12943,7 +12929,7 @@
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Psychic", "Calm Mind", "Substitute", "Baton Pass"],
+			"moves":["Psychic", "Fire Punch", "Calm Mind", "Substitute"],
 			"level":69
 		},
 		"Heracross_3":{
@@ -12956,10 +12942,10 @@
 		},
 		"Kangaskhan_4":{
 			"ability":"Early Bird",
-			"item":"Lum Berry",
+			"item":"Silk Scarf",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Crush Claw", "Superpower", "Thunder", "Aerial Ace"],
+			"moves":["Crush Claw", "Superpower", "Thunder", "Earthquake"],
 			"level":69
 		},
 		"Gyarados_5":{
@@ -12993,7 +12979,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Earthquake", "Double-Edge"],
+			"moves":["Surf", "Ice Beam", "Body Slam", "Iron Defense"],
 			"level":70
 		},
 		"Scyther_3":{
@@ -13002,23 +12988,23 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["X-Scissor", "Aerial Ace", "Brick Break", "Swords Dance"],
-			"level":70
-		},
-		"Houndoom_4":{
-			"ability":"Intimidate",
-			"item":"Charcoal",
-			"nature":"Serious",
-			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Heat Wave", "Crunch", "Hyper Voice", "Shadow Ball"],
 			"level":69
 		},
-		"Machamp_5":{
-			"ability":"Guts",
-			"item":"Chesto Berry",
+		"Banette_4":{
+			"ability":"Insomnia",
+			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Cross Chop", "Rock Slide", "Bulk Up", "Earthquake"],
-			"level":70
+			"moves":["Shadow Ball", "Thunderbolt", "Psychic", "Will-O-Wisp"],
+			"level":73
+		},
+		"Slowbro_5":{
+			"ability":"Own Tempo",
+			"item":"Leftovers",
+			"nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Surf", "Ice Beam", "Flamethrower", "Slack Off"],
+			"level":69
 		},
 		"Jynx_6":{
 			"ability":"Oblivious",
@@ -13030,12 +13016,12 @@
 		}
 	},
 	"Psychic Nicholas_585":{
-		"Wobbuffet_1":{
-			"ability":"Shadow Tag",
+		"Ditto_1":{
+			"ability":"Limber",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Mirror Coat", "Counter", "Encore", "Safeguard"],
-			"level":36
+			"moves":["Transform"],
+			"level":1
 		}
 	},
 	"Team Magma Grunt_586":{
@@ -13216,20 +13202,20 @@
 			"moves":["Psychic", "Earthquake", "Signal Beam", "Shadow Ball"],
 			"level":70
 		},
-		"Gengar_3":{
-			"ability":"Levitate",
-			"item":"Green Shard",
+		"Charizard_3":{
+			"ability":"Blaze",
+			"item":"Petaya Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Psychic", "Shadow Ball", "Sludge Bomb", "Hypnosis"],
-			"level":69
+			"moves":["Flamethrower", "Aerial Ace", "Thunderpunch", "Substitute"],
+			"level":70
 		},
-		"Slowbro_4":{
-			"ability":"Own Tempo",
+		"Ludicolo_4":{
+			"ability":"Swift Swim",
 			"item":"Leftovers",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Psychic", "Earthquake", "Flamethrower"],
+			"moves":["Giga Drain", "Surf", "Leech Seed", "Ice Beam"],
 			"level":69
 		},
 		"Pinsir_5":{

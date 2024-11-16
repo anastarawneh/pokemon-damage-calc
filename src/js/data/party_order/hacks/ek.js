@@ -590,22 +590,22 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Hypno",
 		"Venusaur",
 		"Jolteon",
-		"Charizard",
-		"Wobbuffet",
+		"Gengar",
+		"Rhydon",
 		"Milotic"
 	],
 	"Psychic Virgil [#234]": [
 		"Ursaring",
 		"Exeggutor",
 		"Solrock",
-		"Slowking",
+		"Wailord",
 		"Raichu",
 		"Glalie"
 	],
 	"Psychic Blake [#235]": [
 		"Dusclops",
 		"Golduck",
-		"Porygon2",
+		"Clefable",
 		"Lunatone",
 		"Gardevoir",
 		"Manectric"
@@ -622,8 +622,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Espeon",
 		"Arcanine",
 		"Aggron",
-		"Medicham",
-		"Gorebyss",
+		"Sneasel",
+		"Slowking",
 		"Slaking"
 	],
 	"Psychic Samantha [#245]": [
@@ -1202,8 +1202,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Grumpig",
 		"Porygon2",
 		"Ninetales",
-		"Weezing",
-		"Wailord",
+		"Muk",
+		"Gorebyss",
 		"Quagsire"
 	],
 	"Hex Maniac Kathleen [#583]": [
@@ -1218,8 +1218,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Skarmory",
 		"Blastoise",
 		"Scyther",
-		"Houndoom",
-		"Machamp",
+		"Banette",
+		"Slowbro",
 		"Jynx"
 	],
 	"Team Magma Grunt [#586]": [
@@ -1251,8 +1251,8 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Psychic Macey [#591]": [
 		"Alakazam",
 		"Claydol",
-		"Gengar",
-		"Slowbro",
+		"Charizard",
+		"Ludicolo",
 		"Pinsir",
 		"Omastar"
 	],
@@ -1750,34 +1750,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Camerupt",
 		"Torkoal"
 	],
-	"Leader Norman [#786]": [
-		"Chansey",
-		"Slaking",
-		"Spinda",
-		"Slaking (1)"
-	],
-	"Leader Norman [#787]": [
-		"Slaking",
-		"Chansey",
-		"Kangaskhan",
-		"Spinda",
-		"Slaking (1)"
-	],
-	"Leader Norman [#788]": [
-		"Slaking",
-		"Blissey",
-		"Kangaskhan",
-		"Spinda",
-		"Slaking (1)"
-	],
-	"Leader Norman [#789]": [
-		"Slaking",
-		"Blissey",
-		"Kangaskhan",
-		"Tauros",
-		"Spinda",
-		"Slaking (1)"
-	],
 	"Leader Winona [#790]": [
 		"Dratini",
 		"Tropius",
@@ -1787,14 +1759,6 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Leader Winona [#791]": [
 		"Hoothoot",
-		"Tropius",
-		"Dragonair",
-		"Pelipper",
-		"Skarmory",
-		"Altaria"
-	],
-	"Leader Winona [#792]": [
-		"Noctowl",
 		"Tropius",
 		"Dragonair",
 		"Pelipper",

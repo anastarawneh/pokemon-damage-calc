@@ -747,26 +747,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Leader Winona [#792]": {
-			"ability": "Natural Cure",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Aerial Ace",
-				"Rest",
-				"Dragon Dance",
-				"Earthquake"
-			],
-			"nature": "Serious"
-		},
 		"Leader Winona [#793]": {
 			"ability": "Natural Cure",
 			"item": "Chesto Berry",
@@ -1267,7 +1247,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Flamethrower",
 				"Spark",
-				"Extremespeed",
+				"Morning Sun",
 				"Will-O-Wisp"
 			],
 			"nature": "Serious"
@@ -1738,6 +1718,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Banette": {
+		"Gentleman Clifford [#584]": {
+			"ability": "Insomnia",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 73,
+			"moves": [
+				"Shadow Ball",
+				"Thunderbolt",
+				"Psychic",
+				"Will-O-Wisp"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Insomnia",
 			"item": "Leftovers",
@@ -1963,8 +1963,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Ice Beam",
-				"Earthquake",
-				"Double-Edge"
+				"Body Slam",
+				"Iron Defense"
 			],
 			"nature": "Serious"
 		},
@@ -2289,44 +2289,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Seismic Toss",
 				"Softboiled",
 				"Thunder Wave"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#788]": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 52,
-			"moves": [
-				"Light Screen",
-				"Sing",
-				"Skill Swap",
-				"Focus Punch"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#789]": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 57,
-			"moves": [
-				"Protect",
-				"Sing",
-				"Skill Swap",
-				"Focus Punch"
 			],
 			"nature": "Serious"
 		},
@@ -3018,46 +2980,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		}
 	},
-	"Chansey": {
-		"Leader Norman [#786]": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Light Screen",
-				"Sing",
-				"Skill Swap",
-				"Focus Punch"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#787]": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Light Screen",
-				"Sing",
-				"Skill Swap",
-				"Focus Punch"
-			],
-			"nature": "Serious"
-		}
-	},
 	"Charizard": {
 		"Bird Keeper Edwardo [#404]": {
 			"ability": "Blaze",
@@ -3219,7 +3141,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Psychic Preston [#233]": {
+		"Psychic Macey [#591]": {
 			"ability": "Blaze",
 			"item": "Petaya Berry",
 			"ivs": {
@@ -3819,6 +3741,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Cosmic Power",
 				"Meteor Mash",
 				"Moonlight"
+			],
+			"nature": "Serious"
+		},
+		"Psychic Blake [#235]": {
+			"ability": "Cute Charm",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 70,
+			"moves": [
+				"Seismic Toss",
+				"Pursuit",
+				"Cosmic Power",
+				"Softboiled"
 			],
 			"nature": "Serious"
 		},
@@ -5324,26 +5266,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 45,
-			"moves": [
-				"Thunder Wave",
-				"Thunderbolt",
-				"Protect",
-				"Ice Beam"
-			],
-			"nature": "Serious"
-		},
-		"Leader Winona [#792]": {
-			"ability": "Shed Skin",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
 			"moves": [
 				"Thunder Wave",
 				"Thunderbolt",
@@ -7784,9 +7706,9 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Psychic Macey [#591]": {
+		"Psychic Preston [#233]": {
 			"ability": "Levitate",
-			"item": "Green Shard",
+			"item": "Poison Barb",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7798,7 +7720,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 69,
 			"moves": [
 				"Psychic",
-				"Shadow Ball",
+				"Fire Punch",
 				"Sludge Bomb",
 				"Hypnosis"
 			],
@@ -8488,7 +8410,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Psychic Hannah [#244]": {
+		"Gentleman Nate [#582]": {
 			"ability": "Swift Swim",
 			"item": "Leftovers",
 			"ivs": {
@@ -9885,26 +9807,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Gentleman Clifford [#584]": {
-			"ability": "Intimidate",
-			"item": "Charcoal",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 69,
-			"moves": [
-				"Heat Wave",
-				"Crunch",
-				"Hyper Voice",
-				"Shadow Ball"
-			],
-			"nature": "Serious"
-		},
 		"Leader Flannery [#268]": {
 			"ability": "Intimidate",
 			"item": "Charcoal",
@@ -10925,7 +10827,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Early Bird",
-			"item": "Lum Berry",
+			"item": "Silk Scarf",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10939,64 +10841,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Superpower",
 				"Thunder",
-				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#787]": {
-			"ability": "Early Bird",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Fake Out",
-				"Dizzy Punch",
-				"Endure",
-				"Reversal"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#788]": {
-			"ability": "Early Bird",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Fake Out",
-				"Dizzy Punch",
-				"Endure",
-				"Reversal"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#789]": {
-			"ability": "Early Bird",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Fake Out",
-				"Dizzy Punch",
-				"Endure",
-				"Reversal"
+				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -12123,6 +11968,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Psychic Macey [#591]": {
+			"ability": "Swift Swim",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 69,
+			"moves": [
+				"Giga Drain",
+				"Surf",
+				"Leech Seed",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
@@ -12507,26 +12372,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Bullet Punch",
 				"Belly Drum"
-			],
-			"nature": "Serious"
-		},
-		"Gentleman Clifford [#584]": {
-			"ability": "Guts",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 70,
-			"moves": [
-				"Cross Chop",
-				"Rock Slide",
-				"Bulk Up",
-				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -14306,26 +14151,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Psychic Hannah [#244]": {
-			"ability": "Pure Power",
-			"item": "Black Belt",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 68,
-			"moves": [
-				"Psychic",
-				"Brick Break",
-				"Shadow Ball",
-				"Fake Out"
-			],
-			"nature": "Serious"
-		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Pure Power",
 			"item": "Black Belt",
@@ -15379,9 +15204,9 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 69,
 			"moves": [
 				"Psychic",
+				"Fire Punch",
 				"Calm Mind",
-				"Substitute",
-				"Baton Pass"
+				"Substitute"
 			],
 			"nature": "Serious"
 		}
@@ -15404,6 +15229,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Fire Blast",
 				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
+		"Gentleman Nate [#582]": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 69,
+			"moves": [
+				"Sludge Bomb",
+				"Flamethrower",
+				"Toxic",
+				"Shadow Ball"
 			],
 			"nature": "Serious"
 		},
@@ -15966,7 +15811,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 68,
 			"moves": [
 				"Flamethrower",
 				"Extrasensory",
@@ -16159,25 +16004,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Noctowl": {
-		"Leader Winona [#792]": {
-			"ability": "Insomnia",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Hypnosis",
-				"Psychic",
-				"Reflect",
-				"Dream Eater"
-			],
-			"nature": "Serious"
-		},
 		"Leader Winona [#793]": {
 			"ability": "Insomnia",
 			"ivs": {
@@ -16735,25 +16561,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 46,
-			"moves": [
-				"Surf",
-				"Supersonic",
-				"Protect",
-				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
-		"Leader Winona [#792]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
 			"moves": [
 				"Surf",
 				"Supersonic",
@@ -17968,9 +17775,9 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 69,
 			"moves": [
-				"Tri Attack",
+				"Thunderbolt",
+				"Flamethrower",
 				"Ice Beam",
-				"Recover",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -17992,26 +17799,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Recover",
 				"Toxic"
-			],
-			"nature": "Serious"
-		},
-		"Psychic Blake [#235]": {
-			"ability": "Trace",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 70,
-			"moves": [
-				"Tri Attack",
-				"Thunderbolt",
-				"Ice Beam",
-				"Recover"
 			],
 			"nature": "Serious"
 		},
@@ -19094,6 +18881,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
+		"Psychic Preston [#233]": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 70,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Body Slam",
+				"Iron Tail"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Rock Head",
 			"item": "Focus Band",
@@ -20038,7 +19845,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 69,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -20940,25 +20747,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Leader Winona [#792]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Whirlwind",
-				"Spikes",
-				"Steel Wing",
-				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
 		"Leader Winona [#793]": {
 			"ability": "Keen Eye",
 			"ivs": {
@@ -21160,86 +20948,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Slaking": {
-		"Leader Norman (1) [#786]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Hyper Beam",
-				"Flamethrower",
-				"Thunderbolt",
-				"Shadow Ball"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman (1) [#787]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Hyper Beam",
-				"Flamethrower",
-				"Thunderbolt",
-				"Shadow Ball"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman (1) [#788]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Hyper Beam",
-				"Flamethrower",
-				"Thunderbolt",
-				"Shadow Ball"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman (1) [#789]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 60,
-			"moves": [
-				"Hyper Beam",
-				"Flamethrower",
-				"Thunderbolt",
-				"Shadow Ball"
-			],
-			"nature": "Serious"
-		},
 		"Leader Norman [#269]": {
 			"ability": "Truant",
 			"item": "Leftovers",
@@ -21257,86 +20965,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bulk Up",
 				"Superpower",
 				"Counter"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#786]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#787]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#788]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 52,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#789]": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 57,
-			"moves": [
-				"Blizzard",
-				"Shadow Ball",
-				"Double-Edge",
-				"Fire Blast"
 			],
 			"nature": "Serious"
 		},
@@ -21399,7 +21027,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Slowbro": {
-		"Psychic Macey [#591]": {
+		"Gentleman Clifford [#584]": {
 			"ability": "Own Tempo",
 			"item": "Leftovers",
 			"ivs": {
@@ -21413,9 +21041,9 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 69,
 			"moves": [
 				"Surf",
-				"Psychic",
-				"Earthquake",
-				"Flamethrower"
+				"Ice Beam",
+				"Flamethrower",
+				"Slack Off"
 			],
 			"nature": "Serious"
 		},
@@ -21540,7 +21168,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Psychic Virgil [#234]": {
+		"Psychic Hannah [#244]": {
 			"ability": "Own Tempo",
 			"item": "Lum Berry",
 			"ivs": {
@@ -21761,6 +21389,26 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Sneasel": {
+		"Psychic Hannah [#244]": {
+			"ability": "Inner Focus",
+			"item": "Sharp Beak",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 72,
+			"moves": [
+				"Aerial Ace",
+				"X-Scissor",
+				"Ice Beam",
+				"Brick Break"
+			],
+			"nature": "Serious"
+		},
 		"Team Aqua Grunt [#145]": {
 			"ability": "Inner Focus",
 			"item": "Brightpowder",
@@ -22184,82 +21832,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Teeter Dance",
 				"Hyper Voice",
 				"Shadow Ball"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#786]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Teeter Dance",
-				"Skill Swap",
-				"Facade",
-				"Hypnosis"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#787]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Teeter Dance",
-				"Skill Swap",
-				"Facade",
-				"Hypnosis"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#788]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Teeter Dance",
-				"Skill Swap",
-				"Facade",
-				"Hypnosis"
-			],
-			"nature": "Serious"
-		},
-		"Leader Norman [#789]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 58,
-			"moves": [
-				"Teeter Dance",
-				"Skill Swap",
-				"Facade",
-				"Hypnosis"
 			],
 			"nature": "Serious"
 		},
@@ -23340,25 +22912,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Leader Norman [#789]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 57,
-			"moves": [
-				"Take Down",
-				"Protect",
-				"Fire Blast",
-				"Earthquake"
-			],
-			"nature": "Serious"
-		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Intimidate",
 			"item": "Magnet",
@@ -24022,25 +23575,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Leader Winona [#792]": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 49,
-			"moves": [
-				"Sunny Day",
-				"Aerial Ace",
-				"Solarbeam",
-				"Earthquake"
-			],
-			"nature": "Serious"
-		},
 		"Leader Winona [#793]": {
 			"ability": "Chlorophyll",
 			"ivs": {
@@ -24481,7 +24015,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 67,
 			"moves": [
 				"Crush Claw",
 				"Superpower",
@@ -25384,26 +24918,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Gentleman Nate [#582]": {
-			"ability": "Water Veil",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 70,
-			"moves": [
-				"Surf",
-				"Hyper Voice",
-				"Ice Beam",
-				"Yawn"
-			],
-			"nature": "Serious"
-		},
 		"Lady Daphne [#115]": {
 			"ability": "Water Veil",
 			"item": "Lum Berry",
@@ -25461,6 +24975,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bounce",
 				"Body Slam",
 				"Amnesia"
+			],
+			"nature": "Serious"
+		},
+		"Psychic Virgil [#234]": {
+			"ability": "Water Veil",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 69,
+			"moves": [
+				"Surf",
+				"Hyper Voice",
+				"Earthquake",
+				"Yawn"
 			],
 			"nature": "Serious"
 		},
@@ -25841,26 +25375,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Psybeam",
 				"Toxic"
-			],
-			"nature": "Serious"
-		},
-		"Gentleman Nate [#582]": {
-			"ability": "Levitate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 69,
-			"moves": [
-				"Sludge Bomb",
-				"Flamethrower",
-				"Toxic",
-				"Shadow Ball"
 			],
 			"nature": "Serious"
 		},
@@ -26396,25 +25910,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"sp": 31
 			},
 			"level": 31,
-			"moves": [
-				"Counter",
-				"Mirror Coat",
-				"Destiny Bond"
-			],
-			"nature": "Serious"
-		},
-		"Psychic Preston [#233]": {
-			"ability": "Shadow Tag",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 71,
 			"moves": [
 				"Counter",
 				"Mirror Coat",
