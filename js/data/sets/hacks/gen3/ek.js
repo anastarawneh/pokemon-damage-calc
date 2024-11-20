@@ -1369,7 +1369,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Machop":
     {
-        "Battle Girl Laura": {"ability": "Guts", "item": "Sitrus Berry", "ivs": {"at": 27, "df": 27, "hp": 27, "sa": 27, "sd": 27, "sp": 27}, "level": 16, "moves": ["Revenge", "Rock Tomb", "Facade", "Sleep Talk"], "nature": "Bold"},
+        "Battle Girl Laura": {"ability": "Guts", "item": "Sitrus Berry", "level": 16, "moves": ["Revenge", "Rock Tomb", "Facade", "Sleep Talk"], "nature": "Bold"},
         "Black Belt Koichi": {"ability": "Guts", "item": "Everstone", "level": 55, "moves": ["Mega Kick", "Facade", "Cross Chop", "Rock Slide"], "nature": "Rash"},
         "Sailor Dwayne": {"ability": "Guts", "level": 16, "moves": ["Brick Break", "Rock Slide", "Facade"], "nature": "Modest"}
     },
