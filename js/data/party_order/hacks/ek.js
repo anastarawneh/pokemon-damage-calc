@@ -379,6 +379,12 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Bird Keeper Presley": ["Tropius", "Pelipper"],
     "Expert Auron": ["Flygon", "Machamp"],
     "Sr and Jr Kim & Iris": ["Togetic", "Marowak"],
+    // Route 129
+    "Swimmerm Reed": ["Tangela", "Kingler", "Charizard", "Furret"],
+    "Triathlete Chase": ["Dugtrio", "Magneton", "Dodrio"],
+    "Triathlete Allison": ["Mantine", "Altaria", "Lunatone"],
+    "Swimmerf Tisha": ["Whiscash", "Swalot", "Gyarados"],
+    "Swimmerm Clarence": ["Sharpedo", "Grumpig", "Victreebel"],
     // Mossdeep Gym
     "Psychic Preston": ["Solrock", "Girafarig", "Claydol"],
     "Psychic Maura": ["Lunatone", "Xatu", "Chimecho"],
@@ -425,12 +431,6 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Team Aqua Grunt #5 @ Seafloor Cavern": ["Omastar", "Exeggutor", "Blissey", "Gengar", "Politoed", "Kingdra"],
     "Aqua Admin Shelly #2": ["Lapras", "Ludicolo", "Starmie", "Raichu", "Dragonite", "Vaporeon"],
     "Aqua Leader Archie": ["Raikou", "Suicune", "Metagross", "Dragonite", "Qwilfish", "Kingdra"],
-    // Route 129
-    "Swimmerm Reed": ["Tangela", "Kingler", "Charizard", "Furret"],
-    "Triathlete Chase": ["Dugtrio", "Magneton", "Dodrio"],
-    "Triathlete Allison": ["Mantine", "Altaria", "Lunatone"],
-    "Swimmerf Tisha": ["Whiscash", "Swalot", "Gyarados"],
-    "Swimmerm Clarence": ["Sharpedo", "Grumpig", "Victreebel"],
     // Route 130
     "Swimmerm Rodney": ["Magmar"],
     "Swimmerf Katie": ["Luvdisc", "Banette"],

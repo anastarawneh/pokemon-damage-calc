@@ -366,6 +366,12 @@ var CUSTOMHACKFLAGS_EK = {
             // Route 124
             "Team Aqua Grunt #1 @ Route 124",
             "Team Aqua Grunt #2 @ Route 124",
+            // Route 129
+            "Swimmerm Reed",
+            "Triathlete Chase",
+            "Triathlete Allison",
+            "Swimmerf Tisha",
+            "Swimmerm Clarence",
             // Mossdeep Gym
             "Psychic Preston",
             "Psychic Maura",
@@ -400,12 +406,6 @@ var CUSTOMHACKFLAGS_EK = {
             "Team Aqua Grunt #5 @ Seafloor Cavern",
             "Aqua Admin Shelly #2",
             "Aqua Leader Archie",
-            // Route 129
-            "Swimmerm Reed",
-            "Triathlete Chase",
-            "Triathlete Allison",
-            "Swimmerf Tisha",
-            "Swimmerm Clarence",
             // Sootopolis Gym
             "Beauty Connie",
             "Pokémon Ranger Andrea",
