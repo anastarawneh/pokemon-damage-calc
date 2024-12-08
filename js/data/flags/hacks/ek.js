@@ -495,7 +495,7 @@ var CUSTOMHACKFLAGS_EK = {
             "Young Couple Dez & Luke",
             "Sis And Bro Lila & Roy",
             "Sr and Jr Kim & Iris",
-            "Teaders Tate&Liza",
+            "Leaders Tate&Liza",
             "Aqua Leader Archie",
             "Sis And Bro Reli & Ian",
             "Leader #2 Juan",
