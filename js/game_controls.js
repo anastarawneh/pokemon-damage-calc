@@ -616,7 +616,8 @@ function predictSwitchOrderEmerald() {
 				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
 				var attacker = new calc.Pokemon(GENERATION, dead.species, {
 					level: dead.level,
-					moves: moves
+					moves: moves,
+					nature: createPokemon(dead.setName).nature
 				});
 				for (var j in attacker.moves) {
 					if (!advanced) {
@@ -657,6 +658,7 @@ function predictSwitchOrderEmerald() {
 						}
 						move.bp = $(".last-move-used > .move-bp").val();
 						var score = vanillaDamageCalcEmerald(attacker, defender, move, createField().clone().swap());
+						// console.log(`${attacker.name} using ${next.species}'s ${attacker.moves[j].name} -> ${score}`);
 						if (score > highestDamage.score) {
 							score %= 256;
 							highestDamage.pokemon = next;
