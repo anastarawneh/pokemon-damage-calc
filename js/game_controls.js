@@ -614,11 +614,8 @@ function predictSwitchOrderEmerald() {
 				if (next.setName == dead.setName) continue;
 				var moves = [];
 				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
-				var attacker = new calc.Pokemon(GENERATION, dead.species, {
-					level: dead.level,
-					moves: moves,
-					nature: createPokemon(dead.setName).nature
-				});
+				var attacker = createPokemon(dead.setName);
+				attacker.moves = moves;
 				for (var j in attacker.moves) {
 					if (!advanced) {
 						var move = attacker.moves[j];
