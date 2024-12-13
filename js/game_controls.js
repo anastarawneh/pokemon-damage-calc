@@ -321,6 +321,147 @@ var phase1TypeMatchups = {
     "Normal-Ghost": 0.0,
     "Fighting-Ghost": 0.0
 };
+
+function vanillaDamageCalcEmerald(attacker, defender, move, field) {
+	var attack = attacker.stats.atk;
+	var defense = defender.stats.def;
+	var spAttack = attacker.stats.spa;
+	var spDefense = defender.stats.spd;
+	var movePower = move.bp;
+	var damage;
+
+	if (["Huge Power", "Pure Power"].includes(attacker.ability)) attack *= 2;
+	if (field.attackerSide.isStoneBadge) attack = Math.floor(attack * 1.1);
+	if (field.defenderSide.isBalanceBadge) defense = Math.floor(defense * 1.1);
+	if (field.attackerSide.isMindBadge) spAttack = Math.floor(spAttack * 1.1);
+	if (field.defenderSide.isMindBadge) spDefense = Math.floor(spDefense * 1.1);
+
+	var itemBoostType = calc.getItemBoostType(attacker.item);
+	if (itemBoostType == move.type) {
+		if (attacker.item != "Sea Incense") {
+			if (['Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison', 'Steel'].includes(itemBoostType)) attack = Math.floor(attack * 1.1);
+			else spAttack = Math.floor(spAttack * 1.1);
+		} else {
+			spAttack = Math.floor(spAttack * 1.05);
+		}
+	}
+
+	if (attacker.item == "Choice Band") attack = Math.floor(attack * 1.5);
+	if (attacker.item == "Soul Dew" && ["Latias", "Latios"].includes(attacker.name)) spAttack = Math.floor(spAttack * 1.5);
+	if (attacker.item == "Soul Dew" && ["Latias", "Latios"].includes(defender.name)) spDefense = Math.floor(spDefense * 1.5);
+	if (attacker.item == "Deep Sea Tooth" && attacker.name == "Clamperl") spAttack = Math.floor(spAttack * 2);
+	if (attacker.item == "Deep Sea Scale" && attacker.name == "Clamperl") spDefense = Math.floor(spDefense * 2);
+	if (attacker.item == "Light Ball" && attacker.name == "Pikachu") spAttack = Math.floor(spAttack * 2);
+	if (attacker.item == "Metal Powder" && attacker.name == "Ditto") defense = Math.floor(defense * 2);
+	if (attacker.item == "Thick Club" && ["Cubone", "Marowak"].includes(attacker.name)) attack = Math.floor(attack * 1.5);
+
+	if (defender.ability == "Thick Fat" && ["Fire", "Ice"].includes(move.type)) spAttack = Math.floor(spAttack / 2);
+	if (attacker.ability == "Hustle") attack = Math.floor(attack * 1.5);
+	if (["Plus", "Minus"].includes(attacker.ability) && field.gameType == "Doubles") spAttack = Math.floor(spAttack * 1.5); // Will be more accurate with the below addition vvv
+	// TODO: a new field in advanced bait for ability activity (plus, minus, guts)
+	if (defender.ability == "Marvel Scale" && defender.status) defense = Math.floor(defense * 1.5);
+	// Sports do not exist in the calculator, nor do they exist in EK
+	if (move.type == "Grass" && attacker.ability == "Overgrow") movePower = Math.floor(movePower * 1.5); // Theoretically, 0 HP should trigger the ability
+	if (move.type == "Fire" && attacker.ability == "Blaze") movePower = Math.floor(movePower * 1.5);
+	if (move.type == "Water" && attacker.ability == "Torrent") movePower = Math.floor(movePower * 1.5);
+	if (move.type == "Bug" && attacker.ability == "Swarm") movePower = Math.floor(movePower * 1.5);
+
+	if (["Self-Destruct", "Explosion"].includes(move.name)) defense = Math.floor(defense / 2);
+
+	if (move.type == "???") {
+		damage = 0;
+	} else if (move.category == "Physical") {
+		damage = attack;
+		// TODO: new fields in advanced bait for stat stages
+		damage = Math.floor(damage * movePower);
+		damage = Math.floor(damage * Math.floor(2 * attacker.level / 5 + 2));
+		
+		if (defender.boosts.def) {
+			defense = Math.floor(defense * Math.max(10 + defender.boosts.def * 5, 10));
+			defense = Math.floor(defense / Math.max(10 - defender.boosts.def * 5, 10));
+		}
+
+		damage = Math.floor(damage / defense);
+		damage = Math.floor(damage / 50);
+
+		// burn attack drop would go here, if not guts
+
+		if (field.defenderSide.isReflect) {
+			if (field.gameType == "Doubles") damage = 2 * Math.floor(damage / 3); // Not accounting for 1v2 situations, you're wiping anyway
+			else damage = Math.floor(damage / 2);
+		}
+
+		if (field.gameType == "Doubles" && move.target == "allAdjacentFoes") damage = Math.floor(damage / 2);
+
+		if (damage == 0) damage = 1;
+	} else {
+		damage = spAttack;
+		// TODO: new fields in advanced bait for stat stages
+		damage = Math.floor(damage * movePower);
+		damage = Math.floor(damage * Math.floor(2 * attacker.level / 5 + 2));
+		
+		if (defender.boosts.spd) {
+			spDefense = Math.floor(spDefense * Math.max(10 + defender.boosts.spd * 5, 10));
+			spDefense = Math.floor(spDefense / Math.max(10 - defender.boosts.spd * 5, 10));
+		}
+
+		damage = Math.floor(damage / spDefense);
+		damage = Math.floor(damage / 50);
+
+		if (field.defenderSide.isLightScreen) {
+			if (field.gameType == "Doubles") damage = 2 * Math.floor(damage / 3); // Not accounting for 1v2 situations, you're wiping anyway
+			else damage = Math.floor(damage / 2);
+		}
+
+		if (field.gameType == "Doubles" && move.target == "allAdjacentFoes") damage = Math.floor(damage / 2);
+
+		if (field.weather && ![attacker.ability, defender.ability].includes("Air Lock")) {
+			if (field.weather == "Rain") {
+				if (move.type == "Fire") damage = Math.floor(damage * 1.5);
+				else if (move.type == "Water") damage = damage * 2;
+				else if (move.named("Solar Beam")) damage = Math.floor(damage / 2);
+			}
+			else if (["Sand", "Hail"].includes(field.weather) && move.named("Solar Beam")) damage = Math.floor(damage / 2);
+			else {
+				if (move.type == "Fire") damage = damage * 2;
+				else if (move.type == "Water") damage = Math.floor(damage * 1.5);
+			}
+		}
+
+		// Flash Fire would go here, but it doesn't exist in EK
+
+		if (damage == 0) damage = 1;
+	}
+
+	damage += 2;
+
+	// Type calcs
+
+	if (attacker.types.includes(move.type)) damage = Math.floor(damage * 1.5);
+
+	if (attacker.ability == "Levitate" && move.type == "Ground") return 0;
+
+	var effectiveness = 1;
+	for (var i in defender.types) {
+		var type = defender.types[i];
+		if (`${move.type}-${type}` in phase1TypeMatchups) {
+			effectiveness *= phase1TypeMatchups[`${move.type}-${type}`];
+			damage = Math.floor(damage * phase1TypeMatchups[`${move.type}-${type}`]);
+		}
+	}
+	
+	if (attacker.ability == "Wonder Guard" && effectiveness <= 1) return 0;
+
+	return damage;
+}
+
+function vanillaDamageCalc(attacker, defender, move, field) {
+	switch (game) {
+		case "Emerald Kaizo":
+			return vanillaDamageCalcEmerald(attacker, defender, move, field);
+	}
+}
+
 function predictSwitchOrderEmerald() {
 	var advanced = $("#advanced-bait").is(":checked");
 	var p1 = createPokemon($("#p1"));
@@ -515,9 +656,7 @@ function predictSwitchOrderEmerald() {
 							move.bp = 3;
 						}
 						move.bp = $(".last-move-used > .move-bp").val();
-						var calculation = calc.calculateADV(GENERATION, attacker, defender, move, createField().clone().swap());
-						var damage = calculation.damage;
-						var score = damage ? damage[damage.length - 1] : damage;
+						var score = vanillaDamageCalcEmerald(attacker, defender, move, createField().clone().swap());
 						if (score > highestDamage.score) {
 							score %= 256;
 							highestDamage.pokemon = next;
