@@ -15,7 +15,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confusion",
 				"Shock Wave"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Absol": {
@@ -37,7 +37,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Hiker Adrian [#38]": {
 			"ability": "Pressure",
@@ -57,7 +57,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Picnicker Becky [#470]": {
 			"ability": "Pressure",
@@ -77,7 +77,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Pokéfan Kaleb [#699]": {
 			"ability": "Pressure",
@@ -97,7 +97,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Pressure",
@@ -117,7 +117,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Pressure",
@@ -137,7 +137,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Aerodactyl": {
@@ -159,7 +159,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Elite Four Drake [#264]": {
 			"ability": "Rock Head",
@@ -179,7 +179,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Leader Roxanne [#773]": {
 			"ability": "Rock Head",
@@ -198,7 +198,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Supersonic",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Winona [#270]": {
 			"ability": "Rock Head",
@@ -218,7 +218,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Magma Admin Tabitha [#732]": {
 			"ability": "Rock Head",
@@ -238,7 +238,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Rock Head",
@@ -258,7 +258,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Rock Head",
@@ -278,7 +278,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Steel Wing"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Magma Grunt [#719]": {
 			"ability": "Rock Head",
@@ -298,7 +298,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Aggron": {
@@ -320,7 +320,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Cooltrainer Caroline [#99]": {
 			"ability": "Rock Head",
@@ -340,7 +340,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Fire Blast"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Marcel [#11]": {
 			"ability": "Rock Head",
@@ -360,7 +360,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Thunder"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Rock Head",
@@ -380,7 +380,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Kindler Bryant [#746]": {
 			"ability": "Rock Head",
@@ -400,7 +400,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Kindler Jace [#204]": {
 			"ability": "Rock Head",
@@ -420,7 +420,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Rock Head",
@@ -439,7 +439,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Dragon Claw"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Rock Head",
@@ -499,7 +499,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Aipom": {
@@ -521,7 +521,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Alakazam": {
@@ -543,7 +543,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Cooltrainer Parker [#72]": {
 			"ability": "Synchronize",
@@ -563,7 +563,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Synchronize",
@@ -583,7 +583,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Future Sight"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Leader Tate&Liza [#271]": {
 			"ability": "Synchronize",
@@ -603,7 +603,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Synchronize",
@@ -623,7 +623,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Psychic Macey [#591]": {
 			"ability": "Synchronize",
@@ -643,7 +643,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Altaria": {
@@ -665,7 +665,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Cooltrainer Shannon [#97]": {
 			"ability": "Natural Cure",
@@ -685,7 +685,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Spin",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Leader Flannery [#268]": {
 			"ability": "Natural Cure",
@@ -705,7 +705,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Winona [#790]": {
 			"ability": "Natural Cure",
@@ -745,7 +745,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Dance",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Leader Winona [#793]": {
 			"ability": "Natural Cure",
@@ -765,7 +765,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Dance",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Natural Cure",
@@ -785,7 +785,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#108]": {
 			"ability": "Natural Cure",
@@ -825,7 +825,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Magma Grunt [#731]": {
 			"ability": "Natural Cure",
@@ -845,7 +845,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Ampharos": {
@@ -867,7 +867,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Fire Punch"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Cooltrainer Caroline [#99]": {
 			"ability": "Static",
@@ -887,7 +887,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragonbreath",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Static",
@@ -907,7 +907,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Wattson [#780]": {
 			"ability": "Static",
@@ -926,7 +926,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Wattson [#781]": {
 			"ability": "Static",
@@ -945,7 +945,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Static",
@@ -965,7 +965,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass",
 				"Tail Glow"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokéfan Bethany [#301]": {
 			"ability": "Static",
@@ -985,7 +985,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#416]": {
 			"ability": "Static",
@@ -1005,7 +1005,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#596]": {
 			"ability": "Static",
@@ -1025,7 +1025,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Focus Punch"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Static",
@@ -1045,7 +1045,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Tail Glow"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Anorith": {
@@ -1067,7 +1067,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"X-Scissor"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Arbok": {
@@ -1089,7 +1089,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#16]": {
 			"ability": "Intimidate",
@@ -1109,7 +1109,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Poison Fang",
 				"Wrap"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#579]": {
 			"ability": "Intimidate",
@@ -1129,7 +1129,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Arcanine": {
@@ -1151,7 +1151,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Leader Flannery [#268]": {
 			"ability": "Intimidate",
@@ -1171,7 +1171,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Spark",
 				"Extremespeed"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Flannery [#785]": {
 			"ability": "Intimidate",
@@ -1190,7 +1190,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sunny Day",
 				"Roar"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Picnicker Becky [#470]": {
 			"ability": "Intimidate",
@@ -1230,7 +1230,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Intimidate",
@@ -1250,7 +1250,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Morning Sun",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Aqua Grunt [#108]": {
 			"ability": "Intimidate",
@@ -1270,7 +1270,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Magma Grunt [#472]": {
 			"ability": "Intimidate",
@@ -1290,7 +1290,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Morning Sun"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#589]": {
 			"ability": "Intimidate",
@@ -1310,7 +1310,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Magma Grunt [#731]": {
 			"ability": "Intimidate",
@@ -1330,7 +1330,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		}
 	},
 	"Ariados": {
@@ -1351,7 +1351,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Ninja Boy Lao [#419]": {
 			"ability": "Swarm",
@@ -1371,7 +1371,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Agility",
 				"Night Shade"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		}
 	},
 	"Armaldo": {
@@ -1393,7 +1393,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Cooltrainer Edgar [#79]": {
 			"ability": "Battle Armor",
@@ -1413,7 +1413,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Magma Admin Tabitha [#514]": {
 			"ability": "Battle Armor",
@@ -1433,7 +1433,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Battle Armor",
@@ -1453,7 +1453,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Picnicker Becky [#470]": {
 			"ability": "Battle Armor",
@@ -1473,7 +1473,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Battle Armor",
@@ -1492,7 +1492,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Slash"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Battle Armor",
@@ -1512,7 +1512,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Aron": {
@@ -1534,7 +1534,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Tomb",
 				"Endeavor"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Articuno": {
@@ -1556,7 +1556,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extrasensory",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Azumarill": {
@@ -1578,7 +1578,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Camouflage"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Norman [#269]": {
 			"ability": "Huge Power",
@@ -1598,7 +1598,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Sailor Brenden [#572]": {
 			"ability": "Huge Power",
@@ -1618,7 +1618,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Karate Chop",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Huge Power",
@@ -1638,7 +1638,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Belly Drum",
 				"Surf"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Huge Power",
@@ -1658,7 +1658,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Super Fang",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Magma Grunt [#712]": {
 			"ability": "Huge Power",
@@ -1676,7 +1676,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Azurill": {
@@ -1695,7 +1695,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		}
 	},
 	"Bagon": {
@@ -1714,7 +1714,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Dragon Rage"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Banette": {
@@ -1736,7 +1736,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Insomnia",
@@ -1756,7 +1756,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute",
 				"Destiny Bond"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#712]": {
 			"ability": "Insomnia",
@@ -1776,7 +1776,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Will-O-Wisp",
 				"Pain Split"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Bayleef": {
@@ -1798,7 +1798,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Grasswhistle"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Beautifly": {
@@ -1820,7 +1820,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Silver Wind",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Bug Maniac Derek [#227]": {
 			"ability": "Swarm",
@@ -1839,7 +1839,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Morning Sun"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Beedrill": {
@@ -1861,7 +1861,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Bellossom": {
@@ -1883,7 +1883,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sleep Powder",
 				"Weather Ball"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Bellsprout": {
@@ -1904,7 +1904,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Acid",
 				"Slam"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Blastoise": {
@@ -1926,7 +1926,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Fisherman Barny [#343]": {
 			"ability": "Torrent",
@@ -1946,7 +1946,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Mirror Coat"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Torrent",
@@ -1966,7 +1966,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Iron Defense"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Hiker Adrian [#38]": {
 			"ability": "Torrent",
@@ -1986,7 +1986,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Lass Crissy [#614]": {
 			"ability": "Torrent",
@@ -2006,7 +2006,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Torrent",
@@ -2026,7 +2026,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Torrent",
@@ -2046,7 +2046,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Pokéfan Bethany [#301]": {
 			"ability": "Torrent",
@@ -2066,7 +2066,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Defense",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Torrent",
@@ -2086,7 +2086,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double Team",
 				"Mirror Coat"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Blaziken": {
@@ -2108,7 +2108,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Hidden Power Grass"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Blaze",
@@ -2128,7 +2128,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Blaze",
@@ -2148,7 +2148,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Blaze",
@@ -2168,7 +2168,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Blaze",
@@ -2188,7 +2188,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Blaze",
@@ -2208,7 +2208,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Blaze",
@@ -2228,7 +2228,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Blissey": {
@@ -2250,7 +2250,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Softboiled"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer George [#73]": {
 			"ability": "Natural Cure",
@@ -2270,7 +2270,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Counter",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Kindler Cole [#201]": {
 			"ability": "Natural Cure",
@@ -2290,7 +2290,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Softboiled",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#108]": {
 			"ability": "Natural Cure",
@@ -2310,7 +2310,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Softboiled",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Aqua Grunt [#19]": {
 			"ability": "Natural Cure",
@@ -2330,7 +2330,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Natural Cure",
@@ -2350,7 +2350,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Softboiled",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#729]": {
 			"ability": "Natural Cure",
@@ -2370,7 +2370,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Softboiled"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Breloom": {
@@ -2392,7 +2392,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Battle Girl Callie [#763]": {
 			"ability": "Effect Spore",
@@ -2412,7 +2412,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Spore",
 				"Stun Spore"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Black Belt Daisuke [#189]": {
 			"ability": "Effect Spore",
@@ -2432,7 +2432,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Mach Punch"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Effect Spore",
@@ -2452,7 +2452,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute",
 				"Mach Punch"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Butterfree": {
@@ -2474,7 +2474,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Silver Wind",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Cacnea": {
@@ -2495,7 +2495,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Grasswhistle",
 				"Feint Attack"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Hiker Mike [#635]": {
 			"ability": "Sand Veil",
@@ -2515,7 +2515,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Nature Power",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Lass Tiana [#603]": {
 			"ability": "Sand Veil",
@@ -2534,7 +2534,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Needle Arm",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Cacturne": {
@@ -2556,7 +2556,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Synthesis",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Wilton [#78]": {
 			"ability": "Sand Veil",
@@ -2576,7 +2576,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ingrain",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Lady Brianna [#118]": {
 			"ability": "Sand Veil",
@@ -2596,7 +2596,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Destiny Bond",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Sand Veil",
@@ -2616,7 +2616,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Magma Grunt [#143]": {
 			"ability": "Sand Veil",
@@ -2636,7 +2636,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Magma Grunt [#720]": {
 			"ability": "Sand Veil",
@@ -2656,7 +2656,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Feint Attack",
 				"Focus Punch"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Camerupt": {
@@ -2678,7 +2678,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Kindler Bryant [#746]": {
 			"ability": "Magma Armor",
@@ -2718,7 +2718,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Attract"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Leader Flannery [#783]": {
 			"ability": "Magma Armor",
@@ -2738,7 +2738,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Attract"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Leader Flannery [#784]": {
 			"ability": "Magma Armor",
@@ -2758,7 +2758,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Attract"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Flannery [#785]": {
 			"ability": "Magma Armor",
@@ -2778,7 +2778,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Attract"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Aqua Grunt [#19]": {
 			"ability": "Magma Armor",
@@ -2798,7 +2798,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Counter",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Magma Grunt [#472]": {
 			"ability": "Magma Armor",
@@ -2818,7 +2818,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Magma Armor",
@@ -2838,7 +2838,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#712]": {
 			"ability": "Magma Armor",
@@ -2858,7 +2858,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Magma Grunt [#729]": {
 			"ability": "Magma Armor",
@@ -2878,7 +2878,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Carvanha": {
@@ -2898,7 +2898,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Water Gun",
 				"Scary Face"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Cascoon": {
@@ -2916,7 +2916,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Poison Sting"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Castform": {
@@ -2936,7 +2936,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sunny Day",
 				"Weather Ball"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Caterpie": {
@@ -2977,7 +2977,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Fire",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Charizard": {
@@ -2999,7 +2999,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Dragon Claw"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Cooltrainer Brooke [#94]": {
 			"ability": "Blaze",
@@ -3019,7 +3019,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragonbreath",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Cooltrainer Caroline [#99]": {
 			"ability": "Blaze",
@@ -3039,7 +3039,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Kindler Cole [#201]": {
 			"ability": "Blaze",
@@ -3059,7 +3059,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Leader Flannery [#268]": {
 			"ability": "Blaze",
@@ -3079,7 +3079,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Blaze",
@@ -3099,7 +3099,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Wing Attack",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Blaze",
@@ -3119,7 +3119,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Blaze",
@@ -3139,7 +3139,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Psychic Macey [#591]": {
 			"ability": "Blaze",
@@ -3159,7 +3159,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Magma Grunt [#588]": {
 			"ability": "Blaze",
@@ -3179,7 +3179,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Magma Grunt [#628]": {
 			"ability": "Blaze",
@@ -3199,7 +3199,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Magma Grunt [#728]": {
 			"ability": "Blaze",
@@ -3261,7 +3261,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Pokéfan Kaleb [#699]": {
 			"ability": "Levitate",
@@ -3281,7 +3281,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Wish",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Chinchou": {
@@ -3303,7 +3303,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aurora Beam",
 				"Flail"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Claydol": {
@@ -3325,7 +3325,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Cristin [#767]": {
 			"ability": "Levitate",
@@ -3345,7 +3345,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Cosmic Power"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Cooltrainer Hope [#96]": {
 			"ability": "Levitate",
@@ -3365,7 +3365,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Kindler Jace [#204]": {
 			"ability": "Levitate",
@@ -3385,7 +3385,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Tate&Liza [#794]": {
 			"ability": "Levitate",
@@ -3404,7 +3404,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Tate&Liza [#795]": {
 			"ability": "Levitate",
@@ -3423,7 +3423,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Leader Tate&Liza [#796]": {
 			"ability": "Levitate",
@@ -3442,7 +3442,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Tate&Liza [#797]": {
 			"ability": "Levitate",
@@ -3461,7 +3461,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Winona [#270]": {
 			"ability": "Levitate",
@@ -3481,7 +3481,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Levitate",
@@ -3500,7 +3500,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Psychic Macey [#591]": {
 			"ability": "Levitate",
@@ -3560,7 +3560,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Levitate",
@@ -3580,7 +3580,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Magma Grunt [#579]": {
 			"ability": "Levitate",
@@ -3620,7 +3620,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Clefable": {
@@ -3642,7 +3642,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Black Belt Daisuke [#189]": {
 			"ability": "Cute Charm",
@@ -3662,7 +3662,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Cooltrainer Mitchell [#540]": {
 			"ability": "Cute Charm",
@@ -3682,7 +3682,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Counter",
 				"Cosmic Power"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Cute Charm",
@@ -3702,7 +3702,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Moonlight",
 				"Wish"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Norman [#269]": {
 			"ability": "Cute Charm",
@@ -3722,7 +3722,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Softboiled",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Cute Charm",
@@ -3742,7 +3742,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Curse",
 				"Moonlight"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Psychic Blake [#235]": {
 			"ability": "Cute Charm",
@@ -3762,7 +3762,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Cosmic Power",
 				"Softboiled"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#193]": {
 			"ability": "Cute Charm",
@@ -3782,7 +3782,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Wish"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Team Magma Grunt [#589]": {
 			"ability": "Cute Charm",
@@ -3802,7 +3802,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Cosmic Power"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Clefairy": {
@@ -3820,7 +3820,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Follow Me"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Cloyster": {
@@ -3842,7 +3842,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Clamp"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Lady Brianna [#118]": {
 			"ability": "Shell Armor",
@@ -3862,7 +3862,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Spikes"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Psychic Samantha [#245]": {
 			"ability": "Shell Armor",
@@ -3882,7 +3882,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Clamp",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#145]": {
 			"ability": "Shell Armor",
@@ -3901,7 +3901,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#17]": {
 			"ability": "Shell Armor",
@@ -3921,7 +3921,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Clamp"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Shell Armor",
@@ -3941,7 +3941,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Clamp",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Corphish": {
@@ -3962,7 +3962,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Corsola": {
@@ -3984,7 +3984,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Mirror Coat"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#19]": {
 			"ability": "Natural Cure",
@@ -4026,7 +4026,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Stockpile"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Camper Flint [#654]": {
 			"ability": "Suction Cups",
@@ -4046,7 +4046,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Cooltrainer Albert [#80]": {
 			"ability": "Suction Cups",
@@ -4066,7 +4066,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swords Dance",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Fisherman Barny [#343]": {
 			"ability": "Suction Cups",
@@ -4086,7 +4086,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Ancientpower"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Suction Cups",
@@ -4105,7 +4105,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ingrain",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Pokéfan Bethany [#301]": {
 			"ability": "Suction Cups",
@@ -4125,7 +4125,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Ruin Maniac Dusty [#44]": {
 			"ability": "Suction Cups",
@@ -4145,7 +4145,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Mirror Coat"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Suction Cups",
@@ -4165,7 +4165,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Magma Grunt [#718]": {
 			"ability": "Suction Cups",
@@ -4185,7 +4185,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Crawdaunt": {
@@ -4207,7 +4207,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Cooltrainer Berke [#74]": {
 			"ability": "Shell Armor",
@@ -4227,7 +4227,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Lady Brianna [#118]": {
 			"ability": "Shell Armor",
@@ -4247,7 +4247,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Juan [#798]": {
 			"ability": "Shell Armor",
@@ -4267,7 +4267,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Taunt",
 				"Double Team"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Juan [#799]": {
 			"ability": "Shell Armor",
@@ -4287,7 +4287,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Taunt",
 				"Double Team"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Leader Juan [#800]": {
 			"ability": "Shell Armor",
@@ -4307,7 +4307,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Taunt",
 				"Double Team"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Leader Juan [#801]": {
 			"ability": "Shell Armor",
@@ -4327,7 +4327,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Taunt",
 				"Double Team"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Shell Armor",
@@ -4347,7 +4347,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Crobat": {
@@ -4369,7 +4369,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Bird Keeper Edwardo [#404]": {
 			"ability": "Inner Focus",
@@ -4389,7 +4389,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Cooltrainer Hope [#96]": {
 			"ability": "Inner Focus",
@@ -4409,7 +4409,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Mean Look"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Cooltrainer Marcel [#11]": {
 			"ability": "Inner Focus",
@@ -4429,7 +4429,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Inner Focus",
@@ -4449,7 +4449,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Picnicker Celia [#743]": {
 			"ability": "Inner Focus",
@@ -4469,7 +4469,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#3]": {
 			"ability": "Inner Focus",
@@ -4489,7 +4489,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#760]": {
 			"ability": "Inner Focus",
@@ -4509,7 +4509,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#728]": {
 			"ability": "Inner Focus",
@@ -4529,7 +4529,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#729]": {
 			"ability": "Inner Focus",
@@ -4549,7 +4549,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Croconaw": {
@@ -4571,7 +4571,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Cubone": {
@@ -4593,7 +4593,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Delcatty": {
@@ -4615,7 +4615,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sweet Kiss",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Lady Cindy [#114]": {
 			"ability": "Cute Charm",
@@ -4635,7 +4635,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		}
 	},
 	"Delibird": {
@@ -4654,7 +4654,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Water Pulse",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Dewgong": {
@@ -4696,7 +4696,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Rest"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Diglett": {
@@ -4716,7 +4716,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Lass Tiana [#603]": {
 			"ability": "Arena Trap",
@@ -4732,7 +4732,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Cut"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Ditto": {
@@ -4750,7 +4750,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Camper Ethan [#216]": {
 			"ability": "Limber",
@@ -4766,7 +4766,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Camper Larry [#213]": {
 			"ability": "Limber",
@@ -4782,7 +4782,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Cooltrainer Marley [#508]": {
 			"ability": "Limber",
@@ -4798,7 +4798,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Dragon Tamer Aaron [#397]": {
 			"ability": "Limber",
@@ -4814,7 +4814,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Hiker Brice [#626]": {
 			"ability": "Limber",
@@ -4830,7 +4830,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Hiker Eric [#632]": {
 			"ability": "Limber",
@@ -4846,7 +4846,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Kindler Hayden [#707]": {
 			"ability": "Limber",
@@ -4878,7 +4878,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Sr. And Jr. Kate & Joy (1) [#286]": {
 			"ability": "Limber",
@@ -4894,7 +4894,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Sr. And Jr. Kate & Joy [#286]": {
 			"ability": "Limber",
@@ -4910,7 +4910,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Youngster Deandre [#715]": {
 			"ability": "Limber",
@@ -4926,7 +4926,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Transform"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Dodrio": {
@@ -4948,7 +4948,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Tri Attack",
 				"Endeavor"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Bird Keeper Chester [#408]": {
 			"ability": "Early Bird",
@@ -4968,7 +4968,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Facade"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Camper Flint [#654]": {
 			"ability": "Early Bird",
@@ -4988,7 +4988,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pursuit",
 				"Hidden Power Ground"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Kindler Jeff [#202]": {
 			"ability": "Early Bird",
@@ -5008,7 +5008,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Lady Daphne [#115]": {
 			"ability": "Early Bird",
@@ -5028,7 +5028,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Low Kick",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Early Bird",
@@ -5048,7 +5048,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Ground",
 				"Low Kick"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#338]": {
 			"ability": "Early Bird",
@@ -5068,7 +5068,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Pursuit"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Doduo": {
@@ -5111,7 +5111,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Cooltrainer Halle [#546]": {
 			"ability": "Battle Armor",
@@ -5131,7 +5131,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Amnesia",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Cooltrainer Marcel [#11]": {
 			"ability": "Battle Armor",
@@ -5151,7 +5151,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Flail"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Battle Armor",
@@ -5171,7 +5171,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Aqua Grunt [#3]": {
 			"ability": "Battle Armor",
@@ -5191,7 +5191,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Endeavor"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Team Magma Grunt [#338]": {
 			"ability": "Battle Armor",
@@ -5211,7 +5211,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Flail"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Battle Armor",
@@ -5230,7 +5230,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Dragonair": {
@@ -5252,7 +5252,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Extremespeed"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Winona [#791]": {
 			"ability": "Shed Skin",
@@ -5272,7 +5272,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Dragonite": {
@@ -5294,7 +5294,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Winona [#270]": {
 			"ability": "Inner Focus",
@@ -5314,7 +5314,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Leader Winona [#793]": {
 			"ability": "Inner Focus",
@@ -5334,7 +5334,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Inner Focus",
@@ -5354,7 +5354,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Inner Focus",
@@ -5374,7 +5374,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Fire Blast"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Inner Focus",
@@ -5394,7 +5394,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Thunder"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Inner Focus",
@@ -5414,7 +5414,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sky Uppercut",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Dratini": {
@@ -5436,7 +5436,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Drowzee": {
@@ -5457,7 +5457,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Headbutt",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Psychic Brandi [#756]": {
 			"ability": "Insomnia",
@@ -5477,7 +5477,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Seismic Toss",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Dugtrio": {
@@ -5499,7 +5499,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Tri Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Arena Trap",
@@ -5519,7 +5519,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sand Tomb",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Cooltrainer Shannon [#97]": {
 			"ability": "Arena Trap",
@@ -5539,7 +5539,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Hiker Trent [#627]": {
 			"ability": "Arena Trap",
@@ -5577,7 +5577,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Magma Grunt [#143]": {
 			"ability": "Arena Trap",
@@ -5596,7 +5596,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Slash"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Magma Grunt [#590]": {
 			"ability": "Arena Trap",
@@ -5616,7 +5616,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Dusclops": {
@@ -5638,7 +5638,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Will-O-Wisp",
 				"Shadow Punch"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Keen Eye",
@@ -5658,7 +5658,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pain Split",
 				"Focus Punch"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Ninja Boy Lao [#419]": {
 			"ability": "Keen Eye",
@@ -5678,7 +5678,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Will-O-Wisp",
 				"Pain Split"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Psychic Blake [#235]": {
 			"ability": "Keen Eye",
@@ -5698,7 +5698,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pain Split",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Aqua Grunt [#567]": {
 			"ability": "Keen Eye",
@@ -5718,7 +5718,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Focus Punch",
 				"Curse"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#727]": {
 			"ability": "Keen Eye",
@@ -5738,7 +5738,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mean Look",
 				"Destiny Bond"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Dustox": {
@@ -5760,7 +5760,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Moonlight",
 				"Confusion"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Bug Maniac Derek [#227]": {
 			"ability": "Shield Dust",
@@ -5779,7 +5779,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Moonlight"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Electabuzz": {
@@ -5801,7 +5801,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Cooltrainer Cristin [#767]": {
 			"ability": "Static",
@@ -5821,7 +5821,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Cooltrainer Michelle [#98]": {
 			"ability": "Static",
@@ -5841,7 +5841,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Fire Punch"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Guitarist Dalton [#196]": {
 			"ability": "Static",
@@ -5861,7 +5861,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Leader Wattson [#781]": {
 			"ability": "Static",
@@ -5880,7 +5880,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		}
 	},
 	"Electrike": {
@@ -5901,7 +5901,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Guitarist Kirk [#191]": {
 			"ability": "Static",
@@ -5921,7 +5921,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Electrode": {
@@ -5943,7 +5943,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Wattson [#778]": {
 			"ability": "Static",
@@ -5962,7 +5962,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Leader Wattson [#779]": {
 			"ability": "Static",
@@ -5981,7 +5981,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Wattson [#780]": {
 			"ability": "Static",
@@ -6000,7 +6000,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Wattson [#781]": {
 			"ability": "Static",
@@ -6019,7 +6019,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Static",
@@ -6039,7 +6039,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Static",
@@ -6059,7 +6059,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Static",
@@ -6079,7 +6079,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Static",
@@ -6099,7 +6099,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Static",
@@ -6119,7 +6119,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Static",
@@ -6139,7 +6139,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Magma Grunt [#143]": {
 			"ability": "Static",
@@ -6159,7 +6159,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Magma Grunt [#338]": {
 			"ability": "Static",
@@ -6178,7 +6178,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Selfdestruct",
 				"Mirror Coat"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Static",
@@ -6198,7 +6198,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Water",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Static",
@@ -6217,7 +6217,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Hidden Power Ice"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Elekid": {
@@ -6238,7 +6238,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swift",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Leader Wattson [#267]": {
 			"ability": "Static",
@@ -6258,7 +6258,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Entei": {
@@ -6280,7 +6280,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Ice",
 				"Extremespeed"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Espeon": {
@@ -6302,7 +6302,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Camper Flint [#654]": {
 			"ability": "Synchronize",
@@ -6322,7 +6322,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Sing"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Magma Admin Tabitha [#732]": {
 			"ability": "Synchronize",
@@ -6342,7 +6342,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Synchronize",
@@ -6362,7 +6362,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Synchronize",
@@ -6382,7 +6382,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Synchronize",
@@ -6402,7 +6402,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Synchronize",
@@ -6422,7 +6422,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Synchronize",
@@ -6442,7 +6442,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Synchronize",
@@ -6462,7 +6462,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Synchronize",
@@ -6482,7 +6482,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Exeggutor": {
@@ -6504,7 +6504,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Magma Admin Tabitha [#514]": {
 			"ability": "Chlorophyll",
@@ -6524,7 +6524,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Ice",
 				"Growth"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Parasol Lady Clarissa [#435]": {
 			"ability": "Chlorophyll",
@@ -6544,7 +6544,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Psychic Virgil [#234]": {
 			"ability": "Chlorophyll",
@@ -6564,7 +6564,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#567]": {
 			"ability": "Chlorophyll",
@@ -6584,7 +6584,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Chlorophyll",
@@ -6604,7 +6604,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Exploud": {
@@ -6626,7 +6626,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Guitarist Dalton [#196]": {
 			"ability": "Soundproof",
@@ -6646,7 +6646,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#17]": {
 			"ability": "Soundproof",
@@ -6666,7 +6666,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Extrasensory"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Soundproof",
@@ -6686,7 +6686,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Magma Grunt [#628]": {
 			"ability": "Soundproof",
@@ -6706,7 +6706,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#731]": {
 			"ability": "Soundproof",
@@ -6726,7 +6726,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Tuber Keegan [#205]": {
 			"ability": "Soundproof",
@@ -6746,7 +6746,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Surf"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Farfetch'D": {
@@ -6768,7 +6768,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Triathlete Maria [#369]": {
 			"ability": "Inner Focus",
@@ -6787,7 +6787,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Flail"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Fearow": {
@@ -6809,7 +6809,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Feraligatr": {
@@ -6831,7 +6831,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Torrent",
@@ -6851,7 +6851,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Torrent",
@@ -6871,7 +6871,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Torrent",
@@ -6891,7 +6891,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#579]": {
 			"ability": "Torrent",
@@ -6911,7 +6911,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Flaaffy": {
@@ -6933,7 +6933,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Wattson [#779]": {
 			"ability": "Static",
@@ -6952,7 +6952,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Flareon": {
@@ -6974,7 +6974,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Drought",
@@ -6994,7 +6994,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Parasol Lady Clarissa [#435]": {
 			"ability": "Drought",
@@ -7014,7 +7014,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Drought",
@@ -7034,7 +7034,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Flygon": {
@@ -7056,7 +7056,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Cooltrainer Samuel [#81]": {
 			"ability": "Levitate",
@@ -7076,7 +7076,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Levitate",
@@ -7096,7 +7096,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Levitate",
@@ -7116,7 +7116,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Magma Grunt [#719]": {
 			"ability": "Levitate",
@@ -7136,7 +7136,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Forretress": {
@@ -7158,7 +7158,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Camper Beau [#212]": {
 			"ability": "Shell Armor",
@@ -7178,7 +7178,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Spikes"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Cooltrainer Albert [#80]": {
 			"ability": "Shell Armor",
@@ -7198,7 +7198,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Curse",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Shell Armor",
@@ -7218,7 +7218,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Shell Armor",
@@ -7238,7 +7238,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Shell Armor",
@@ -7258,7 +7258,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Shell Armor",
@@ -7278,7 +7278,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Shell Armor",
@@ -7298,7 +7298,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Shell Armor",
@@ -7318,7 +7318,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#20]": {
 			"ability": "Shell Armor",
@@ -7338,7 +7338,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Take Down"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Shell Armor",
@@ -7358,7 +7358,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Shell Armor",
@@ -7378,7 +7378,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Magma Grunt [#146]": {
 			"ability": "Shell Armor",
@@ -7398,7 +7398,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Take Down"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#719]": {
 			"ability": "Shell Armor",
@@ -7418,7 +7418,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Furret": {
@@ -7440,7 +7440,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Gardevoir": {
@@ -7462,7 +7462,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Hidden Power Water"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Cooltrainer Marcel [#11]": {
 			"ability": "Trace",
@@ -7482,7 +7482,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Trace",
@@ -7502,7 +7502,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Lass Andrea [#613]": {
 			"ability": "Trace",
@@ -7522,7 +7522,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Trace",
@@ -7542,7 +7542,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Psychic Blake [#235]": {
 			"ability": "Trace",
@@ -7562,7 +7562,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Icy Wind"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Trace",
@@ -7582,7 +7582,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Aqua Grunt [#416]": {
 			"ability": "Trace",
@@ -7602,7 +7602,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Gengar": {
@@ -7624,7 +7624,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Levitate",
@@ -7644,7 +7644,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Leader Winona [#270]": {
 			"ability": "Levitate",
@@ -7664,7 +7664,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Levitate",
@@ -7684,7 +7684,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Fire Punch"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Magma Leader Maxie [#602]": {
 			"ability": "Levitate",
@@ -7704,7 +7704,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Psychic Preston [#233]": {
 			"ability": "Levitate",
@@ -7724,7 +7724,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Levitate",
@@ -7744,7 +7744,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Curse",
 				"Destiny Bond"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Magma Grunt [#214]": {
 			"ability": "Levitate",
@@ -7764,7 +7764,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Levitate",
@@ -7784,7 +7784,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Geodude": {
@@ -7803,7 +7803,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Glalie": {
@@ -7825,7 +7825,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Spikes",
 				"Icy Wind"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Camper Tyron [#704]": {
 			"ability": "Intimidate",
@@ -7845,7 +7845,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Headbutt",
 				"Water Pulse"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Lass Andrea [#613]": {
 			"ability": "Intimidate",
@@ -7865,7 +7865,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Psychic Virgil [#234]": {
 			"ability": "Intimidate",
@@ -7885,7 +7885,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#17]": {
 			"ability": "Intimidate",
@@ -7905,7 +7905,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Intimidate",
@@ -7925,7 +7925,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Magma Grunt [#206]": {
 			"ability": "Intimidate",
@@ -7945,7 +7945,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Gligar": {
@@ -7967,7 +7967,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Cooltrainer Darius [#803]": {
 			"ability": "Hyper Cutter",
@@ -7987,7 +7987,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Pokéfan Kaleb [#699]": {
 			"ability": "Hyper Cutter",
@@ -8007,7 +8007,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"X-Scissor"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Hyper Cutter",
@@ -8027,7 +8027,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Triathlete Dylan [#364]": {
 			"ability": "Hyper Cutter",
@@ -8045,7 +8045,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Rock Tomb"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Golbat": {
@@ -8066,7 +8066,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Golduck": {
@@ -8088,7 +8088,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aurora Beam",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Psychic Blake [#235]": {
 			"ability": "Swift Swim",
@@ -8108,7 +8108,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Swift Swim",
@@ -8128,7 +8128,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Tail Glow"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Swift Swim",
@@ -8148,7 +8148,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#559]": {
 			"ability": "Swift Swim",
@@ -8168,7 +8168,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Golem": {
@@ -8190,7 +8190,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Hiker Eli [#501]": {
 			"ability": "Rock Head",
@@ -8210,7 +8210,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Hiker Trent [#627]": {
 			"ability": "Rock Head",
@@ -8230,7 +8230,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Selfdestruct",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Roxanne [#770]": {
 			"ability": "Rock Head",
@@ -8249,7 +8249,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magnitude",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Leader Roxanne [#771]": {
 			"ability": "Rock Head",
@@ -8268,7 +8268,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magnitude",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Leader Roxanne [#772]": {
 			"ability": "Rock Head",
@@ -8287,7 +8287,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Roxanne [#773]": {
 			"ability": "Rock Head",
@@ -8306,7 +8306,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Rock Head",
@@ -8326,7 +8326,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#579]": {
 			"ability": "Rock Head",
@@ -8346,7 +8346,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Magma Grunt [#588]": {
 			"ability": "Rock Head",
@@ -8366,7 +8366,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Fire Blast"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#727]": {
 			"ability": "Rock Head",
@@ -8386,7 +8386,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Gorebyss": {
@@ -8408,7 +8408,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aurora Beam",
 				"Whirlpool"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Swift Swim",
@@ -8448,7 +8448,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Bounce"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Granbull": {
@@ -8470,7 +8470,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Cooltrainer Albert [#80]": {
 			"ability": "Intimidate",
@@ -8490,7 +8490,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Intimidate",
@@ -8510,7 +8510,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Counter",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Psychic Samantha [#245]": {
 			"ability": "Intimidate",
@@ -8530,7 +8530,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Intimidate",
@@ -8550,7 +8550,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Intimidate",
@@ -8570,7 +8570,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#146]": {
 			"ability": "Intimidate",
@@ -8590,7 +8590,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Graveler": {
@@ -8612,7 +8612,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Groudon": {
@@ -8634,7 +8634,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Growlithe": {
@@ -8655,7 +8655,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Roar",
 				"Sunny Day"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Leader Flannery [#784]": {
 			"ability": "Intimidate",
@@ -8674,7 +8674,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sunny Day",
 				"Roar"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Grumpig": {
@@ -8696,7 +8696,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Cooltrainer Shannon [#97]": {
 			"ability": "Thick Fat",
@@ -8716,7 +8716,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Future Sight"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Thick Fat",
@@ -8736,7 +8736,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Thick Fat",
@@ -8756,7 +8756,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Magma Grunt [#718]": {
 			"ability": "Thick Fat",
@@ -8776,7 +8776,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Gyarados": {
@@ -8798,7 +8798,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Cooltrainer Albert [#80]": {
 			"ability": "Intimidate",
@@ -8818,7 +8818,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunder"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Fisherman Barny [#343]": {
 			"ability": "Intimidate",
@@ -8838,7 +8838,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Outrage",
 				"Thrash"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Fisherman Elliot [#339]": {
 			"ability": "Intimidate",
@@ -8858,7 +8858,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Dance",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Intimidate",
@@ -8878,7 +8878,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Leader Winona [#270]": {
 			"ability": "Intimidate",
@@ -8898,7 +8898,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#17]": {
 			"ability": "Intimidate",
@@ -8918,7 +8918,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hyper Beam",
 				"Flail"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#23]": {
 			"ability": "Intimidate",
@@ -8938,7 +8938,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#416]": {
 			"ability": "Intimidate",
@@ -8958,7 +8958,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Intimidate",
@@ -8978,7 +8978,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Tuber Keegan [#205]": {
 			"ability": "Intimidate",
@@ -8998,7 +8998,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Flying",
 				"Hydro Pump"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Hariyama": {
@@ -9020,7 +9020,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Punch",
 				"Smellingsalt"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Camper Drew [#211]": {
 			"ability": "Thick Fat",
@@ -9040,7 +9040,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Thick Fat",
@@ -9060,7 +9060,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Punch",
 				"Fake Out"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Kindler Jeff [#202]": {
 			"ability": "Thick Fat",
@@ -9080,7 +9080,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Shadow Punch"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Lass Andrea [#613]": {
 			"ability": "Thick Fat",
@@ -9100,7 +9100,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bullet Punch",
 				"Strength"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Lass Crissy [#614]": {
 			"ability": "Thick Fat",
@@ -9120,7 +9120,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bullet Punch",
 				"Shadow Punch"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Thick Fat",
@@ -9140,7 +9140,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Hidden Power Flying"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Brawly [#774]": {
 			"ability": "Thick Fat",
@@ -9160,7 +9160,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Belly Drum",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Brawly [#775]": {
 			"ability": "Thick Fat",
@@ -9180,7 +9180,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Belly Drum",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Brawly [#776]": {
 			"ability": "Thick Fat",
@@ -9200,7 +9200,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Belly Drum",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Leader Brawly [#777]": {
 			"ability": "Thick Fat",
@@ -9220,7 +9220,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Belly Drum",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Sailor Brenden [#572]": {
 			"ability": "Thick Fat",
@@ -9240,7 +9240,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Fake Out"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#193]": {
 			"ability": "Thick Fat",
@@ -9260,7 +9260,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Punch",
 				"Belly Drum"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Team Aqua Grunt [#19]": {
 			"ability": "Thick Fat",
@@ -9280,7 +9280,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Whirlwind",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#590]": {
 			"ability": "Thick Fat",
@@ -9300,7 +9300,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Shadow Punch"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#731]": {
 			"ability": "Thick Fat",
@@ -9320,7 +9320,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Belly Drum"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Haunter": {
@@ -9342,7 +9342,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Heracross": {
@@ -9364,7 +9364,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Facade",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Swarm",
@@ -9384,7 +9384,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Swarm",
@@ -9404,7 +9404,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swords Dance",
 				"Endure"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Hiker Clark [#631]": {
 			"ability": "Swarm",
@@ -9421,7 +9421,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Smash",
 				"Pin Missile"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Swarm",
@@ -9441,7 +9441,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Agility"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Swarm",
@@ -9461,7 +9461,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Hitmonchan": {
@@ -9483,7 +9483,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Leader Brawly [#776]": {
 			"ability": "Keen Eye",
@@ -9502,7 +9502,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Brawly [#777]": {
 			"ability": "Keen Eye",
@@ -9521,7 +9521,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Hitmonlee": {
@@ -9543,7 +9543,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Leader Brawly [#777]": {
 			"ability": "Limber",
@@ -9562,7 +9562,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Hitmontop": {
@@ -9584,7 +9584,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rolling Kick",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Lady Brianna [#118]": {
 			"ability": "Intimidate",
@@ -9604,7 +9604,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mega Punch",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Leader Brawly [#774]": {
 			"ability": "Intimidate",
@@ -9623,7 +9623,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Triple Kick"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Leader Brawly [#775]": {
 			"ability": "Intimidate",
@@ -9642,7 +9642,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Triple Kick"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Brawly [#776]": {
 			"ability": "Intimidate",
@@ -9661,7 +9661,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Triple Kick"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Brawly [#777]": {
 			"ability": "Intimidate",
@@ -9680,7 +9680,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Triple Kick"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Intimidate",
@@ -9700,7 +9700,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		}
 	},
 	"Ho-Oh": {
@@ -9722,7 +9722,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Hidden Power Water"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Hoothoot": {
@@ -9743,7 +9743,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Dream Eater"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Houndoom": {
@@ -9765,7 +9765,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Cooltrainer Darius [#803]": {
 			"ability": "Intimidate",
@@ -9785,7 +9785,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Poison Fang",
 				"Pursuit"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Cooltrainer Jody [#91]": {
 			"ability": "Intimidate",
@@ -9805,7 +9805,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pursuit",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Flannery [#268]": {
 			"ability": "Intimidate",
@@ -9825,7 +9825,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Hidden Power Electric"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Leader Flannery [#785]": {
 			"ability": "Intimidate",
@@ -9844,7 +9844,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Taunt",
 				"Sunny Day"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Intimidate",
@@ -9864,7 +9864,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pursuit",
 				"Poison Fang"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#214]": {
 			"ability": "Intimidate",
@@ -9884,7 +9884,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Will-O-Wisp",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#727]": {
 			"ability": "Intimidate",
@@ -9904,7 +9904,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Poison Fang"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Houndour": {
@@ -9925,7 +9925,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Taunt",
 				"Sunny Day"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Huntail": {
@@ -9947,7 +9947,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Hypno": {
@@ -9969,7 +9969,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dream Eater",
 				"Fire Punch"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Cooltrainer Vito [#82]": {
 			"ability": "Insomnia",
@@ -9989,7 +9989,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Tate&Liza [#796]": {
 			"ability": "Insomnia",
@@ -10008,7 +10008,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Headbutt",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Leader Tate&Liza [#797]": {
 			"ability": "Insomnia",
@@ -10027,7 +10027,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Headbutt",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Psychic Preston [#233]": {
 			"ability": "Insomnia",
@@ -10047,7 +10047,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Magma Grunt [#589]": {
 			"ability": "Insomnia",
@@ -10067,7 +10067,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dream Eater",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Insomnia",
@@ -10087,7 +10087,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Illumise": {
@@ -10108,7 +10108,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Water Pulse"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Cooltrainer Parker [#72]": {
 			"ability": "Oblivious",
@@ -10128,7 +10128,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Encore",
 				"Wish"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Jigglypuff": {
@@ -10149,7 +10149,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Sing"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Jirachi": {
@@ -10171,7 +10171,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Jolteon": {
@@ -10193,7 +10193,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Champion Wallace [#335]": {
 			"ability": "Static",
@@ -10213,7 +10213,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Cooltrainer Halle [#546]": {
 			"ability": "Static",
@@ -10233,7 +10233,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Static",
@@ -10253,7 +10253,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Psychic Preston [#233]": {
 			"ability": "Static",
@@ -10273,7 +10273,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Water",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#400]": {
 			"ability": "Static",
@@ -10293,7 +10293,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Water",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#4]": {
 			"ability": "Static",
@@ -10313,7 +10313,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Baton Pass"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Magma Grunt [#731]": {
 			"ability": "Static",
@@ -10333,7 +10333,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Jumpluff": {
@@ -10355,7 +10355,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Camper Travis [#218]": {
 			"ability": "Chlorophyll",
@@ -10375,7 +10375,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Shannon [#97]": {
 			"ability": "Chlorophyll",
@@ -10395,7 +10395,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Memento"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Jynx": {
@@ -10417,7 +10417,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Hiker Adrian [#38]": {
 			"ability": "Oblivious",
@@ -10437,7 +10437,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sweet Kiss",
 				"Lovely Kiss"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Oblivious",
@@ -10457,7 +10457,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sing",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Oblivious",
@@ -10477,7 +10477,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sing",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Oblivious",
@@ -10497,7 +10497,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sing",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Oblivious",
@@ -10517,7 +10517,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sing",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Oblivious",
@@ -10537,7 +10537,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sing",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Oblivious",
@@ -10557,7 +10557,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sing",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Psychic Samantha [#245]": {
 			"ability": "Oblivious",
@@ -10599,7 +10599,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Youngster Tommy [#321]": {
 			"ability": "Battle Armor",
@@ -10619,7 +10619,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"X-Scissor"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Kabutops": {
@@ -10641,7 +10641,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"X-Scissor"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Roxanne [#771]": {
 			"ability": "Battle Armor",
@@ -10661,7 +10661,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Leader Roxanne [#772]": {
 			"ability": "Battle Armor",
@@ -10681,7 +10681,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Leader Roxanne [#773]": {
 			"ability": "Battle Armor",
@@ -10701,7 +10701,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Ruin Maniac Dusty [#44]": {
 			"ability": "Battle Armor",
@@ -10721,7 +10721,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#18]": {
 			"ability": "Battle Armor",
@@ -10741,7 +10741,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#193]": {
 			"ability": "Battle Armor",
@@ -10783,7 +10783,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Cooltrainer Halle [#546]": {
 			"ability": "Early Bird",
@@ -10803,7 +10803,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Whirlpool",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Early Bird",
@@ -10823,7 +10823,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Hydro Pump"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Early Bird",
@@ -10843,7 +10843,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Early Bird",
@@ -10863,7 +10863,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Magma Grunt [#214]": {
 			"ability": "Early Bird",
@@ -10905,7 +10905,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Youngster Johnson [#754]": {
 			"ability": "Color Change",
@@ -10925,7 +10925,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Seismic Toss",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Kingdra": {
@@ -10947,7 +10947,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Aqua Admin Shelly [#32]": {
 			"ability": "Swift Swim",
@@ -10967,7 +10967,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Electric",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Beauty Connie [#128]": {
 			"ability": "Swift Swim",
@@ -10987,7 +10987,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Cooltrainer Samuel [#81]": {
 			"ability": "Swift Swim",
@@ -11007,7 +11007,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Elite Four Drake [#264]": {
 			"ability": "Swift Swim",
@@ -11027,7 +11027,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Juan [#272]": {
 			"ability": "Swift Swim",
@@ -11047,7 +11047,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Juan [#798]": {
 			"ability": "Swift Swim",
@@ -11067,7 +11067,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Rest"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Leader Juan [#799]": {
 			"ability": "Swift Swim",
@@ -11087,7 +11087,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Rest"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Juan [#800]": {
 			"ability": "Swift Swim",
@@ -11107,7 +11107,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Rest"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Leader Juan [#801]": {
 			"ability": "Swift Swim",
@@ -11147,7 +11147,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragonbreath",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#552]": {
 			"ability": "Swift Swim",
@@ -11167,7 +11167,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Swift Swim",
@@ -11187,7 +11187,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragonbreath",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Kingler": {
@@ -11209,7 +11209,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mud Shot",
 				"X-Scissor"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Black Belt Cristian [#574]": {
 			"ability": "Shell Armor",
@@ -11229,7 +11229,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Ancientpower"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#145]": {
 			"ability": "Shell Armor",
@@ -11249,7 +11249,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Crush Claw"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#20]": {
 			"ability": "Shell Armor",
@@ -11269,7 +11269,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"X-Scissor"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#400]": {
 			"ability": "Shell Armor",
@@ -11289,7 +11289,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mud Shot",
 				"Crush Claw"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Kirlia": {
@@ -11310,7 +11310,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shock Wave",
 				"Magical Leaf"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Koffing": {
@@ -11329,7 +11329,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Aqua Grunt [#10]": {
 			"ability": "Levitate",
@@ -11347,7 +11347,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Tackle",
 				"Sludge"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Kyogre": {
@@ -11369,7 +11369,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Lairon": {
@@ -11391,7 +11391,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Headbutt"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Lanturn": {
@@ -11433,7 +11433,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Psybeam"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Leader Juan [#272]": {
 			"ability": "Volt Absorb",
@@ -11453,7 +11453,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Psybeam"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Volt Absorb",
@@ -11473,7 +11473,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Volt Absorb",
@@ -11493,7 +11493,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#3]": {
 			"ability": "Volt Absorb",
@@ -11513,7 +11513,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Lapras": {
@@ -11535,7 +11535,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Shell Armor",
@@ -11555,7 +11555,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Juan [#272]": {
 			"ability": "Shell Armor",
@@ -11575,7 +11575,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Leader Juan [#800]": {
 			"ability": "Shell Armor",
@@ -11594,7 +11594,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Juan [#801]": {
 			"ability": "Shell Armor",
@@ -11613,7 +11613,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Aqua Grunt [#23]": {
 			"ability": "Shell Armor",
@@ -11633,7 +11633,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Shell Armor",
@@ -11653,7 +11653,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Aqua Grunt [#567]": {
 			"ability": "Shell Armor",
@@ -11673,7 +11673,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Larvitar": {
@@ -11693,7 +11693,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Latias": {
@@ -11715,7 +11715,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Hidden Power Fire"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Latios": {
@@ -11737,7 +11737,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Thunder"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Ledyba": {
@@ -11759,7 +11759,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Dig"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Lickitung": {
@@ -11780,7 +11780,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Shock Wave"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Lileep": {
@@ -11802,7 +11802,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Sludge"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		}
 	},
 	"Linoone": {
@@ -11824,7 +11824,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Hidden Power Ground"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Cooltrainer Berke [#74]": {
 			"ability": "Guts",
@@ -11844,7 +11844,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Belly Drum"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Hiker Adrian [#38]": {
 			"ability": "Guts",
@@ -11864,7 +11864,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Belly Drum"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Rich Boy Winston [#136]": {
 			"ability": "Guts",
@@ -11884,7 +11884,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Ludicolo": {
@@ -11906,7 +11906,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Battle Girl Jocelyn [#425]": {
 			"ability": "Swift Swim",
@@ -11926,7 +11926,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Cooltrainer George [#73]": {
 			"ability": "Swift Swim",
@@ -11946,7 +11946,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Leader Juan [#272]": {
 			"ability": "Swift Swim",
@@ -11966,7 +11966,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Psychic Macey [#591]": {
 			"ability": "Swift Swim",
@@ -11986,7 +11986,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Swift Swim",
@@ -12006,7 +12006,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Teeter Dance"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Aqua Grunt [#21]": {
 			"ability": "Swift Swim",
@@ -12026,7 +12026,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#23]": {
 			"ability": "Swift Swim",
@@ -12046,7 +12046,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Swift Swim",
@@ -12066,7 +12066,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Swift Swim",
@@ -12086,7 +12086,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Teeter Dance"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#761]": {
 			"ability": "Swift Swim",
@@ -12106,7 +12106,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Lugia": {
@@ -12128,7 +12128,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Lunatone": {
@@ -12150,7 +12150,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rest",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Tate&Liza [#795]": {
 			"ability": "Levitate",
@@ -12170,7 +12170,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rest",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Tate&Liza [#796]": {
 			"ability": "Levitate",
@@ -12190,7 +12190,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rest",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Tate&Liza [#797]": {
 			"ability": "Levitate",
@@ -12210,7 +12210,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rest",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Picnicker Celia [#743]": {
 			"ability": "Levitate",
@@ -12230,7 +12230,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Moonlight",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Psychic Blake [#235]": {
 			"ability": "Levitate",
@@ -12250,7 +12250,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Magma Grunt [#720]": {
 			"ability": "Levitate",
@@ -12270,7 +12270,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Youngster Tommy [#321]": {
 			"ability": "Levitate",
@@ -12290,7 +12290,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Moonlight",
 				"Psywave"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Luvdisc": {
@@ -12311,7 +12311,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flail",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Machamp": {
@@ -12333,7 +12333,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Strength",
 				"Fire Punch"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Cooltrainer Berke [#74]": {
 			"ability": "Guts",
@@ -12353,7 +12353,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Facade"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Cooltrainer Edgar [#79]": {
 			"ability": "Guts",
@@ -12393,7 +12393,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bulk Up",
 				"Facade"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Guts",
@@ -12413,7 +12413,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reversal",
 				"Smellingsalt"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Brawly [#774]": {
 			"ability": "Guts",
@@ -12433,7 +12433,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Focus Punch",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Brawly [#775]": {
 			"ability": "Guts",
@@ -12453,7 +12453,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Focus Punch",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Brawly [#776]": {
 			"ability": "Guts",
@@ -12473,7 +12473,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Focus Punch",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Brawly [#777]": {
 			"ability": "Guts",
@@ -12493,7 +12493,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Focus Punch",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Guts",
@@ -12513,7 +12513,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bullet Punch",
 				"Belly Drum"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#472]": {
 			"ability": "Guts",
@@ -12533,7 +12533,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Revenge"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Guts",
@@ -12553,7 +12553,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Smellingsalt",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Machoke": {
@@ -12575,7 +12575,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Revenge"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Black Belt Cristian [#574]": {
 			"ability": "Guts",
@@ -12595,7 +12595,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Revenge",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Machop": {
@@ -12617,7 +12617,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bulk Up",
 				"Mega Punch"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Magcargo": {
@@ -12659,7 +12659,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Light Screen",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Flannery [#783]": {
 			"ability": "Flame Body",
@@ -12679,7 +12679,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Light Screen",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Leader Flannery [#784]": {
 			"ability": "Flame Body",
@@ -12699,7 +12699,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Light Screen",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Leader Flannery [#785]": {
 			"ability": "Flame Body",
@@ -12719,7 +12719,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Light Screen",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Leader Roxanne [#265]": {
 			"ability": "Flame Body",
@@ -12739,7 +12739,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#338]": {
 			"ability": "Flame Body",
@@ -12759,7 +12759,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#579]": {
 			"ability": "Flame Body",
@@ -12779,7 +12779,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Magma Grunt [#590]": {
 			"ability": "Flame Body",
@@ -12799,7 +12799,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Magma Grunt [#718]": {
 			"ability": "Flame Body",
@@ -12819,7 +12819,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Magmar": {
@@ -12841,7 +12841,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Cooltrainer Marcel [#11]": {
 			"ability": "Flame Body",
@@ -12861,7 +12861,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Hyper Beam"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Kindler Axle [#203]": {
 			"ability": "Flame Body",
@@ -12881,7 +12881,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Cross Chop",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Kindler Jace [#204]": {
 			"ability": "Flame Body",
@@ -12901,7 +12901,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Cross Chop",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Pokéfan Annika [#502]": {
 			"ability": "Flame Body",
@@ -12921,7 +12921,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Magma Grunt [#326]": {
 			"ability": "Flame Body",
@@ -12941,7 +12941,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Mach Punch"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Magnemite": {
@@ -12961,7 +12961,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thundershock",
 				"Sonicboom"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Magneton": {
@@ -12983,7 +12983,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Cooltrainer Jody [#91]": {
 			"ability": "Magnet Pull",
@@ -13003,7 +13003,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Tri Attack",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Magnet Pull",
@@ -13023,7 +13023,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Screech",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Wattson [#778]": {
 			"ability": "Magnet Pull",
@@ -13043,7 +13043,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Wattson [#779]": {
 			"ability": "Magnet Pull",
@@ -13063,7 +13063,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Leader Wattson [#780]": {
 			"ability": "Magnet Pull",
@@ -13083,7 +13083,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Leader Wattson [#781]": {
 			"ability": "Magnet Pull",
@@ -13103,7 +13103,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Magnet Pull",
@@ -13123,7 +13123,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#628]": {
 			"ability": "Magnet Pull",
@@ -13163,7 +13163,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Magma Grunt [#728]": {
 			"ability": "Magnet Pull",
@@ -13183,7 +13183,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Fire",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Makuhita": {
@@ -13225,7 +13225,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Overheat",
 				"Sunny Day"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Beauty Bridget [#129]": {
 			"ability": "Static",
@@ -13245,7 +13245,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Static",
@@ -13265,7 +13265,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Kindler Jace [#204]": {
 			"ability": "Static",
@@ -13285,7 +13285,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Lass Andrea [#613]": {
 			"ability": "Static",
@@ -13305,7 +13305,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Leader Wattson [#267]": {
 			"ability": "Static",
@@ -13325,7 +13325,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Feint Attack",
 				"Hidden Power Grass"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Wattson [#778]": {
 			"ability": "Static",
@@ -13345,7 +13345,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Wattson [#779]": {
 			"ability": "Static",
@@ -13365,7 +13365,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Wattson [#780]": {
 			"ability": "Static",
@@ -13385,7 +13385,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Wattson [#781]": {
 			"ability": "Static",
@@ -13405,7 +13405,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Psychic Blake [#235]": {
 			"ability": "Static",
@@ -13425,7 +13425,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Magma Grunt [#712]": {
 			"ability": "Static",
@@ -13445,7 +13445,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Hidden Power Ice"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Tuber Keegan [#205]": {
 			"ability": "Static",
@@ -13465,7 +13465,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Overheat",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Mankey": {
@@ -13486,7 +13486,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Mantine": {
@@ -13508,7 +13508,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Amnesia",
 				"Double Team"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Swift Swim",
@@ -13528,7 +13528,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#145]": {
 			"ability": "Swift Swim",
@@ -13548,7 +13548,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Rock Tomb"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Swift Swim",
@@ -13568,7 +13568,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Confuse Ray"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#400]": {
 			"ability": "Swift Swim",
@@ -13588,7 +13588,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#596]": {
 			"ability": "Swift Swim",
@@ -13608,7 +13608,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Swift Swim",
@@ -13628,7 +13628,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Mareep": {
@@ -13648,7 +13648,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shock Wave",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Leader Wattson [#778]": {
 			"ability": "Static",
@@ -13667,7 +13667,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Marowak": {
@@ -13689,7 +13689,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Cooltrainer Mitchell [#540]": {
 			"ability": "Rock Head",
@@ -13709,7 +13709,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Thrash"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Kindler Bryant [#746]": {
 			"ability": "Rock Head",
@@ -13729,7 +13729,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Lady Daphne [#115]": {
 			"ability": "Rock Head",
@@ -13749,7 +13749,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Magma Grunt [#206]": {
 			"ability": "Rock Head",
@@ -13788,7 +13788,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mega Kick",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Rock Head",
@@ -13807,7 +13807,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Masquerain": {
@@ -13829,7 +13829,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Bird Keeper Edwardo [#404]": {
 			"ability": "Intimidate",
@@ -13849,7 +13849,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Hydro Pump"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Bug Catcher Jose [#617]": {
 			"ability": "Intimidate",
@@ -13888,7 +13888,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Intimidate",
@@ -13908,7 +13908,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Mawile": {
@@ -13930,7 +13930,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Super Fang",
 				"Slash"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Cooltrainer Halle [#546]": {
 			"ability": "Intimidate",
@@ -13950,7 +13950,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swords Dance",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Guitarist Dalton [#196]": {
 			"ability": "Intimidate",
@@ -13970,7 +13970,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Seismic Toss",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Picnicker Carol [#471]": {
 			"ability": "Intimidate",
@@ -13990,7 +13990,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Super Fang",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Youngster Josh [#320]": {
 			"ability": "Intimidate",
@@ -14010,7 +14010,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Super Fang",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Medicham": {
@@ -14032,7 +14032,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fake Out",
 				"Bullet Punch"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Battle Girl Jocelyn [#425]": {
 			"ability": "Pure Power",
@@ -14052,7 +14052,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reversal",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Cooltrainer Hope [#96]": {
 			"ability": "Pure Power",
@@ -14072,7 +14072,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Bullet Punch"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Leader Brawly [#775]": {
 			"ability": "Pure Power",
@@ -14091,7 +14091,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Focus Punch"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Leader Brawly [#776]": {
 			"ability": "Pure Power",
@@ -14110,7 +14110,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Brawly [#777]": {
 			"ability": "Pure Power",
@@ -14129,7 +14129,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Tate&Liza [#271]": {
 			"ability": "Pure Power",
@@ -14149,7 +14149,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Fake Out"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Pure Power",
@@ -14169,7 +14169,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Pure Power",
@@ -14189,7 +14189,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Magma Grunt [#629]": {
 			"ability": "Pure Power",
@@ -14209,7 +14209,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Meditite": {
@@ -14228,7 +14228,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Battle Girl Laura [#426]": {
 			"ability": "Pure Power",
@@ -14246,7 +14246,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Battle Girl Vivian [#649]": {
 			"ability": "Pure Power",
@@ -14265,7 +14265,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fake Out",
 				"Reversal"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Brawly [#774]": {
 			"ability": "Pure Power",
@@ -14284,7 +14284,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Focus Punch"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Meganium": {
@@ -14306,7 +14306,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Kindler Bryant [#746]": {
 			"ability": "Thick Fat",
@@ -14326,7 +14326,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Poisonpowder"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Pokã©Mon Trainer Brendan [#525]": {
 			"ability": "Thick Fat",
@@ -14346,7 +14346,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Pokã©Mon Trainer May [#534]": {
 			"ability": "Thick Fat",
@@ -14366,7 +14366,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Psychic Samantha [#245]": {
 			"ability": "Thick Fat",
@@ -14386,7 +14386,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Outrage",
 				"Synthesis"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Thick Fat",
@@ -14406,7 +14406,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Thick Fat",
@@ -14426,7 +14426,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Synthesis",
 				"Hidden Power Ice"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#761]": {
 			"ability": "Thick Fat",
@@ -14446,7 +14446,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Weather Ball"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Magma Grunt [#588]": {
 			"ability": "Thick Fat",
@@ -14466,7 +14466,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Outrage",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Metagross": {
@@ -14488,7 +14488,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Agility"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Cooltrainer Vito [#82]": {
 			"ability": "Clear Body",
@@ -14508,7 +14508,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Clear Body",
@@ -14528,7 +14528,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Hiker Adrian [#38]": {
 			"ability": "Clear Body",
@@ -14548,7 +14548,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Tate&Liza [#271]": {
 			"ability": "Clear Body",
@@ -14568,7 +14568,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Hidden Power Bug"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Clear Body",
@@ -14588,7 +14588,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Meteor Mash",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Clear Body",
@@ -14608,7 +14608,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#718]": {
 			"ability": "Clear Body",
@@ -14628,7 +14628,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Agility"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Metang": {
@@ -14650,7 +14650,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Take Down",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Mew": {
@@ -14672,7 +14672,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Muddy Water",
 				"Tail Glow"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Mewtwo": {
@@ -14694,7 +14694,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Mightyena": {
@@ -14716,7 +14716,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Poison Fang"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#20]": {
 			"ability": "Intimidate",
@@ -14736,7 +14736,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Take Down",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#552]": {
 			"ability": "Intimidate",
@@ -14756,7 +14756,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Milotic": {
@@ -14778,7 +14778,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Champion Wallace [#335]": {
 			"ability": "Marvel Scale",
@@ -14798,7 +14798,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Acid Armor"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Cooltrainer Dianne [#417]": {
 			"ability": "Marvel Scale",
@@ -14818,7 +14818,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Refresh"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Cooltrainer George [#73]": {
 			"ability": "Marvel Scale",
@@ -14838,7 +14838,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Refresh"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Psychic Preston [#233]": {
 			"ability": "Marvel Scale",
@@ -14858,7 +14858,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#4]": {
 			"ability": "Marvel Scale",
@@ -14878,7 +14878,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mud Shot",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Miltank": {
@@ -14900,7 +14900,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Milk Drink"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Cooltrainer George [#73]": {
 			"ability": "Thick Fat",
@@ -14920,7 +14920,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Charm",
 				"Milk Drink"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Thick Fat",
@@ -14940,7 +14940,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Milk Drink"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Thick Fat",
@@ -14960,7 +14960,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bulk Up",
 				"Milk Drink"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Thick Fat",
@@ -14980,7 +14980,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Charm",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Thick Fat",
@@ -15000,7 +15000,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bulk Up",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Thick Fat",
@@ -15020,7 +15020,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Belly Drum"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Thick Fat",
@@ -15040,7 +15040,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Thick Fat",
@@ -15060,7 +15060,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Minun": {
@@ -15082,7 +15082,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Hidden Power Grass"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Misdreavus": {
@@ -15104,7 +15104,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Levitate",
@@ -15124,7 +15124,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Dream Eater"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Moltres": {
@@ -15146,7 +15146,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Hidden Power Ice"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Magma Leader Maxie [#734]": {
 			"ability": "Pressure",
@@ -15166,7 +15166,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Hidden Power Ice"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Mr. Mime": {
@@ -15188,7 +15188,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Soundproof",
@@ -15208,7 +15208,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Muk": {
@@ -15230,7 +15230,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Poison Point",
@@ -15250,7 +15250,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Gentleman Walter [#254]": {
 			"ability": "Poison Point",
@@ -15270,7 +15270,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Mean Look"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Lady Daphne [#115]": {
 			"ability": "Poison Point",
@@ -15290,7 +15290,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Poison Point",
@@ -15310,7 +15310,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#108]": {
 			"ability": "Poison Point",
@@ -15330,7 +15330,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Mean Look"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Poison Point",
@@ -15350,7 +15350,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Magma Grunt [#146]": {
 			"ability": "Poison Point",
@@ -15370,7 +15370,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Poison Point",
@@ -15390,7 +15390,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Youngster Timmy [#334]": {
 			"ability": "Poison Point",
@@ -15410,7 +15410,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Mud Shot"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Murkrow": {
@@ -15430,7 +15430,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pursuit",
 				"Night Shade"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Natu": {
@@ -15450,7 +15450,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Night Shade"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		}
 	},
 	"Nidoking": {
@@ -15472,7 +15472,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Megahorn"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Poison Point",
@@ -15492,7 +15492,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Parasol Lady Clarissa [#435]": {
 			"ability": "Poison Point",
@@ -15512,7 +15512,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Megahorn"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Picnicker Becky [#470]": {
 			"ability": "Poison Point",
@@ -15532,7 +15532,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#18]": {
 			"ability": "Poison Point",
@@ -15552,7 +15552,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Magma Grunt [#214]": {
 			"ability": "Poison Point",
@@ -15572,7 +15572,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Poison Tail",
 				"Horn Attack"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Magma Grunt [#588]": {
 			"ability": "Poison Point",
@@ -15592,7 +15592,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Magma Grunt [#718]": {
 			"ability": "Poison Point",
@@ -15612,7 +15612,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Nidoqueen": {
@@ -15634,7 +15634,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Poison Point",
@@ -15654,7 +15654,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Ruin Maniac Dusty [#44]": {
 			"ability": "Poison Point",
@@ -15674,7 +15674,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Poison Point",
@@ -15694,7 +15694,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Aqua Grunt [#3]": {
 			"ability": "Poison Point",
@@ -15714,7 +15714,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Magma Grunt [#628]": {
 			"ability": "Poison Point",
@@ -15734,7 +15734,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Poison Tail"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#719]": {
 			"ability": "Poison Point",
@@ -15754,7 +15754,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Nidorino": {
@@ -15776,7 +15776,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shock Wave",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Ninetales": {
@@ -15798,7 +15798,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Pressure",
@@ -15818,7 +15818,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Hiker Eli [#501]": {
 			"ability": "Pressure",
@@ -15838,7 +15838,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Parasol Lady Clarissa [#435]": {
 			"ability": "Pressure",
@@ -15858,7 +15858,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Magma Grunt [#146]": {
 			"ability": "Pressure",
@@ -15878,7 +15878,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Will-O-Wisp",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Magma Grunt [#326]": {
 			"ability": "Pressure",
@@ -15898,7 +15898,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Extrasensory"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Pressure",
@@ -15918,7 +15918,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Tuber Keegan [#205]": {
 			"ability": "Pressure",
@@ -15960,7 +15960,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Speed Boost",
@@ -15980,7 +15980,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Speed Boost",
@@ -16000,7 +16000,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swords Dance",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Ninja Boy Lao [#419]": {
 			"ability": "Speed Boost",
@@ -16020,7 +16020,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Noctowl": {
@@ -16041,7 +16041,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Dream Eater"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Insomnia",
@@ -16061,7 +16061,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extrasensory",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Youngster Joey [#322]": {
 			"ability": "Insomnia",
@@ -16081,7 +16081,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Feint Attack"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Nosepass": {
@@ -16103,7 +16103,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Tomb",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Leader Roxanne [#770]": {
 			"ability": "Battle Armor",
@@ -16123,7 +16123,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Leader Roxanne [#771]": {
 			"ability": "Battle Armor",
@@ -16143,7 +16143,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Roxanne [#772]": {
 			"ability": "Battle Armor",
@@ -16163,7 +16163,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Leader Roxanne [#773]": {
 			"ability": "Battle Armor",
@@ -16183,7 +16183,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Numel": {
@@ -16205,7 +16205,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Octillery": {
@@ -16227,7 +16227,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#761]": {
 			"ability": "Suction Cups",
@@ -16247,7 +16247,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Signal Beam",
 				"Water Spout"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#712]": {
 			"ability": "Suction Cups",
@@ -16267,7 +16267,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Octazooka",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Tuber Keegan [#205]": {
 			"ability": "Suction Cups",
@@ -16287,7 +16287,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		}
 	},
 	"Omanyte": {
@@ -16308,7 +16308,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Surf"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Omastar": {
@@ -16330,7 +16330,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Roxanne [#772]": {
 			"ability": "Shell Armor",
@@ -16349,7 +16349,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Surf"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Roxanne [#773]": {
 			"ability": "Shell Armor",
@@ -16388,7 +16388,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Whirlpool"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Pokéfan Annika [#502]": {
 			"ability": "Shell Armor",
@@ -16408,7 +16408,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Psychic Macey [#591]": {
 			"ability": "Shell Armor",
@@ -16428,7 +16428,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Whirlpool"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Shell Armor",
@@ -16448,7 +16448,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Onix": {
@@ -16469,7 +16469,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Roar",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Roxanne [#771]": {
 			"ability": "Rock Head",
@@ -16488,7 +16488,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Roar",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Roxanne [#772]": {
 			"ability": "Rock Head",
@@ -16507,7 +16507,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Roar",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Pelipper": {
@@ -16529,7 +16529,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Agility"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Bird Keeper Humberto [#402]": {
 			"ability": "Keen Eye",
@@ -16549,7 +16549,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Leader Winona [#790]": {
 			"ability": "Keen Eye",
@@ -16568,7 +16568,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Winona [#791]": {
 			"ability": "Keen Eye",
@@ -16587,7 +16587,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Leader Winona [#793]": {
 			"ability": "Keen Eye",
@@ -16606,7 +16606,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Sailor Brenden [#572]": {
 			"ability": "Keen Eye",
@@ -16626,7 +16626,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Shock Wave"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Persian": {
@@ -16648,7 +16648,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Water Pulse"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Cooltrainer Owen [#83]": {
 			"ability": "Limber",
@@ -16668,7 +16668,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Water Pulse"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Cooltrainer Randall [#71]": {
 			"ability": "Limber",
@@ -16688,7 +16688,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Rich Boy Winston [#136]": {
 			"ability": "Limber",
@@ -16708,7 +16708,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Limber",
@@ -16728,7 +16728,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Limber",
@@ -16748,7 +16748,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Team Magma Grunt [#143]": {
 			"ability": "Limber",
@@ -16768,7 +16768,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Metal Claw"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Pichu": {
@@ -16789,7 +16789,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Tail Whip"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Pidgeot": {
@@ -16811,7 +16811,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Steel Wing"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Picnicker Carol [#471]": {
 			"ability": "Keen Eye",
@@ -16851,7 +16851,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Steel Wing"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Pidgeotto": {
@@ -16872,7 +16872,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Secret Power"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Pikachu": {
@@ -16894,7 +16894,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Hidden Power Ice"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Wattson [#779]": {
 			"ability": "Static",
@@ -16913,7 +16913,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rain Dance",
 				"Shock Wave"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Pokéfan Kaleb [#699]": {
 			"ability": "Static",
@@ -16933,7 +16933,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Piloswine": {
@@ -16955,7 +16955,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Pineco": {
@@ -16973,7 +16973,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Bide"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Pinsir": {
@@ -16995,7 +16995,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Cooltrainer Edgar [#79]": {
 			"ability": "Intimidate",
@@ -17015,7 +17015,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Kindler Cole [#201]": {
 			"ability": "Intimidate",
@@ -17035,7 +17035,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Intimidate",
@@ -17055,7 +17055,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Intimidate",
@@ -17075,7 +17075,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Intimidate",
@@ -17095,7 +17095,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Intimidate",
@@ -17115,7 +17115,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Intimidate",
@@ -17135,7 +17135,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Intimidate",
@@ -17155,7 +17155,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Intimidate",
@@ -17175,7 +17175,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Intimidate",
@@ -17195,7 +17195,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Psychic Macey [#591]": {
 			"ability": "Intimidate",
@@ -17215,7 +17215,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Agility"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Intimidate",
@@ -17235,7 +17235,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#559]": {
 			"ability": "Intimidate",
@@ -17255,7 +17255,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Team Aqua Grunt [#567]": {
 			"ability": "Intimidate",
@@ -17275,7 +17275,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Magma Grunt [#206]": {
 			"ability": "Intimidate",
@@ -17295,7 +17295,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Intimidate",
@@ -17315,7 +17315,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Return",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Magma Grunt [#727]": {
 			"ability": "Intimidate",
@@ -17335,7 +17335,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Plusle": {
@@ -17357,7 +17357,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Hidden Power Ground"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Politoed": {
@@ -17378,7 +17378,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Perish Song"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Aqua Grunt [#400]": {
 			"ability": "Swift Swim",
@@ -17398,7 +17398,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Mud Shot"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Swift Swim",
@@ -17418,7 +17418,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Poliwag": {
@@ -17439,7 +17439,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Hydro Pump"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Poliwhirl": {
@@ -17461,7 +17461,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Leader Juan [#799]": {
 			"ability": "Swift Swim",
@@ -17480,7 +17480,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Hydro Pump"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Juan [#800]": {
 			"ability": "Swift Swim",
@@ -17499,7 +17499,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Hydro Pump"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		}
 	},
 	"Poliwrath": {
@@ -17520,7 +17520,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Swift Swim",
@@ -17540,7 +17540,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Cooltrainer Owen [#83]": {
 			"ability": "Swift Swim",
@@ -17560,7 +17560,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Leader Brawly [#266]": {
 			"ability": "Swift Swim",
@@ -17580,7 +17580,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#108]": {
 			"ability": "Swift Swim",
@@ -17600,7 +17600,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Swift Swim",
@@ -17620,7 +17620,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Rain Dance"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Aqua Grunt [#552]": {
 			"ability": "Swift Swim",
@@ -17640,7 +17640,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Swift Swim",
@@ -17660,7 +17660,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Ponyta": {
@@ -17681,7 +17681,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Bounce"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Leader Flannery [#783]": {
 			"ability": "Flame Body",
@@ -17700,7 +17700,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Bounce"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Poochyena": {
@@ -17720,7 +17720,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Sand-Attack"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Youngster Calvin [#318]": {
 			"ability": "Run Away",
@@ -17738,7 +17738,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Porygon2": {
@@ -17760,7 +17760,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Vito [#82]": {
 			"ability": "Trace",
@@ -17780,7 +17780,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Trace",
@@ -17800,7 +17800,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Leader Norman [#269]": {
 			"ability": "Trace",
@@ -17820,7 +17820,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Trace",
@@ -17840,7 +17840,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunder"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Trace",
@@ -17860,7 +17860,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Primeape": {
@@ -17882,7 +17882,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reversal",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Battle Girl Lilith [#573]": {
 			"ability": "Vital Spirit",
@@ -17901,7 +17901,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Lady Daphne [#115]": {
 			"ability": "Vital Spirit",
@@ -17921,7 +17921,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Reversal"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Lass Crissy [#614]": {
 			"ability": "Vital Spirit",
@@ -17941,7 +17941,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Vital Spirit",
@@ -17960,7 +17960,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Ruin Maniac Dusty [#44]": {
 			"ability": "Vital Spirit",
@@ -17980,7 +17980,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Magma Grunt [#728]": {
 			"ability": "Vital Spirit",
@@ -18000,7 +18000,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Belly Drum",
 				"Endure"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		}
 	},
 	"Pupitar": {
@@ -18021,7 +18021,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Quagsire": {
@@ -18043,7 +18043,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Amnesia",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Water Absorb",
@@ -18063,7 +18063,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Amnesia"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Water Absorb",
@@ -18083,7 +18083,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#552]": {
 			"ability": "Water Absorb",
@@ -18125,7 +18125,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swift",
 				"Smokescreen"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Qwilfish": {
@@ -18167,7 +18167,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Aqua Leader Archie [#34]": {
 			"ability": "Swift Swim",
@@ -18186,7 +18186,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Swift Swim",
@@ -18206,7 +18206,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Destiny Bond",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Team Aqua Grunt [#761]": {
 			"ability": "Swift Swim",
@@ -18226,7 +18226,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Raichu": {
@@ -18248,7 +18248,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Wattson [#780]": {
 			"ability": "Static",
@@ -18267,7 +18267,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rain Dance",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Leader Wattson [#781]": {
 			"ability": "Static",
@@ -18286,7 +18286,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rain Dance",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Pokã©Mon Ranger Lorenzo [#553]": {
 			"ability": "Static",
@@ -18306,7 +18306,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Pokéfan Annika [#502]": {
 			"ability": "Static",
@@ -18326,7 +18326,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Psychic Virgil [#234]": {
 			"ability": "Static",
@@ -18346,7 +18346,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#21]": {
 			"ability": "Static",
@@ -18366,7 +18366,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Static",
@@ -18386,7 +18386,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#761]": {
 			"ability": "Static",
@@ -18406,7 +18406,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Ice",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Static",
@@ -18426,7 +18426,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Static",
@@ -18446,7 +18446,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Raikou": {
@@ -18468,7 +18468,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extrasensory",
 				"Extremespeed"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Ralts": {
@@ -18488,7 +18488,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shock Wave",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Rapidash": {
@@ -18510,7 +18510,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Kindler Jeff [#202]": {
 			"ability": "Flame Body",
@@ -18530,7 +18530,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Flannery [#784]": {
 			"ability": "Flame Body",
@@ -18549,7 +18549,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Bounce"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Leader Flannery [#785]": {
 			"ability": "Flame Body",
@@ -18568,7 +18568,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Bounce"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Flame Body",
@@ -18588,7 +18588,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Flame Body",
@@ -18608,7 +18608,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Flame Body",
@@ -18628,7 +18628,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Magma Grunt [#338]": {
 			"ability": "Flame Body",
@@ -18648,7 +18648,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Hidden Power Water"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Flame Body",
@@ -18668,7 +18668,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Low Kick"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Rattata": {
@@ -18689,7 +18689,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Endeavor",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Rayquaza": {
@@ -18711,7 +18711,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Regice": {
@@ -18733,7 +18733,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Counter",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Regirock": {
@@ -18755,7 +18755,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Relicanth": {
@@ -18777,7 +18777,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Leader Roxanne [#265]": {
 			"ability": "Swift Swim",
@@ -18797,7 +18797,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Yawn",
 				"Rock Tomb"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Aqua Grunt [#400]": {
 			"ability": "Swift Swim",
@@ -18817,7 +18817,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Rhydon": {
@@ -18839,7 +18839,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Megahorn"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Cooltrainer Alexia [#90]": {
 			"ability": "Rock Head",
@@ -18859,7 +18859,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double Kick",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Cooltrainer Samuel [#81]": {
 			"ability": "Rock Head",
@@ -18879,7 +18879,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Cooltrainer Wilton [#78]": {
 			"ability": "Rock Head",
@@ -18919,7 +18919,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Iron Tail"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Rock Head",
@@ -18939,7 +18939,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Thunder"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Magma Grunt [#326]": {
 			"ability": "Rock Head",
@@ -18959,7 +18959,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Magma Grunt [#629]": {
 			"ability": "Rock Head",
@@ -18979,7 +18979,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Magma Grunt [#717]": {
 			"ability": "Rock Head",
@@ -18999,7 +18999,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Megahorn",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Rhyhorn": {
@@ -19021,7 +19021,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Rock Tomb"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Roselia": {
@@ -19042,7 +19042,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Stun Spore",
 				"Synthesis"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Rich Boy Winston [#136]": {
 			"ability": "Poison Point",
@@ -19062,7 +19062,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Synthesis",
 				"Grasswhistle"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		}
 	},
 	"Sableye": {
@@ -19084,7 +19084,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Cooltrainer Michelle [#98]": {
 			"ability": "Keen Eye",
@@ -19104,7 +19104,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Cosmic Power",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Keen Eye",
@@ -19124,7 +19124,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Seismic Toss",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Ninja Boy Lao [#419]": {
 			"ability": "Keen Eye",
@@ -19144,7 +19144,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Punch",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#18]": {
 			"ability": "Keen Eye",
@@ -19164,7 +19164,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dynamicpunch",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Keen Eye",
@@ -19184,7 +19184,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mean Look",
 				"Baton Pass"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Salamence": {
@@ -19206,7 +19206,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Cooltrainer Dianne [#417]": {
 			"ability": "Intimidate",
@@ -19226,7 +19226,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Elite Four Drake [#264]": {
 			"ability": "Intimidate",
@@ -19246,7 +19246,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Fire Blast"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Intimidate",
@@ -19266,7 +19266,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Dragon Claw"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Magma Leader Maxie [#602]": {
 			"ability": "Intimidate",
@@ -19286,7 +19286,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Magma Leader Maxie [#734]": {
 			"ability": "Intimidate",
@@ -19306,7 +19306,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Sandshrew": {
@@ -19327,7 +19327,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Rock Tomb"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Sandslash": {
@@ -19348,7 +19348,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Cooltrainer Wilton [#78]": {
 			"ability": "Sand Veil",
@@ -19368,7 +19368,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Hiker Clark [#631]": {
 			"ability": "Sand Veil",
@@ -19406,7 +19406,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#720]": {
 			"ability": "Sand Veil",
@@ -19426,7 +19426,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Swords Dance",
 				"Crush Claw"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Sceptile": {
@@ -19448,7 +19448,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Claw",
 				"Pursuit"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Cooltrainer Samuel [#81]": {
 			"ability": "Overgrow",
@@ -19468,7 +19468,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Crush Claw"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Elite Four Drake [#264]": {
 			"ability": "Overgrow",
@@ -19488,7 +19488,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Overgrow",
@@ -19508,7 +19508,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Water",
 				"Crush Claw"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Overgrow",
@@ -19528,7 +19528,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokã©Mon Trainer Brendan [#522]": {
 			"ability": "Overgrow",
@@ -19548,7 +19548,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pursuit",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Overgrow",
@@ -19568,7 +19568,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Pokã©Mon Trainer May [#531]": {
 			"ability": "Overgrow",
@@ -19588,7 +19588,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Pursuit",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#4]": {
 			"ability": "Overgrow",
@@ -19608,7 +19608,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Crush Claw"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Aqua Grunt [#596]": {
 			"ability": "Overgrow",
@@ -19628,7 +19628,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Claw",
 				"Endeavor"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Magma Grunt [#720]": {
 			"ability": "Overgrow",
@@ -19648,7 +19648,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Scizor": {
@@ -19670,7 +19670,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bullet Punch",
 				"Reversal"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Cooltrainer Alexia [#90]": {
 			"ability": "Swarm",
@@ -19690,7 +19690,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Swarm",
@@ -19710,7 +19710,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Bullet Punch"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Cooltrainer Samuel [#81]": {
 			"ability": "Swarm",
@@ -19730,7 +19730,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Pursuit"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Swarm",
@@ -19750,7 +19750,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Reversal"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Aqua Grunt [#552]": {
 			"ability": "Swarm",
@@ -19770,7 +19770,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Swarm",
@@ -19790,7 +19790,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#729]": {
 			"ability": "Swarm",
@@ -19810,7 +19810,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Bullet Punch"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Scyther": {
@@ -19832,7 +19832,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Swarm",
@@ -19852,7 +19852,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Swarm",
@@ -19872,7 +19872,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Kindler Axle [#203]": {
 			"ability": "Swarm",
@@ -19892,7 +19892,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Steel Wing"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Magma Grunt [#472]": {
 			"ability": "Swarm",
@@ -19912,7 +19912,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Swarm",
@@ -19932,7 +19932,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		}
 	},
 	"Seaking": {
@@ -19954,7 +19954,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aurora Beam",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Lady Brianna [#118]": {
 			"ability": "Swift Swim",
@@ -19974,7 +19974,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Bounce"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Swift Swim",
@@ -19994,7 +19994,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#559]": {
 			"ability": "Swift Swim",
@@ -20036,7 +20036,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Seedot": {
@@ -20056,7 +20056,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Nature Power"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Seviper": {
@@ -20078,7 +20078,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Lass Crissy [#614]": {
 			"ability": "Shed Skin",
@@ -20098,7 +20098,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Shed Skin",
@@ -20118,7 +20118,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"X-Scissor"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Youngster Billy [#319]": {
 			"ability": "Shed Skin",
@@ -20138,7 +20138,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Poison Tail"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Sharpedo": {
@@ -20160,7 +20160,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Take Down",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Pokéfan Annika [#502]": {
 			"ability": "Rough Skin",
@@ -20180,7 +20180,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Tomb",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Aqua Grunt [#21]": {
 			"ability": "Rough Skin",
@@ -20200,7 +20200,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Poison Fang"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Rough Skin",
@@ -20220,7 +20220,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Poison Fang"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Rough Skin",
@@ -20240,7 +20240,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Whirlpool"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#760]": {
 			"ability": "Rough Skin",
@@ -20260,7 +20260,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Poison Fang",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Shedinja": {
@@ -20280,7 +20280,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Hiker Adrian [#38]": {
 			"ability": "Wonder Guard",
@@ -20300,7 +20300,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Shelgon": {
@@ -20322,7 +20322,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Shiftry": {
@@ -20344,7 +20344,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extrasensory",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Chlorophyll",
@@ -20364,7 +20364,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Swagger"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Magma Admin Tabitha [#732]": {
 			"ability": "Chlorophyll",
@@ -20384,7 +20384,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Ice",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Chlorophyll",
@@ -20404,7 +20404,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Pursuit"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#18]": {
 			"ability": "Chlorophyll",
@@ -20424,7 +20424,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Youngster Timmy [#334]": {
 			"ability": "Chlorophyll",
@@ -20444,7 +20444,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Feint Attack",
 				"Nature Power"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Shroomish": {
@@ -20465,7 +20465,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Spore",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Shuckle": {
@@ -20487,7 +20487,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower",
 				"Dig"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Cooltrainer Alexia [#90]": {
 			"ability": "Battle Armor",
@@ -20507,7 +20507,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower",
 				"Rest"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Cooltrainer Cristin [#767]": {
 			"ability": "Battle Armor",
@@ -20527,7 +20527,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bind",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Roxanne [#265]": {
 			"ability": "Battle Armor",
@@ -20547,7 +20547,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sandstorm",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Battle Armor",
@@ -20567,7 +20567,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Wrap",
 				"Flash"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Battle Armor",
@@ -20587,7 +20587,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Spikes"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Shuppet": {
@@ -20607,7 +20607,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Screech",
 				"Feint Attack"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Silcoon": {
@@ -20625,7 +20625,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Poison Sting"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		}
 	},
 	"Skarmory": {
@@ -20647,7 +20647,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Hidden Power Ground"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Cooltrainer George [#73]": {
 			"ability": "Keen Eye",
@@ -20667,7 +20667,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Keen Eye",
@@ -20687,7 +20687,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Leader Roxanne [#265]": {
 			"ability": "Keen Eye",
@@ -20707,7 +20707,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Wing Attack"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Winona [#790]": {
 			"ability": "Keen Eye",
@@ -20726,7 +20726,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Winona [#791]": {
 			"ability": "Keen Eye",
@@ -20745,7 +20745,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Leader Winona [#793]": {
 			"ability": "Keen Eye",
@@ -20764,7 +20764,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Picnicker Becky [#470]": {
 			"ability": "Keen Eye",
@@ -20784,7 +20784,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Keen Eye",
@@ -20804,7 +20804,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Keen Eye",
@@ -20824,7 +20824,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Keen Eye",
@@ -20844,7 +20844,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Keen Eye",
@@ -20864,7 +20864,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Keen Eye",
@@ -20884,7 +20884,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Keen Eye",
@@ -20904,7 +20904,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Steel Wing",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Keen Eye",
@@ -20923,7 +20923,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Spikes",
 				"Steel Wing"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		}
 	},
 	"Skiploom": {
@@ -20944,7 +20944,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Stun Spore"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		}
 	},
 	"Slaking": {
@@ -20966,7 +20966,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Truant",
@@ -20983,7 +20983,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Hyper Beam"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Magma Grunt [#628]": {
 			"ability": "Truant",
@@ -21003,7 +21003,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Pursuit"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Slakoth": {
@@ -21023,7 +21023,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crush Claw",
 				"Slack Off"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Slowbro": {
@@ -21045,7 +21045,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Slack Off"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#17]": {
 			"ability": "Own Tempo",
@@ -21065,7 +21065,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Aqua Grunt [#416]": {
 			"ability": "Own Tempo",
@@ -21085,7 +21085,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Slack Off",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Slowking": {
@@ -21107,7 +21107,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Future Sight",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Beauty Connie [#128]": {
 			"ability": "Own Tempo",
@@ -21127,7 +21127,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Slack Off"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Cooltrainer Michelle [#98]": {
 			"ability": "Own Tempo",
@@ -21147,7 +21147,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Tate&Liza [#797]": {
 			"ability": "Own Tempo",
@@ -21166,7 +21166,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Own Tempo",
@@ -21186,7 +21186,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Slack Off"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Own Tempo",
@@ -21206,7 +21206,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Slack Off"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Aqua Grunt [#4]": {
 			"ability": "Own Tempo",
@@ -21226,7 +21226,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Slack Off",
 				"Future Sight"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Slowpoke": {
@@ -21247,7 +21247,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Tate&Liza [#795]": {
 			"ability": "Own Tempo",
@@ -21266,7 +21266,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Leader Tate&Liza [#796]": {
 			"ability": "Own Tempo",
@@ -21285,7 +21285,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Psychic Edward [#232]": {
 			"ability": "Own Tempo",
@@ -21303,7 +21303,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Water Gun",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Smeargle": {
@@ -21325,7 +21325,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Reversal"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Own Tempo",
@@ -21344,7 +21344,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Light Screen",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#21]": {
 			"ability": "Own Tempo",
@@ -21364,7 +21364,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Baton Pass",
 				"Spore"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Smoochum": {
@@ -21385,7 +21385,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Perish Song",
 				"Mean Look"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		}
 	},
 	"Sneasel": {
@@ -21407,7 +21407,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#145]": {
 			"ability": "Inner Focus",
@@ -21427,7 +21427,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Metal Claw"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Aqua Grunt [#193]": {
 			"ability": "Inner Focus",
@@ -21447,7 +21447,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Youngster Johnson [#754]": {
 			"ability": "Inner Focus",
@@ -21467,7 +21467,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fake Out",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		}
 	},
 	"Snorlax": {
@@ -21489,7 +21489,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Refresh"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Cooltrainer Michelle [#98]": {
 			"ability": "Thick Fat",
@@ -21509,7 +21509,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Slack Off",
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Thick Fat",
@@ -21529,7 +21529,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Crunch",
 				"Curse"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Leader Norman [#269]": {
 			"ability": "Thick Fat",
@@ -21549,7 +21549,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Curse"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Magma Leader Maxie [#602]": {
 			"ability": "Thick Fat",
@@ -21569,7 +21569,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#19]": {
 			"ability": "Thick Fat",
@@ -21589,7 +21589,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Thick Fat",
@@ -21609,7 +21609,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Solrock": {
@@ -21631,7 +21631,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confusion",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Leader Flannery [#268]": {
 			"ability": "Levitate",
@@ -21651,7 +21651,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Leader Tate&Liza [#794]": {
 			"ability": "Levitate",
@@ -21671,7 +21671,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Tate&Liza [#795]": {
 			"ability": "Levitate",
@@ -21691,7 +21691,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Leader Tate&Liza [#796]": {
 			"ability": "Levitate",
@@ -21711,7 +21711,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Tate&Liza [#797]": {
 			"ability": "Levitate",
@@ -21731,7 +21731,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Psychic Virgil [#234]": {
 			"ability": "Levitate",
@@ -21751,7 +21751,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Levitate",
@@ -21771,7 +21771,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Flamethrower"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Magma Grunt [#629]": {
 			"ability": "Levitate",
@@ -21791,7 +21791,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Spinda": {
@@ -21813,7 +21813,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Cooltrainer Parker [#72]": {
 			"ability": "Own Tempo",
@@ -21833,7 +21833,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hyper Voice",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Twins Gina & Mia [#483]": {
 			"ability": "Own Tempo",
@@ -21853,7 +21853,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Assist"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Stantler": {
@@ -21875,7 +21875,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Extrasensory"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Hiker Trent [#627]": {
 			"ability": "Intimidate",
@@ -21893,7 +21893,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Megahorn"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokéfan Annika [#502]": {
 			"ability": "Intimidate",
@@ -21913,7 +21913,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Intimidate",
@@ -21933,7 +21933,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Team Aqua Grunt [#760]": {
 			"ability": "Intimidate",
@@ -21953,7 +21953,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Starmie": {
@@ -21975,7 +21975,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Camouflage",
 				"Return"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Cooltrainer Dianne [#417]": {
 			"ability": "Natural Cure",
@@ -21995,7 +21995,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Camouflage",
 				"Return"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Natural Cure",
@@ -22015,7 +22015,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reflect",
 				"Light Screen"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Leader Tate&Liza [#271]": {
 			"ability": "Natural Cure",
@@ -22035,7 +22035,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Reflect"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Natural Cure",
@@ -22055,7 +22055,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#3]": {
 			"ability": "Natural Cure",
@@ -22075,7 +22075,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Recover"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Aqua Grunt [#559]": {
 			"ability": "Natural Cure",
@@ -22095,7 +22095,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunder Wave"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Steelix": {
@@ -22117,7 +22117,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Rock Head",
@@ -22137,7 +22137,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Cooltrainer Hope [#96]": {
 			"ability": "Rock Head",
@@ -22157,7 +22157,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Leader Roxanne [#773]": {
 			"ability": "Rock Head",
@@ -22196,7 +22196,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Curse"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Aqua Grunt [#247]": {
 			"ability": "Rock Head",
@@ -22216,7 +22216,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Sandstorm"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Rock Head",
@@ -22236,7 +22236,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Swagger"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Aqua Grunt [#4]": {
 			"ability": "Rock Head",
@@ -22256,7 +22256,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Roar",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Magma Grunt [#146]": {
 			"ability": "Rock Head",
@@ -22276,7 +22276,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Curse"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Magma Grunt [#729]": {
 			"ability": "Rock Head",
@@ -22318,7 +22318,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Hiker Marc [#571]": {
 			"ability": "Rock Head",
@@ -22338,7 +22338,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Defense Curl"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Rock Head",
@@ -22358,7 +22358,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Sand Tomb"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#589]": {
 			"ability": "Rock Head",
@@ -22378,7 +22378,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Suicune": {
@@ -22400,7 +22400,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extrasensory",
 				"Rest"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Aqua Admin Shelly [#569]": {
 			"ability": "Pressure",
@@ -22420,7 +22420,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extrasensory",
 				"Extremespeed"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Sunflora": {
@@ -22441,7 +22441,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Grasswhistle",
 				"Sludge"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Surskit": {
@@ -22460,7 +22460,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bubble",
 				"Water Sport"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Swablu": {
@@ -22481,7 +22481,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sing",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Swalot": {
@@ -22503,7 +22503,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Punch",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#21]": {
 			"ability": "Liquid Ooze",
@@ -22523,7 +22523,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Fire Punch"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Magma Grunt [#590]": {
 			"ability": "Liquid Ooze",
@@ -22565,7 +22565,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Torrent",
@@ -22585,7 +22585,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Torrent",
@@ -22605,7 +22605,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Torrent",
@@ -22625,7 +22625,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Torrent",
@@ -22665,7 +22665,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Swellow": {
@@ -22687,7 +22687,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double Team",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Cooltrainer Mary [#89]": {
 			"ability": "Guts",
@@ -22707,7 +22707,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Endeavor",
 				"Steel Wing"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Magma Grunt [#206]": {
 			"ability": "Guts",
@@ -22727,7 +22727,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#719]": {
 			"ability": "Guts",
@@ -22768,7 +22768,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Taillow": {
@@ -22787,7 +22787,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Facade",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		}
 	},
 	"Tangela": {
@@ -22809,7 +22809,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Tauros": {
@@ -22830,7 +22830,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Blizzard",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Cooltrainer Darius [#803]": {
 			"ability": "Intimidate",
@@ -22850,7 +22850,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Tail",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Edgar [#79]": {
 			"ability": "Intimidate",
@@ -22890,7 +22890,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Blizzard"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Leader Norman [#269]": {
 			"ability": "Intimidate",
@@ -22910,7 +22910,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Blizzard"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Intimidate",
@@ -22930,7 +22930,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Fire Blast",
 				"Blizzard"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Aqua Grunt [#7]": {
 			"ability": "Intimidate",
@@ -22950,7 +22950,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder",
 				"Surf"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Tentacruel": {
@@ -22972,7 +22972,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Wrap"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Liquid Ooze",
@@ -22992,7 +22992,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Fisherman Ned [#340]": {
 			"ability": "Liquid Ooze",
@@ -23012,7 +23012,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Whirlpool"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Liquid Ooze",
@@ -23052,7 +23052,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Aqua Grunt [#193]": {
 			"ability": "Liquid Ooze",
@@ -23072,7 +23072,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Liquid Ooze",
@@ -23092,7 +23092,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Liquid Ooze",
@@ -23112,7 +23112,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Togepi": {
@@ -23130,7 +23130,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Metronome"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		}
 	},
 	"Togetic": {
@@ -23152,7 +23152,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Torkoal": {
@@ -23174,7 +23174,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Aroma Lady Shayla [#747]": {
 			"ability": "Shell Armor",
@@ -23194,7 +23194,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Sunny Day"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Shell Armor",
@@ -23214,7 +23214,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Cooltrainer Michelle [#98]": {
 			"ability": "Shell Armor",
@@ -23234,7 +23234,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Gentleman Walter [#254]": {
 			"ability": "Shell Armor",
@@ -23254,7 +23254,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Kindler Bryant [#746]": {
 			"ability": "Shell Armor",
@@ -23274,7 +23274,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Superpower"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Kindler Cole [#201]": {
 			"ability": "Shell Armor",
@@ -23294,7 +23294,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Flannery [#782]": {
 			"ability": "Shell Armor",
@@ -23314,7 +23314,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Attract"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Flannery [#783]": {
 			"ability": "Shell Armor",
@@ -23334,7 +23334,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Attract"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Leader Flannery [#784]": {
 			"ability": "Shell Armor",
@@ -23374,7 +23374,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Explosion",
 				"Attract"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Magma Admin Tabitha [#514]": {
 			"ability": "Shell Armor",
@@ -23391,7 +23391,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Shell Armor",
@@ -23411,7 +23411,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Shell Armor",
@@ -23431,7 +23431,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		}
 	},
 	"Trapinch": {
@@ -23475,7 +23475,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Sunny Day"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Aroma Lady Shayla [#747]": {
 			"ability": "Chlorophyll",
@@ -23495,7 +23495,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Bird Keeper Humberto [#402]": {
 			"ability": "Chlorophyll",
@@ -23515,7 +23515,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Kindler Axle [#203]": {
 			"ability": "Chlorophyll",
@@ -23535,7 +23535,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Leader Winona [#790]": {
 			"ability": "Chlorophyll",
@@ -23554,7 +23554,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Leader Winona [#791]": {
 			"ability": "Chlorophyll",
@@ -23573,7 +23573,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Leader Winona [#793]": {
 			"ability": "Chlorophyll",
@@ -23592,7 +23592,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Chlorophyll",
@@ -23612,7 +23612,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Typhlosion": {
@@ -23634,7 +23634,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Cooltrainer Samuel [#81]": {
 			"ability": "Blaze",
@@ -23654,7 +23654,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Blaze",
@@ -23674,7 +23674,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Magma Admin Tabitha [#732]": {
 			"ability": "Blaze",
@@ -23694,7 +23694,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extrasensory",
 				"Solarbeam"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Blaze",
@@ -23714,7 +23714,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Blaze",
@@ -23734,7 +23734,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Rock Tomb"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Blaze",
@@ -23774,7 +23774,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Thunderpunch"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Magma Grunt [#206]": {
 			"ability": "Blaze",
@@ -23794,7 +23794,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Blaze",
@@ -23814,7 +23814,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		}
 	},
 	"Tyranitar": {
@@ -23836,7 +23836,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Dance",
 				"Fire Blast"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Magma Leader Maxie [#602]": {
 			"ability": "Intimidate",
@@ -23856,7 +23856,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		}
 	},
 	"Tyrogue": {
@@ -23878,7 +23878,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Smash",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Umbreon": {
@@ -23900,7 +23900,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Mitchell [#540]": {
 			"ability": "Synchronize",
@@ -23920,7 +23920,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Moonlight"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Pokéfan Annika [#502]": {
 			"ability": "Synchronize",
@@ -23940,7 +23940,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Calm Mind",
 				"Moonlight"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Synchronize",
@@ -23960,7 +23960,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Baton Pass",
 				"Pursuit"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		}
 	},
 	"Ursaring": {
@@ -23982,7 +23982,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Facade"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Guts",
@@ -24002,7 +24002,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Psychic Virgil [#234]": {
 			"ability": "Guts",
@@ -24022,7 +24022,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Crunch"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Team Aqua Grunt [#567]": {
 			"ability": "Guts",
@@ -24042,7 +24042,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Bulk Up"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#596]": {
 			"ability": "Guts",
@@ -24062,7 +24062,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Rock Slide"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Guts",
@@ -24082,7 +24082,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Ice Punch"
 			],
-			"nature": "Serious"
+			"nature": "Bashful"
 		},
 		"Twins Tori & Tia [#677]": {
 			"ability": "Guts",
@@ -24099,7 +24099,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Facade"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Vaporeon": {
@@ -24121,7 +24121,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Super Fang",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Aqua Admin Shelly [#32]": {
 			"ability": "Drizzle",
@@ -24141,7 +24141,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Aqua Admin Shelly [#569]": {
 			"ability": "Drizzle",
@@ -24161,7 +24161,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Cooltrainer Owen [#83]": {
 			"ability": "Drizzle",
@@ -24181,7 +24181,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Acid Armor",
 				"Iron Defense"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Venomoth": {
@@ -24203,7 +24203,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Silver Wind",
 				"Psybeam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		}
 	},
 	"Venusaur": {
@@ -24225,7 +24225,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Cooltrainer Hope [#96]": {
 			"ability": "Thick Fat",
@@ -24245,7 +24245,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Elite Four Phoebe [#262]": {
 			"ability": "Thick Fat",
@@ -24265,7 +24265,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Hidden Power Psychic"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Thick Fat",
@@ -24285,7 +24285,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Fire",
 				"Take Down"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Thick Fat",
@@ -24305,7 +24305,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Pokã©Mon Trainer May [#537]": {
 			"ability": "Thick Fat",
@@ -24325,7 +24325,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Psychic Preston [#233]": {
 			"ability": "Thick Fat",
@@ -24345,7 +24345,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Double-Edge"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#145]": {
 			"ability": "Thick Fat",
@@ -24365,7 +24365,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Leech Seed"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Thick Fat",
@@ -24385,7 +24385,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#760]": {
 			"ability": "Thick Fat",
@@ -24405,7 +24405,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Weather Ball"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#8]": {
 			"ability": "Thick Fat",
@@ -24425,7 +24425,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Weather Ball",
 				"Poison Fang"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Thick Fat",
@@ -24445,7 +24445,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Ice",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Thick Fat",
@@ -24465,7 +24465,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Vibrava": {
@@ -24487,7 +24487,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Aerial Ace"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Victreebel": {
@@ -24509,7 +24509,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sleep Powder",
 				"Weather Ball"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Cooltrainer Caroline [#99]": {
 			"ability": "Chlorophyll",
@@ -24529,7 +24529,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Weather Ball",
 				"Encore"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Leader Flannery [#268]": {
 			"ability": "Chlorophyll",
@@ -24548,7 +24548,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb",
 				"Weather Ball"
 			],
-			"nature": "Serious"
+			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Chlorophyll",
@@ -24568,7 +24568,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Chlorophyll",
@@ -24588,7 +24588,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Chlorophyll",
@@ -24608,7 +24608,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Pokã©Mon Trainer May [#536]": {
 			"ability": "Chlorophyll",
@@ -24628,7 +24628,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Sleep Powder"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Chlorophyll",
@@ -24648,7 +24648,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Weather Ball",
 				"Synthesis"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Team Magma Grunt [#731]": {
 			"ability": "Chlorophyll",
@@ -24690,7 +24690,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"School Kid Karen [#280]": {
 			"ability": "Vital Spirit",
@@ -24709,7 +24709,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Counter",
 				"Surf"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Vileplume": {
@@ -24751,7 +24751,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Moonlight",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Team Magma Grunt [#727]": {
 			"ability": "Chlorophyll",
@@ -24771,7 +24771,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Weather Ball",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Volbeat": {
@@ -24793,7 +24793,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	},
 	"Voltorb": {
@@ -24833,7 +24833,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Swift"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Leader Wattson [#267]": {
 			"ability": "Static",
@@ -24852,7 +24852,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Thunderbolt"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Wailmer": {
@@ -24874,7 +24874,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Secret Power"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Wailord": {
@@ -24896,7 +24896,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hyper Voice",
 				"Whirlpool"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Cooltrainer Halle [#546]": {
 			"ability": "Water Veil",
@@ -24916,7 +24916,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Lady Daphne [#115]": {
 			"ability": "Water Veil",
@@ -24936,7 +24936,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hyper Voice",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Lass Crissy [#614]": {
 			"ability": "Water Veil",
@@ -24956,7 +24956,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Selfdestruct",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Picnicker Carol [#471]": {
 			"ability": "Water Veil",
@@ -24976,7 +24976,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Amnesia"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Psychic Virgil [#234]": {
 			"ability": "Water Veil",
@@ -24996,7 +24996,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#18]": {
 			"ability": "Water Veil",
@@ -25016,7 +25016,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#190]": {
 			"ability": "Water Veil",
@@ -25036,7 +25036,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Selfdestruct",
 				"Substitute"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Team Aqua Grunt [#193]": {
 			"ability": "Water Veil",
@@ -25056,7 +25056,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Water Veil",
@@ -25076,7 +25076,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Selfdestruct"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		}
 	},
 	"Walrein": {
@@ -25098,7 +25098,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Whirlpool",
 				"Iron Head"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Cooltrainer Leonel [#762]": {
 			"ability": "Thick Fat",
@@ -25118,7 +25118,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Yawn"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Lass Andrea [#613]": {
 			"ability": "Thick Fat",
@@ -25138,7 +25138,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Super Fang"
 			],
-			"nature": "Serious"
+			"nature": "Naive"
 		},
 		"Leader Juan [#798]": {
 			"ability": "Thick Fat",
@@ -25157,7 +25157,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		},
 		"Leader Juan [#799]": {
 			"ability": "Thick Fat",
@@ -25176,7 +25176,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Gentle"
 		},
 		"Leader Juan [#800]": {
 			"ability": "Thick Fat",
@@ -25195,7 +25195,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Protect",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Leader Juan [#801]": {
 			"ability": "Thick Fat",
@@ -25234,7 +25234,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Toxic"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Thick Fat",
@@ -25254,7 +25254,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam",
 				"Earthquake"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Team Aqua Grunt [#4]": {
 			"ability": "Thick Fat",
@@ -25274,7 +25274,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		}
 	},
 	"Wartortle": {
@@ -25296,7 +25296,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Karate Chop",
 				"Seismic Toss"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		}
 	},
 	"Weedle": {
@@ -25314,7 +25314,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Poison Sting"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Weezing": {
@@ -25336,7 +25336,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Will-O-Wisp"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Cooltrainer Vito [#82]": {
 			"ability": "Levitate",
@@ -25356,7 +25356,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Cooltrainer Wilton [#78]": {
 			"ability": "Levitate",
@@ -25396,7 +25396,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Levitate",
@@ -25416,7 +25416,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#145]": {
 			"ability": "Levitate",
@@ -25436,7 +25436,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Will-O-Wisp",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Levitate",
@@ -25456,7 +25456,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Shadow Ball"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#567]": {
 			"ability": "Levitate",
@@ -25476,7 +25476,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Explosion"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#326]": {
 			"ability": "Levitate",
@@ -25496,7 +25496,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Pain Split"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Whiscash": {
@@ -25518,7 +25518,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Whirlpool"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Swift Swim",
@@ -25538,7 +25538,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Future Sight"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Lass Crissy [#614]": {
 			"ability": "Swift Swim",
@@ -25558,7 +25558,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute",
 				"Dragon Dance"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Leader Juan [#798]": {
 			"ability": "Swift Swim",
@@ -25577,7 +25577,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double Team",
 				"Hidden Power Electric"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		},
 		"Leader Juan [#799]": {
 			"ability": "Swift Swim",
@@ -25596,7 +25596,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double Team",
 				"Hidden Power Electric"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Juan [#800]": {
 			"ability": "Swift Swim",
@@ -25615,7 +25615,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double Team",
 				"Hidden Power Electric"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Juan [#801]": {
 			"ability": "Swift Swim",
@@ -25634,7 +25634,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double Team",
 				"Hidden Power Electric"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Swift Swim",
@@ -25654,7 +25654,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Swift Swim",
@@ -25674,7 +25674,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		},
 		"Pokã©Mon Trainer May [#530]": {
 			"ability": "Swift Swim",
@@ -25694,7 +25694,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Pokã©Mon Trainer May [#533]": {
 			"ability": "Swift Swim",
@@ -25714,7 +25714,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Hardy"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Swift Swim",
@@ -25754,7 +25754,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Ice Beam"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Team Magma Grunt [#472]": {
 			"ability": "Swift Swim",
@@ -25774,7 +25774,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Bounce"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"Team Magma Grunt [#719]": {
 			"ability": "Swift Swim",
@@ -25794,7 +25794,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Body Slam"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Whismur": {
@@ -25812,7 +25812,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Uproar"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		}
 	},
 	"Wigglytuff": {
@@ -25834,7 +25834,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Counter"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Psychic Samantha [#245]": {
 			"ability": "Cute Charm",
@@ -25854,7 +25854,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mean Look",
 				"Protect"
 			],
-			"nature": "Serious"
+			"nature": "Careful"
 		},
 		"School Kid Karen [#280]": {
 			"ability": "Cute Charm",
@@ -25873,7 +25873,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave",
 				"Brick Break"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		}
 	},
 	"Wingull": {
@@ -25894,7 +25894,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shock Wave",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		}
 	},
 	"Wobbuffet": {
@@ -25915,7 +25915,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Destiny Bond"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Aqua Grunt [#19]": {
 			"ability": "Shadow Tag",
@@ -25934,7 +25934,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Destiny Bond"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		},
 		"Team Magma Grunt [#718]": {
 			"ability": "Shadow Tag",
@@ -25954,7 +25954,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Encore",
 				"Destiny Bond"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Wurmple": {
@@ -25974,7 +25974,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"String Shot",
 				"Poison Sting"
 			],
-			"nature": "Serious"
+			"nature": "Lax"
 		}
 	},
 	"Wynaut": {
@@ -25995,7 +25995,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mirror Coat",
 				"Destiny Bond"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		}
 	},
 	"Xatu": {
@@ -26017,7 +26017,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Wish"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Leader Tate&Liza [#794]": {
 			"ability": "Synchronize",
@@ -26057,7 +26057,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Leader Tate&Liza [#796]": {
 			"ability": "Synchronize",
@@ -26097,7 +26097,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Calm Mind"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Synchronize",
@@ -26117,7 +26117,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Picnicker Carol [#471]": {
 			"ability": "Synchronize",
@@ -26137,7 +26137,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Wish",
 				"Night Shade"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Psychic Samantha [#245]": {
 			"ability": "Synchronize",
@@ -26157,7 +26157,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Hypnosis"
 			],
-			"nature": "Serious"
+			"nature": "Relaxed"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Synchronize",
@@ -26177,7 +26177,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Heat Wave",
 				"Steel Wing"
 			],
-			"nature": "Serious"
+			"nature": "Naughty"
 		},
 		"Team Aqua Grunt [#108]": {
 			"ability": "Synchronize",
@@ -26197,7 +26197,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Aerial Ace",
 				"Giga Drain"
 			],
-			"nature": "Serious"
+			"nature": "Modest"
 		},
 		"Team Magma Grunt [#143]": {
 			"ability": "Synchronize",
@@ -26217,7 +26217,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Confuse Ray",
 				"Signal Beam"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Team Magma Grunt [#728]": {
 			"ability": "Synchronize",
@@ -26237,7 +26237,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam",
 				"Heat Wave"
 			],
-			"nature": "Serious"
+			"nature": "Quiet"
 		}
 	},
 	"Yanma": {
@@ -26258,7 +26258,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Sonicboom"
 			],
-			"nature": "Serious"
+			"nature": "Docile"
 		}
 	},
 	"Zangoose": {
@@ -26280,7 +26280,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Belly Drum"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		},
 		"Cooltrainer Berke [#74]": {
 			"ability": "Guts",
@@ -26320,7 +26320,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Calm"
 		},
 		"Pokã©Mon Ranger Jenna [#560]": {
 			"ability": "Guts",
@@ -26340,7 +26340,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Rash"
 		},
 		"Pokéfan Bethany [#301]": {
 			"ability": "Guts",
@@ -26360,7 +26360,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Sludge Bomb"
 			],
-			"nature": "Serious"
+			"nature": "Sassy"
 		},
 		"Team Aqua Grunt [#23]": {
 			"ability": "Guts",
@@ -26400,7 +26400,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		},
 		"Youngster Billy [#319]": {
 			"ability": "Guts",
@@ -26420,7 +26420,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor",
 				"Swords Dance"
 			],
-			"nature": "Serious"
+			"nature": "Mild"
 		}
 	},
 	"Zapdos": {
@@ -26442,7 +26442,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Weather Ball",
 				"Extrasensory"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Zigzagoon": {
@@ -26464,7 +26464,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Quirky"
 		},
 		"Youngster Calvin [#318]": {
 			"ability": "Guts",
@@ -26482,7 +26482,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sand-Attack",
 				"Headbutt"
 			],
-			"nature": "Serious"
+			"nature": "Bold"
 		}
 	},
 	"Zubat": {
@@ -26502,7 +26502,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain",
 				"Bite"
 			],
-			"nature": "Serious"
+			"nature": "Adamant"
 		}
 	}
 }
