@@ -499,7 +499,9 @@ var CUSTOMHACKFLAGS_EK = {
             "Aqua Leader Archie",
             "Sis And Bro Reli & Ian",
             "Leader #2 Juan",
-            "Old Couple Miu & Yuki"
+            "Old Couple Miu & Yuki",
+            "Expert Mitchell", 
+            "Expert Felix"
         ],
         "tag": [
             ["Picnicker Bianca", "Kindler Hayden"],
@@ -525,8 +527,7 @@ var CUSTOMHACKFLAGS_EK = {
             ["Bird Keeper Alberto", "Psychic Jacki"],
             ["Parasol Lady Kayley", "Bug Maniac Davis"],
             ["Cooltrainer Wendy", "Cooltrainer Braxton"],
-            ["Cooltrainer Jazmyn", "Expert Frederick"],
-            ["Expert Mitchell", "Expert Felix"]
+            ["Cooltrainer Jazmyn", "Expert Frederick"]
         ]
     },
     "weather": {
