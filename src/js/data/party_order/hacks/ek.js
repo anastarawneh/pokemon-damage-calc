@@ -730,10 +730,10 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Leader Tate&Liza [#271]": [
 		"Metagross",
-		"Mew",
-		"Alakazam",
-		"Starmie",
 		"Medicham",
+		"Mew",
+		"Starmie",
+		"Alakazam",
 		"Mewtwo"
 	],
 	"Leader Juan [#272]": [
