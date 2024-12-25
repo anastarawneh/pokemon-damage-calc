@@ -236,8 +236,8 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Team Aqua Grunt [#193]",
 	"Aqua Admin Matt [#30]",
 
-	"Team Aqua Grunt [#6]",
 	"Team Aqua Grunt [#7]",
+	"Team Aqua Grunt [#6]",
 	"Team Aqua Grunt [#8]",
 	"Team Aqua Grunt [#567]",
 	"Aqua Leader Archie [#34]",
