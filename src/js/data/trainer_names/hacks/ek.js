@@ -265,7 +265,7 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Cooltrainer Owen [#83]",
 	"Cooltrainer Dianne [#417]",
 	"Cooltrainer Michelle [#98]",
-	"Hiker Arian [#38]",
+	"Hiker Adrian [#38]",
 	"Ninja Boy Anas [#325]",
 	"Tuber Donut [#324]",
 
