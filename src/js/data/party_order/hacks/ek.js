@@ -43,14 +43,14 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Team Aqua Grunt [#7]": [
 		"Tauros",
 		"Mantine",
-		"Raichu",
 		"Exploud",
-		"Kingdra",
+		"Raichu",
+		"Politoed",
 		"Masquerain"
 	],
 	"Team Aqua Grunt [#8]": [
 		"Persian",
-		"Politoed",
+		"Kingdra",
 		"Gyarados",
 		"Blissey",
 		"Venusaur",
@@ -269,12 +269,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Zangoose"
 	],
 	"Cooltrainer Samuel [#81]": [
-		"Sceptile",
-		"Scizor",
-		"Flygon",
-		"Kingdra",
-		"Typhlosion",
-		"Rhydon"
+		"Ditto"
 	],
 	"Cooltrainer Vito [#82]": [
 		"Hypno",
@@ -406,7 +401,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Cacturne"
 	],
 	"Beauty Connie [#128]": [
-		"Kingdra",
+		"Feraligatr",
 		"Meganium",
 		"Crobat",
 		"Blissey",
@@ -665,11 +660,11 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Celebi"
 	],
 	"Elite Four Glacia [#263]": [
-		"Regice",
+		"Poliwrath",
 		"Feraligatr",
 		"Lapras",
 		"Aggron",
-		"Metagross",
+		"Regice",
 		"Jirachi"
 	],
 	"Elite Four Drake [#264]": [
@@ -1106,7 +1101,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Cooltrainer Mitchell [#540]": [
 		"Clefable",
 		"Nidoqueen",
-		"Marowak",
+		"Charizard",
 		"Umbreon",
 		"Dragonite",
 		"Quagsire"
@@ -1239,12 +1234,10 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Team Magma Grunt [#589]": [
 		"Clefable",
 		"Arcanine",
-		"Hypno",
 		"Sudowoodo"
 	],
 	"Team Magma Grunt [#590]": [
-		"Dugtrio",
-		"Hariyama",
+		"Miltank",
 		"Swalot",
 		"Magcargo"
 	],

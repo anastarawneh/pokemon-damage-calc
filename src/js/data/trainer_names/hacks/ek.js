@@ -259,7 +259,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Cooltrainer Mitchell [#540]",
 	"Cooltrainer Halle [#546]",
 	"Cooltrainer Shannon [#97]",
-	"Cooltrainer Samuel [#81]",
 	"Cooltrainer Caroline [#99]",
 	"Cooltrainer Vito [#82]",
 	"Cooltrainer Owen [#83]",

@@ -42,14 +42,14 @@
 	"Team Aqua Grunt [#7]": [
 		"Tauros",
 		"Mantine",
-		"Raichu",
 		"Exploud",
-		"Kingdra",
+		"Raichu",
+		"Politoed",
 		"Masquerain"
 	],
 	"Team Aqua Grunt [#8]": [
 		"Persian",
-		"Politoed",
+		"Kingdra",
 		"Gyarados",
 		"Blissey",
 		"Venusaur",
@@ -268,12 +268,7 @@
 		"Zangoose"
 	],
 	"Cooltrainer Samuel [#81]": [
-		"Sceptile",
-		"Scizor",
-		"Flygon",
-		"Kingdra",
-		"Typhlosion",
-		"Rhydon"
+		"Ditto"
 	],
 	"Cooltrainer Vito [#82]": [
 		"Hypno",
@@ -405,7 +400,7 @@
 		"Cacturne"
 	],
 	"Beauty Connie [#128]": [
-		"Kingdra",
+		"Feraligatr",
 		"Meganium",
 		"Crobat",
 		"Blissey",
@@ -664,11 +659,11 @@
 		"Celebi"
 	],
 	"Elite Four Glacia [#263]": [
-		"Regice",
+		"Poliwrath",
 		"Feraligatr",
 		"Lapras",
 		"Aggron",
-		"Metagross",
+		"Regice",
 		"Jirachi"
 	],
 	"Elite Four Drake [#264]": [
@@ -729,10 +724,10 @@
 	],
 	"Leader Tate&Liza [#271]": [
 		"Metagross",
-		"Mew",
-		"Alakazam",
-		"Starmie",
 		"Medicham",
+		"Mew",
+		"Starmie",
+		"Alakazam",
 		"Mewtwo"
 	],
 	"Leader Juan [#272]": [
@@ -1105,7 +1100,7 @@
 	"Cooltrainer Mitchell [#540]": [
 		"Clefable",
 		"Nidoqueen",
-		"Marowak",
+		"Charizard",
 		"Umbreon",
 		"Dragonite",
 		"Quagsire"
@@ -1238,12 +1233,10 @@
 	"Team Magma Grunt [#589]": [
 		"Clefable",
 		"Arcanine",
-		"Hypno",
 		"Sudowoodo"
 	],
 	"Team Magma Grunt [#590]": [
-		"Dugtrio",
-		"Hariyama",
+		"Miltank",
 		"Swalot",
 		"Magcargo"
 	],
