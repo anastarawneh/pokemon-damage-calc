@@ -5,7 +5,7 @@ const GAME_FEATURES = {
     "Crystal": {},
     "R/S": {},
     "Emerald": {},
-    "F/R": {},
+    "FR/LG": {},
     "D/P": {},
     "Platinum": {},
     "HG/SS": {},
