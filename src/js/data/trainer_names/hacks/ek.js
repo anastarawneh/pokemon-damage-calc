@@ -103,9 +103,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Magma Admin Tabitha [#597]",
 	"Magma Leader Maxie [#601]",
 
-	"Hiker Eric [#632]",
-	"Camper Ethan [#216]",
-
 	"Kindler Jeff [#202]",
 	"Hiker Eli [#501]",
 	"Kindler Jace [#204]",
