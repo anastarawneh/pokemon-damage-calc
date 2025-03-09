@@ -1305,8 +1305,8 @@ function createField() {
 	var isForesight = [$("#foresightL").prop("checked"), $("#foresightR").prop("checked")];
 	var isHelpingHand = [$("#helpingHandL").prop("checked"), $("#helpingHandR").prop("checked")];
 	var isBoulderBadge = [$("#boulderBadge").prop("checked"), false];
-	var isThunderBadge = [$("#thunderBadge").prop("checked"), false];
-	var isSoulBadge = [$("#soulBadge").prop("checked"), false];
+	var isThunderBadge = [$("#thunderBadgeRBY").prop("checked") || $("#thunderBadgeFRLG").prop("checked"), false];
+	var isSoulBadge = [$("#soulBadgeRBY").prop("checked") || $("#soulBadgeFRLG").prop("checked"), false];
 	var isVolcanoBadge = [$("#volcanoBadge").prop("checked"), false];
 	var isStoneBadge = [$("#stoneBadge").prop("checked"), false];
 	var isDynamoBadge = [$("#dynamoBadge").prop("checked"), false];

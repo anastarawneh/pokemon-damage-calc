@@ -1112,7 +1112,7 @@
                                 <label class="btn btn-xxwide" for="helpingHandR">Helping Hand</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm2" hidden>
+                        <tr class="game-specific gm2 gm7" hidden>
                             <td><div class="left" title="Has this Pok&eacute;mon's attack been boosted by Brock's badge?">
                                 <div hidden id="selectBoulderBadgeInstruction">Has this Pok&eacute;mon's attack been boosted by Brock's badge?</div>
                                 <input aria-describedby="selectBoulderBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="boulderBadge" />
@@ -1121,19 +1121,33 @@
                         </tr>
                         <tr class="game-specific gm2" hidden>
                             <td><div class="left" title="Has this Pok&eacute;mon's defense been boosted by Lt. Surge's badge?">
-                                <div hidden id="selectThunderBadgeInstruction">Has this Pok&eacute;mon's defense been boosted by Lt. Surge's badge?</div>
-                                <input aria-describedby="selectThunderBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="thunderBadge" />
-                                <label class="btn btn-xxwide" for="thunderBadge">Defense Boost</label>
+                                <div hidden id="selectThunderBadgeInstructionRBY">Has this Pok&eacute;mon's defense been boosted by Lt. Surge's badge?</div>
+                                <input aria-describedby="selectThunderBadgeInstructionRBY" class="visually-hidden calc-trigger" type="checkbox" id="thunderBadgeRBY" />
+                                <label class="btn btn-xxwide" for="thunderBadgeRBY">Defense Boost</label>
+                            </div></td>
+                        </tr>
+                        <tr class="game-specific gm7" hidden>
+                            <td><div class="left" title="Has this Pok&eacute;mon's defense been boosted by Lt. Surge's badge?">
+                                <div hidden id="selectThunderBadgeInstructionFRLG">Has this Pok&eacute;mon's defense been boosted by Lt. Surge's badge?</div>
+                                <input aria-describedby="selectThunderBadgeInstructionFRLG" class="visually-hidden calc-trigger" type="checkbox" id="thunderBadgeFRLG" />
+                                <label class="btn btn-xxwide" for="thunderBadgeFRLG">Speed Boost</label>
                             </div></td>
                         </tr>
                         <tr class="game-specific gm2" hidden>
                             <td><div class="left" title="Has this Pok&eacute;mon's speed been boosted by Koga's badge?">
-                                <div hidden id="selectSoulBadgeInstruction">Has this Pok&eacute;mon's speed been boosted by Koga's badge?</div>
-                                <input aria-describedby="selectSoulBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="soulBadge" />
-                                <label class="btn btn-xxwide" for="soulBadge">Speed Boost</label>
+                                <div hidden id="selectSoulBadgeInstructionRBY">Has this Pok&eacute;mon's speed been boosted by Koga's badge?</div>
+                                <input aria-describedby="selectSoulBadgeInstructionRBY" class="visually-hidden calc-trigger" type="checkbox" id="soulBadgeRBY" />
+                                <label class="btn btn-xxwide" for="soulBadgeRBY">Speed Boost</label>
                             </div></td>
                         </tr>
-                        <tr class="game-specific gm2" hidden>
+                        <tr class="game-specific gm7" hidden>
+                            <td><div class="left" title="Has this Pok&eacute;mon's speed been boosted by Koga's badge?">
+                                <div hidden id="selectSoulBadgeInstructionFRLG">Has this Pok&eacute;mon's speed been boosted by Koga's badge?</div>
+                                <input aria-describedby="selectSoulBadgeInstructionFRLG" class="visually-hidden calc-trigger" type="checkbox" id="soulBadgeFRLG" />
+                                <label class="btn btn-xxwide" for="soulBadgeFRLG">Defense Boost</label>
+                            </div></td>
+                        </tr>
+                        <tr class="game-specific gm2 gm7" hidden>
                             <td><div class="left" title="Have this Pok&eacute;mon's special been boosted by Blaine's badge?">
                                 <div hidden id="selectVolcanoBadgeInstruction">Have this Pok&eacute;mon's special been boosted by Blaine's badge?</div>
                                 <input aria-describedby="selectVolcanoBadgeInstruction" class="visually-hidden calc-trigger" type="checkbox" id="volcanoBadge" />
@@ -1885,7 +1899,7 @@
                     <hr />
                     <div class="tag-poke-list-opposing"></div>
                 </div>
-                <div class="game-specific gm9">
+                <div class="game-specific gm9 gm12">
                     <hr>
                     <button type="button" id="previous-trainer">Previous Trainer</button>
                     <button type="button" id="next-trainer">Next Trainer</button>
@@ -1945,6 +1959,10 @@
     <script type="text/javascript" src="./js/data/trainer_names/games/gen4/platinum.js?"></script>
     <!-- <script type="text/javascript" src="./js/data/flags/games/gen4/platinum.js?"></script> -->
     <script type="text/javascript" src="./js/data/sets/games/gen4/hgss.js?"></script>
+    <script type="text/javascript" src="./js/data/sets/games/gen5/b2w2.js?"></script>
+    <script type="text/javascript" src="./js/data/party_order/games/gen5/b2w2.js?"></script>
+    <script type="text/javascript" src="./js/data/trainer_names/games/gen5/b2w2.js?"></script>
+    <script type="text/javascript" src="./js/data/flags/games/gen5/b2w2.js?"></script>
     <script type="text/javascript" src="./js/data/sets/games/gen6/xy.js?"></script>
     <script type="text/javascript" src="./js/data/sets/games/gen7/sm.js?"></script>
     <script type="text/javascript" src="./js/data/game_features.js?"></script>

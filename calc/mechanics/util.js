@@ -136,7 +136,7 @@ function getFinalSpeed(gen, pokemon, field, side) {
     if (field.attackerSide.isSoulBadge && gen.num == 1) {
         speed = Math.floor(speed * 1.25);
     }
-    if (field.attackerSide.isDynamoBadge && gen.num == 3) {
+    if ((field.attackerSide.isDynamoBadge || field.attackerSide.isThunderBadge) && gen.num == 3) {
         speed = Math.floor(speed * 1.1);
     }
     if (side.isTailwind)

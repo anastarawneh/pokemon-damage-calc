@@ -19,6 +19,8 @@ $(".game").change(function() {
 		}
 	}
 
+	$("#boulderBadge, #thunderBadge, #soulBadge, #volcanoBadge, #stoneBadge, #dynamoBadge, #balanceBadge, #mindBadge").prop("checked", false);
+
 	updateGenOptions();
 	if (game != "None") {
 		$(".hide-from-games").hide();
