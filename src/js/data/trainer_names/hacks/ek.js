@@ -31,7 +31,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 
 	"Hiker Mike [#635]",
 
-	"Hiker Devan [#753]",
 	"Youngster Johnson [#754]",
 	"Hiker Clark [#631]",
 	"School Kid Karen [#280]",
