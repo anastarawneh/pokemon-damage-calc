@@ -106,14 +106,14 @@
 		"Forretress"
 	],
 	"Team Aqua Grunt [#21]": [
-		"Swalot",
-		"Sharpedo",
 		"Smeargle",
+		"Sharpedo",
+		"Swalot",
 		"Raichu",
 		"Ludicolo"
 	],
 	"Team Aqua Grunt [#23]": [
-		"Walrein",
+		"Primeape",
 		"Lapras",
 		"Claydol",
 		"Zangoose",
@@ -667,9 +667,9 @@
 		"Jirachi"
 	],
 	"Elite Four Drake [#264]": [
-		"Regirock",
-		"Salamence",
 		"Aerodactyl",
+		"Salamence",
+		"Regirock",
 		"Sceptile",
 		"Kingdra",
 		"Rayquaza"
@@ -801,6 +801,14 @@
 		"Snorlax",
 		"Dragonite"
 	],
+	"Ninja Boy Anas [#325]": [
+		"Sceptile",
+		"Scizor",
+		"Flygon",
+		"Kingdra",
+		"Typhlosion",
+		"Heracross"
+	],
 	"Team Magma Grunt [#326]": [
 		"Weezing",
 		"Magmar",
@@ -902,7 +910,7 @@
 	"Team Aqua Grunt [#416]": [
 		"Gyarados",
 		"Ampharos",
-		"Slowbro",
+		"Slowking",
 		"Gardevoir"
 	],
 	"Cooltrainer Dianne [#417]": [
@@ -1080,6 +1088,7 @@
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
+		"Rapidash",
 		"Swampert",
 		"Victreebel"
 	],
@@ -1572,9 +1581,7 @@
 		"Tropius"
 	],
 	"Hiker Devan [#753]": [
-		"Swinub",
-		"Tangela",
-		"Trapinch"
+		"Ditto"
 	],
 	"Youngster Johnson [#754]": [
 		"Kecleon",

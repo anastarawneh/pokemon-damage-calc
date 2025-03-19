@@ -107,14 +107,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Forretress"
 	],
 	"Team Aqua Grunt [#21]": [
-		"Swalot",
-		"Sharpedo",
 		"Smeargle",
+		"Sharpedo",
+		"Swalot",
 		"Raichu",
 		"Ludicolo"
 	],
 	"Team Aqua Grunt [#23]": [
-		"Walrein",
+		"Primeape",
 		"Lapras",
 		"Claydol",
 		"Zangoose",
@@ -668,9 +668,9 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Jirachi"
 	],
 	"Elite Four Drake [#264]": [
-		"Regirock",
-		"Salamence",
 		"Aerodactyl",
+		"Salamence",
+		"Regirock",
 		"Sceptile",
 		"Kingdra",
 		"Rayquaza"
@@ -802,6 +802,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Snorlax",
 		"Dragonite"
 	],
+	"Ninja Boy Anas [#325]": [
+		"Sceptile",
+		"Scizor",
+		"Flygon",
+		"Kingdra",
+		"Typhlosion",
+		"Heracross"
+	],
 	"Team Magma Grunt [#326]": [
 		"Weezing",
 		"Magmar",
@@ -903,7 +911,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Team Aqua Grunt [#416]": [
 		"Gyarados",
 		"Ampharos",
-		"Slowbro",
+		"Slowking",
 		"Gardevoir"
 	],
 	"Cooltrainer Dianne [#417]": [
@@ -1081,6 +1089,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
+		"Rapidash",
 		"Swampert",
 		"Victreebel"
 	],
@@ -1573,9 +1582,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Tropius"
 	],
 	"Hiker Devan [#753]": [
-		"Swinub",
-		"Tangela",
-		"Trapinch"
+		"Ditto"
 	],
 	"Youngster Johnson [#754]": [
 		"Kecleon",
