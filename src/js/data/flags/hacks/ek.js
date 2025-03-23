@@ -480,6 +480,7 @@ var CUSTOMHACKFLAGS_EK = {
            "Team Magma Grunt [#726]",
           "Team Magma Grunt [#727]",
            "Team Magma Grunt [#728]",
+           "Magma Admin Tabitha [#732]",
            "Magma Leader Maxie [#602]",
            "Team Magma Grunt [#116]",
           "Magma Leader Maxie [#734]",
