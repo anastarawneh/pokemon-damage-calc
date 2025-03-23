@@ -1168,7 +1168,7 @@
 			"item":"Lum Berry",
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Psychic", "Future Sight", "Yawn"],
+			"moves":["Surf", "Psychic", "Thunderpunch", "Yawn"],
 			"level":63
 		},
 		"Scizor_3":{
@@ -1533,7 +1533,7 @@
 			"level":48
 		},
 		"Swampert_4":{
-			"ability":"Torrent",
+			"ability":"Swift Swim",
 			"item":"Lum Berry",
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -5296,7 +5296,7 @@
 			"ability":"Sand Veil",
 			"nature":"Naive",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Slash", "Swift", "Rock Throw", "Mud Shot"],
 			"level":31
 		},
 		"Swellow_2":{
@@ -5326,7 +5326,7 @@
 			"ability":"Sand Veil",
 			"nature":"Naive",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Earthquake", "Slash", "Swift", "Rock Throw"],
 			"level":34
 		},
 		"Linoone_3":{
@@ -5979,15 +5979,15 @@
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Thunderbolt", "Ice Beam", "Confuse Ray"],
-			"level":68
+			"level":67
 		},
 		"Miltank_6":{
 			"ability":"Thick Fat",
 			"item":"Leftovers",
 			"nature":"Naughty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Double-Edge", "Brick Break", "Earthquake", "Belly Drum"],
-			"level":68
+			"moves":["Double-Edge", "Brick Break", "Ice Punch", "Belly Drum"],
+			"level":66
 		}
 	},
 	"Psychic Alexis_248":{
@@ -7953,7 +7953,7 @@
 			"item":"Lum Berry",
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Fake Out", "Giga Drain", "Feint Attack", "Nature Power"],
+			"moves":["Fake Out", "Leaf Blade", "Feint Attack", "Nature Power"],
 			"level":41
 		},
 		"Venomoth_4":{
@@ -7975,7 +7975,7 @@
 			"level":100
 		},
 		"Swampert_2":{
-			"ability":"Torrent",
+			"ability":"Swift Swim",
 			"item":"Lum Berry",
 			"nature":"Timid",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -10548,7 +10548,7 @@
 			"ability":"Guts",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Cross Chop", "Bullet Punch", "Brick Break", "Vital Throw"],
+			"moves":["Cross Chop", "Bullet Punch", "Shadow Punch", "Brick Break"],
 			"level":44
 		}
 	},
@@ -10557,7 +10557,7 @@
 			"ability":"Guts",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Cross Chop", "Bullet Punch", "Brick Break", "Vital Throw"],
+			"moves":["Cross Chop", "Bullet Punch", "Shadow Punch", "Brick Break"],
 			"level":43
 		},
 		"Pelipper_2":{
@@ -10571,7 +10571,7 @@
 			"ability":"Guts",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Cross Chop", "Bullet Punch", "Brick Break", "Vital Throw"],
+			"moves":["Cross Chop", "Bullet Punch", "Shadow Punch", "Brick Break"],
 			"level":43
 		}
 	},
@@ -10633,7 +10633,7 @@
 			"ability":"Guts",
 			"nature":"Naive",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Brick Break", "Vital Throw", "Seismic Toss", "Revenge"],
+			"moves":["Shadow Punch", "Brick Break", "Vital Throw", "Seismic Toss"],
 			"level":39
 		}
 	},
@@ -10656,7 +10656,7 @@
 			"ability":"Guts",
 			"nature":"Naive",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Cross Chop", "Bullet Punch", "Brick Break", "Vital Throw"],
+			"moves":["Cross Chop", "Bullet Punch", "Shadow Punch", "Brick Break"],
 			"level":42
 		}
 	},
@@ -10672,7 +10672,7 @@
 			"ability":"Guts",
 			"nature":"Impish",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Cross Chop", "Bullet Punch", "Brick Break", "Vital Throw"],
+			"moves":["Cross Chop", "Bullet Punch", "Shadow Punch", "Brick Break"],
 			"level":45
 		},
 		"Tentacruel_3":{
@@ -11275,7 +11275,7 @@
 			"level":41
 		},
 		"Swampert_5":{
-			"ability":"Torrent",
+			"ability":"Swift Swim",
 			"item":"Lum Berry",
 			"nature":"Relaxed",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11325,7 +11325,7 @@
 			"level":63
 		},
 		"Swampert_5":{
-			"ability":"Torrent",
+			"ability":"Swift Swim",
 			"item":"Lum Berry",
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11602,7 +11602,7 @@
 			"level":41
 		},
 		"Swampert_5":{
-			"ability":"Torrent",
+			"ability":"Swift Swim",
 			"item":"Lum Berry",
 			"nature":"Lonely",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -11652,7 +11652,7 @@
 			"level":63
 		},
 		"Swampert_5":{
-			"ability":"Torrent",
+			"ability":"Swift Swim",
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
@@ -12021,7 +12021,7 @@
 			"ability":"Sand Veil",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Slash", "Swift", "Rock Throw", "Mud Shot"],
 			"level":26
 		}
 	},
@@ -13335,7 +13335,7 @@
 			"nature":"Hardy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Leaf Blade", "Thunderpunch", "Hidden Power~5", "Crush Claw"],
-			"level":46
+			"level":43
 		},
 		"Ampharos_4":{
 			"ability":"Static",
@@ -13414,7 +13414,7 @@
 		},
 		"Armaldo_2":{
 			"ability":"Battle Armor",
-			"item":"Silverpowder",
+			"item":"Hard Stone",
 			"nature":"Naughty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["X-Scissor", "Aerial Ace", "Rock Slide", "Swords Dance"],
@@ -14065,11 +14065,11 @@
 		},
 		"Exploud_5":{
 			"ability":"Soundproof",
-			"item":"Brightpowder",
+			"item":"Quick Claw",
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Hyper Voice", "Flamethrower", "Brick Break", "Thunderpunch"],
-			"level":44
+			"moves":["Hyper Voice", "Fire Punch", "Brick Break", "Thunderpunch"],
+			"level":42
 		}
 	},
 	"Team Magma Grunt_629":{
@@ -18606,14 +18606,14 @@
 			"ability":"Sand Veil",
 			"nature":"Impish",
 			"ivs":{"hp":1, "at":1, "df":1, "sa":1, "sd":1, "sp":1},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Slash", "Swift", "Rock Throw", "Mud Shot"],
 			"level":31
 		},
 		"Sandshrew_2":{
 			"ability":"Sand Veil",
 			"nature":"Bold",
 			"ivs":{"hp":1, "at":1, "df":1, "sa":1, "sd":1, "sp":1},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Slash", "Swift", "Rock Throw", "Mud Shot"],
 			"level":31
 		}
 	},
@@ -18629,14 +18629,14 @@
 			"ability":"Sand Veil",
 			"nature":"Gentle",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Slash", "Swift", "Rock Throw", "Mud Shot"],
 			"level":33
 		},
 		"Sandshrew_3":{
 			"ability":"Sand Veil",
 			"nature":"Bashful",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Slash", "Swift", "Rock Throw", "Mud Shot"],
 			"level":33
 		}
 	},
@@ -18652,14 +18652,14 @@
 			"ability":"Sand Veil",
 			"nature":"Gentle",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Earthquake", "Slash", "Swift", "Rock Throw"],
 			"level":35
 		},
 		"Sandshrew_3":{
 			"ability":"Sand Veil",
 			"nature":"Bashful",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Earthquake", "Slash", "Swift", "Rock Throw"],
 			"level":35
 		}
 	},
@@ -18675,14 +18675,14 @@
 			"ability":"Sand Veil",
 			"nature":"Serious",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Earthquake", "Slash", "Swift", "Rock Throw"],
 			"level":37
 		},
 		"Sandslash_3":{
 			"ability":"Sand Veil",
 			"nature":"Hardy",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Slash", "Swift", "Rock Throw", "Dig"],
+			"moves":["Earthquake", "Slash", "Swift", "Rock Throw"],
 			"level":37
 		}
 	},
@@ -18891,14 +18891,14 @@
 			"ability":"Guts",
 			"nature":"Lax",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Brick Break", "Vital Throw", "Seismic Toss", "Revenge"],
+			"moves":["Shadow Punch", "Brick Break", "Vital Throw", "Seismic Toss"],
 			"level":39
 		},
 		"Machoke_3":{
 			"ability":"Guts",
 			"nature":"Mild",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Brick Break", "Vital Throw", "Seismic Toss", "Revenge"],
+			"moves":["Shadow Punch", "Brick Break", "Vital Throw", "Seismic Toss"],
 			"level":39
 		}
 	},
@@ -18914,14 +18914,14 @@
 			"ability":"Guts",
 			"nature":"Hasty",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Bullet Punch", "Brick Break", "Vital Throw", "Seismic Toss"],
+			"moves":["Bullet Punch", "Shadow Punch", "Brick Break", "Vital Throw"],
 			"level":41
 		},
 		"Machoke_3":{
 			"ability":"Guts",
 			"nature":"Bashful",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Bullet Punch", "Brick Break", "Vital Throw", "Seismic Toss"],
+			"moves":["Bullet Punch", "Shadow Punch", "Brick Break", "Vital Throw"],
 			"level":41
 		}
 	},
@@ -18937,14 +18937,14 @@
 			"ability":"Guts",
 			"nature":"Bold",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Cross Chop", "Bullet Punch", "Brick Break", "Vital Throw"],
+			"moves":["Cross Chop", "Bullet Punch", "Shadow Punch", "Brick Break"],
 			"level":43
 		},
 		"Machamp_3":{
 			"ability":"Guts",
 			"nature":"Docile",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Cross Chop", "Bullet Punch", "Brick Break", "Vital Throw"],
+			"moves":["Cross Chop", "Bullet Punch", "Shadow Punch", "Brick Break"],
 			"level":43
 		}
 	},

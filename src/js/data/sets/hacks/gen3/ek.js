@@ -1437,7 +1437,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Magma Leader Maxie [#601]": {
 			"ability": "Battle Armor",
-			"item": "Silverpowder",
+			"item": "Hard Stone",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6722,7 +6722,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Magma Grunt [#628]": {
 			"ability": "Soundproof",
-			"item": "Brightpowder",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6731,10 +6731,10 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 42,
 			"moves": [
 				"Hyper Voice",
-				"Flamethrower",
+				"Fire Punch",
 				"Brick Break",
 				"Thunderpunch"
 			],
@@ -11498,7 +11498,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Surf",
 				"Thunderbolt",
@@ -14985,11 +14985,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 66,
 			"moves": [
 				"Double-Edge",
 				"Brick Break",
-				"Earthquake",
+				"Ice Punch",
 				"Belly Drum"
 			],
 			"nature": "Naughty"
@@ -19513,7 +19513,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 46,
+			"level": 43,
 			"moves": [
 				"Leaf Blade",
 				"Thunderpunch",
@@ -20472,7 +20472,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 41,
 			"moves": [
 				"Fake Out",
-				"Giga Drain",
+				"Leaf Blade",
 				"Feint Attack",
 				"Nature Power"
 			],
@@ -21116,7 +21116,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Psychic",
-				"Future Sight",
+				"Thunderpunch",
 				"Yawn"
 			],
 			"nature": "Hasty"
@@ -22579,7 +22579,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Swampert": {
 		"Champion Wallace [#335]": {
-			"ability": "Torrent",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -22599,7 +22599,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Timid"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
-			"ability": "Torrent",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -22619,7 +22619,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Relaxed"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
-			"ability": "Torrent",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -22639,7 +22639,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Bashful"
 		},
 		"Pokã©Mon Trainer May [#536]": {
-			"ability": "Torrent",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -22659,7 +22659,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Lonely"
 		},
 		"Pokã©Mon Trainer May [#537]": {
-			"ability": "Torrent",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -22679,7 +22679,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Serious"
 		},
 		"Ruin Maniac Dusty [#44]": {
-			"ability": "Torrent",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
