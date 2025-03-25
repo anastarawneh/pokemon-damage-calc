@@ -1848,11 +1848,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Salamence"
 	],
 	"Pokã©Mon Trainer Steven [#804]": [
-		"Skarmory",
-		"Claydol",
-		"Aggron",
+		"Metagross",
 		"Cradily",
-		"Armaldo",
-		"Metagross"
+		"Registeel"
 	]
 }

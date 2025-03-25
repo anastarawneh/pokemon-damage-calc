@@ -422,25 +422,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lax"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Thunder",
-				"Earthquake",
-				"Solarbeam",
-				"Dragon Claw"
-			],
-			"nature": "Naive"
-		},
+
 		"Psychic Hannah [#244]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -1474,25 +1456,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower"
 			],
 			"nature": "Naughty"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Battle Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Water Pulse",
-				"Ancientpower",
-				"Aerial Ace",
-				"Slash"
-			],
-			"nature": "Mild"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Battle Armor",
@@ -3503,25 +3466,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hasty"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 75,
-			"moves": [
-				"Reflect",
-				"Light Screen",
-				"Ancientpower",
-				"Earthquake"
-			],
-			"nature": "Modest"
-		},
 		"Psychic Macey [#591]": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -4048,6 +3992,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Docile"
 		},
+		"Pokã©Mon Trainer Steven [#804]": {
+			"ability": "Suction Cups",
+			"item": "",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 80,
+			"moves": [
+				"Giga Drain",
+				"Rock Slide",
+				"Sludge Bomb",
+				"Ancientpower"
+			],
+			"nature": "Impish"
+		},
 		"Camper Flint [#654]": {
 			"ability": "Suction Cups",
 			"item": "Lum Berry",
@@ -4107,25 +4071,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower"
 			],
 			"nature": "Quirky"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Suction Cups",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Giga Drain",
-				"Ancientpower",
-				"Ingrain",
-				"Confuse Ray"
-			],
-			"nature": "Naive"
 		},
 		"Pokéfan Bethany [#301]": {
 			"ability": "Suction Cups",
@@ -14481,6 +14426,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Agility"
 			],
 			"nature": "Quiet"
+
+		},
+		"Pokã©Mon Trainer Steven [#804]": {
+			"ability": "Clear Body",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 80,
+			"moves": [
+				"Meteor Mash",
+				"Psychic",
+				"Thunderpunch",
+				"Bullet Punch"
+			],
+			"nature": "Naive"
 		},
 		"Cooltrainer Vito [#82]": {
 			"ability": "Clear Body",
@@ -14542,26 +14507,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Clear Body",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 78,
-			"moves": [
-				"Earthquake",
-				"Psychic",
-				"Meteor Mash",
-				"Shadow Ball"
-			],
-			"nature": "Bashful"
-		},
+		
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Clear Body",
 			"item": "Lum Berry",
@@ -18766,6 +18712,28 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Lonely"
 		}
 	},
+	"Registeel": {
+	"Pokã©Mon Trainer Steven [#804]": {
+			"ability": "Clear Body",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 80,
+			"moves": [
+				"Meteor Mash",
+				"Rock Slide",
+				"Superpower",
+				"Ancientpower"
+			],
+			"nature": "Adamant"
+			
+		}
+		},
 	"Regice": {
 		"Elite Four Glacia [#263]": {
 			"ability": "Clear Body",
@@ -18788,6 +18756,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Brave"
 		}
 	},
+	
 	"Regirock": {
 		"Elite Four Drake [#264]": {
 			"ability": "Clear Body",
@@ -20937,26 +20906,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover"
 			],
 			"nature": "Hardy"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 77,
-			"moves": [
-				"Toxic",
-				"Aerial Ace",
-				"Spikes",
-				"Steel Wing"
-			],
-			"nature": "Modest"
-		}
 	},
 	"Skiploom": {
 		"Triathlete Maria [#369]": {
@@ -26452,4 +26401,4 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Adamant"
 		}
 	}
-}
+}}
