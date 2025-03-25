@@ -4009,7 +4009,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"SLudge Bomb",
 				"Ancientpower"
 			],
-			"nature": "Impish"
+			"nature": "Lonely"
 		},
 		"Camper Flint [#654]": {
 			"ability": "Suction Cups",
@@ -14443,7 +14443,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Bullet Punch"
 			],
-			"nature": "Brave"
+			"nature": "Hardy"
 		},
 		"Cooltrainer Vito [#82]": {
 			"ability": "Clear Body",
@@ -18727,7 +18727,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Ancientpower"
 			],
-			"nature": "Modest"
+			"nature": "Brave"
 		}
 	},
 	"Regice": {
