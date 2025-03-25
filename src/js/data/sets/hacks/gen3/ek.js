@@ -18731,8 +18731,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower"
 			],
 			"nature": "Adamant"
-			
-		}
+		
 		},
 	"Regice": {
 		"Elite Four Glacia [#263]": {
@@ -26401,4 +26400,4 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Adamant"
 		}
 	}
-}}
+}}}
