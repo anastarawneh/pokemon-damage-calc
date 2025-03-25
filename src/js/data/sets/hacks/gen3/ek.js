@@ -422,25 +422,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lax"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Thunder",
-				"Earthquake",
-				"Solarbeam",
-				"Dragon Claw"
-			],
-			"nature": "Naive"
-		},
 		"Psychic Hannah [#244]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -1474,25 +1455,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower"
 			],
 			"nature": "Naughty"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Battle Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Water Pulse",
-				"Ancientpower",
-				"Aerial Ace",
-				"Slash"
-			],
-			"nature": "Mild"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Battle Armor",
@@ -3503,25 +3465,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hasty"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 75,
-			"moves": [
-				"Reflect",
-				"Light Screen",
-				"Ancientpower",
-				"Earthquake"
-			],
-			"nature": "Modest"
-		},
 		"Psychic Macey [#591]": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -4127,25 +4070,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ancientpower"
 			],
 			"nature": "Quirky"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Suction Cups",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Giga Drain",
-				"Ancientpower",
-				"Ingrain",
-				"Confuse Ray"
-			],
-			"nature": "Naive"
 		},
 		"Pokéfan Bethany [#301]": {
 			"ability": "Suction Cups",
@@ -14516,7 +14440,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Meteor Mash",
 				"Psychic",
-				"Thudnerpunch",
+				"Thunderpunch",
 				"Bullet Punch"
 			],
 			"nature": "Brave"
@@ -14580,26 +14504,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Bug"
 			],
 			"nature": "Lonely"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Clear Body",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 78,
-			"moves": [
-				"Earthquake",
-				"Psychic",
-				"Meteor Mash",
-				"Shadow Ball"
-			],
-			"nature": "Bashful"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Clear Body",
@@ -20997,25 +20901,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover"
 			],
 			"nature": "Hardy"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 77,
-			"moves": [
-				"Toxic",
-				"Aerial Ace",
-				"Spikes",
-				"Steel Wing"
-			],
-			"nature": "Modest"
 		}
 	},
 	"Skiploom": {
