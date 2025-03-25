@@ -4006,7 +4006,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Giga Drain",
 				"Rock Slide",
-				"SLudge Bomb",
+				"Sludge Bomb",
 				"Ancientpower"
 			],
 			"nature": "Lonely"
