@@ -63,7 +63,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Leader Brawly [#266]",
 
 	"Fisherman Ned [#340]",
-	"Fisherman Elliot [#339]",
 
 	"Team Aqua Grunt [#20]",
 	"Team Aqua Grunt [#21]",
