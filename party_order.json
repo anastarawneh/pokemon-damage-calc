@@ -703,7 +703,7 @@
 		"Solrock",
 		"Houndoom",
 		"Altaria",
-		"Victreebel",
+		"Venusaur",
 		"Arcanine"
 	],
 	"Leader Norman [#269]": [
@@ -840,11 +840,6 @@
 		"Magcargo",
 		"Electrode",
 		"Rapidash"
-	],
-	"Fisherman Elliot [#339]": [
-		"Gyarados",
-		"Huntail",
-		"Gorebyss"
 	],
 	"Fisherman Ned [#340]": [
 		"Tentacruel",
@@ -1276,7 +1271,7 @@
 	"Magma Leader Maxie [#601]": [
 		"Flareon",
 		"Armaldo",
-		"Venusaur",
+		"Victreebel",
 		"Blaziken",
 		"Gengar",
 		"Salamence"
@@ -1847,11 +1842,8 @@
 		"Salamence"
 	],
 	"Pokã©Mon Trainer Steven [#804]": [
-		"Skarmory",
-		"Claydol",
-		"Aggron",
+		"Metagross",
 		"Cradily",
-		"Armaldo",
-		"Metagross"
+		"Registeel"
 	]
 }

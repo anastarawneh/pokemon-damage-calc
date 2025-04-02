@@ -233,7 +233,7 @@
 			},
 			"level": 72,
 			"moves": [
-				"Sky Attack",
+				"Aerial Ace",
 				"Rock Slide",
 				"Earthquake",
 				"Double-Edge"
@@ -313,7 +313,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Rock Slide",
 				"Iron Tail",
@@ -421,25 +421,6 @@
 				"Double-Edge"
 			],
 			"nature": "Lax"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Thunder",
-				"Earthquake",
-				"Solarbeam",
-				"Dragon Claw"
-			],
-			"nature": "Naive"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Rock Head",
@@ -556,12 +537,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Psychic",
 				"Thunderpunch",
 				"Fire Punch",
-				"Ice Punch"
+				"Calm Mind"
 			],
 			"nature": "Naughty"
 		},
@@ -1171,7 +1152,7 @@
 				"Spark",
 				"Extremespeed"
 			],
-			"nature": "Lonely"
+			"nature": "Naive"
 		},
 		"Leader Flannery [#785]": {
 			"ability": "Intimidate",
@@ -1474,25 +1455,6 @@
 				"Superpower"
 			],
 			"nature": "Naughty"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Battle Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 76,
-			"moves": [
-				"Water Pulse",
-				"Ancientpower",
-				"Aerial Ace",
-				"Slash"
-			],
-			"nature": "Mild"
 		},
 		"Team Magma Grunt [#724]": {
 			"ability": "Battle Armor",
@@ -2128,7 +2090,7 @@
 				"Solarbeam",
 				"Thunderpunch"
 			],
-			"nature": "Hardy"
+			"nature": "Serious"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Blaze",
@@ -2691,7 +2653,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 49,
 			"moves": [
 				"Flamethrower",
 				"Earthquake",
@@ -3503,25 +3465,6 @@
 			],
 			"nature": "Hasty"
 		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 75,
-			"moves": [
-				"Reflect",
-				"Light Screen",
-				"Ancientpower",
-				"Earthquake"
-			],
-			"nature": "Modest"
-		},
 		"Psychic Macey [#591]": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -3675,7 +3618,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Brick Break",
 				"Meteor Mash",
@@ -4039,7 +3982,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 49,
 			"moves": [
 				"Giga Drain",
 				"Ancientpower",
@@ -4110,6 +4053,7 @@
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Suction Cups",
+			"item": "Sitrus Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4118,14 +4062,14 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 76,
+			"level": 80,
 			"moves": [
 				"Giga Drain",
-				"Ancientpower",
-				"Ingrain",
-				"Confuse Ray"
+				"Rock Slide",
+				"Sludge Bomb",
+				"Ancientpower"
 			],
-			"nature": "Naive"
+			"nature": "Jolly"
 		},
 		"Pokéfan Bethany [#301]": {
 			"ability": "Suction Cups",
@@ -4158,7 +4102,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 51,
 			"moves": [
 				"Earthquake",
 				"Giga Drain",
@@ -4240,7 +4184,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Crabhammer",
 				"Crunch",
@@ -4462,7 +4406,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Aerial Ace",
 				"Sludge Bomb",
@@ -4482,7 +4426,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 49,
+			"level": 48,
 			"moves": [
 				"Aerial Ace",
 				"Sludge Bomb",
@@ -4628,9 +4572,9 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 53,
 			"moves": [
-				"Fake Out",
+				"Explosion",
 				"Hyper Voice",
 				"Sweet Kiss",
 				"Shadow Ball"
@@ -5564,7 +5508,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -5663,7 +5607,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 53,
 			"moves": [
 				"Confuse Ray",
 				"Pain Split",
@@ -6793,7 +6737,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 53,
 			"moves": [
 				"Sky Attack",
 				"Slash",
@@ -7101,7 +7045,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Earthquake",
 				"Ancientpower",
@@ -7736,7 +7680,7 @@
 				"Explosion",
 				"Fire Punch"
 			],
-			"nature": "Hardy"
+			"nature": "Serious"
 		},
 		"Magma Leader Maxie [#602]": {
 			"ability": "Levitate",
@@ -8133,7 +8077,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 35,
+			"level": 36,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -8371,7 +8315,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -8442,26 +8386,6 @@
 		}
 	},
 	"Gorebyss": {
-		"Fisherman Elliot [#339]": {
-			"ability": "Swift Swim",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 35,
-			"moves": [
-				"Surf",
-				"Psychic",
-				"Aurora Beam",
-				"Whirlpool"
-			],
-			"nature": "Mild"
-		},
 		"Gentleman Nate [#582]": {
 			"ability": "Swift Swim",
 			"item": "Leftovers",
@@ -8891,26 +8815,6 @@
 				"Thrash"
 			],
 			"nature": "Relaxed"
-		},
-		"Fisherman Elliot [#339]": {
-			"ability": "Intimidate",
-			"item": "Salac Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 35,
-			"moves": [
-				"Bounce",
-				"Hydro Pump",
-				"Dragon Dance",
-				"Double-Edge"
-			],
-			"nature": "Jolly"
 		},
 		"Hex Maniac Kathleen [#583]": {
 			"ability": "Intimidate",
@@ -9389,7 +9293,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 42,
 			"moves": [
 				"Megahorn",
 				"Swords Dance",
@@ -9850,7 +9754,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Overheat",
 				"Crunch",
@@ -9980,28 +9884,6 @@
 			"nature": "Hardy"
 		}
 	},
-	"Huntail": {
-		"Fisherman Elliot [#339]": {
-			"ability": "Swift Swim",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 35,
-			"moves": [
-				"Surf",
-				"Clamp",
-				"Crunch",
-				"Super Fang"
-			],
-			"nature": "Rash"
-		}
-	},
 	"Hypno": {
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Insomnia",
@@ -10014,7 +9896,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 44,
 			"moves": [
 				"Psychic",
 				"Hypnosis",
@@ -10153,7 +10035,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Confuse Ray",
 				"Seismic Toss",
@@ -11849,7 +11731,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 53,
 			"moves": [
 				"Slash",
 				"Shadow Ball",
@@ -12235,7 +12117,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 49,
+			"level": 50,
 			"moves": [
 				"Rock Slide",
 				"Psychic",
@@ -12338,7 +12220,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
@@ -13008,7 +12890,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Thunder",
 				"Signal Beam",
@@ -13714,7 +13596,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 46,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -13915,7 +13797,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 50,
 			"moves": [
 				"Iron Head",
 				"Crunch",
@@ -14544,7 +14426,6 @@
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Clear Body",
-			"item": "Sitrus Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -14553,14 +14434,14 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 80,
 			"moves": [
-				"Earthquake",
-				"Psychic",
 				"Meteor Mash",
-				"Shadow Ball"
+				"Psychic",
+				"Thunderpunch",
+				"Bullet Punch"
 			],
-			"nature": "Bashful"
+			"nature": "Jolly"
 		},
 		"Ruin Maniac Bryan [#744]": {
 			"ability": "Clear Body",
@@ -14803,7 +14684,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -14865,7 +14746,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Body Slam",
 				"Seismic Toss",
@@ -14885,7 +14766,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Body Slam",
 				"Seismic Toss",
@@ -14945,7 +14826,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 49,
 			"moves": [
 				"Seismic Toss",
 				"Surf",
@@ -15497,7 +15378,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 60,
 			"moves": [
 				"Earthquake",
 				"Poison Tail",
@@ -15517,7 +15398,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Earthquake",
 				"Poison Tail",
@@ -15659,7 +15540,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Earthquake",
 				"Poison Tail",
@@ -15843,7 +15724,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 61,
+			"level": 62,
 			"moves": [
 				"Flamethrower",
 				"Extrasensory",
@@ -15945,7 +15826,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 49,
+			"level": 52,
 			"moves": [
 				"Protect",
 				"Substitute",
@@ -15965,7 +15846,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -16315,7 +16196,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Hydro Pump",
 				"Rock Slide",
@@ -16534,7 +16415,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 63,
 			"moves": [
 				"Hydro Pump",
 				"Aerial Ace",
@@ -16673,7 +16554,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Fake Out",
 				"Return",
@@ -17985,7 +17866,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 49,
 			"moves": [
 				"Brick Break",
 				"Rock Slide",
@@ -18174,10 +18055,10 @@
 			},
 			"level": 81,
 			"moves": [
-				"Hydro Pump",
+				"Surf",
 				"Sludge Bomb",
 				"Double-Edge",
-				"Explosion"
+				"Crunch"
 			],
 			"nature": "Serious"
 		},
@@ -18810,6 +18691,27 @@
 			"nature": "Jolly"
 		}
 	},
+	"Registeel": {
+		"Pokã©Mon Trainer Steven [#804]": {
+			"ability": "Clear Body",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 80,
+			"moves": [
+				"Meteor Mash",
+				"Rock Slide",
+				"Superpower",
+				"Ancientpower"
+			],
+			"nature": "Jolly"
+		}
+	},
 	"Relicanth": {
 		"Aqua Admin Shelly [#32]": {
 			"ability": "Swift Swim",
@@ -18904,7 +18806,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -18924,7 +18826,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 49,
 			"moves": [
 				"Rock Slide",
 				"Earthquake",
@@ -19109,7 +19011,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Shadow Ball",
 				"Seismic Toss",
@@ -19298,7 +19200,7 @@
 				"Flamethrower",
 				"Dragon Claw"
 			],
-			"nature": "Quirky"
+			"nature": "Hasty"
 		},
 		"Magma Leader Maxie [#602]": {
 			"ability": "Intimidate",
@@ -19979,7 +19881,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 35,
+			"level": 36,
 			"moves": [
 				"Waterfall",
 				"Megahorn",
@@ -20512,7 +20414,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 49,
 			"moves": [
 				"Wrap",
 				"Toxic",
@@ -20532,7 +20434,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Wrap",
 				"Toxic",
@@ -20574,10 +20476,10 @@
 			},
 			"level": 24,
 			"moves": [
+				"Rock Slide",
 				"Spikes",
 				"Toxic",
-				"Sandstorm",
-				"Protect"
+				"Sandstorm"
 			],
 			"nature": "Naive"
 		},
@@ -20672,7 +20574,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 62,
+			"level": 63,
 			"moves": [
 				"Drill Peck",
 				"Iron Tail",
@@ -20692,7 +20594,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Aerial Ace",
 				"Iron Head",
@@ -20723,7 +20625,7 @@
 		},
 		"Leader Roxanne [#265]": {
 			"ability": "Keen Eye",
-			"item": "Oran Berry",
+			"item": "Berry Juice",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20809,7 +20711,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 50,
 			"moves": [
 				"Drill Peck",
 				"Iron Head",
@@ -20937,25 +20839,6 @@
 				"Recover"
 			],
 			"nature": "Hardy"
-		},
-		"Pokã©Mon Trainer Steven [#804]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 77,
-			"moves": [
-				"Toxic",
-				"Aerial Ace",
-				"Spikes",
-				"Steel Wing"
-			],
-			"nature": "Modest"
 		}
 	},
 	"Skiploom": {
@@ -21837,7 +21720,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 51,
 			"moves": [
 				"Fake Out",
 				"Hyper Voice",
@@ -21857,12 +21740,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
-				"Fake Out",
-				"Teeter Dance",
 				"Hyper Voice",
-				"Shadow Ball"
+				"Shadow Ball",
+				"Superpower",
+				"Teeter Dance"
 			],
 			"nature": "Calm"
 		},
@@ -22039,7 +21922,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 50,
 			"moves": [
 				"Shock Wave",
 				"Surf",
@@ -22161,7 +22044,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -22731,7 +22614,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 51,
+			"level": 52,
 			"moves": [
 				"Aerial Ace",
 				"Return",
@@ -22993,7 +22876,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 34,
+			"level": 35,
 			"moves": [
 				"Hydro Pump",
 				"Sludge Bomb",
@@ -23195,7 +23078,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 44,
 			"moves": [
 				"Flamethrower",
 				"Solarbeam",
@@ -23255,7 +23138,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 48,
+			"level": 47,
 			"moves": [
 				"Overheat",
 				"Rock Slide",
@@ -23593,7 +23476,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 43,
 			"moves": [
 				"Flamethrower",
 				"Thunderpunch",
@@ -23859,7 +23742,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 49,
+			"level": 51,
 			"moves": [
 				"Wish",
 				"Crunch",
@@ -24233,7 +24116,7 @@
 			],
 			"nature": "Relaxed"
 		},
-		"Magma Leader Maxie [#601]": {
+		"Leader Flannery [#268]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -24246,12 +24129,12 @@
 			},
 			"level": 45,
 			"moves": [
-				"Giga Drain",
+				"Solarbeam",
 				"Sludge Bomb",
-				"Hidden Power Fire",
+				"Weather Ball",
 				"Take Down"
 			],
-			"nature": "Hardy"
+			"nature": "Careful"
 		},
 		"Pokã©Mon Trainer Brendan [#528]": {
 			"ability": "Thick Fat",
@@ -24497,9 +24380,9 @@
 			],
 			"nature": "Naughty"
 		},
-		"Leader Flannery [#268]": {
+		"Magma Leader Maxie [#601]": {
 			"ability": "Chlorophyll",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24510,11 +24393,12 @@
 			},
 			"level": 45,
 			"moves": [
-				"Solarbeam",
+				"Leaf Blade",
 				"Sludge Bomb",
-				"Weather Ball"
+				"Hidden Power Rock",
+				"Sleep Powder"
 			],
-			"nature": "Timid"
+			"nature": "Serious"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
 			"ability": "Chlorophyll",
@@ -26373,7 +26257,7 @@
 	"Zapdos": {
 		"Aqua Leader Archie [#34]": {
 			"ability": "Pressure",
-			"item": "Chesto Berry",
+			"item": "Sharp Beak",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26382,12 +26266,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 81,
 			"moves": [
 				"Thunder",
 				"Weather Ball",
-				"Toxic",
-				"Rest"
+				"Aerial Ace",
+				"Hidden Power Grass"
 			],
 			"nature": "Bold"
 		}

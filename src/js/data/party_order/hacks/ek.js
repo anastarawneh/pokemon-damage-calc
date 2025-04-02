@@ -704,7 +704,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Solrock",
 		"Houndoom",
 		"Altaria",
-		"Victreebel",
+		"Venusaur",
 		"Arcanine"
 	],
 	"Leader Norman [#269]": [
@@ -841,11 +841,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Magcargo",
 		"Electrode",
 		"Rapidash"
-	],
-	"Fisherman Elliot [#339]": [
-		"Gyarados",
-		"Huntail",
-		"Gorebyss"
 	],
 	"Fisherman Ned [#340]": [
 		"Tentacruel",
@@ -1277,7 +1272,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	"Magma Leader Maxie [#601]": [
 		"Flareon",
 		"Armaldo",
-		"Venusaur",
+		"Victreebel",
 		"Blaziken",
 		"Gengar",
 		"Salamence"
