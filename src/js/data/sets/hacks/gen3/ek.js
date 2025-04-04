@@ -21585,7 +21585,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Flamethrower"
 			],
-			"nature": "Lonely"
+			"nature": "Hardy"
 		},
 		"Leader Tate&Liza [#795]": {
 			"ability": "Levitate",
