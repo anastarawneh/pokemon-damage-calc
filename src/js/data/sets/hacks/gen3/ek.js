@@ -18365,7 +18365,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Raikou": {
 		"Aqua Admin Matt [#30]": {
 			"ability": "Pressure",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18374,12 +18374,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 81,
 			"moves": [
 				"Thunder",
 				"Weather Ball",
 				"Extrasensory",
-				"Extremespeed"
+				"Calm Mind"
 			],
 			"nature": "Gentle"
 		}
@@ -26257,7 +26257,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Zapdos": {
 		"Aqua Leader Archie [#34]": {
 			"ability": "Pressure",
-			"item": "Sharp Beak",
+			"item": "Miracle Seed",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26268,7 +26268,7 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 81,
 			"moves": [
-				"Thunder",
+				"Thunderbolt",
 				"Weather Ball",
 				"Aerial Ace",
 				"Hidden Power Grass"
