@@ -29,9 +29,14 @@ function placeBsBtn() {
 
 function ExportPokemon(pokeInfo) {
 	var pokemon = createPokemon(pokeInfo);
+	var setName = $(pokeInfo).find(".select2-chosen")[0].textContent.split(
+		/^([^(@]+)(\((.+)\))? ?(@ (.+))?/
+	)[3];
 	var EV_counter = 0;
 	var finalText = "";
-	finalText = pokemon.name + (game > 0 && pokemon.gender != "N" ? " (" + pokemon.gender + ") " : "") + (pokemon.item ? " @ " + pokemon.item : "") + "\n";
+	if (setName == "Custom Set" || setName == "Blank Set" || setName in partyOrder) finalText = pokemon.name;
+	else finalText = setName + " (" + pokemon.name + ")";
+	finalText += (game > 0 && pokemon.gender != "N" ? " (" + pokemon.gender + ") " : "") + (pokemon.item ? " @ " + pokemon.item : "") + "\n";
 	finalText += "Level: " + pokemon.level + "\n";
 	finalText += pokemon.nature && gen > 2 ? pokemon.nature + " Nature" + "\n" : "";
 	if (gen === 9) {
@@ -78,15 +83,23 @@ function ExportPokemon(pokeInfo) {
 		}
 	}
 	finalText = finalText.trim();
-	$("textarea.import-team-text").val(finalText);
+	return finalText;
 }
 
 $("#exportL").click(function () {
-	ExportPokemon($("#p1"));
+	$("textarea.import-team-text").val(ExportPokemon($("#p1")));
 });
 
 $("#exportR").click(function () {
-	ExportPokemon($("#p2"));
+	$("textarea.import-team-text").val(ExportPokemon($("#p2")));
+});
+
+$("#saveL").click(function () {
+	var pokes = ExportPokemon($("#p1"));
+	addSets(pokes, "Custom Set");
+	if (document.getElementById("cc-auto-refr").checked && $("#show-cc").is(":hidden")) {
+		window.refreshColorCode();
+	}
 });
 
 function serialize(array, separator) {
