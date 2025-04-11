@@ -130,7 +130,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 80,
 			"moves": [
 				"Shadow Ball",
 				"Megahorn",
@@ -508,7 +508,7 @@
 	"Alakazam": {
 		"Cooltrainer Edgar [#79]": {
 			"ability": "Synchronize",
-			"item": "Twistedspoon",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -964,7 +964,7 @@
 				"Thunderbolt",
 				"Ice Punch",
 				"Fire Punch",
-				"Confuse Ray"
+				"Hidden Power Grass"
 			],
 			"nature": "Impish"
 		},
@@ -1502,7 +1502,7 @@
 	"Articuno": {
 		"Leader Juan [#272]": {
 			"ability": "Pressure",
-			"item": "Lum Berry",
+			"item": "Miracle Seed",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -1515,10 +1515,10 @@
 			"moves": [
 				"Ice Beam",
 				"Weather Ball",
-				"Extrasensory",
-				"Aerial Ace"
+				"Hidden Power Grass",
+				"Agility"
 			],
-			"nature": "Sassy"
+			"nature": "Adamant"
 		}
 	},
 	"Azumarill": {
@@ -1533,7 +1533,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 83,
 			"moves": [
 				"Double-Edge",
 				"Superpower",
@@ -1613,7 +1613,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Double-Edge",
 				"Superpower",
@@ -1805,6 +1805,26 @@
 		}
 	},
 	"Beedrill": {
+		"Beauty Bridget [#129]": {
+			"ability": "Swarm",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"X-Scissor",
+				"Sludge Bomb",
+				"Hidden Power Ground",
+				"Swords Dance"
+			],
+			"nature": "Jolly"
+		},
 		"Bug Catcher James [#621]": {
 			"ability": "Swarm",
 			"item": "Lum Berry",
@@ -1961,7 +1981,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Hydro Pump",
 				"Iron Head",
@@ -2041,7 +2061,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"Hydro Pump",
 				"Ice Beam",
@@ -2205,7 +2225,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 84,
 			"moves": [
 				"Ice Beam",
 				"Thunderbolt",
@@ -2305,7 +2325,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Hydro Pump",
 				"Thunder",
@@ -2437,6 +2457,26 @@
 				"Giga Drain"
 			],
 			"nature": "Lax"
+		},
+		"Lady Brianna [#118]": {
+			"ability": "Compoundeyes",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 83,
+			"moves": [
+				"Psychic",
+				"Shadow Ball",
+				"Giga Drain",
+				"Sleep Powder"
+			],
+			"nature": "Calm"
 		}
 	},
 	"Cacnea": {
@@ -2551,7 +2591,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Needle Arm",
 				"Thunderpunch",
@@ -3738,7 +3778,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"Flamethrower",
 				"Psychic",
@@ -3818,7 +3858,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -3888,7 +3928,7 @@
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Shell Armor",
-			"item": "Brightpowder",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -3897,11 +3937,11 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Surf",
 				"Ice Beam",
-				"Clamp",
+				"Spikes",
 				"Explosion"
 			],
 			"nature": "Lonely"
@@ -4122,7 +4162,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Giga Drain",
 				"Rock Slide",
@@ -4326,7 +4366,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 83,
 			"moves": [
 				"Sludge Bomb",
 				"Aerial Ace",
@@ -4446,7 +4486,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Aerial Ace",
 				"Sludge Bomb",
@@ -5017,7 +5057,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Drill Peck",
 				"Return",
@@ -5180,7 +5220,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -5363,7 +5403,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 80,
 			"moves": [
 				"Aerial Ace",
 				"Dragon Claw",
@@ -5383,7 +5423,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Dragon Claw",
 				"Aerial Ace",
@@ -5566,7 +5606,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 76,
+			"level": 80,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -5687,7 +5727,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Destiny Bond",
 				"Shadow Ball",
@@ -6271,7 +6311,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"Psychic",
 				"Weather Ball",
@@ -6553,7 +6593,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 81,
 			"moves": [
 				"Psychic",
 				"Giga Drain",
@@ -6655,7 +6695,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 80,
 			"moves": [
 				"Hyper Voice",
 				"Surf",
@@ -6800,7 +6840,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 83,
 			"moves": [
 				"Surf",
 				"Aerial Ace",
@@ -7347,7 +7387,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Iron Head",
 				"Earthquake",
@@ -7733,7 +7773,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Thunderbolt",
 				"Ice Punch",
@@ -7814,7 +7854,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 84,
 			"moves": [
 				"Ice Beam",
 				"Iron Head",
@@ -7854,7 +7894,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 84,
 			"moves": [
 				"Ice Beam",
 				"Iron Head",
@@ -8007,7 +8047,7 @@
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Hyper Cutter",
-			"item": "Sharp Beak",
+			"item": "Brightpowder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8016,7 +8056,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Earthquake",
 				"Aerial Ace",
@@ -8137,7 +8177,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -8927,7 +8967,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"Hydro Pump",
 				"Thunder",
@@ -9069,7 +9109,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
@@ -9209,7 +9249,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
@@ -10211,7 +10251,7 @@
 		},
 		"Team Aqua Grunt [#4]": {
 			"ability": "Static",
-			"item": "Scope Lens",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10220,7 +10260,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Thunderbolt",
 				"Crunch",
@@ -10668,7 +10708,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 80,
 			"moves": [
 				"Surf",
 				"Aerial Ace",
@@ -10770,7 +10810,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 81,
 			"moves": [
 				"Double-Edge",
 				"Superpower",
@@ -10854,7 +10894,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Dragonbreath",
@@ -11034,7 +11074,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 76,
+			"level": 79,
 			"moves": [
 				"Surf",
 				"Body Slam",
@@ -11074,7 +11114,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 80,
 			"moves": [
 				"Surf",
 				"Substitute",
@@ -11096,7 +11136,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Crabhammer",
 				"Crush Claw",
@@ -11261,7 +11301,7 @@
 				"Hydro Pump",
 				"Ice Beam",
 				"Thunder",
-				"Iron Head"
+				"Earthquake"
 			],
 			"nature": "Impish"
 		}
@@ -11311,7 +11351,7 @@
 		},
 		"Lady Daphne [#115]": {
 			"ability": "Volt Absorb",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11320,34 +11360,14 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Surf",
 				"Thunderbolt",
-				"Ice Beam",
-				"Psybeam"
+				"Psybeam",
+				"Substitute"
 			],
 			"nature": "Naive"
-		},
-		"Leader Juan [#272]": {
-			"ability": "Volt Absorb",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 85,
-			"moves": [
-				"Surf",
-				"Thunder",
-				"Ice Beam",
-				"Psybeam"
-			],
-			"nature": "Timid"
 		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Volt Absorb",
@@ -11391,7 +11411,7 @@
 		},
 		"Team Aqua Grunt [#3]": {
 			"ability": "Volt Absorb",
-			"item": "Leftovers",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11400,7 +11420,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 79,
 			"moves": [
 				"Surf",
 				"Thunderbolt",
@@ -11453,7 +11473,7 @@
 		},
 		"Leader Juan [#272]": {
 			"ability": "Shell Armor",
-			"item": "Mystic Water",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11467,9 +11487,9 @@
 				"Hydro Pump",
 				"Ice Beam",
 				"Thunder",
-				"Body Slam"
+				"Megahorn"
 			],
-			"nature": "Careful"
+			"nature": "Naughty"
 		},
 		"Leader Juan [#800]": {
 			"ability": "Shell Armor",
@@ -11531,7 +11551,7 @@
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Shell Armor",
-			"item": "Leftovers",
+			"item": "Brightpowder",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11540,7 +11560,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -11560,7 +11580,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 80,
 			"moves": [
 				"Surf",
 				"Thunder",
@@ -11793,7 +11813,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"Giga Drain",
 				"Surf",
@@ -11953,7 +11973,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Frustration",
@@ -11973,7 +11993,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 81,
 			"moves": [
 				"Hydro Pump",
 				"Giga Drain",
@@ -12808,7 +12828,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Flamethrower",
 				"Thunderpunch",
@@ -12861,7 +12881,7 @@
 	"Magneton": {
 		"Beauty Olivia [#130]": {
 			"ability": "Magnet Pull",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12870,7 +12890,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 85,
 			"moves": [
 				"Thunderbolt",
 				"Iron Head",
@@ -13132,7 +13152,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Thunderbolt",
 				"Flamethrower",
@@ -13183,7 +13203,7 @@
 		},
 		"Lass Andrea [#613]": {
 			"ability": "Static",
-			"item": "Lum Berry",
+			"item": "Blackglasses",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -13192,10 +13212,10 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 84,
 			"moves": [
 				"Thunderbolt",
-				"Flamethrower",
+				"Overheat",
 				"Crunch",
 				"Body Slam"
 			],
@@ -13395,7 +13415,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Surf",
 				"Aerial Ace",
@@ -13515,7 +13535,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 89,
+			"level": 83,
 			"moves": [
 				"Surf",
 				"Aerial Ace",
@@ -13775,7 +13795,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Aerial Ace",
 				"X-Scissor",
@@ -14173,7 +14193,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 83,
 			"moves": [
 				"Giga Drain",
 				"Earthquake",
@@ -14293,7 +14313,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Giga Drain",
 				"Earthquake",
@@ -14355,7 +14375,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 83,
 			"moves": [
 				"Meteor Mash",
 				"Psychic",
@@ -14724,12 +14744,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 80,
 			"moves": [
 				"Surf",
 				"Ice Beam",
-				"Mud Shot",
-				"Recover"
+				"Hypnosis",
+				"Mirror Coat"
 			],
 			"nature": "Bashful"
 		}
@@ -14886,7 +14906,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Return",
 				"Superpower",
@@ -15156,7 +15176,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Sludge Bomb",
 				"Thunderbolt",
@@ -15580,7 +15600,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Sludge Bomb",
 				"Earthquake",
@@ -16265,7 +16285,7 @@
 		},
 		"Pokéfan Annika [#502]": {
 			"ability": "Shell Armor",
-			"item": "Lum Berry",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16274,7 +16294,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Muddy Water",
 				"Rock Slide",
@@ -16514,7 +16534,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 84,
 			"moves": [
 				"Fake Out",
 				"Crush Claw",
@@ -16585,7 +16605,7 @@
 		},
 		"Team Aqua Grunt [#27]": {
 			"ability": "Limber",
-			"item": "Lum Berry",
+			"item": "Kings Rock",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16594,7 +16614,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 83,
 			"moves": [
 				"Double-Edge",
 				"Thunder",
@@ -16861,7 +16881,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -17141,7 +17161,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -17284,7 +17304,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 80,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -17506,7 +17526,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 80,
 			"moves": [
 				"Superpower",
 				"Surf",
@@ -17546,7 +17566,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Brick Break",
@@ -17726,7 +17746,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Tri Attack",
 				"Psychic",
@@ -17827,7 +17847,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Brick Break",
 				"Rock Slide",
@@ -18053,7 +18073,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Surf",
 				"Sludge Bomb",
@@ -18093,7 +18113,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 84,
 			"moves": [
 				"Hydro Pump",
 				"Sludge Bomb",
@@ -18112,7 +18132,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Sludge Bomb",
@@ -18232,7 +18252,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 84,
 			"moves": [
 				"Thunderbolt",
 				"Surf",
@@ -18332,7 +18352,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 83,
 			"moves": [
 				"Thunder",
 				"Surf",
@@ -18365,7 +18385,7 @@
 	"Raikou": {
 		"Aqua Admin Matt [#30]": {
 			"ability": "Pressure",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18374,12 +18394,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 82,
 			"moves": [
 				"Thunder",
 				"Weather Ball",
 				"Extrasensory",
-				"Extremespeed"
+				"Calm Mind"
 			],
 			"nature": "Gentle"
 		}
@@ -18866,7 +18886,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -19535,7 +19555,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Leaf Blade",
 				"X-Scissor",
@@ -19717,7 +19737,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 83,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -19901,7 +19921,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Waterfall",
 				"Megahorn",
@@ -20025,7 +20045,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Sludge Bomb",
 				"Giga Drain",
@@ -20087,7 +20107,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Crunch",
 				"Surf",
@@ -20107,7 +20127,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Surf",
 				"Crunch",
@@ -20158,7 +20178,7 @@
 		},
 		"Team Aqua Grunt [#5]": {
 			"ability": "Rough Skin",
-			"item": "Brightpowder",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20167,12 +20187,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Crunch",
 				"Surf",
 				"Ice Beam",
-				"Whirlpool"
+				"Double-Edge"
 			],
 			"nature": "Careful"
 		},
@@ -21015,7 +21035,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 83,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -21134,7 +21154,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 80,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -21355,7 +21375,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 84,
 			"moves": [
 				"Aerial Ace",
 				"X-Scissor",
@@ -21397,7 +21417,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 84,
 			"moves": [
 				"Return",
 				"Thunder",
@@ -21820,12 +21840,12 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Double-Edge",
 				"Megahorn",
 				"Earthquake",
-				"Hypnosis"
+				"Hidden Power Ghost"
 			],
 			"nature": "Careful"
 		},
@@ -21840,7 +21860,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 83,
 			"moves": [
 				"Double-Edge",
 				"Megahorn",
@@ -21982,7 +22002,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 79,
 			"moves": [
 				"Surf",
 				"Psychic",
@@ -22163,7 +22183,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 81,
 			"moves": [
 				"Earthquake",
 				"Iron Tail",
@@ -22265,7 +22285,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Rock Slide",
 				"Earthquake",
@@ -22480,6 +22500,26 @@
 				"Toxic"
 			],
 			"nature": "Timid"
+		},
+		"Leader Juan [#272]": {
+			"ability": "Swift Swim",
+			"item": "Liechi Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 85,
+			"moves": [
+				"Muddy Water",
+				"Earthquake",
+				"Sludge Bomb",
+				"Rock Slide"
+			],
+			"nature": "Mild"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
 			"ability": "Swift Swim",
@@ -22814,7 +22854,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 81,
 			"moves": [
 				"Return",
 				"Iron Head",
@@ -22836,7 +22876,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Muddy Water",
 				"Sludge Bomb",
@@ -22936,7 +22976,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 79,
 			"moves": [
 				"Surf",
 				"Sludge Bomb",
@@ -22976,7 +23016,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 77,
+			"level": 80,
 			"moves": [
 				"Surf",
 				"Sludge Bomb",
@@ -23782,7 +23822,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
 				"Crunch",
 				"Refresh",
@@ -23884,7 +23924,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 82,
 			"moves": [
 				"Crush Claw",
 				"Superpower",
@@ -23963,7 +24003,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Hydro Pump",
 				"Blizzard",
@@ -24267,7 +24307,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 81,
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
@@ -24799,10 +24839,10 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 84,
 			"moves": [
 				"Hydro Pump",
-				"Blizzard",
+				"Hyper Voice",
 				"Selfdestruct",
 				"Iron Head"
 			],
@@ -24899,7 +24939,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Hyper Voice",
@@ -24972,7 +25012,7 @@
 		},
 		"Lass Andrea [#613]": {
 			"ability": "Thick Fat",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25097,7 +25137,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -25160,7 +25200,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 82,
+			"level": 84,
 			"moves": [
 				"Sludge Bomb",
 				"Psychic",
@@ -25271,7 +25311,7 @@
 		},
 		"Team Aqua Grunt [#2]": {
 			"ability": "Levitate",
-			"item": "Lum Berry",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25280,7 +25320,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 79,
+			"level": 82,
 			"moves": [
 				"Sludge Bomb",
 				"Fire Blast",
@@ -25300,7 +25340,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 80,
+			"level": 83,
 			"moves": [
 				"Sludge Bomb",
 				"Thunder",
@@ -25373,7 +25413,7 @@
 		},
 		"Lass Crissy [#614]": {
 			"ability": "Swift Swim",
-			"item": "Lum Berry",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25382,7 +25422,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 84,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -25578,7 +25618,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 78,
+			"level": 81,
 			"moves": [
 				"Surf",
 				"Earthquake",
@@ -25658,7 +25698,7 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 83,
+			"level": 84,
 			"moves": [
 				"Hyper Voice",
 				"Psychic",
@@ -26257,7 +26297,7 @@
 	"Zapdos": {
 		"Aqua Leader Archie [#34]": {
 			"ability": "Pressure",
-			"item": "Sharp Beak",
+			"item": "Miracle Seed",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26266,9 +26306,9 @@
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 81,
+			"level": 83,
 			"moves": [
-				"Thunder",
+				"Thunderbolt",
 				"Weather Ball",
 				"Aerial Ace",
 				"Hidden Power Grass"
