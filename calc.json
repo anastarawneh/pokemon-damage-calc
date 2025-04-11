@@ -11,11 +11,11 @@
 	"Team Aqua Grunt_002":{
 		"Weezing_1":{
 			"ability":"Levitate",
-			"item":"Lum Berry",
+			"item":"Focus Band",
 			"nature":"Quiet",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Fire Blast", "Thunderbolt", "Shadow Ball"],
-			"level":79
+			"level":82
 		},
 		"Kangaskhan_2":{
 			"ability":"Early Bird",
@@ -23,7 +23,7 @@
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Double-Edge", "Superpower", "Earthquake", "Shadow Ball"],
-			"level":78
+			"level":81
 		},
 		"Ludicolo_3":{
 			"ability":"Swift Swim",
@@ -31,7 +31,7 @@
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Frustration", "Ice Beam", "Swords Dance"],
-			"level":78
+			"level":81
 		},
 		"Tentacruel_4":{
 			"ability":"Liquid Ooze",
@@ -39,15 +39,15 @@
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Sludge Bomb", "Giga Drain", "Toxic"],
-			"level":77
+			"level":80
 		},
 		"Lapras_5":{
 			"ability":"Shell Armor",
-			"item":"Leftovers",
+			"item":"Brightpowder",
 			"nature":"Timid",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Ice Beam", "Thunderbolt", "Psychic"],
-			"level":78
+			"level":81
 		},
 		"Meganium_6":{
 			"ability":"Thick Fat",
@@ -55,7 +55,7 @@
 			"nature":"Gentle",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Giga Drain", "Earthquake", "Synthesis", "Hidden Power~12"],
-			"level":79
+			"level":82
 		}
 	},
 	"Team Aqua Grunt_003":{
@@ -65,7 +65,7 @@
 			"nature":"Gentle",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Aerial Ace", "Sludge Bomb", "Giga Drain", "Double Team"],
-			"level":79
+			"level":82
 		},
 		"Whiscash_2":{
 			"ability":"Swift Swim",
@@ -73,15 +73,15 @@
 			"nature":"Quirky",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Earthquake", "Rock Slide", "Ice Beam"],
-			"level":78
+			"level":81
 		},
 		"Lanturn_3":{
 			"ability":"Volt Absorb",
-			"item":"Leftovers",
+			"item":"Lum Berry",
 			"nature":"Gentle",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Thunderbolt", "Ice Beam", "Confuse Ray"],
-			"level":77
+			"level":79
 		},
 		"Donphan_4":{
 			"ability":"Battle Armor",
@@ -89,7 +89,7 @@
 			"nature":"Hardy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Rock Slide", "Sludge Bomb", "Endeavor"],
-			"level":79
+			"level":82
 		},
 		"Nidoqueen_5":{
 			"ability":"Poison Point",
@@ -97,7 +97,7 @@
 			"nature":"Adamant",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Earthquake", "Shadow Ball", "Ice Beam"],
-			"level":79
+			"level":82
 		},
 		"Starmie_6":{
 			"ability":"Natural Cure",
@@ -105,7 +105,7 @@
 			"nature":"Timid",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Psychic", "Thunderbolt", "Recover"],
-			"level":77
+			"level":79
 		}
 	},
 	"Team Aqua Grunt_004":{
@@ -115,7 +115,7 @@
 			"nature":"Sassy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Iron Tail", "Body Slam", "Explosion"],
-			"level":77
+			"level":81
 		},
 		"Slowking_2":{
 			"ability":"Own Tempo",
@@ -123,15 +123,15 @@
 			"nature":"Calm",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Psychic", "Slack Off", "Yawn"],
-			"level":77
+			"level":80
 		},
 		"Jolteon_3":{
 			"ability":"Static",
-			"item":"Scope Lens",
+			"item":"Kings Rock",
 			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Thunderbolt", "Crunch", "Signal Beam", "Thunder Wave"],
-			"level":79
+			"level":82
 		},
 		"Sceptile_4":{
 			"ability":"Overgrow",
@@ -139,15 +139,15 @@
 			"nature":"Timid",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Leaf Blade", "X-Scissor", "Thunderpunch", "Crush Claw"],
-			"level":79
+			"level":81
 		},
 		"Milotic_5":{
 			"ability":"Marvel Scale",
 			"item":"Lum Berry",
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Mud Shot", "Recover"],
-			"level":78
+			"moves":["Surf", "Ice Beam", "Hypnosis", "Mirror Coat"],
+			"level":80
 		},
 		"Walrein_6":{
 			"ability":"Thick Fat",
@@ -155,17 +155,17 @@
 			"nature":"Relaxed",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Ice Beam", "Earthquake", "Body Slam"],
-			"level":78
+			"level":81
 		}
 	},
 	"Team Aqua Grunt_005":{
 		"Cloyster_1":{
 			"ability":"Shell Armor",
-			"item":"Brightpowder",
+			"item":"Quick Claw",
 			"nature":"Lonely",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Clamp", "Explosion"],
-			"level":81
+			"moves":["Surf", "Ice Beam", "Spikes", "Explosion"],
+			"level":82
 		},
 		"Sudowoodo_2":{
 			"ability":"Rock Head",
@@ -173,7 +173,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Rock Slide", "Earthquake", "Iron Head", "Sand Tomb"],
-			"level":79
+			"level":82
 		},
 		"Dugtrio_3":{
 			"ability":"Arena Trap",
@@ -181,7 +181,7 @@
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Rock Slide", "Sludge Bomb", "Aerial Ace"],
-			"level":76
+			"level":80
 		},
 		"Stantler_4":{
 			"ability":"Intimidate",
@@ -189,15 +189,15 @@
 			"nature":"Rash",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Double-Edge", "Megahorn", "Superpower", "Hypnosis"],
-			"level":80
+			"level":83
 		},
 		"Sharpedo_5":{
 			"ability":"Rough Skin",
-			"item":"Brightpowder",
+			"item":"Focus Band",
 			"nature":"Careful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Crunch", "Surf", "Ice Beam", "Whirlpool"],
-			"level":79
+			"moves":["Crunch", "Surf", "Ice Beam", "Double-Edge"],
+			"level":82
 		},
 		"Dragonite_6":{
 			"ability":"Inner Focus",
@@ -205,7 +205,7 @@
 			"nature":"Timid",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Aerial Ace", "Dragon Claw", "Brick Break", "Fire Blast"],
-			"level":78
+			"level":80
 		}
 	},
 	"Team Aqua Grunt_006":{
@@ -215,7 +215,7 @@
 			"nature":"Calm",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hydro Pump", "Giga Drain", "Thunderpunch", "Teeter Dance"],
-			"level":80
+			"level":81
 		},
 		"Scizor_2":{
 			"ability":"Swarm",
@@ -223,7 +223,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["X-Scissor", "Aerial Ace", "Iron Head", "Swords Dance"],
-			"level":80
+			"level":83
 		},
 		"Blastoise_3":{
 			"ability":"Torrent",
@@ -231,7 +231,7 @@
 			"nature":"Relaxed",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hydro Pump", "Ice Beam", "Double Team", "Mirror Coat"],
-			"level":80
+			"level":82
 		},
 		"Rhydon_4":{
 			"ability":"Rock Head",
@@ -239,7 +239,7 @@
 			"nature":"Quiet",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Rock Slide", "Megahorn", "Thunder"],
-			"level":81
+			"level":82
 		},
 		"Porygon2_5":{
 			"ability":"Trace",
@@ -247,7 +247,7 @@
 			"nature":"Docile",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Tri Attack", "Psychic", "Ice Beam", "Thunder"],
-			"level":79
+			"level":81
 		},
 		"Dragonite_6":{
 			"ability":"Inner Focus",
@@ -255,7 +255,7 @@
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Dragon Claw", "Aerial Ace", "Hydro Pump", "Thunder"],
-			"level":79
+			"level":81
 		}
 	},
 	"Team Aqua Grunt_007":{
@@ -265,7 +265,7 @@
 			"nature":"Docile",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Return", "Iron Head", "Thunder", "Surf"],
-			"level":78
+			"level":81
 		},
 		"Mantine_2":{
 			"ability":"Swift Swim",
@@ -273,7 +273,7 @@
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Aerial Ace", "Earthquake", "Sludge Bomb"],
-			"level":89
+			"level":83
 		},
 		"Exploud_3":{
 			"ability":"Soundproof",
@@ -281,7 +281,7 @@
 			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hyper Voice", "Surf", "Thunder", "Ice Beam"],
-			"level":79
+			"level":80
 		},
 		"Raichu_4":{
 			"ability":"Static",
@@ -289,7 +289,7 @@
 			"nature":"Naughty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Thunder", "Surf", "Body Slam", "Iron Tail"],
-			"level":80
+			"level":83
 		},
 		"Politoed_5":{
 			"ability":"Swift Swim",
@@ -297,7 +297,7 @@
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Psychic", "Ice Beam", "Earthquake"],
-			"level":78
+			"level":80
 		},
 		"Masquerain_6":{
 			"ability":"Intimidate",
@@ -305,7 +305,7 @@
 			"nature":"Gentle",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Aerial Ace", "X-Scissor", "Hydro Pump", "Ice Beam"],
-			"level":81
+			"level":82
 		}
 	},
 	"Team Aqua Grunt_008":{
@@ -323,7 +323,7 @@
 			"nature":"Docile",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Substitute", "Dragonbreath", "Iron Head"],
-			"level":79
+			"level":80
 		},
 		"Gyarados_3":{
 			"ability":"Intimidate",
@@ -331,7 +331,7 @@
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hydro Pump", "Thunder", "Earthquake", "Ice Beam"],
-			"level":80
+			"level":82
 		},
 		"Blissey_4":{
 			"ability":"Natural Cure",
@@ -339,7 +339,7 @@
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hydro Pump", "Thunder", "Softboiled", "Toxic"],
-			"level":81
+			"level":83
 		},
 		"Venusaur_5":{
 			"ability":"Thick Fat",
@@ -347,7 +347,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Giga Drain", "Sludge Bomb", "Weather Ball", "Sleep Powder"],
-			"level":80
+			"level":81
 		},
 		"Poliwrath_6":{
 			"ability":"Swift Swim",
@@ -355,14 +355,14 @@
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Brick Break", "Ice Beam", "Hypnosis"],
-			"level":80
+			"level":81
 		}
 	},
-	"Dragon Tamer Name Me_009":{
+	"Dragon Tamer Allan_009":{
 		"Alakazam_1":{
 			"ability":"Synchronize",
 			"item":"Petaya Berry",
-			"nature":"Hasty",
+			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Psychic", "Fire Punch", "Calm Mind", "Hidden Power~11"],
 			"level":96
@@ -370,7 +370,7 @@
 		"Heracross_2":{
 			"ability":"Swarm",
 			"item":"Quick Claw",
-			"nature":"Quiet",
+			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Megahorn", "Spikes", "Double-Edge", "Earthquake"],
 			"level":95
@@ -378,7 +378,7 @@
 		"Ninetales_3":{
 			"ability":"Pressure",
 			"item":"Leftovers",
-			"nature":"Docile",
+			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Calm Mind", "Overheat", "Hidden Power~5", "Extrasensory"],
 			"level":97
@@ -386,7 +386,7 @@
 		"Salamence_4":{
 			"ability":"Intimidate",
 			"item":"Lum Berry",
-			"nature":"Naive",
+			"nature":"Modest",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Dragon Dance", "Aerial Ace", "Brick Break", "Rock Slide"],
 			"level":95
@@ -394,7 +394,7 @@
 		"Scyther_5":{
 			"ability":"Swarm",
 			"item":"Salac Berry",
-			"nature":"Modest",
+			"nature":"Timid",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Swords Dance", "Aerial Ace", "X-Scissor", "Superpower"],
 			"level":98
@@ -402,7 +402,7 @@
 		"Slowking_6":{
 			"ability":"Own Tempo",
 			"item":"Lum Berry",
-			"nature":"Naughty",
+			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Calm Mind", "Hydro Cannon", "Psychic", "Hidden Power~11"],
 			"level":96
@@ -982,11 +982,11 @@
 	"Team Aqua Grunt_027":{
 		"Persian_1":{
 			"ability":"Limber",
-			"item":"Lum Berry",
+			"item":"Kings Rock",
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Double-Edge", "Thunder", "Aerial Ace", "Rain Dance"],
-			"level":79
+			"level":83
 		},
 		"Cradily_2":{
 			"ability":"Suction Cups",
@@ -994,7 +994,7 @@
 			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Giga Drain", "Rock Slide", "Recover", "Rain Dance"],
-			"level":79
+			"level":82
 		},
 		"Qwilfish_3":{
 			"ability":"Swift Swim",
@@ -1002,7 +1002,7 @@
 			"nature":"Rash",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Sludge Bomb", "Destiny Bond", "Explosion"],
-			"level":79
+			"level":81
 		},
 		"Golduck_4":{
 			"ability":"Swift Swim",
@@ -1010,7 +1010,7 @@
 			"nature":"Naughty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Psychic", "Ice Beam", "Rain Dance"],
-			"level":78
+			"level":81
 		},
 		"Forretress_5":{
 			"ability":"Shell Armor",
@@ -1018,7 +1018,7 @@
 			"nature":"Relaxed",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Iron Head", "Earthquake", "Explosion", "Giga Drain"],
-			"level":79
+			"level":81
 		},
 		"Poliwrath_6":{
 			"ability":"Swift Swim",
@@ -1026,7 +1026,7 @@
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Superpower", "Surf", "Ice Beam", "Rain Dance"],
-			"level":77
+			"level":80
 		}
 	},
 	"Team Aqua Grunt_028":{
@@ -1036,15 +1036,15 @@
 			"nature":"Sassy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Return", "Superpower", "Iron Tail", "Bulk Up"],
-			"level":79
+			"level":81
 		},
 		"Gligar_2":{
 			"ability":"Hyper Cutter",
-			"item":"Sharp Beak",
+			"item":"Brightpowder",
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Aerial Ace", "X-Scissor", "Swords Dance"],
-			"level":81
+			"level":82
 		},
 		"Azumarill_3":{
 			"ability":"Huge Power",
@@ -1052,7 +1052,7 @@
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Double-Edge", "Superpower", "Super Fang", "Ice Beam"],
-			"level":79
+			"level":81
 		},
 		"Gengar_4":{
 			"ability":"Levitate",
@@ -1060,7 +1060,7 @@
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Thunderbolt", "Ice Punch", "Curse", "Destiny Bond"],
-			"level":79
+			"level":81
 		},
 		"Absol_5":{
 			"ability":"Pressure",
@@ -1068,7 +1068,7 @@
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Shadow Ball", "Megahorn", "Rock Slide", "Swords Dance"],
-			"level":77
+			"level":80
 		},
 		"Kingdra_6":{
 			"ability":"Swift Swim",
@@ -1076,7 +1076,7 @@
 			"nature":"Quiet",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Body Slam", "Dragonbreath", "Iron Head"],
-			"level":76
+			"level":79
 		}
 	},
 	"Expert Fredrick_029":{
@@ -1095,7 +1095,7 @@
 			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hydro Pump", "Blizzard", "Super Fang", "Shadow Ball"],
-			"level":79
+			"level":81
 		},
 		"Kingdra_2":{
 			"ability":"Swift Swim",
@@ -1103,7 +1103,7 @@
 			"nature":"Sassy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Dragonbreath", "Double-Edge", "Ice Beam"],
-			"level":80
+			"level":81
 		},
 		"Pinsir_3":{
 			"ability":"Intimidate",
@@ -1111,7 +1111,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["X-Scissor", "Aerial Ace", "Rock Slide", "Swords Dance"],
-			"level":80
+			"level":82
 		},
 		"Ludicolo_4":{
 			"ability":"Swift Swim",
@@ -1119,7 +1119,7 @@
 			"nature":"Adamant",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Giga Drain", "Surf", "Ice Beam", "Thunderpunch"],
-			"level":80
+			"level":82
 		},
 		"Qwilfish_5":{
 			"ability":"Swift Swim",
@@ -1127,15 +1127,15 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Sludge Bomb", "Double-Edge", "Crunch"],
-			"level":81
+			"level":82
 		},
 		"Raikou_6":{
 			"ability":"Pressure",
-			"item":"Lum Berry",
+			"item":"Leftovers",
 			"nature":"Gentle",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Thunder", "Weather Ball", "Extrasensory", "Extremespeed"],
-			"level":80
+			"moves":["Thunder", "Weather Ball", "Extrasensory", "Calm Mind"],
+			"level":82
 		}
 	},
 	"Team Aqua Grunt_031":{
@@ -1261,7 +1261,7 @@
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Psychic", "Weather Ball", "Crunch", "Double-Edge"],
-			"level":80
+			"level":82
 		},
 		"Metagross_2":{
 			"ability":"Clear Body",
@@ -1269,7 +1269,7 @@
 			"nature":"Quiet",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Meteor Mash", "Psychic", "Earthquake", "Agility"],
-			"level":82
+			"level":83
 		},
 		"Qwilfish_3":{
 			"ability":"Swift Swim",
@@ -1277,7 +1277,7 @@
 			"nature":"Careful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hydro Pump", "Sludge Bomb", "Explosion"],
-			"level":82
+			"level":84
 		},
 		"Snorlax_4":{
 			"ability":"Thick Fat",
@@ -1285,15 +1285,15 @@
 			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Return", "Thunder", "Surf", "Refresh"],
-			"level":83
+			"level":84
 		},
 		"Zapdos_5":{
 			"ability":"Pressure",
-			"item":"Sharp Beak",
+			"item":"Miracle Seed",
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Thunder", "Weather Ball", "Aerial Ace", "Hidden Power~11"],
-			"level":81
+			"moves":["Thunderbolt", "Weather Ball", "Aerial Ace", "Hidden Power~11"],
+			"level":83
 		},
 		"Latios_6":{
 			"ability":"Levitate",
@@ -2195,7 +2195,7 @@
 		},
 		"Alakazam_3":{
 			"ability":"Synchronize",
-			"item":"Twistedspoon",
+			"item":"Lum Berry",
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Psychic", "Thunderpunch", "Ice Punch", "Calm Mind"],
@@ -3010,7 +3010,7 @@
 			"ability":"Insomnia",
 			"nature":"Quirky",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Confuse Ray", "Shadow Ball", "Thunder Wave", "Knock Off"],
+			"moves":["Brick Break", "Screech", "Icy Wind", "Thunder Wave"],
 			"level":41
 		},
 		"Lunatone_2":{
@@ -3288,11 +3288,11 @@
 		},
 		"Lanturn_3":{
 			"ability":"Volt Absorb",
-			"item":"Lum Berry",
+			"item":"Leftovers",
 			"nature":"Naive",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Thunderbolt", "Ice Beam", "Psybeam"],
-			"level":81
+			"moves":["Surf", "Thunderbolt", "Psybeam", "Substitute"],
+			"level":82
 		},
 		"Dodrio_4":{
 			"ability":"Early Bird",
@@ -3300,7 +3300,7 @@
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Drill Peck", "Return", "Low Kick", "Swords Dance"],
-			"level":81
+			"level":83
 		},
 		"Muk_5":{
 			"ability":"Poison Point",
@@ -3308,7 +3308,7 @@
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Thunderbolt", "Heat Wave", "Toxic"],
-			"level":81
+			"level":83
 		},
 		"Marowak_6":{
 			"ability":"Rock Head",
@@ -3386,7 +3386,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Ice Beam", "Explosion", "Spikes"],
-			"level":81
+			"level":82
 		},
 		"Hitmontop_2":{
 			"ability":"Intimidate",
@@ -3402,7 +3402,7 @@
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Waterfall", "Megahorn", "Ice Beam", "Hidden Power~8"],
-			"level":81
+			"level":82
 		},
 		"Crawdaunt_4":{
 			"ability":"Shell Armor",
@@ -3418,7 +3418,15 @@
 			"nature":"Quirky",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Needle Arm", "Thunderpunch", "Destiny Bond", "Body Slam"],
-			"level":81
+			"level":82
+		},
+		"Butterfree_6":{
+			"ability":"Compoundeyes",
+			"item":"Lum Berry",
+			"nature":"Calm",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic", "Shadow Ball", "Giga Drain", "Sleep Powder"],
+			"level":83
 		}
 	},
 	"Lady Naomi_119":{
@@ -3427,7 +3435,7 @@
 			"item":"Nugget",
 			"nature":"Careful",
 			"ivs":{"hp":12, "at":12, "df":12, "sa":12, "sd":12, "sp":12},
-			"moves":["Petal Dance", "Giga Drain", "Toxic", "Synthesis"],
+			"moves":["Petal Dance", "Sludge Bomb", "Giga Drain", "Toxic"],
 			"level":45
 		}
 	},
@@ -3514,7 +3522,7 @@
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Aerial Ace", "Earthquake", "Substitute"],
-			"level":82
+			"level":83
 		},
 		"Meganium_2":{
 			"ability":"Thick Fat",
@@ -3522,7 +3530,7 @@
 			"nature":"Hardy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Giga Drain", "Earthquake", "Hidden Power~12", "Leech Seed"],
-			"level":82
+			"level":83
 		},
 		"Crobat_3":{
 			"ability":"Inner Focus",
@@ -3530,7 +3538,7 @@
 			"nature":"Docile",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Aerial Ace", "Heat Wave", "Steel Wing"],
-			"level":82
+			"level":83
 		},
 		"Blissey_4":{
 			"ability":"Natural Cure",
@@ -3538,7 +3546,7 @@
 			"nature":"Calm",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Ice Beam", "Thunderbolt", "Toxic", "Softboiled"],
-			"level":83
+			"level":84
 		},
 		"Weezing_5":{
 			"ability":"Levitate",
@@ -3546,7 +3554,7 @@
 			"nature":"Sassy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Psychic", "Flamethrower", "Will-O-Wisp"],
-			"level":82
+			"level":84
 		},
 		"Slowking_6":{
 			"ability":"Own Tempo",
@@ -3554,7 +3562,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Psychic", "Ice Beam", "Slack Off"],
-			"level":80
+			"level":83
 		}
 	},
 	"Beauty Bridget_129":{
@@ -3572,7 +3580,7 @@
 			"nature":"Naughty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crunch", "Surf", "Take Down", "Earthquake"],
-			"level":81
+			"level":82
 		},
 		"Kingler_3":{
 			"ability":"Shell Armor",
@@ -3580,7 +3588,7 @@
 			"nature":"Quirky",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crabhammer", "Crush Claw", "Mud Shot", "Brick Break"],
-			"level":81
+			"level":82
 		},
 		"Forretress_4":{
 			"ability":"Shell Armor",
@@ -3596,7 +3604,15 @@
 			"nature":"Docile",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Thunderbolt", "Flamethrower", "Crunch", "Thunder Wave"],
-			"level":81
+			"level":82
+		},
+		"Beedrill_6":{
+			"ability":"Swarm",
+			"item":"Focus Band",
+			"nature":"Jolly",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["X-Scissor", "Sludge Bomb", "Hidden Power~13", "Swords Dance"],
+			"level":83
 		}
 	},
 	"Beauty Olivia_130":{
@@ -3606,7 +3622,7 @@
 			"nature":"Adamant",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Fake Out", "Crush Claw", "Thunderbolt", "Water Pulse"],
-			"level":81
+			"level":84
 		},
 		"Azumarill_2":{
 			"ability":"Huge Power",
@@ -3614,7 +3630,7 @@
 			"nature":"Naughty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Double-Edge", "Superpower", "Surf", "Camouflage"],
-			"level":82
+			"level":83
 		},
 		"Glalie_3":{
 			"ability":"Intimidate",
@@ -3622,7 +3638,7 @@
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Ice Beam", "Iron Head", "Earthquake", "Icy Wind"],
-			"level":83
+			"level":84
 		},
 		"Tentacruel_4":{
 			"ability":"Liquid Ooze",
@@ -3630,7 +3646,7 @@
 			"nature":"Impish",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Muddy Water", "Sludge Bomb", "Toxic", "Wrap"],
-			"level":81
+			"level":83
 		},
 		"Mantine_5":{
 			"ability":"Swift Swim",
@@ -3638,15 +3654,15 @@
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Aerial Ace", "Amnesia", "Double Team"],
-			"level":81
+			"level":83
 		},
 		"Magneton_6":{
 			"ability":"Magnet Pull",
-			"item":"Lum Berry",
+			"item":"Leftovers",
 			"nature":"Gentle",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Thunderbolt", "Iron Head", "Toxic", "Light Screen"],
-			"level":81
+			"level":85
 		}
 	},
 	"Beauty Tiffany_131":{
@@ -4609,7 +4625,7 @@
 			"nature":"Hardy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Flamethrower", "Psychic", "Calm Mind", "Wish"],
-			"level":80
+			"level":82
 		},
 		"Hariyama_2":{
 			"ability":"Thick Fat",
@@ -4617,7 +4633,7 @@
 			"nature":"Rash",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Cross Chop", "Rock Slide", "Shadow Punch", "Belly Drum"],
-			"level":79
+			"level":81
 		},
 		"Kabutops_3":{
 			"ability":"Battle Armor",
@@ -4625,7 +4641,7 @@
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Aerial Ace", "X-Scissor", "Rock Slide"],
-			"level":78
+			"level":80
 		},
 		"Sneasel_4":{
 			"ability":"Inner Focus",
@@ -4633,7 +4649,7 @@
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Aerial Ace", "X-Scissor", "Brick Break", "Swords Dance"],
-			"level":83
+			"level":84
 		},
 		"Wailord_5":{
 			"ability":"Water Veil",
@@ -4641,7 +4657,7 @@
 			"nature":"Careful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Hyper Voice", "Earthquake", "Selfdestruct"],
-			"level":79
+			"level":81
 		},
 		"Tentacruel_6":{
 			"ability":"Liquid Ooze",
@@ -4649,7 +4665,7 @@
 			"nature":"Relaxed",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Sludge Bomb", "Ice Beam", "Toxic"],
-			"level":77
+			"level":79
 		}
 	},
 	"Guitarist Shawn_194":{
@@ -6792,7 +6808,7 @@
 			"item":"Lum Berry",
 			"nature":"Impish",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Hydro Pump", "Ice Beam", "Thunder", "Iron Head"],
+			"moves":["Hydro Pump", "Ice Beam", "Thunder", "Earthquake"],
 			"level":85
 		},
 		"Kingdra_2":{
@@ -6811,28 +6827,28 @@
 			"moves":["Surf", "Giga Drain", "Ice Beam", "Thunderpunch"],
 			"level":85
 		},
-		"Lanturn_4":{
-			"ability":"Volt Absorb",
-			"item":"Lum Berry",
-			"nature":"Timid",
+		"Swampert_4":{
+			"ability":"Swift Swim",
+			"item":"Liechi Berry",
+			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Thunder", "Ice Beam", "Psybeam"],
+			"moves":["Muddy Water", "Earthquake", "Sludge Bomb", "Rock Slide"],
 			"level":85
 		},
 		"Lapras_5":{
 			"ability":"Shell Armor",
-			"item":"Mystic Water",
-			"nature":"Careful",
+			"item":"Lum Berry",
+			"nature":"Naughty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Hydro Pump", "Ice Beam", "Thunder", "Body Slam"],
+			"moves":["Hydro Pump", "Ice Beam", "Thunder", "Megahorn"],
 			"level":85
 		},
 		"Articuno_6":{
 			"ability":"Pressure",
-			"item":"Lum Berry",
-			"nature":"Sassy",
+			"item":"Miracle Seed",
+			"nature":"Adamant",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Ice Beam", "Weather Ball", "Extrasensory", "Aerial Ace"],
+			"moves":["Ice Beam", "Weather Ball", "Hidden Power~11", "Agility"],
 			"level":85
 		}
 	},
@@ -6937,7 +6953,7 @@
 			"ability":"Insomnia",
 			"nature":"Adamant",
 			"ivs":{"hp":6, "at":6, "df":6, "sa":6, "sd":6, "sp":6},
-			"moves":["Shadow Ball", "Thunder Wave", "Knock Off", "Will-O-Wisp"],
+			"moves":["Screech", "Icy Wind", "Thunder Wave", "Knock Off"],
 			"level":34
 		},
 		"Medicham_3":{
@@ -7298,7 +7314,7 @@
 			"item":"Lum Berry",
 			"nature":"Impish",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Thunderbolt", "Ice Punch", "Fire Punch", "Confuse Ray"],
+			"moves":["Thunderbolt", "Ice Punch", "Fire Punch", "Hidden Power~11"],
 			"level":83
 		},
 		"Arcanine_3":{
@@ -10740,16 +10756,16 @@
 			"item":"Lum Berry",
 			"nature":"Careful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Double-Edge", "Megahorn", "Earthquake", "Hypnosis"],
-			"level":81
+			"moves":["Double-Edge", "Megahorn", "Earthquake", "Hidden Power~8"],
+			"level":83
 		},
 		"Omastar_2":{
 			"ability":"Shell Armor",
-			"item":"Lum Berry",
+			"item":"Focus Band",
 			"nature":"Adamant",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Muddy Water", "Rock Slide", "Body Slam", "Rock Tomb"],
-			"level":81
+			"level":83
 		},
 		"Magmar_3":{
 			"ability":"Flame Body",
@@ -10757,7 +10773,7 @@
 			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Flamethrower", "Thunderpunch", "Psychic", "Confuse Ray"],
-			"level":81
+			"level":83
 		},
 		"Raichu_4":{
 			"ability":"Static",
@@ -10765,7 +10781,7 @@
 			"nature":"Modest",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Thunderbolt", "Surf", "Body Slam", "Thunder Wave"],
-			"level":81
+			"level":84
 		},
 		"Sharpedo_5":{
 			"ability":"Rough Skin",
@@ -10773,7 +10789,7 @@
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Crunch", "Rock Tomb", "Earthquake"],
-			"level":81
+			"level":83
 		},
 		"Umbreon_6":{
 			"ability":"Synchronize",
@@ -10781,7 +10797,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crunch", "Refresh", "Calm Mind", "Moonlight"],
-			"level":81
+			"level":83
 		}
 	},
 	"Cooltrainer Jazmyn_503":{
@@ -12518,7 +12534,7 @@
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["X-Scissor", "Aerial Ace", "Superpower", "Swords Dance"],
-			"level":80
+			"level":82
 		},
 		"Exeggutor_2":{
 			"ability":"Chlorophyll",
@@ -12526,7 +12542,7 @@
 			"nature":"Sassy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Psychic", "Giga Drain", "Double-Edge", "Explosion"],
-			"level":80
+			"level":81
 		},
 		"Ursaring_3":{
 			"ability":"Guts",
@@ -12534,7 +12550,7 @@
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Crush Claw", "Superpower", "Sludge Bomb", "Bulk Up"],
-			"level":81
+			"level":82
 		},
 		"Lapras_4":{
 			"ability":"Shell Armor",
@@ -12542,7 +12558,7 @@
 			"nature":"Timid",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Thunder", "Psychic", "Ice Beam"],
-			"level":79
+			"level":80
 		},
 		"Weezing_5":{
 			"ability":"Levitate",
@@ -12550,7 +12566,7 @@
 			"nature":"Mild",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Thunder", "Hidden Power~5", "Explosion"],
-			"level":80
+			"level":83
 		},
 		"Dusclops_6":{
 			"ability":"Keen Eye",
@@ -12558,7 +12574,7 @@
 			"nature":"Impish",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Destiny Bond", "Shadow Ball", "Brick Break", "Curse"],
-			"level":81
+			"level":83
 		}
 	},
 	"Team Magma Grunt_568":{
@@ -13704,7 +13720,7 @@
 			"nature":"Gentle",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Ice Beam", "Iron Head", "Earthquake", "Explosion"],
-			"level":83
+			"level":84
 		},
 		"Wigglytuff_2":{
 			"ability":"Cute Charm",
@@ -13712,7 +13728,7 @@
 			"nature":"Lonely",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hyper Voice", "Psychic", "Flamethrower", "Shadow Ball"],
-			"level":83
+			"level":84
 		},
 		"Hariyama_3":{
 			"ability":"Thick Fat",
@@ -13732,7 +13748,7 @@
 		},
 		"Walrein_5":{
 			"ability":"Thick Fat",
-			"item":"Lum Berry",
+			"item":"Leftovers",
 			"nature":"Naive",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Surf", "Ice Beam", "Rock Slide", "Super Fang"],
@@ -13740,11 +13756,11 @@
 		},
 		"Manectric_6":{
 			"ability":"Static",
-			"item":"Lum Berry",
+			"item":"Blackglasses",
 			"nature":"Adamant",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Thunderbolt", "Flamethrower", "Crunch", "Body Slam"],
-			"level":83
+			"moves":["Thunderbolt", "Overheat", "Crunch", "Body Slam"],
+			"level":84
 		}
 	},
 	"Lass Crissy_614":{
@@ -13754,7 +13770,7 @@
 			"nature":"Impish",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Cross Chop", "Rock Slide", "Bullet Punch", "Shadow Punch"],
-			"level":81
+			"level":83
 		},
 		"Blastoise_2":{
 			"ability":"Torrent",
@@ -13762,15 +13778,15 @@
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hydro Pump", "Iron Head", "Earthquake", "Brick Break"],
-			"level":81
+			"level":83
 		},
 		"Whiscash_3":{
 			"ability":"Swift Swim",
-			"item":"Lum Berry",
+			"item":"Focus Band",
 			"nature":"Modest",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Earthquake", "Rock Slide", "Substitute", "Dragon Dance"],
-			"level":81
+			"level":84
 		},
 		"Seviper_4":{
 			"ability":"Shed Skin",
@@ -13778,7 +13794,7 @@
 			"nature":"Calm",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Sludge Bomb", "Giga Drain", "Earthquake", "Brick Break"],
-			"level":81
+			"level":83
 		},
 		"Primeape_5":{
 			"ability":"Vital Spirit",
@@ -13786,15 +13802,15 @@
 			"nature":"Hardy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Brick Break", "Rock Slide", "Sludge Bomb", "Iron Tail"],
-			"level":81
+			"level":83
 		},
 		"Wailord_6":{
 			"ability":"Water Veil",
 			"item":"Leftovers",
 			"nature":"Impish",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Hydro Pump", "Blizzard", "Selfdestruct", "Iron Head"],
-			"level":81
+			"moves":["Hydro Pump", "Hyper Voice", "Selfdestruct", "Iron Head"],
+			"level":84
 		}
 	},
 	"Bug Catcher Rick_615":{
@@ -19481,7 +19497,7 @@
 			"ability":"Insomnia",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Confuse Ray", "Shadow Ball", "Thunder Wave", "Knock Off"],
+			"moves":["Brick Break", "Screech", "Icy Wind", "Thunder Wave"],
 			"level":41
 		},
 		"Kadabra_2":{
