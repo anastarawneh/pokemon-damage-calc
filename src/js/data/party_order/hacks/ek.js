@@ -56,6 +56,14 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Venusaur",
 		"Poliwrath"
 	],
+	"Dragon Tamer Allan [#9]": [
+		"Alakazam",
+		"Heracross",
+		"Ninetales",
+		"Salamence",
+		"Scyther",
+		"Slowking"
+	],
 	"Team Aqua Grunt [#10]": [
 		"Koffing",
 		"Poochyena",
@@ -268,9 +276,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Gyarados",
 		"Zangoose"
 	],
-	"Cooltrainer Samuel [#81]": [
-		"Ditto"
-	],
 	"Cooltrainer Vito [#82]": [
 		"Hypno",
 		"Weezing",
@@ -398,7 +403,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Hitmontop",
 		"Seaking",
 		"Crawdaunt",
-		"Cacturne"
+		"Cacturne",
+		"Butterfree"
 	],
 	"Beauty Connie [#128]": [
 		"Feraligatr",
@@ -413,7 +419,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Sharpedo",
 		"Kingler",
 		"Forretress",
-		"Manectric"
+		"Manectric",
+		"Beedrill"
 	],
 	"Beauty Olivia [#130]": [
 		"Persian",
@@ -735,7 +742,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Kyogre",
 		"Kingdra",
 		"Ludicolo",
-		"Lanturn",
+		"Swampert",
 		"Lapras",
 		"Articuno"
 	],
@@ -802,14 +809,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Snorlax",
 		"Dragonite"
 	],
-	"Ninja Boy Anas [#325]": [
-		"Sceptile",
-		"Scizor",
-		"Flygon",
-		"Kingdra",
-		"Typhlosion",
-		"Heracross"
-	],
 	"Team Magma Grunt [#326]": [
 		"Weezing",
 		"Magmar",
@@ -841,6 +840,9 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Magcargo",
 		"Electrode",
 		"Rapidash"
+	],
+	"Fisherman Elliot [#339]": [
+		"Ditto"
 	],
 	"Fisherman Ned [#340]": [
 		"Tentacruel",

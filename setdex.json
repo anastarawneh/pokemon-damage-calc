@@ -546,6 +546,26 @@
 			],
 			"nature": "Naughty"
 		},
+		"Dragon Tamer Allan [#9]": {
+			"ability": "Synchronize",
+			"item": "Petaya Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Psychic",
+				"Fire Punch",
+				"Calm Mind",
+				"Hidden Power Grass"
+			],
+			"nature": "Bold"
+		},
 		"Hex Maniac Tammy [#107]": {
 			"ability": "Synchronize",
 			"item": "Lum Berry",
@@ -1863,7 +1883,7 @@
 				"Magical Leaf",
 				"Sunny Day",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Jolly"
 		}
@@ -2936,7 +2956,7 @@
 			"level": 42,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Timid"
 		}
@@ -4804,22 +4824,6 @@
 			],
 			"nature": "Careful"
 		},
-		"Cooltrainer Samuel [#81]": {
-			"ability": "Limber",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Transform"
-			],
-			"nature": "Gentle"
-		},
 		"Dragon Tamer Aaron [#397]": {
 			"ability": "Limber",
 			"ivs": {
@@ -4835,6 +4839,22 @@
 				"Transform"
 			],
 			"nature": "Careful"
+		},
+		"Fisherman Elliot [#339]": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Impish"
 		},
 		"Hiker Brice [#626]": {
 			"ability": "Limber",
@@ -6354,7 +6374,7 @@
 			"level": 71,
 			"moves": [
 				"Psychic",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Bite",
 				"Body Slam"
 			],
@@ -7113,26 +7133,6 @@
 				"Giga Drain"
 			],
 			"nature": "Rash"
-		},
-		"Ninja Boy Anas [#325]": {
-			"ability": "Levitate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 98,
-			"moves": [
-				"Earthquake",
-				"Dragon Claw",
-				"Rock Slide",
-				"Heat Wave"
-			],
-			"nature": "Lonely"
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Levitate",
@@ -9342,6 +9342,26 @@
 			],
 			"nature": "Naughty"
 		},
+		"Dragon Tamer Allan [#9]": {
+			"ability": "Swarm",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Megahorn",
+				"Spikes",
+				"Double-Edge",
+				"Earthquake"
+			],
+			"nature": "Bold"
+		},
 		"Elite Four Sidney [#261]": {
 			"ability": "Swarm",
 			"item": "Lum Berry",
@@ -9398,26 +9418,6 @@
 				"Pin Missile"
 			],
 			"nature": "Quiet"
-		},
-		"Ninja Boy Anas [#325]": {
-			"ability": "Swarm",
-			"item": "Silverpowder",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 95,
-			"moves": [
-				"Megahorn",
-				"Brick Break",
-				"Swords Dance",
-				"Substitute"
-			],
-			"nature": "Brave"
 		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Swarm",
@@ -11042,26 +11042,6 @@
 				"Rest"
 			],
 			"nature": "Serious"
-		},
-		"Ninja Boy Anas [#325]": {
-			"ability": "Swift Swim",
-			"item": "Leftovers",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 98,
-			"moves": [
-				"Octazooka",
-				"Dragonbreath",
-				"Iron Head",
-				"Toxic"
-			],
-			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Swift Swim",
@@ -15693,6 +15673,26 @@
 			],
 			"nature": "Docile"
 		},
+		"Dragon Tamer Allan [#9]": {
+			"ability": "Pressure",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 97,
+			"moves": [
+				"Calm Mind",
+				"Overheat",
+				"Hidden Power Water",
+				"Extrasensory"
+			],
+			"nature": "Jolly"
+		},
 		"Gentleman Nate [#582]": {
 			"ability": "Pressure",
 			"item": "Leftovers",
@@ -19182,6 +19182,26 @@
 			],
 			"nature": "Mild"
 		},
+		"Dragon Tamer Allan [#9]": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Dragon Dance",
+				"Aerial Ace",
+				"Brick Break",
+				"Rock Slide"
+			],
+			"nature": "Modest"
+		},
 		"Elite Four Drake [#264]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -19444,26 +19464,6 @@
 			],
 			"nature": "Hardy"
 		},
-		"Ninja Boy Anas [#325]": {
-			"ability": "Overgrow",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 99,
-			"moves": [
-				"Leaf Blade",
-				"Dragon Claw",
-				"Thunderpunch",
-				"Crush Claw"
-			],
-			"nature": "Sassy"
-		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
@@ -19666,26 +19666,6 @@
 			],
 			"nature": "Gentle"
 		},
-		"Ninja Boy Anas [#325]": {
-			"ability": "Swarm",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 98,
-			"moves": [
-				"Iron Head",
-				"X-Scissor",
-				"Superpower",
-				"Pursuit"
-			],
-			"nature": "Relaxed"
-		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Swarm",
 			"item": "Lum Berry",
@@ -19807,6 +19787,26 @@
 				"Quick Attack"
 			],
 			"nature": "Lonely"
+		},
+		"Dragon Tamer Allan [#9]": {
+			"ability": "Swarm",
+			"item": "Salac Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Swords Dance",
+				"Aerial Ace",
+				"X-Scissor",
+				"Superpower"
+			],
+			"nature": "Timid"
 		},
 		"Gentleman Clifford [#584]": {
 			"ability": "Swarm",
@@ -21063,6 +21063,26 @@
 				"Thunderpunch"
 			],
 			"nature": "Quirky"
+		},
+		"Dragon Tamer Allan [#9]": {
+			"ability": "Own Tempo",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 96,
+			"moves": [
+				"Calm Mind",
+				"Hydro Cannon",
+				"Psychic",
+				"Hidden Power Grass"
+			],
+			"nature": "Bashful"
 		},
 		"Leader Tate&Liza [#797]": {
 			"ability": "Own Tempo",
@@ -23420,7 +23440,7 @@
 			"level": 46,
 			"moves": [
 				"Solarbeam",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Aerial Ace",
 				"Body Slam"
 			],
@@ -23564,26 +23584,6 @@
 				"Solarbeam"
 			],
 			"nature": "Bold"
-		},
-		"Ninja Boy Anas [#325]": {
-			"ability": "Blaze",
-			"item": "Charcoal",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 98,
-			"moves": [
-				"Overheat",
-				"Extrasensory",
-				"Earthquake",
-				"Thunderpunch"
-			],
-			"nature": "Careful"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Blaze",
@@ -24171,7 +24171,7 @@
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Take Down"
 			],
 			"nature": "Careful"
@@ -24396,7 +24396,7 @@
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Quirky"
 		},
@@ -24415,7 +24415,7 @@
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Encore"
 			],
 			"nature": "Naughty"
@@ -24535,7 +24535,7 @@
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Synthesis"
 			],
 			"nature": "Bold"
@@ -24618,7 +24618,7 @@
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Moonlight"
 			],
 			"nature": "Serious"
@@ -24658,7 +24658,7 @@
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"Toxic"
 			],
 			"nature": "Calm"
