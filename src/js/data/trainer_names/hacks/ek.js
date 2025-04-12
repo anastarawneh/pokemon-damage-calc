@@ -170,7 +170,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Battle Girl Callie [#763]",
 	"Pokémon Ranger Lorenzo [#553]",
 	"Pokémon Ranger Jenna [#560]",
-	"Bug Maniac Jeffrey [#226]",
 
 	"Hex Maniac Tammy [#107]",
 	"Cooltrainer Marcel [#11]",

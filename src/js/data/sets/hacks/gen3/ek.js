@@ -1883,7 +1883,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Magical Leaf",
 				"Sunny Day",
 				"Sleep Powder",
-				"Weather Ball~2"
+				"Weather Ball"
 			],
 			"nature": "Jolly"
 		}
@@ -2956,7 +2956,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 42,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball~2"
+				"Weather Ball"
 			],
 			"nature": "Timid"
 		}
@@ -4760,22 +4760,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Ditto": {
-		"Bug Maniac Jeffrey [#226]": {
-			"ability": "Limber",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Transform"
-			],
-			"nature": "Hasty"
-		},
 		"Camper Ethan [#216]": {
 			"ability": "Limber",
 			"ivs": {
@@ -6374,7 +6358,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 71,
 			"moves": [
 				"Psychic",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Bite",
 				"Body Slam"
 			],
@@ -7133,6 +7117,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Giga Drain"
 			],
 			"nature": "Rash"
+		},
+		"Ninja Boy Anas [#325]": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Earthquake",
+				"Dragon Claw",
+				"Rock Slide",
+				"Heat Wave"
+			],
+			"nature": "Lonely"
 		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Levitate",
@@ -9419,6 +9423,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quiet"
 		},
+		"Ninja Boy Anas [#325]": {
+			"ability": "Swarm",
+			"item": "Silverpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 95,
+			"moves": [
+				"Megahorn",
+				"Brick Break",
+				"Swords Dance",
+				"Substitute"
+			],
+			"nature": "Brave"
+		},
 		"Team Magma Grunt [#586]": {
 			"ability": "Swarm",
 			"item": "Scope Lens",
@@ -11042,6 +11066,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rest"
 			],
 			"nature": "Serious"
+		},
+		"Ninja Boy Anas [#325]": {
+			"ability": "Swift Swim",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Octazooka",
+				"Dragonbreath",
+				"Iron Head",
+				"Toxic"
+			],
+			"nature": "Gentle"
 		},
 		"Team Aqua Grunt [#28]": {
 			"ability": "Swift Swim",
@@ -19464,6 +19508,26 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hardy"
 		},
+		"Ninja Boy Anas [#325]": {
+			"ability": "Overgrow",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 99,
+			"moves": [
+				"Leaf Blade",
+				"Dragon Claw",
+				"Thunderpunch",
+				"Crush Claw"
+			],
+			"nature": "Sassy"
+		},
 		"Pokã©Mon Trainer Brendan [#521]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
@@ -19665,6 +19729,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bullet Punch"
 			],
 			"nature": "Gentle"
+		},
+		"Ninja Boy Anas [#325]": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Iron Head",
+				"X-Scissor",
+				"Superpower",
+				"Pursuit"
+			],
+			"nature": "Relaxed"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Swarm",
@@ -23440,7 +23524,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 46,
 			"moves": [
 				"Solarbeam",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Aerial Ace",
 				"Body Slam"
 			],
@@ -23584,6 +23668,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam"
 			],
 			"nature": "Bold"
+		},
+		"Ninja Boy Anas [#325]": {
+			"ability": "Blaze",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 98,
+			"moves": [
+				"Overheat",
+				"Extrasensory",
+				"Earthquake",
+				"Thunderpunch"
+			],
+			"nature": "Careful"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Blaze",
@@ -24171,7 +24275,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Take Down"
 			],
 			"nature": "Careful"
@@ -24396,7 +24500,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Sleep Powder",
-				"Weather Ball~2"
+				"Weather Ball"
 			],
 			"nature": "Quirky"
 		},
@@ -24415,7 +24519,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Encore"
 			],
 			"nature": "Naughty"
@@ -24535,7 +24639,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Synthesis"
 			],
 			"nature": "Bold"
@@ -24618,7 +24722,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Moonlight"
 			],
 			"nature": "Serious"
@@ -24658,7 +24762,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball~3",
+				"Weather Ball",
 				"Toxic"
 			],
 			"nature": "Calm"
