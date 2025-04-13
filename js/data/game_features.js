@@ -20,6 +20,7 @@ const GAME_FEATURES = {
     "S/V": {},
     
     "Emerald Kaizo": {
-        sync: true
+        sync: true,
+        upload: true
     }
 };
