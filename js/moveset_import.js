@@ -98,7 +98,7 @@ function parseSaveFile(data) {
 				var decrypted = chunk ^ key;
 				if (decrypted < 0) decrypted = decrypted >>> 0;
 				var hex = decrypted.toString(16);
-				var bytes = [...Uint8Array.fromHex(hex.length % 2 ? "0" + hex : hex).reverse()];
+				var bytes = [...Uint8Array.from((hex.length % 2 ? "0" + hex : hex).match(/.{1,2}/g).map((byte) => parseInt(byte, 16))).reverse()];
 				while (bytes.length < 4) bytes.push(0);
 				sub = sub.concat(bytes);
 			}
