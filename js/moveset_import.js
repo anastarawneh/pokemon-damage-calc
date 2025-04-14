@@ -173,7 +173,9 @@ function parseSaveFile(data) {
 			paste += pokemon;
 		}
 
-		if (!paste.trim()) throw new Error("");
+		if (!paste.trim()) {
+			alert("No Pokémon were imported for some reason.")
+		}
 
 		addSets(paste, "Custom Set");
 		if (document.getElementById("cc-auto-refr").checked && $("#show-cc").is(":hidden")) {
@@ -181,8 +183,9 @@ function parseSaveFile(data) {
 		}
 
 		alert("Save file successfully imported.")
-	} catch {
-		alert("There was an error in reading the save file.")
+	} catch (ex) {
+		alert("There was an error while reading the save file.")
+		$(".import-team-text").val(ex + "\n\n" + paste)
 	}
 }
 
