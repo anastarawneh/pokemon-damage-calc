@@ -2,7 +2,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 
 	"Youngster Calvin [#318]",
 	"Bug Catcher Rick [#615]",
-	"Youngster Allen [#333]",
 	"Lass Tiana [#603]",
 
 	"Collector Edwin [#512]",
@@ -22,7 +21,6 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Sr. And Jr. Anna & Meg [#287]",
 	"Triathlete Dylan [#364]",
 	"Pokémon Breeder Isaac [#538]",
-	"Triathlete Maria [#369]",
 	"Battle Girl Aisha [#757]",
 	"Triathlete Melina [#755]",
 	"Bug Maniac Derek [#227]",
