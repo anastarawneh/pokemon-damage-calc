@@ -820,10 +820,6 @@
 		"Ninetales",
 		"Rhydon"
 	],
-	"Youngster Allen [#333]": [
-		"Togepi",
-		"Slakoth"
-	],
 	"Youngster Timmy [#334]": [
 		"Muk",
 		"Lairon",
@@ -863,11 +859,6 @@
 		"Yanma",
 		"Pidgeotto",
 		"Gligar"
-	],
-	"Triathlete Maria [#369]": [
-		"Skiploom",
-		"Farfetch'D",
-		"Natu"
 	],
 	"Dragon Tamer Aaron [#397]": [
 		"Ditto"
@@ -913,7 +904,8 @@
 		"Gyarados",
 		"Ampharos",
 		"Slowking",
-		"Gardevoir"
+		"Gardevoir",
+		"Misdreavus"
 	],
 	"Cooltrainer Dianne [#417]": [
 		"Swellow",
@@ -1293,6 +1285,7 @@
 	],
 	"Lass Tiana [#603]": [
 		"Cacnea",
+		"Slakoth",
 		"Diglett"
 	],
 	"Lass Haley [#604]": [

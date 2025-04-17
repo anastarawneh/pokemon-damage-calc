@@ -575,9 +575,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Shelgon",
 		"Vigoroth"
 	],
-	"Bug Maniac Jeffrey [#226]": [
-		"Ditto"
-	],
 	"Bug Maniac Derek [#227]": [
 		"Dustox",
 		"Beautifly",
@@ -809,16 +806,20 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Snorlax",
 		"Dragonite"
 	],
+	"Ninja Boy Anas [#325]": [
+		"Sceptile",
+		"Scizor",
+		"Flygon",
+		"Kingdra",
+		"Typhlosion",
+		"Heracross"
+	],
 	"Team Magma Grunt [#326]": [
 		"Weezing",
 		"Magmar",
 		"Zangoose",
 		"Ninetales",
 		"Rhydon"
-	],
-	"Youngster Allen [#333]": [
-		"Togepi",
-		"Slakoth"
 	],
 	"Youngster Timmy [#334]": [
 		"Muk",
@@ -859,11 +860,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Yanma",
 		"Pidgeotto",
 		"Gligar"
-	],
-	"Triathlete Maria [#369]": [
-		"Skiploom",
-		"Farfetch'D",
-		"Natu"
 	],
 	"Dragon Tamer Aaron [#397]": [
 		"Ditto"
@@ -909,7 +905,8 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Gyarados",
 		"Ampharos",
 		"Slowking",
-		"Gardevoir"
+		"Gardevoir",
+		"Misdreavus"
 	],
 	"Cooltrainer Dianne [#417]": [
 		"Swellow",
@@ -1289,6 +1286,7 @@ var CUSTOMHACKPARTYORDER_EK =
 	],
 	"Lass Tiana [#603]": [
 		"Cacnea",
+		"Slakoth",
 		"Diglett"
 	],
 	"Lass Haley [#604]": [

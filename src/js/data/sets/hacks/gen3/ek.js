@@ -251,7 +251,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 68,
 			"moves": [
 				"Aerial Ace",
 				"Earthquake",
@@ -353,7 +353,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Iron Tail",
 				"Rock Slide",
@@ -577,7 +577,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Psychic",
 				"Ice Punch",
@@ -799,7 +799,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Aerial Ace",
 				"Earthquake",
@@ -861,7 +861,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 43,
 			"moves": [
 				"Thunderbolt",
 				"Tail Glow",
@@ -1103,7 +1103,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 27,
+			"level": 29,
 			"moves": [
 				"Giga Drain",
 				"Crunch",
@@ -1264,7 +1264,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Overheat",
 				"Spark",
@@ -1390,7 +1390,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 100,
 			"moves": [
 				"Rock Slide",
-				"X-Scissor",
+				"Aerial Ace",
 				"Superpower",
 				"Earthquake"
 			],
@@ -1653,7 +1653,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 45,
 			"moves": [
 				"Double-Edge",
 				"Superpower"
@@ -1731,7 +1731,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Shadow Ball",
 				"Brick Break",
@@ -1773,7 +1773,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Leech Seed",
 				"Razor Leaf",
@@ -1795,7 +1795,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 31,
 			"moves": [
 				"Psychic",
 				"Giga Drain",
@@ -1856,7 +1856,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 31,
 			"moves": [
 				"X-Scissor",
 				"Sludge Bomb",
@@ -2305,7 +2305,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Seismic Toss",
 				"Counter",
@@ -2365,7 +2365,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 71,
 			"moves": [
 				"Flamethrower",
 				"Thunderbolt",
@@ -2387,7 +2387,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Spore",
 				"Sky Uppercut",
@@ -2407,7 +2407,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Focus Punch",
 				"Giga Drain",
@@ -2469,7 +2469,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 31,
 			"moves": [
 				"Hypnosis",
 				"Psybeam",
@@ -2615,8 +2615,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Needle Arm",
 				"Thunderpunch",
-				"Destiny Bond",
-				"Body Slam"
+				"Feint Attack",
+				"Destiny Bond"
 			],
 			"nature": "Quirky"
 		},
@@ -2631,7 +2631,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Spikes",
 				"Destiny Bond",
@@ -2953,7 +2953,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"Sunny Day",
 				"Weather Ball"
@@ -3054,7 +3054,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 96,
+			"level": 95,
 			"moves": [
 				"Heat Wave",
 				"Solarbeam",
@@ -3234,7 +3234,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 43,
 			"moves": [
 				"Flamethrower",
 				"Wing Attack",
@@ -3296,7 +3296,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 72,
 			"moves": [
 				"Thunder Wave",
 				"Extrasensory",
@@ -3316,7 +3316,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 43,
 			"moves": [
 				"Psychic",
 				"Hypnosis",
@@ -3380,7 +3380,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Earthquake",
 				"Psychic",
@@ -3616,7 +3616,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Psychic",
@@ -3758,7 +3758,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Return",
 				"Meteor Mash",
@@ -3918,7 +3918,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -4202,7 +4202,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 71,
 			"moves": [
 				"Rock Slide",
 				"Giga Drain",
@@ -4355,7 +4355,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Shell Armor",
-			"item": "Brightpowder",
+			"item": "Focus Band",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4446,7 +4446,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Aerial Ace",
 				"Sludge Bomb",
@@ -4588,7 +4588,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 31,
 			"moves": [
 				"Waterfall",
 				"Ice Punch",
@@ -4652,7 +4652,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Swift",
 				"Shadow Ball",
@@ -4713,7 +4713,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Ice Beam",
 				"Surf",
@@ -4745,18 +4745,18 @@ var CUSTOMHACKSETDEX_EK = {
 		"Lass Tiana [#603]": {
 			"ability": "Arena Trap",
 			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
 			},
 			"level": 11,
 			"moves": [
 				"Cut"
 			],
-			"nature": "Brave"
+			"nature": "Bold"
 		}
 	},
 	"Ditto": {
@@ -5184,7 +5184,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 70,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -5387,7 +5387,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Dragon Claw",
 				"Extremespeed",
@@ -5671,7 +5671,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Shadow Ball",
 				"Will-O-Wisp",
@@ -5773,7 +5773,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 31,
 			"moves": [
 				"Toxic",
 				"Protect",
@@ -5834,7 +5834,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 70,
 			"moves": [
 				"Thunderbolt",
 				"Psychic",
@@ -6617,7 +6617,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 71,
+			"level": 70,
 			"moves": [
 				"Solarbeam",
 				"Psychic",
@@ -6789,25 +6789,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Quick Attack"
 			],
 			"nature": "Gentle"
-		},
-		"Triathlete Maria [#369]": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 19,
-			"moves": [
-				"Leaf Blade",
-				"Aerial Ace",
-				"Quick Attack",
-				"Flail"
-			],
-			"nature": "Impish"
 		}
 	},
 	"Fearow": {
@@ -6822,12 +6803,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 31,
 			"moves": [
 				"Drill Peck",
 				"Secret Power",
 				"Steel Wing",
-				"Quick Attack"
+				"Hidden Power Ground"
 			],
 			"nature": "Mild"
 		}
@@ -7169,7 +7150,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 69,
 			"moves": [
 				"Earthquake",
 				"Aerial Ace",
@@ -7371,7 +7352,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Signal Beam",
 				"Explosion",
@@ -7411,7 +7392,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Iron Head",
 				"Signal Beam",
@@ -7451,7 +7432,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 71,
 			"moves": [
 				"Iron Head",
 				"Giga Drain",
@@ -7473,7 +7454,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Hyper Voice",
 				"Iron Tail",
@@ -7495,7 +7476,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Psychic",
 				"Magical Leaf",
@@ -7615,7 +7596,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Psychic",
 				"Thunderbolt",
@@ -7958,7 +7939,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Blizzard",
 				"Iron Head",
@@ -8523,7 +8504,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Return",
 				"Shadow Ball",
@@ -8769,7 +8750,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Psychic",
 				"Body Slam",
@@ -8931,7 +8912,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 68,
 			"moves": [
 				"Hidden Power Flying",
 				"Surf",
@@ -9315,7 +9296,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 25,
+			"level": 27,
 			"moves": [
 				"Hypnosis",
 				"Thunderpunch",
@@ -9621,7 +9602,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Brick Break",
 				"Rock Slide",
-				"Mega Punch",
+				"Bulk Up",
 				"Counter"
 			],
 			"nature": "Docile"
@@ -9713,7 +9694,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Brick Break",
 				"Rock Slide",
@@ -10164,7 +10145,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 71,
 			"moves": [
 				"Thunder",
 				"Weather Ball",
@@ -10754,7 +10735,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Fake Out",
 				"Crush Claw",
@@ -10854,7 +10835,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 43,
 			"moves": [
 				"Fake Out",
 				"Crush Claw",
@@ -11200,7 +11181,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Crabhammer",
 				"X-Scissor",
@@ -11283,7 +11264,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 45,
 			"moves": [
 				"Selfdestruct"
 			],
@@ -11342,7 +11323,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Rock Slide",
 				"Iron Tail",
@@ -11564,7 +11545,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 68,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -11815,7 +11796,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 27,
+			"level": 29,
 			"moves": [
 				"Belly Drum",
 				"Secret Power",
@@ -12201,7 +12182,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 71,
 			"moves": [
 				"Rock Slide",
 				"Psychic",
@@ -12243,7 +12224,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 44,
 			"moves": [
 				"Surf",
 				"Flail",
@@ -12324,7 +12305,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Dynamicpunch",
 				"Rock Slide",
@@ -12484,7 +12465,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Cross Chop",
 				"Rock Slide",
@@ -12710,7 +12691,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 46,
 			"moves": [
 				"Heat Wave",
 				"Ancientpower",
@@ -12750,7 +12731,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 71,
 			"moves": [
 				"Heat Wave",
 				"Rock Slide",
@@ -12792,7 +12773,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Flamethrower",
 				"Cross Chop",
@@ -13196,7 +13177,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 70,
 			"moves": [
 				"Thunder",
 				"Crunch",
@@ -13376,7 +13357,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 45,
 			"moves": [
 				"Thunderbolt",
 				"Flamethrower",
@@ -13479,7 +13460,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Aerial Ace",
 				"Surf",
@@ -13620,7 +13601,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -13943,7 +13924,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Brick Break",
 				"Psychic",
@@ -14100,7 +14081,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Brick Break",
 				"Shadow Ball",
@@ -14317,7 +14298,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Giga Drain",
 				"Earthquake",
@@ -14518,7 +14499,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 69,
 			"moves": [
 				"Meteor Mash",
 				"Earthquake",
@@ -14606,7 +14587,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 27,
+			"level": 31,
 			"moves": [
 				"Bite",
 				"Take Down",
@@ -15042,6 +15023,26 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dream Eater"
 			],
 			"nature": "Sassy"
+		},
+		"Team Aqua Grunt [#416]": {
+			"ability": "Levitate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Shadow Ball",
+				"Psychic",
+				"Thunder",
+				"Weather Ball"
+			],
+			"nature": "Hardy"
 		}
 	},
 	"Moltres": {
@@ -15180,7 +15181,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 71,
 			"moves": [
 				"Sludge Bomb",
 				"Flamethrower",
@@ -15220,7 +15221,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Sludge Bomb",
 				"Flamethrower",
@@ -15348,26 +15349,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Night Shade"
 			],
 			"nature": "Naive"
-		}
-	},
-	"Natu": {
-		"Triathlete Maria [#369]": {
-			"ability": "Synchronize",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 18,
-			"moves": [
-				"Psybeam",
-				"Aerial Ace",
-				"Night Shade"
-			],
-			"nature": "Modest"
 		}
 	},
 	"Nidoking": {
@@ -15564,7 +15545,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Earthquake",
 				"Poison Tail",
@@ -15604,7 +15585,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Earthquake",
 				"Poison Tail",
@@ -15644,7 +15625,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 43,
 			"moves": [
 				"Earthquake",
 				"Flamethrower",
@@ -15686,7 +15667,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Dig",
 				"Water Pulse",
@@ -15950,7 +15931,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -16011,7 +15992,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 29,
+			"level": 31,
 			"moves": [
 				"Aerial Ace",
 				"Night Shade",
@@ -16157,7 +16138,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Hydro Cannon",
 				"Fire Blast",
@@ -16182,7 +16163,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Octazooka",
 				"Psychic",
 				"Signal Beam",
-				"Water Spout"
+				"Ice Beam"
 			],
 			"nature": "Timid"
 		},
@@ -16199,9 +16180,9 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 44,
 			"moves": [
-				"Water Spout",
-				"Ice Beam",
 				"Octazooka",
+				"Ice Beam",
+				"Psybeam",
 				"Flamethrower"
 			],
 			"nature": "Calm"
@@ -16378,7 +16359,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Muddy Water",
 				"Rock Slide",
@@ -16459,7 +16440,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 44,
 			"moves": [
 				"Surf",
 				"Wing Attack",
@@ -16638,11 +16619,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Fake Out",
-				"Pay Day",
-				"Bite",
+				"Slash",
+				"Water Pulse",
 				"Thunderbolt"
 			],
 			"nature": "Hasty"
@@ -16761,7 +16742,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"Aerial Ace",
 				"Steel Wing",
@@ -16863,7 +16844,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Thunderbolt",
 				"Surf",
@@ -16885,7 +16866,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"Earthquake",
 				"Ancientpower",
@@ -17245,7 +17226,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"X-Scissor",
 				"Earthquake",
@@ -17470,7 +17451,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -17710,7 +17691,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 41,
 			"moves": [
 				"Tri Attack",
 				"Thunderbolt",
@@ -17911,7 +17892,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 70,
 			"moves": [
 				"Reversal",
 				"Rock Slide",
@@ -18095,7 +18076,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 32,
 			"moves": [
 				"Flamethrower",
 				"Quick Attack",
@@ -18137,7 +18118,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Surf",
 				"Sludge Bomb",
@@ -18276,7 +18257,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 70,
 			"moves": [
 				"Thunderbolt",
 				"Body Slam",
@@ -18356,7 +18337,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Thunderbolt",
 				"Body Slam",
@@ -18416,7 +18397,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 71,
 			"moves": [
 				"Thunderbolt",
 				"Surf",
@@ -19053,7 +19034,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Magical Leaf",
 				"Sludge Bomb",
@@ -19095,10 +19076,10 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 98,
+			"level": 99,
 			"moves": [
 				"Night Shade",
-				"Aerial Ace",
+				"Curse",
 				"Cosmic Power",
 				"Recover"
 			],
@@ -19135,7 +19116,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"Shadow Ball",
 				"Brick Break",
@@ -19360,7 +19341,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Earthquake",
 				"Crush Claw",
@@ -19417,7 +19398,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Earthquake",
 				"X-Scissor",
@@ -19821,7 +19802,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 69,
 			"moves": [
 				"Iron Head",
 				"X-Scissor",
@@ -20025,7 +20006,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Waterfall",
 				"Megahorn",
@@ -20067,7 +20048,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 31,
 			"moves": [
 				"Aurora Beam",
 				"Surf",
@@ -20149,7 +20130,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Poison Tail",
 				"Flamethrower",
@@ -20231,7 +20212,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 40,
 			"moves": [
 				"Surf",
 				"Ancientpower",
@@ -20251,7 +20232,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Crunch",
 				"Hydro Pump",
@@ -20353,7 +20334,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Headbutt",
 				"Dragonbreath",
@@ -20558,7 +20539,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 70,
 			"moves": [
 				"Iron Defense",
 				"Toxic",
@@ -20668,7 +20649,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Skarmory": {
 		"Bird Keeper Humberto [#402]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -20688,7 +20669,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Impish"
 		},
 		"Cooltrainer George [#73]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -20708,7 +20689,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Bold"
 		},
 		"Gentleman Clifford [#584]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -20721,14 +20702,14 @@ var CUSTOMHACKSETDEX_EK = {
 			"level": 70,
 			"moves": [
 				"Spikes",
-				"Aerial Ace",
+				"Drill Peck",
 				"Iron Head",
 				"Toxic"
 			],
 			"nature": "Hardy"
 		},
 		"Leader Roxanne [#265]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Berry Juice",
 			"ivs": {
 				"at": 31,
@@ -20748,7 +20729,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Mild"
 		},
 		"Leader Winona [#790]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20767,7 +20748,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Lonely"
 		},
 		"Leader Winona [#791]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20786,7 +20767,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Docile"
 		},
 		"Leader Winona [#793]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20805,7 +20786,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Quiet"
 		},
 		"Picnicker Becky [#470]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
@@ -20825,7 +20806,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Impish"
 		},
 		"Pokã©Mon Trainer Brendan [#521]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -20845,7 +20826,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Rash"
 		},
 		"Pokã©Mon Trainer Brendan [#524]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -20865,7 +20846,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Rash"
 		},
 		"Pokã©Mon Trainer Brendan [#527]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -20885,7 +20866,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Rash"
 		},
 		"Pokã©Mon Trainer May [#530]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -20905,7 +20886,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer May [#533]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -20925,7 +20906,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Hardy"
 		},
 		"Pokã©Mon Trainer May [#536]": {
-			"ability": "Keen Eye",
+			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -20943,27 +20924,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover"
 			],
 			"nature": "Hardy"
-		}
-	},
-	"Skiploom": {
-		"Triathlete Maria [#369]": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 19,
-			"moves": [
-				"Aerial Ace",
-				"Headbutt",
-				"Giga Drain",
-				"Stun Spore"
-			],
-			"nature": "Modest"
 		}
 	},
 	"Slaking": {
@@ -21026,7 +20986,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Slakoth": {
-		"Youngster Allen [#333]": {
+		"Lass Tiana [#603]": {
 			"ability": "Truant",
 			"item": "Oran Berry",
 			"ivs": {
@@ -21037,12 +20997,12 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 9,
+			"level": 10,
 			"moves": [
 				"Crush Claw",
 				"Slack Off"
 			],
-			"nature": "Bold"
+			"nature": "Docile"
 		}
 	},
 	"Slowbro": {
@@ -21377,7 +21337,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Reflect",
 				"Light Screen",
@@ -21396,7 +21356,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Calm Mind",
 				"Agility",
@@ -21459,7 +21419,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Aerial Ace",
 				"X-Scissor",
@@ -21884,7 +21844,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Fake Out",
 				"Teeter Dance",
@@ -21926,7 +21886,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Double-Edge",
 				"Megahorn"
@@ -22086,7 +22046,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 67,
 			"moves": [
 				"Cosmic Power",
 				"Psychic",
@@ -22247,7 +22207,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Earthquake",
 				"Iron Tail",
@@ -22451,7 +22411,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 70,
+			"level": 71,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -22554,7 +22514,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Ingrain",
 				"Spit Up",
@@ -22607,7 +22567,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Leader Juan [#272]": {
 			"ability": "Swift Swim",
-			"item": "Liechi Berry",
+			"item": "Salac Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22620,8 +22580,8 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Muddy Water",
 				"Earthquake",
-				"Sludge Bomb",
-				"Rock Slide"
+				"Rock Slide",
+				"Endeavor"
 			],
 			"nature": "Mild"
 		},
@@ -23040,7 +23000,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Surf",
 				"Sludge Bomb",
@@ -23100,7 +23060,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 68,
 			"moves": [
 				"Surf",
 				"Sludge Bomb",
@@ -23130,24 +23090,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Brave"
 		}
 	},
-	"Togepi": {
-		"Youngster Allen [#333]": {
-			"ability": "Serene Grace",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 7,
-			"moves": [
-				"Metronome"
-			],
-			"nature": "Impish"
-		}
-	},
 	"Togetic": {
 		"Lass Haley [#604]": {
 			"ability": "Serene Grace",
@@ -23160,7 +23102,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 27,
+			"level": 29,
 			"moves": [
 				"Double-Edge",
 				"Thunder Wave",
@@ -23262,7 +23204,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Flamethrower",
 				"Earthquake",
@@ -23304,7 +23246,6 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 44,
 			"moves": [
-				"Eruption",
 				"Explosion",
 				"Flamethrower",
 				"Rock Slide"
@@ -23481,7 +23422,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 43,
 			"moves": [
 				"Solarbeam",
 				"Synthesis",
@@ -23800,7 +23741,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Heat Wave",
 				"Spark",
@@ -23822,7 +23763,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 70,
 			"moves": [
 				"Rock Slide",
 				"Earthquake",
@@ -24068,7 +24009,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Crush Claw",
 				"Earthquake",
@@ -24351,7 +24292,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
@@ -24473,7 +24414,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Dragon Dance",
 				"Earthquake",
@@ -24515,7 +24456,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 97,
+			"level": 95,
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
@@ -24738,7 +24679,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 45,
 			"moves": [
 				"Magical Leaf",
 				"Sludge Bomb",
@@ -24861,7 +24802,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 28,
+			"level": 30,
 			"moves": [
 				"Explosion",
 				"Dive",
@@ -25023,7 +24964,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 69,
 			"moves": [
 				"Hydro Pump",
 				"Hyper Voice",
@@ -25063,7 +25004,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 68,
+			"level": 70,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -25105,7 +25046,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 68,
 			"moves": [
 				"Surf",
 				"Ice Beam",
@@ -25506,7 +25447,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 67,
+			"level": 69,
 			"moves": [
 				"Earthquake",
 				"Muddy Water",
@@ -26332,7 +26273,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Crush Claw",
 				"Brick Break",
-				"Shadow Ball",
+				"Crunch",
 				"Swords Dance"
 			],
 			"nature": "Sassy"
@@ -26348,7 +26289,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 69,
+			"level": 70,
 			"moves": [
 				"Crush Claw",
 				"X-Scissor",
