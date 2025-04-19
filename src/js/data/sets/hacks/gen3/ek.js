@@ -8827,7 +8827,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Hidden Power Water"
 			],
-			"nature": "Bold"
+			"nature": "Sassy"
 		}
 	},
 	"Houndoom": {
@@ -12379,7 +12379,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Shadow Ball",
 				"Fake Out"
 			],
-			"nature": "Quiet"
+			"nature": "Serious"
 		},
 		"Team Aqua Grunt [#24]": {
 			"ability": "Pure Power",
@@ -12759,7 +12759,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Hidden Power Bug"
 			],
-			"nature": "Lonely"
+			"nature": "Hasty"
 		},
 		"Pokã©Mon Trainer Steven [#804]": {
 			"ability": "Clear Body",
@@ -12862,7 +12862,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderbolt",
 				"Extremespeed"
 			],
-			"nature": "Jolly"
+			"nature": "Bashful"
 		}
 	},
 	"Mewtwo": {
@@ -12884,7 +12884,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Flamethrower",
 				"Brick Break"
 			],
-			"nature": "Bold"
+			"nature": "Modest"
 		}
 	},
 	"Mightyena": {
@@ -19644,7 +19644,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Reflect"
 			],
-			"nature": "Serious"
+			"nature": "Brave"
 		},
 		"Team Aqua Grunt [#236]": {
 			"ability": "Natural Cure",
