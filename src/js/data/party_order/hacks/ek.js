@@ -251,7 +251,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Crawdaunt",
 		"Sceptile",
 		"Machamp",
-		"Farfetch'D",
+		'Farfetch\u2019d',
 		"Zangoose"
 	],
 	"Cooltrainer Wilton [#78]": [
