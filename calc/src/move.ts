@@ -58,8 +58,8 @@ export class Move implements State.Move {
     let data: I.Move = extend(true, {name}, gen.moves.get(toID(name)), options.overrides);
     
     var game: I.Game = (document.querySelector("input[name='game']:checked + label")?.innerHTML || "None") as I.Game;
-    if (["Emerald Kaizo"].includes(game)) {
-      var hack_ids: {[game_name: string]: number} = { "Emerald Kaizo": 1 };
+    if (["Emerald Sim"].includes(game)) {
+      var hack_ids: {[game_name: string]: number} = { "Emerald Sim": 1 };
       data = extend(true, {name}, HACK_MOVES_BY_ID[hack_ids[game]][toID(name)], options.overrides);
     }
 

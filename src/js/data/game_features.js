@@ -6,7 +6,7 @@ const GAME_FEATURES = {
     "X/Y": {},
     "S/M": {},
     
-    "Emerald Kaizo": {
+    "Emerald Sim": {
         sync: true
     }
 };

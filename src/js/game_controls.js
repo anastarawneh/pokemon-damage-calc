@@ -2,7 +2,7 @@ var game, gameId, generation, isHack;
 $(".game").change(function() {
 	game = $("input[name='game']:checked + label").html();
     gameId = ~~$(this).val();
-	isHack = ["Emerald Kaizo"].includes(game);
+	isHack = ["Emerald Sim"].includes(game);
     var params = new URLSearchParams(window.location.search);
 	if (game == "None") {
 		params.delete('game');
@@ -725,7 +725,7 @@ function predictSwitchOrder() {
 		case "Platinum":
 			predictSwitchOrderPlatinum();
 			break;
-		case "Emerald Kaizo":
+		case "Emerald Sim":
 			predictSwitchOrderEmerald();
 			break;
 	}
@@ -778,7 +778,7 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 
 function predictMidTurnSwitch(p1, p2) {
 	switch (game) {
-		case "Emerald Kaizo":
+		case "Emerald Sim":
 			predictMidTurnSwitchEmerald(p1, p2);
 			break;
 	}
