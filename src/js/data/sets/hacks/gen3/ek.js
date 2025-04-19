@@ -3551,7 +3551,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Follow Me"
 			],
-			"nature": "Bold"
+			"nature": "Quiet"
 		}
 	},
 	"Cloyster": {
@@ -6240,7 +6240,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leaf Blade",
 				"Quick Attack"
 			],
-			"nature": "Gentle"
+			"nature": "Timid"
 		}
 	},
 	"Fearow": {
@@ -11609,7 +11609,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Vital Throw",
 				"Strength"
 			],
-			"nature": "Serious"
+			"nature": "Hasty"
 		}
 	},
 	"Manectric": {
@@ -19462,7 +19462,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Assist"
 			],
-			"nature": "Brave"
+			"nature": "Lonely"
 		}
 	},
 	"Stantler": {
@@ -21876,7 +21876,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Aerial Ace"
 			],
-			"nature": "Lax"
+			"nature": "Gentle"
 		}
 	},
 	"Victreebel": {
@@ -23439,7 +23439,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Brick Break",
 				"Quick Attack"
 			],
-			"nature": "Serious"
+			"nature": "Lonely"
 		},
 		"Picnicker Celia [#743]": {
 			"ability": "Guts",
