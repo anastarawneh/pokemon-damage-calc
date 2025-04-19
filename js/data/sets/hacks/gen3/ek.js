@@ -2523,7 +2523,7 @@ var CUSTOMHACKSETDEX_EK = {
     },
     "Tauros":
     {
-        "Aqua Admin Matt #2": {"ability": "Intimidate", "item": "Choice Band", "level": 66, "moves": ["Earthquake", "Double-Edge", "Iron Tail"], "nature": "Jolly"},
+        "Aqua Admin Matt #2": {"ability": "Intimidate", "item": "Choice Band", "level": 66, "moves": ["Earthquake", "Double-Edge", "Iron Tail"], "nature": "Impish"},
         "Elite Four Sidney": {"ability": "Intimidate", "item": "Lum Berry", "level": 100, "moves": ["Double-Edge", "Hidden Power Ghost", "Earthquake", "Quick Attack"], "nature": "Hasty"},
         "Leader Norman": {"ability": "Intimidate", "item": "Lum Berry", "level": 48, "moves": ["Body Slam", "Iron Tail", "Quick Attack", "Earth Power"], "nature": "Docile"},
         "Magma Leader Maxie #3": {"ability": "Intimidate", "item": "Lum Berry", "level": 71, "moves": ["Earthquake", "Double-Edge", "Hidden Power Ghost", "Iron Tail"], "nature": "Jolly"},
