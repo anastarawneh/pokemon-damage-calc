@@ -181,25 +181,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lax"
 		},
-		"Leader Roxanne [#773]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Rock Slide",
-				"Hyper Beam",
-				"Supersonic",
-				"Protect"
-			],
-			"nature": "Calm"
-		},
 		"Leader Winona [#270]": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
@@ -708,66 +689,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Gentle"
 		},
-		"Leader Winona [#790]": {
-			"ability": "Natural Cure",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Aerial Ace",
-				"Rest",
-				"Dragon Dance",
-				"Earthquake"
-			],
-			"nature": "Serious"
-		},
-		"Leader Winona [#791]": {
-			"ability": "Natural Cure",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Aerial Ace",
-				"Rest",
-				"Dragon Dance",
-				"Earthquake"
-			],
-			"nature": "Quiet"
-		},
-		"Leader Winona [#793]": {
-			"ability": "Natural Cure",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 60,
-			"moves": [
-				"Sky Attack",
-				"Rest",
-				"Dragon Dance",
-				"Earthquake"
-			],
-			"nature": "Adamant"
-		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Natural Cure",
 			"item": "Lum Berry",
@@ -909,44 +830,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave"
 			],
 			"nature": "Calm"
-		},
-		"Leader Wattson [#780]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Thunder",
-				"Protect",
-				"Thunder Wave",
-				"Light Screen"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Wattson [#781]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Thunder",
-				"Protect",
-				"Thunder Wave",
-				"Light Screen"
-			],
-			"nature": "Gentle"
 		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Static",
@@ -1173,25 +1056,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed"
 			],
 			"nature": "Naive"
-		},
-		"Leader Flannery [#785]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Helping Hand",
-				"Flamethrower",
-				"Sunny Day",
-				"Roar"
-			],
-			"nature": "Rash"
 		},
 		"Picnicker Becky [#470]": {
 			"ability": "Intimidate",
@@ -1580,7 +1444,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Superpower"
 			],
-			"nature": "Docile"
+			"nature": "Brave"
 		},
 		"Sailor Brenden [#572]": {
 			"ability": "Huge Power",
@@ -1662,7 +1526,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Azurill": {
-		"Pokã©Mon Breeder Isaac [#538]": {
+		"Pokémon Breeder Isaac [#538]": {
 			"ability": "Huge Power",
 			"item": "Choice Band",
 			"ivs": {
@@ -1681,7 +1545,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Bagon": {
-		"Pokã©Mon Breeder Lydia [#545]": {
+		"Pokémon Breeder Lydia [#545]": {
 			"ability": "Rock Head",
 			"item": "Salac Berry",
 			"ivs": {
@@ -2010,9 +1874,9 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Bashful"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokémon Trainer Brendan 3 [#525]": {
 			"ability": "Torrent",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2026,13 +1890,13 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Ice Beam",
 				"Mirror Coat",
-				"Yawn"
+				"Refresh"
 			],
 			"nature": "Hasty"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokémon Trainer May 3 [#534]": {
 			"ability": "Torrent",
-			"item": "Lum Berry",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2046,7 +1910,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Surf",
 				"Ice Beam",
 				"Mirror Coat",
-				"Yawn"
+				"Refresh"
 			],
 			"nature": "Bold"
 		},
@@ -2132,7 +1996,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokémon Trainer Brendan 2 [#524]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2152,7 +2016,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokémon Trainer Brendan 3 [#525]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2172,7 +2036,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokémon Trainer May 2 [#533]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2192,7 +2056,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hardy"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokémon Trainer May 3 [#534]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -2460,7 +2324,7 @@ var CUSTOMHACKSETDEX_EK = {
 	"Butterfree": {
 		"Bug Catcher James [#621]": {
 			"ability": "Compoundeyes",
-			"item": "Silverpowder",
+			"item": "Sitrus Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2721,86 +2585,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge"
 			],
 			"nature": "Serious"
-		},
-		"Leader Flannery [#782]": {
-			"ability": "Magma Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 38,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Earthquake",
-				"Attract"
-			],
-			"nature": "Quiet"
-		},
-		"Leader Flannery [#783]": {
-			"ability": "Magma Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Earthquake",
-				"Attract"
-			],
-			"nature": "Hasty"
-		},
-		"Leader Flannery [#784]": {
-			"ability": "Magma Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Earthquake",
-				"Attract"
-			],
-			"nature": "Hardy"
-		},
-		"Leader Flannery [#785]": {
-			"ability": "Magma Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Earthquake",
-				"Attract"
-			],
-			"nature": "Docile"
 		},
 		"Team Aqua Grunt [#19]": {
 			"ability": "Magma Armor",
@@ -3143,7 +2927,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Bashful"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokémon Trainer Brendan 3 [#522]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -3163,7 +2947,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lax"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokémon Trainer May 3 [#531]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -3429,82 +3213,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hardy"
 		},
-		"Leader Tate&Liza [#794]": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 49,
-			"moves": [
-				"Earthquake",
-				"Ancientpower",
-				"Psychic",
-				"Light Screen"
-			],
-			"nature": "Hardy"
-		},
-		"Leader Tate&Liza [#795]": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 54,
-			"moves": [
-				"Earthquake",
-				"Explosion",
-				"Psychic",
-				"Light Screen"
-			],
-			"nature": "Modest"
-		},
-		"Leader Tate&Liza [#796]": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 59,
-			"moves": [
-				"Earthquake",
-				"Explosion",
-				"Psychic",
-				"Light Screen"
-			],
-			"nature": "Quirky"
-		},
-		"Leader Tate&Liza [#797]": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 64,
-			"moves": [
-				"Earthquake",
-				"Explosion",
-				"Psychic",
-				"Light Screen"
-			],
-			"nature": "Quirky"
-		},
 		"Leader Winona [#270]": {
 			"ability": "Levitate",
 			"item": "Lum Berry",
@@ -3745,9 +3453,9 @@ var CUSTOMHACKSETDEX_EK = {
 				"Softboiled",
 				"Calm Mind"
 			],
-			"nature": "Docile"
+			"nature": "Brave"
 		},
-		"Pokã©Mon Ranger Lorenzo [#553]": {
+		"Pokémon Ranger Lorenzo [#553]": {
 			"ability": "Cute Charm",
 			"item": "Leftovers",
 			"ivs": {
@@ -3968,7 +3676,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Corphish": {
-		"Pokã©Mon Breeder Lydia [#545]": {
+		"Pokémon Breeder Lydia [#545]": {
 			"ability": "Shell Armor",
 			"ivs": {
 				"at": 31,
@@ -4272,86 +3980,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower"
 			],
 			"nature": "Calm"
-		},
-		"Leader Juan [#798]": {
-			"ability": "Shell Armor",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Rest",
-				"Crabhammer",
-				"Taunt",
-				"Double Team"
-			],
-			"nature": "Rash"
-		},
-		"Leader Juan [#799]": {
-			"ability": "Shell Armor",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Rest",
-				"Hidden Power Psychic",
-				"Taunt",
-				"Double Team"
-			],
-			"nature": "Timid"
-		},
-		"Leader Juan [#800]": {
-			"ability": "Shell Armor",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 58,
-			"moves": [
-				"Rest",
-				"Hidden Power Psychic",
-				"Taunt",
-				"Double Team"
-			],
-			"nature": "Careful"
-		},
-		"Leader Juan [#801]": {
-			"ability": "Shell Armor",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 63,
-			"moves": [
-				"Rest",
-				"Hidden Power Psychic",
-				"Taunt",
-				"Double Team"
-			],
-			"nature": "Lonely"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Shell Armor",
@@ -4761,7 +4389,7 @@ var CUSTOMHACKSETDEX_EK = {
 	},
 	"Ditto": {
 		"Camper Ethan [#216]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4777,7 +4405,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Quiet"
 		},
 		"Camper Larry [#213]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4793,7 +4421,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Careful"
 		},
 		"Cooltrainer Marley [#508]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4809,7 +4437,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Careful"
 		},
 		"Dragon Tamer Aaron [#397]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4825,7 +4453,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Careful"
 		},
 		"Fisherman Elliot [#339]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4841,7 +4469,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Impish"
 		},
 		"Hiker Brice [#626]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4857,7 +4485,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Lonely"
 		},
 		"Hiker Devan [#753]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4868,12 +4496,12 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 1,
 			"moves": [
-				"Transform"
+				"Harden"
 			],
 			"nature": "Bold"
 		},
 		"Hiker Eric [#632]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4889,7 +4517,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Careful"
 		},
 		"Kindler Hayden [#707]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4900,12 +4528,12 @@ var CUSTOMHACKSETDEX_EK = {
 			},
 			"level": 1,
 			"moves": [
-				"Transform"
+				"Harden"
 			],
 			"nature": "Serious"
 		},
 		"Pokéfan Isabel [#302]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4921,7 +4549,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Quiet"
 		},
 		"Sr. And Jr. Kate & Joy (1) [#286]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4937,7 +4565,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Jolly"
 		},
 		"Sr. And Jr. Kate & Joy [#286]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4953,7 +4581,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Impish"
 		},
 		"Youngster Deandre [#715]": {
-			"ability": "Limber",
+			"ability": "Suction Cups",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -5293,26 +4921,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Extremespeed"
 			],
 			"nature": "Hardy"
-		},
-		"Leader Winona [#791]": {
-			"ability": "Shed Skin",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Thunder Wave",
-				"Thunderbolt",
-				"Protect",
-				"Ice Beam"
-			],
-			"nature": "Rash"
 		}
 	},
 	"Dragonite": {
@@ -5355,26 +4963,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake"
 			],
 			"nature": "Modest"
-		},
-		"Leader Winona [#793]": {
-			"ability": "Inner Focus",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Hyper Beam",
-				"Thunderbolt",
-				"Earthquake",
-				"Ice Beam"
-			],
-			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#109]": {
 			"ability": "Inner Focus",
@@ -5434,7 +5022,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hydro Pump",
 				"Thunder"
 			],
-			"nature": "Bashful"
+			"nature": "Brave"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Inner Focus",
@@ -5457,48 +5045,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Naive"
 		}
 	},
-	"Dratini": {
-		"Leader Winona [#790]": {
-			"ability": "Shed Skin",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 40,
-			"moves": [
-				"Thunder Wave",
-				"Thunderbolt",
-				"Protect",
-				"Ice Beam"
-			],
-			"nature": "Quiet"
-		}
-	},
 	"Drowzee": {
-		"Leader Tate&Liza [#795]": {
-			"ability": "Insomnia",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Hypnosis",
-				"Dream Eater",
-				"Headbutt",
-				"Protect"
-			],
-			"nature": "Bashful"
-		},
 		"Psychic Brandi [#756]": {
 			"ability": "Insomnia",
 			"item": "Oran Berry",
@@ -5819,7 +5366,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Ice Punch",
 				"Brick Break",
-				"Quick Attack"
+				"Seismic Toss"
 			],
 			"nature": "Modest"
 		},
@@ -5882,25 +5429,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic"
 			],
 			"nature": "Sassy"
-		},
-		"Leader Wattson [#781]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Swift",
-				"Focus Punch",
-				"Thunderpunch",
-				"Light Screen"
-			],
-			"nature": "Careful"
 		}
 	},
 	"Electrike": {
@@ -5965,83 +5493,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Rash"
 		},
-		"Leader Wattson [#778]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 36,
-			"moves": [
-				"Rollout",
-				"Thunder",
-				"Explosion",
-				"Rain Dance"
-			],
-			"nature": "Docile"
-		},
-		"Leader Wattson [#779]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
-			"moves": [
-				"Rollout",
-				"Thunder",
-				"Explosion",
-				"Rain Dance"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Wattson [#780]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Rollout",
-				"Thunder",
-				"Explosion",
-				"Rain Dance"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Wattson [#781]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Rollout",
-				"Thunder",
-				"Explosion",
-				"Rain Dance"
-			],
-			"nature": "Gentle"
-		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokémon Trainer Brendan 3 [#522]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -6061,7 +5513,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokémon Trainer Brendan 3 [#525]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -6081,7 +5533,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokémon Trainer Brendan 3 [#528]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -6101,7 +5553,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokémon Trainer May 3 [#531]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -6121,7 +5573,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokémon Trainer May 3 [#534]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -6141,7 +5593,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokémon Trainer May 3 [#537]": {
 			"ability": "Static",
 			"item": "Magnet",
 			"ivs": {
@@ -6364,7 +5816,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokémon Trainer Brendan 2 [#521]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -6384,7 +5836,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokémon Trainer Brendan 2 [#524]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -6404,7 +5856,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokémon Trainer Brendan 2 [#527]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -6424,7 +5876,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokémon Trainer May 2 [#530]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -6444,7 +5896,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokémon Trainer May 2 [#533]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -6464,7 +5916,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokémon Trainer May 2 [#536]": {
 			"ability": "Synchronize",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -6769,7 +6221,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Docile"
 		}
 	},
-	"Farfetch'D": {
+	'Farfetch\u2019d': {
 		"Cooltrainer Berke [#74]": {
 			"ability": "Inner Focus",
 			"item": "Stick",
@@ -6852,7 +6304,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Dragon Dance"
 			],
-			"nature": "Sassy"
+			"nature": "Bashful"
 		},
 		"Elite Four Glacia [#263]": {
 			"ability": "Torrent",
@@ -6874,7 +6326,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokémon Trainer Brendan 3 [#522]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -6894,7 +6346,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hasty"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokémon Trainer May 3 [#531]": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -6955,25 +6407,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave"
 			],
 			"nature": "Hardy"
-		},
-		"Leader Wattson [#779]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
-			"moves": [
-				"Thunder",
-				"Protect",
-				"Thunder Wave",
-				"Light Screen"
-			],
-			"nature": "Lonely"
 		}
 	},
 	"Flareon": {
@@ -7221,7 +6654,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokémon Trainer Brendan 3 [#522]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -7241,7 +6674,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokémon Trainer Brendan 3 [#525]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -7261,7 +6694,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokémon Trainer Brendan 3 [#528]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -7281,7 +6714,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokémon Trainer May 3 [#531]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -7301,7 +6734,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokémon Trainer May 3 [#534]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -7321,7 +6754,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokémon Trainer May 3 [#537]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
 			"ivs": {
@@ -8211,7 +7644,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge",
 				"Flamethrower"
 			],
-			"nature": "Quirky"
+			"nature": "Calm"
 		},
 		"Hiker Eli [#501]": {
 			"ability": "Rock Head",
@@ -8252,82 +7685,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Double-Edge"
 			],
 			"nature": "Rash"
-		},
-		"Leader Roxanne [#770]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 32,
-			"moves": [
-				"Protect",
-				"Rollout",
-				"Magnitude",
-				"Explosion"
-			],
-			"nature": "Adamant"
-		},
-		"Leader Roxanne [#771]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 37,
-			"moves": [
-				"Protect",
-				"Rollout",
-				"Magnitude",
-				"Explosion"
-			],
-			"nature": "Docile"
-		},
-		"Leader Roxanne [#772]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Protect",
-				"Rollout",
-				"Earthquake",
-				"Explosion"
-			],
-			"nature": "Calm"
-		},
-		"Leader Roxanne [#773]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Focus Punch",
-				"Rollout",
-				"Earthquake",
-				"Explosion"
-			],
-			"nature": "Calm"
 		},
 		"Picnicker Heidi [#469]": {
 			"ability": "Rock Head",
@@ -8429,7 +7786,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Amnesia",
 				"Double Team"
 			],
-			"nature": "Serious"
+			"nature": "Impish"
 		},
 		"Team Aqua Grunt [#760]": {
 			"ability": "Swift Swim",
@@ -8493,7 +7850,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Pokã©Mon Ranger Lorenzo [#553]": {
+		"Pokémon Ranger Lorenzo [#553]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
 			"ivs": {
@@ -8636,46 +7993,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Iron Head"
 			],
 			"nature": "Naughty"
-		}
-	},
-	"Growlithe": {
-		"Leader Flannery [#783]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
-			"moves": [
-				"Helping Hand",
-				"Flamethrower",
-				"Roar",
-				"Sunny Day"
-			],
-			"nature": "Sassy"
-		},
-		"Leader Flannery [#784]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Helping Hand",
-				"Flamethrower",
-				"Sunny Day",
-				"Roar"
-			],
-			"nature": "Rash"
 		}
 	},
 	"Grumpig": {
@@ -9123,86 +8440,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Leader Brawly [#774]": {
-			"ability": "Thick Fat",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 37,
-			"moves": [
-				"Fake Out",
-				"Focus Punch",
-				"Belly Drum",
-				"Earthquake"
-			],
-			"nature": "Rash"
-		},
-		"Leader Brawly [#775]": {
-			"ability": "Thick Fat",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Fake Out",
-				"Focus Punch",
-				"Belly Drum",
-				"Earthquake"
-			],
-			"nature": "Calm"
-		},
-		"Leader Brawly [#776]": {
-			"ability": "Thick Fat",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Fake Out",
-				"Focus Punch",
-				"Belly Drum",
-				"Earthquake"
-			],
-			"nature": "Quiet"
-		},
-		"Leader Brawly [#777]": {
-			"ability": "Thick Fat",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 52,
-			"moves": [
-				"Fake Out",
-				"Focus Punch",
-				"Belly Drum",
-				"Earthquake"
-			],
-			"nature": "Quirky"
-		},
 		"Sailor Brenden [#572]": {
 			"ability": "Thick Fat",
 			"item": "Sitrus Berry",
@@ -9406,7 +8643,7 @@ var CUSTOMHACKSETDEX_EK = {
 		},
 		"Ninja Boy Anas [#325]": {
 			"ability": "Swarm",
-			"item": "Silverpowder",
+			"item": "Chesto Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -9462,7 +8699,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide",
 				"Swords Dance"
 			],
-			"nature": "Sassy"
+			"nature": "Bashful"
 		}
 	},
 	"Hitmonchan": {
@@ -9485,44 +8722,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Rock Slide"
 			],
 			"nature": "Bold"
-		},
-		"Leader Brawly [#776]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 40,
-			"moves": [
-				"Sky Uppercut",
-				"Protect",
-				"Fire Punch",
-				"Ice Punch"
-			],
-			"nature": "Hardy"
-		},
-		"Leader Brawly [#777]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Sky Uppercut",
-				"Protect",
-				"Fire Punch",
-				"Ice Punch"
-			],
-			"nature": "Relaxed"
 		}
 	},
 	"Hitmonlee": {
@@ -9545,25 +8744,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Seismic Toss"
 			],
 			"nature": "Careful"
-		},
-		"Leader Brawly [#777]": {
-			"ability": "Limber",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Mega Kick",
-				"Focus Punch",
-				"Earthquake",
-				"Bulk Up"
-			],
-			"nature": "Timid"
 		}
 	},
 	"Hitmontop": {
@@ -9607,82 +8787,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Docile"
 		},
-		"Leader Brawly [#774]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 35,
-			"moves": [
-				"Pursuit",
-				"Counter",
-				"Protect",
-				"Triple Kick"
-			],
-			"nature": "Adamant"
-		},
-		"Leader Brawly [#775]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 40,
-			"moves": [
-				"Pursuit",
-				"Counter",
-				"Protect",
-				"Triple Kick"
-			],
-			"nature": "Naughty"
-		},
-		"Leader Brawly [#776]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Pursuit",
-				"Counter",
-				"Protect",
-				"Triple Kick"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Brawly [#777]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Pursuit",
-				"Counter",
-				"Protect",
-				"Triple Kick"
-			],
-			"nature": "Impish"
-		},
 		"Team Aqua Grunt [#35]": {
 			"ability": "Intimidate",
 			"item": "Leftovers",
@@ -9724,27 +8828,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Water"
 			],
 			"nature": "Bold"
-		}
-	},
-	"Hoothoot": {
-		"Leader Winona [#791]": {
-			"ability": "Insomnia",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Hypnosis",
-				"Psychic",
-				"Reflect",
-				"Dream Eater"
-			],
-			"nature": "Naughty"
 		}
 	},
 	"Houndoom": {
@@ -9828,25 +8911,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Leader Flannery [#785]": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Roar",
-				"Solarbeam",
-				"Taunt",
-				"Sunny Day"
-			],
-			"nature": "Mild"
-		},
 		"Magma Admin Tabitha [#597]": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -9908,27 +8972,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Lonely"
 		}
 	},
-	"Houndour": {
-		"Leader Flannery [#784]": {
-			"ability": "Early Bird",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Roar",
-				"Solarbeam",
-				"Taunt",
-				"Sunny Day"
-			],
-			"nature": "Hardy"
-		}
-	},
 	"Hypno": {
 		"Cooltrainer Gerald [#648]": {
 			"ability": "Insomnia",
@@ -9969,44 +9012,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis"
 			],
 			"nature": "Rash"
-		},
-		"Leader Tate&Liza [#796]": {
-			"ability": "Insomnia",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 58,
-			"moves": [
-				"Hypnosis",
-				"Dream Eater",
-				"Headbutt",
-				"Protect"
-			],
-			"nature": "Adamant"
-		},
-		"Leader Tate&Liza [#797]": {
-			"ability": "Insomnia",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 63,
-			"moves": [
-				"Hypnosis",
-				"Dream Eater",
-				"Headbutt",
-				"Protect"
-			],
-			"nature": "Adamant"
 		},
 		"Psychic Preston [#233]": {
 			"ability": "Insomnia",
@@ -10398,7 +9403,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hasty"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokémon Trainer Brendan 3 [#522]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -10418,7 +9423,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokémon Trainer Brendan 3 [#525]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -10438,7 +9443,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokémon Trainer Brendan 3 [#528]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -10458,7 +9463,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokémon Trainer May 3 [#531]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -10478,7 +9483,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokémon Trainer May 3 [#534]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -10498,7 +9503,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokémon Trainer May 3 [#537]": {
 			"ability": "Oblivious",
 			"item": "Twistedspoon",
 			"ivs": {
@@ -10540,26 +9545,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Kabuto": {
-		"Leader Roxanne [#770]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 35,
-			"moves": [
-				"Swords Dance",
-				"Ice Beam",
-				"Surf",
-				"Rock Slide"
-			],
-			"nature": "Brave"
-		},
 		"Youngster Tommy [#321]": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -10601,66 +9586,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"X-Scissor"
 			],
 			"nature": "Rash"
-		},
-		"Leader Roxanne [#771]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 40,
-			"moves": [
-				"Swords Dance",
-				"Ice Beam",
-				"Surf",
-				"Rock Slide"
-			],
-			"nature": "Sassy"
-		},
-		"Leader Roxanne [#772]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Swords Dance",
-				"Ice Beam",
-				"Surf",
-				"Rock Slide"
-			],
-			"nature": "Hasty"
-		},
-		"Leader Roxanne [#773]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Swords Dance",
-				"Ice Beam",
-				"Surf",
-				"Rock Slide"
-			],
-			"nature": "Adamant"
 		},
 		"Ruin Maniac Dusty [#44]": {
 			"ability": "Battle Armor",
@@ -10967,86 +9892,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Dragon Dance"
 			],
 			"nature": "Rash"
-		},
-		"Leader Juan [#798]": {
-			"ability": "Swift Swim",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Water Pulse",
-				"Double Team",
-				"Ice Beam",
-				"Rest"
-			],
-			"nature": "Bold"
-		},
-		"Leader Juan [#799]": {
-			"ability": "Swift Swim",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 56,
-			"moves": [
-				"Water Pulse",
-				"Double Team",
-				"Ice Beam",
-				"Rest"
-			],
-			"nature": "Gentle"
-		},
-		"Leader Juan [#800]": {
-			"ability": "Swift Swim",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 61,
-			"moves": [
-				"Water Pulse",
-				"Double Team",
-				"Ice Beam",
-				"Rest"
-			],
-			"nature": "Lax"
-		},
-		"Leader Juan [#801]": {
-			"ability": "Swift Swim",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 66,
-			"moves": [
-				"Water Pulse",
-				"Double Team",
-				"Ice Beam",
-				"Rest"
-			],
-			"nature": "Serious"
 		},
 		"Ninja Boy Anas [#325]": {
 			"ability": "Swift Swim",
@@ -11496,44 +10341,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Leader Juan [#800]": {
-			"ability": "Shell Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 56,
-			"moves": [
-				"Hydro Pump",
-				"Perish Song",
-				"Ice Beam",
-				"Confuse Ray"
-			],
-			"nature": "Mild"
-		},
-		"Leader Juan [#801]": {
-			"ability": "Shell Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 61,
-			"moves": [
-				"Hydro Pump",
-				"Perish Song",
-				"Ice Beam",
-				"Confuse Ray"
-			],
-			"nature": "Mild"
-		},
 		"Team Aqua Grunt [#23]": {
 			"ability": "Shell Armor",
 			"item": "Leftovers",
@@ -11596,7 +10403,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Larvitar": {
-		"Pokã©Mon Breeder Isaac [#538]": {
+		"Pokémon Breeder Isaac [#538]": {
 			"ability": "Guts",
 			"ivs": {
 				"at": 31,
@@ -12051,86 +10858,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Lunatone": {
-		"Leader Tate&Liza [#794]": {
-			"ability": "Levitate",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Earthquake",
-				"Psychic",
-				"Rest",
-				"Calm Mind"
-			],
-			"nature": "Naughty"
-		},
-		"Leader Tate&Liza [#795]": {
-			"ability": "Levitate",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Earthquake",
-				"Psychic",
-				"Rest",
-				"Calm Mind"
-			],
-			"nature": "Rash"
-		},
-		"Leader Tate&Liza [#796]": {
-			"ability": "Levitate",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 60,
-			"moves": [
-				"Earthquake",
-				"Psychic",
-				"Rest",
-				"Calm Mind"
-			],
-			"nature": "Naughty"
-		},
-		"Leader Tate&Liza [#797]": {
-			"ability": "Levitate",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 65,
-			"moves": [
-				"Earthquake",
-				"Psychic",
-				"Rest",
-				"Calm Mind"
-			],
-			"nature": "Bashful"
-		},
 		"Picnicker Celia [#743]": {
 			"ability": "Levitate",
 			"item": "Sitrus Berry",
@@ -12334,86 +11061,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Leader Brawly [#774]": {
-			"ability": "Guts",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 33,
-			"moves": [
-				"Karate Chop",
-				"Rock Slide",
-				"Focus Punch",
-				"Bulk Up"
-			],
-			"nature": "Brave"
-		},
-		"Leader Brawly [#775]": {
-			"ability": "Guts",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 38,
-			"moves": [
-				"Karate Chop",
-				"Rock Slide",
-				"Focus Punch",
-				"Bulk Up"
-			],
-			"nature": "Brave"
-		},
-		"Leader Brawly [#776]": {
-			"ability": "Guts",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Karate Chop",
-				"Rock Slide",
-				"Focus Punch",
-				"Bulk Up"
-			],
-			"nature": "Quirky"
-		},
-		"Leader Brawly [#777]": {
-			"ability": "Guts",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Cross Chop",
-				"Rock Slide",
-				"Focus Punch",
-				"Bulk Up"
-			],
-			"nature": "Docile"
-		},
 		"Team Magma Grunt [#116]": {
 			"ability": "Guts",
 			"item": "Quick Claw",
@@ -12560,86 +11207,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Leader Flannery [#782]": {
-			"ability": "Flame Body",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 38,
-			"moves": [
-				"Overheat",
-				"Attract",
-				"Light Screen",
-				"Rock Slide"
-			],
-			"nature": "Rash"
-		},
-		"Leader Flannery [#783]": {
-			"ability": "Flame Body",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Overheat",
-				"Attract",
-				"Light Screen",
-				"Rock Slide"
-			],
-			"nature": "Jolly"
-		},
-		"Leader Flannery [#784]": {
-			"ability": "Flame Body",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Overheat",
-				"Attract",
-				"Light Screen",
-				"Rock Slide"
-			],
-			"nature": "Timid"
-		},
-		"Leader Flannery [#785]": {
-			"ability": "Flame Body",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Overheat",
-				"Attract",
-				"Light Screen",
-				"Rock Slide"
-			],
-			"nature": "Timid"
-		},
 		"Leader Roxanne [#265]": {
 			"ability": "Flame Body",
 			"item": "Salac Berry",
@@ -12757,7 +11324,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Fire Punch",
 				"Brick Break",
-				"Thunderpunch",
+				"Seismic Toss",
 				"Psychic"
 			],
 			"nature": "Sassy"
@@ -12943,86 +11510,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunder Wave"
 			],
 			"nature": "Mild"
-		},
-		"Leader Wattson [#778]": {
-			"ability": "Magnet Pull",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 38,
-			"moves": [
-				"Supersonic",
-				"Protect",
-				"Thunder",
-				"Rain Dance"
-			],
-			"nature": "Brave"
-		},
-		"Leader Wattson [#779]": {
-			"ability": "Magnet Pull",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Supersonic",
-				"Protect",
-				"Thunder",
-				"Rain Dance"
-			],
-			"nature": "Sassy"
-		},
-		"Leader Wattson [#780]": {
-			"ability": "Magnet Pull",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Supersonic",
-				"Protect",
-				"Thunder",
-				"Rain Dance"
-			],
-			"nature": "Sassy"
-		},
-		"Leader Wattson [#781]": {
-			"ability": "Magnet Pull",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Supersonic",
-				"Protect",
-				"Thunder",
-				"Rain Dance"
-			],
-			"nature": "Quiet"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Magnet Pull",
@@ -13245,86 +11732,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass"
 			],
 			"nature": "Gentle"
-		},
-		"Leader Wattson [#778]": {
-			"ability": "Static",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 40,
-			"moves": [
-				"Bite",
-				"Thunder Wave",
-				"Thunder",
-				"Protect"
-			],
-			"nature": "Gentle"
-		},
-		"Leader Wattson [#779]": {
-			"ability": "Static",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Bite",
-				"Thunder Wave",
-				"Thunder",
-				"Protect"
-			],
-			"nature": "Mild"
-		},
-		"Leader Wattson [#780]": {
-			"ability": "Static",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Bite",
-				"Thunder Wave",
-				"Thunder",
-				"Protect"
-			],
-			"nature": "Mild"
-		},
-		"Leader Wattson [#781]": {
-			"ability": "Static",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Bite",
-				"Thunder Wave",
-				"Thunder",
-				"Protect"
-			],
-			"nature": "Hasty"
 		},
 		"Psychic Blake [#235]": {
 			"ability": "Static",
@@ -13568,25 +11975,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Body Slam"
 			],
 			"nature": "Modest"
-		},
-		"Leader Wattson [#778]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 36,
-			"moves": [
-				"Thunder",
-				"Protect",
-				"Thunder Wave",
-				"Light Screen"
-			],
-			"nature": "Docile"
 		}
 	},
 	"Marowak": {
@@ -13687,7 +12075,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Mega Kick",
 				"Iron Head"
 			],
-			"nature": "Hasty"
+			"nature": "Relaxed"
 		},
 		"Tuber Donut [#324]": {
 			"ability": "Rock Head",
@@ -13973,63 +12361,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Adamant"
 		},
-		"Leader Brawly [#775]": {
-			"ability": "Pure Power",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 38,
-			"moves": [
-				"Psychic",
-				"Light Screen",
-				"Reflect",
-				"Focus Punch"
-			],
-			"nature": "Careful"
-		},
-		"Leader Brawly [#776]": {
-			"ability": "Pure Power",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Focus Punch",
-				"Light Screen",
-				"Reflect",
-				"Psychic"
-			],
-			"nature": "Calm"
-		},
-		"Leader Brawly [#777]": {
-			"ability": "Pure Power",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Focus Punch",
-				"Light Screen",
-				"Reflect",
-				"Psychic"
-			],
-			"nature": "Brave"
-		},
 		"Leader Tate&Liza [#271]": {
 			"ability": "Pure Power",
 			"item": "Lum Berry",
@@ -14045,7 +12376,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Brick Break",
 				"Rock Slide",
-				"Bullet Punch",
+				"Shadow Ball",
 				"Fake Out"
 			],
 			"nature": "Quiet"
@@ -14165,25 +12496,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Reversal"
 			],
 			"nature": "Mild"
-		},
-		"Leader Brawly [#774]": {
-			"ability": "Pure Power",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 33,
-			"moves": [
-				"Psychic",
-				"Light Screen",
-				"Reflect",
-				"Focus Punch"
-			],
-			"nature": "Sassy"
 		}
 	},
 	"Meganium": {
@@ -14227,7 +12539,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Jolly"
 		},
-		"Pokã©Mon Trainer Brendan [#525]": {
+		"Pokémon Trainer Brendan 3 [#525]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -14242,12 +12554,12 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
-				"Double-Edge",
+				"Weather Ball",
 				"Rock Slide"
 			],
 			"nature": "Sassy"
 		},
-		"Pokã©Mon Trainer May [#534]": {
+		"Pokémon Trainer May 3 [#534]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -14262,7 +12574,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
-				"Double-Edge",
+				"Weather Ball",
 				"Rock Slide"
 			],
 			"nature": "Jolly"
@@ -14407,7 +12719,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Thunderpunch"
 			],
-			"nature": "Calm"
+			"nature": "Mild"
 		},
 		"Hiker Adrian [#38]": {
 			"ability": "Clear Body",
@@ -14831,7 +13143,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 33,
+			"level": 32,
 			"moves": [
 				"Brick Break",
 				"Body Slam",
@@ -15168,7 +13480,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Toxic",
 				"Shadow Ball"
 			],
-			"nature": "Calm"
+			"nature": "Mild"
 		},
 		"Gentleman Walter [#254]": {
 			"ability": "Poison Point",
@@ -15210,7 +13522,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hasty"
 		},
-		"Pokã©Mon Ranger Lorenzo [#553]": {
+		"Pokémon Ranger Lorenzo [#553]": {
 			"ability": "Poison Point",
 			"item": "Poison Barb",
 			"ivs": {
@@ -15534,7 +13846,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Careful"
 		},
-		"Pokã©Mon Ranger Lorenzo [#553]": {
+		"Pokémon Ranger Lorenzo [#553]": {
 			"ability": "Poison Point",
 			"item": "Lum Berry",
 			"ivs": {
@@ -15736,7 +14048,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hypnosis",
 				"Quick Attack"
 			],
-			"nature": "Careful"
+			"nature": "Rash"
 		},
 		"Hiker Eli [#501]": {
 			"ability": "Pressure",
@@ -15942,25 +14254,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Noctowl": {
-		"Leader Winona [#793]": {
-			"ability": "Insomnia",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Hypnosis",
-				"Psychic",
-				"Reflect",
-				"Dream Eater"
-			],
-			"nature": "Naughty"
-		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Insomnia",
 			"item": "Lum Berry",
@@ -16022,90 +14315,10 @@ var CUSTOMHACKSETDEX_EK = {
 				"Substitute"
 			],
 			"nature": "Hasty"
-		},
-		"Leader Roxanne [#770]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 37,
-			"moves": [
-				"Double Team",
-				"Explosion",
-				"Protect",
-				"Rock Slide"
-			],
-			"nature": "Bold"
-		},
-		"Leader Roxanne [#771]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Double Team",
-				"Explosion",
-				"Protect",
-				"Rock Slide"
-			],
-			"nature": "Hardy"
-		},
-		"Leader Roxanne [#772]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Double Team",
-				"Explosion",
-				"Protect",
-				"Rock Slide"
-			],
-			"nature": "Naive"
-		},
-		"Leader Roxanne [#773]": {
-			"ability": "Battle Armor",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 52,
-			"moves": [
-				"Double Team",
-				"Explosion",
-				"Protect",
-				"Rock Slide"
-			],
-			"nature": "Gentle"
 		}
 	},
 	"Numel": {
-		"Pokã©Mon Breeder Lydia [#545]": {
+		"Pokémon Breeder Lydia [#545]": {
 			"ability": "Oblivious",
 			"item": "Oran Berry",
 			"ivs": {
@@ -16208,27 +14421,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Quirky"
 		}
 	},
-	"Omanyte": {
-		"Leader Roxanne [#771]": {
-			"ability": "Shell Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 37,
-			"moves": [
-				"Protect",
-				"Ice Beam",
-				"Rock Slide",
-				"Surf"
-			],
-			"nature": "Docile"
-		}
-	},
 	"Omastar": {
 		"Cooltrainer Jody [#91]": {
 			"ability": "Shell Armor",
@@ -16249,44 +14441,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Bite"
 			],
 			"nature": "Rash"
-		},
-		"Leader Roxanne [#772]": {
-			"ability": "Shell Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 42,
-			"moves": [
-				"Protect",
-				"Ice Beam",
-				"Rock Slide",
-				"Surf"
-			],
-			"nature": "Calm"
-		},
-		"Leader Roxanne [#773]": {
-			"ability": "Shell Armor",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 47,
-			"moves": [
-				"Protect",
-				"Ice Beam",
-				"Rock Slide",
-				"Surf"
-			],
-			"nature": "Serious"
 		},
 		"Picnicker Celia [#743]": {
 			"ability": "Shell Armor",
@@ -16369,65 +14523,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Sassy"
 		}
 	},
-	"Onix": {
-		"Leader Roxanne [#770]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 35,
-			"moves": [
-				"Iron Tail",
-				"Explosion",
-				"Roar",
-				"Rock Slide"
-			],
-			"nature": "Gentle"
-		},
-		"Leader Roxanne [#771]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 40,
-			"moves": [
-				"Iron Tail",
-				"Explosion",
-				"Roar",
-				"Rock Slide"
-			],
-			"nature": "Mild"
-		},
-		"Leader Roxanne [#772]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Iron Tail",
-				"Explosion",
-				"Roar",
-				"Rock Slide"
-			],
-			"nature": "Bold"
-		}
-	},
 	"Pelipper": {
 		"Aroma Lady Celina [#705]": {
 			"ability": "Keen Eye",
@@ -16468,63 +14563,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Sludge Bomb"
 			],
 			"nature": "Impish"
-		},
-		"Leader Winona [#790]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
-			"moves": [
-				"Surf",
-				"Supersonic",
-				"Protect",
-				"Aerial Ace"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Winona [#791]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Surf",
-				"Supersonic",
-				"Protect",
-				"Aerial Ace"
-			],
-			"nature": "Docile"
-		},
-		"Leader Winona [#793]": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Surf",
-				"Supersonic",
-				"Protect",
-				"Aerial Ace"
-			],
-			"nature": "Jolly"
 		},
 		"Sailor Brenden [#572]": {
 			"ability": "Keen Eye",
@@ -16814,25 +14852,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Gentle"
 		},
-		"Leader Wattson [#779]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 39,
-			"moves": [
-				"Thunder",
-				"Slam",
-				"Rain Dance",
-				"Shock Wave"
-			],
-			"nature": "Jolly"
-		},
 		"Pokéfan Kaleb [#699]": {
 			"ability": "Static",
 			"item": "Light Ball",
@@ -16995,7 +15014,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokémon Trainer Brendan 2 [#521]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -17015,7 +15034,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokémon Trainer Brendan 2 [#524]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -17035,7 +15054,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokémon Trainer Brendan 2 [#527]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -17055,7 +15074,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Timid"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokémon Trainer May 2 [#530]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -17075,7 +15094,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Jolly"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokémon Trainer May 2 [#533]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -17095,7 +15114,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Jolly"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokémon Trainer May 2 [#536]": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
 			"ivs": {
@@ -17279,25 +15298,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Politoed": {
-		"Leader Juan [#801]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 61,
-			"moves": [
-				"Hypnosis",
-				"Rain Dance",
-				"Hydro Pump",
-				"Perish Song"
-			],
-			"nature": "Bashful"
-		},
 		"Team Aqua Grunt [#400]": {
 			"ability": "Swift Swim",
 			"item": "Scope Lens",
@@ -17339,27 +15339,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Bashful"
 		}
 	},
-	"Poliwag": {
-		"Leader Juan [#798]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Hypnosis",
-				"Rain Dance",
-				"Protect",
-				"Hydro Pump"
-			],
-			"nature": "Adamant"
-		}
-	},
 	"Poliwhirl": {
 		"Battle Girl Laura [#426]": {
 			"ability": "Swift Swim",
@@ -17378,44 +15357,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Hypnosis",
 				"Brick Break"
-			],
-			"nature": "Modest"
-		},
-		"Leader Juan [#799]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Hypnosis",
-				"Rain Dance",
-				"Protect",
-				"Hydro Pump"
-			],
-			"nature": "Rash"
-		},
-		"Leader Juan [#800]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 56,
-			"moves": [
-				"Hypnosis",
-				"Rain Dance",
-				"Protect",
-				"Hydro Pump"
 			],
 			"nature": "Modest"
 		}
@@ -17601,46 +15542,6 @@ var CUSTOMHACKSETDEX_EK = {
 			"nature": "Brave"
 		}
 	},
-	"Ponyta": {
-		"Leader Flannery [#782]": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 36,
-			"moves": [
-				"Flamethrower",
-				"Attract",
-				"Solarbeam",
-				"Bounce"
-			],
-			"nature": "Lax"
-		},
-		"Leader Flannery [#783]": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 41,
-			"moves": [
-				"Flamethrower",
-				"Attract",
-				"Solarbeam",
-				"Bounce"
-			],
-			"nature": "Adamant"
-		}
-	},
 	"Poochyena": {
 		"Team Aqua Grunt [#10]": {
 			"ability": "Run Away",
@@ -17698,7 +15599,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Recover"
 			],
-			"nature": "Quirky"
+			"nature": "Calm"
 		},
 		"Cooltrainer Vito [#82]": {
 			"ability": "Trace",
@@ -17718,7 +15619,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Toxic"
 			],
-			"nature": "Naive"
+			"nature": "Timid"
 		},
 		"Gentleman Nate [#582]": {
 			"ability": "Trace",
@@ -17738,7 +15639,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunder Wave"
 			],
-			"nature": "Docile"
+			"nature": "Brave"
 		},
 		"Leader Norman [#269]": {
 			"ability": "Trace",
@@ -17758,7 +15659,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Toxic"
 			],
-			"nature": "Quiet"
+			"nature": "Jolly"
 		},
 		"Team Aqua Grunt [#6]": {
 			"ability": "Trace",
@@ -17778,7 +15679,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Ice Beam",
 				"Thunder"
 			],
-			"nature": "Docile"
+			"nature": "Brave"
 		},
 		"Team Magma Grunt [#716]": {
 			"ability": "Trace",
@@ -17798,7 +15699,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Psychic",
 				"Recover"
 			],
-			"nature": "Hardy"
+			"nature": "Gentle"
 		}
 	},
 	"Primeape": {
@@ -17881,7 +15782,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hardy"
 		},
-		"Pokã©Mon Ranger Jenna [#560]": {
+		"Pokémon Ranger Jenna [#560]": {
 			"ability": "Vital Spirit",
 			"item": "Focus Band",
 			"ivs": {
@@ -18021,7 +15922,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Recover",
 				"Amnesia"
 			],
-			"nature": "Lonely"
+			"nature": "Sassy"
 		},
 		"Team Aqua Grunt [#26]": {
 			"ability": "Water Absorb",
@@ -18208,45 +16109,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Leader Wattson [#780]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Thunder",
-				"Slam",
-				"Rain Dance",
-				"Protect"
-			],
-			"nature": "Bashful"
-		},
-		"Leader Wattson [#781]": {
-			"ability": "Static",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Thunder",
-				"Slam",
-				"Rain Dance",
-				"Protect"
-			],
-			"nature": "Jolly"
-		},
-		"Pokã©Mon Ranger Lorenzo [#553]": {
+		"Pokémon Ranger Lorenzo [#553]": {
 			"ability": "Static",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18430,7 +16293,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Ralts": {
-		"Pokã©Mon Trainer Wally [#656]": {
+		"Pokémon Trainer Wally [#656]": {
 			"ability": "Trace",
 			"ivs": {
 				"at": 31,
@@ -18490,45 +16353,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Gentle"
 		},
-		"Leader Flannery [#784]": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Flamethrower",
-				"Attract",
-				"Solarbeam",
-				"Bounce"
-			],
-			"nature": "Quiet"
-		},
-		"Leader Flannery [#785]": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Flamethrower",
-				"Attract",
-				"Solarbeam",
-				"Bounce"
-			],
-			"nature": "Careful"
-		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokémon Trainer Brendan 2 [#521]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18548,7 +16373,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokémon Trainer Brendan 2 [#527]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18568,7 +16393,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokémon Trainer May 2 [#530]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -18588,7 +16413,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokémon Trainer May 2 [#536]": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -19004,7 +16829,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Roselia": {
-		"Pokã©Mon Breeder Lydia [#545]": {
+		"Pokémon Breeder Lydia [#545]": {
 			"ability": "Poison Point",
 			"ivs": {
 				"at": 31,
@@ -19509,7 +17334,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Sassy"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokémon Trainer Brendan 2 [#521]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -19529,7 +17354,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Pokã©Mon Trainer Brendan [#522]": {
+		"Pokémon Trainer Brendan 3 [#522]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -19549,7 +17374,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Impish"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokémon Trainer May 2 [#530]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -19569,7 +17394,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Pokã©Mon Trainer May [#531]": {
+		"Pokémon Trainer May 3 [#531]": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20059,7 +17884,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Seedot": {
-		"Pokã©Mon Breeder Isaac [#538]": {
+		"Pokémon Breeder Isaac [#538]": {
 			"ability": "Chlorophyll",
 			"ivs": {
 				"at": 31,
@@ -20119,7 +17944,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Pokã©Mon Ranger Jenna [#560]": {
+		"Pokémon Ranger Jenna [#560]": {
 			"ability": "Shed Skin",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20467,7 +18292,7 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Shroomish": {
-		"Pokã©Mon Breeder Isaac [#538]": {
+		"Pokémon Breeder Isaac [#538]": {
 			"ability": "Effect Spore",
 			"ivs": {
 				"at": 31,
@@ -20728,63 +18553,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Mild"
 		},
-		"Leader Winona [#790]": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Whirlwind",
-				"Spikes",
-				"Steel Wing",
-				"Aerial Ace"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Winona [#791]": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Whirlwind",
-				"Spikes",
-				"Steel Wing",
-				"Aerial Ace"
-			],
-			"nature": "Docile"
-		},
-		"Leader Winona [#793]": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 58,
-			"moves": [
-				"Whirlwind",
-				"Spikes",
-				"Steel Wing",
-				"Aerial Ace"
-			],
-			"nature": "Quiet"
-		},
 		"Picnicker Becky [#470]": {
 			"ability": "Inner Focus",
 			"item": "Leftovers",
@@ -20805,7 +18573,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Impish"
 		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokémon Trainer Brendan 2 [#521]": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20825,7 +18593,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Rash"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokémon Trainer Brendan 2 [#524]": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20845,7 +18613,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Rash"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokémon Trainer Brendan 2 [#527]": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20865,7 +18633,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Rash"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokémon Trainer May 2 [#530]": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20885,7 +18653,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hardy"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokémon Trainer May 2 [#533]": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20905,7 +18673,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Hardy"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokémon Trainer May 2 [#536]": {
 			"ability": "Inner Focus",
 			"item": "Lum Berry",
 			"ivs": {
@@ -20945,7 +18713,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Superpower",
 				"Counter"
 			],
-			"nature": "Jolly"
+			"nature": "Lax"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Truant",
@@ -21063,8 +18831,7 @@ var CUSTOMHACKSETDEX_EK = {
 			"moves": [
 				"Surf",
 				"Psychic",
-				"Thunderpunch",
-				"Yawn"
+				"Thunderpunch"
 			],
 			"nature": "Hasty"
 		},
@@ -21127,25 +18894,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Hidden Power Grass"
 			],
 			"nature": "Bashful"
-		},
-		"Leader Tate&Liza [#797]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 63,
-			"moves": [
-				"Yawn",
-				"Psychic",
-				"Calm Mind",
-				"Protect"
-			],
-			"nature": "Naive"
 		},
 		"Psychic Hannah [#244]": {
 			"ability": "Own Tempo",
@@ -21229,63 +18977,6 @@ var CUSTOMHACKSETDEX_EK = {
 		}
 	},
 	"Slowpoke": {
-		"Leader Tate&Liza [#794]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Yawn",
-				"Psychic",
-				"Calm Mind",
-				"Protect"
-			],
-			"nature": "Naughty"
-		},
-		"Leader Tate&Liza [#795]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Yawn",
-				"Psychic",
-				"Calm Mind",
-				"Protect"
-			],
-			"nature": "Rash"
-		},
-		"Leader Tate&Liza [#796]": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 58,
-			"moves": [
-				"Yawn",
-				"Psychic",
-				"Calm Mind",
-				"Protect"
-			],
-			"nature": "Hardy"
-		},
 		"Psychic Edward [#232]": {
 			"ability": "Own Tempo",
 			"ivs": {
@@ -21548,7 +19239,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Curse"
 			],
-			"nature": "Relaxed"
+			"nature": "Adamant"
 		},
 		"Magma Leader Maxie [#602]": {
 			"ability": "Thick Fat",
@@ -21650,86 +19341,6 @@ var CUSTOMHACKSETDEX_EK = {
 				"Solarbeam"
 			],
 			"nature": "Impish"
-		},
-		"Leader Tate&Liza [#794]": {
-			"ability": "Levitate",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Sunny Day",
-				"Solarbeam",
-				"Psychic",
-				"Flamethrower"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Tate&Liza [#795]": {
-			"ability": "Levitate",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Sunny Day",
-				"Solarbeam",
-				"Psychic",
-				"Flamethrower"
-			],
-			"nature": "Mild"
-		},
-		"Leader Tate&Liza [#796]": {
-			"ability": "Levitate",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 60,
-			"moves": [
-				"Sunny Day",
-				"Solarbeam",
-				"Psychic",
-				"Flamethrower"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Tate&Liza [#797]": {
-			"ability": "Levitate",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 65,
-			"moves": [
-				"Sunny Day",
-				"Solarbeam",
-				"Psychic",
-				"Flamethrower"
-			],
-			"nature": "Modest"
 		},
 		"Psychic Virgil [#234]": {
 			"ability": "Levitate",
@@ -22157,25 +19768,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Leader Roxanne [#773]": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Iron Tail",
-				"Explosion",
-				"Roar",
-				"Rock Slide"
-			],
-			"nature": "Serious"
-		},
 		"Picnicker Ashley [#655]": {
 			"ability": "Rock Head",
 			"item": "Soft Sand",
@@ -22585,7 +20177,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Mild"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokémon Trainer Brendan 2 [#527]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22605,7 +20197,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokémon Trainer Brendan 3 [#528]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22621,11 +20213,11 @@ var CUSTOMHACKSETDEX_EK = {
 				"Muddy Water",
 				"Earthquake",
 				"Rock Slide",
-				"Ice Beam"
+				"Brick Break"
 			],
 			"nature": "Bashful"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokémon Trainer May 2 [#536]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22645,7 +20237,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokémon Trainer May 3 [#537]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -22661,7 +20253,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Muddy Water",
 				"Earthquake",
 				"Rock Slide",
-				"Ice Beam"
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -22989,7 +20581,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Gentle"
 		},
-		"Pokã©Mon Ranger Jenna [#560]": {
+		"Pokémon Ranger Jenna [#560]": {
 			"ability": "Liquid Ooze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23252,86 +20844,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naughty"
 		},
-		"Leader Flannery [#782]": {
-			"ability": "Shell Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 40,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Explosion",
-				"Attract"
-			],
-			"nature": "Naughty"
-		},
-		"Leader Flannery [#783]": {
-			"ability": "Shell Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Explosion",
-				"Attract"
-			],
-			"nature": "Careful"
-		},
-		"Leader Flannery [#784]": {
-			"ability": "Shell Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 50,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Explosion",
-				"Attract"
-			],
-			"nature": "Serious"
-		},
-		"Leader Flannery [#785]": {
-			"ability": "Shell Armor",
-			"item": "White Herb",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 55,
-			"moves": [
-				"Overheat",
-				"Sunny Day",
-				"Explosion",
-				"Attract"
-			],
-			"nature": "Bashful"
-		},
 		"Magma Admin Tabitha [#514]": {
 			"ability": "Shell Armor",
 			"item": "Silk Scarf",
@@ -23471,63 +20983,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Bashful"
 		},
-		"Leader Winona [#790]": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 38,
-			"moves": [
-				"Sunny Day",
-				"Aerial Ace",
-				"Solarbeam",
-				"Earthquake"
-			],
-			"nature": "Naive"
-		},
-		"Leader Winona [#791]": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 43,
-			"moves": [
-				"Sunny Day",
-				"Aerial Ace",
-				"Solarbeam",
-				"Earthquake"
-			],
-			"nature": "Lonely"
-		},
-		"Leader Winona [#793]": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 54,
-			"moves": [
-				"Sunny Day",
-				"Aerial Ace",
-				"Solarbeam",
-				"Earthquake"
-			],
-			"nature": "Lonely"
-		},
 		"Team Magma Grunt [#726]": {
 			"ability": "Chlorophyll",
 			"item": "Brightpowder",
@@ -23650,7 +21105,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Brave"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokémon Trainer Brendan 3 [#528]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23670,7 +21125,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Modest"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokémon Trainer May 3 [#537]": {
 			"ability": "Blaze",
 			"item": "Lum Berry",
 			"ivs": {
@@ -23748,7 +21203,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Earthquake",
 				"Shadow Ball"
 			],
-			"nature": "Jolly"
+			"nature": "Lax"
 		}
 	},
 	"Tyranitar": {
@@ -24016,7 +21471,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Thunderpunch",
 				"Ice Punch"
 			],
-			"nature": "Bashful"
+			"nature": "Naive"
 		},
 		"Twins Tori & Tia [#677]": {
 			"ability": "Guts",
@@ -24221,7 +21676,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Careful"
 		},
-		"Pokã©Mon Trainer Brendan [#528]": {
+		"Pokémon Trainer Brendan 3 [#528]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -24241,7 +21696,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Pokã©Mon Trainer May [#537]": {
+		"Pokémon Trainer May 3 [#537]": {
 			"ability": "Thick Fat",
 			"item": "Lum Berry",
 			"ivs": {
@@ -24399,7 +21854,7 @@ var CUSTOMHACKSETDEX_EK = {
 				"Leech Seed",
 				"Substitute"
 			],
-			"nature": "Relaxed"
+			"nature": "Adamant"
 		}
 	},
 	"Vibrava": {
@@ -24485,7 +21940,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Serious"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokémon Trainer Brendan 2 [#524]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -24505,7 +21960,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Pokã©Mon Trainer Brendan [#527]": {
+		"Pokémon Trainer Brendan 2 [#527]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -24525,7 +21980,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Impish"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokémon Trainer May 2 [#533]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -24545,7 +22000,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Careful"
 		},
-		"Pokã©Mon Trainer May [#536]": {
+		"Pokémon Trainer May 2 [#536]": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -25075,82 +22530,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Naive"
 		},
-		"Leader Juan [#798]": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 48,
-			"moves": [
-				"Water Pulse",
-				"Body Slam",
-				"Protect",
-				"Ice Beam"
-			],
-			"nature": "Bold"
-		},
-		"Leader Juan [#799]": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 53,
-			"moves": [
-				"Water Pulse",
-				"Body Slam",
-				"Protect",
-				"Ice Beam"
-			],
-			"nature": "Gentle"
-		},
-		"Leader Juan [#800]": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 58,
-			"moves": [
-				"Water Pulse",
-				"Body Slam",
-				"Protect",
-				"Ice Beam"
-			],
-			"nature": "Lax"
-		},
-		"Leader Juan [#801]": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 63,
-			"moves": [
-				"Water Pulse",
-				"Body Slam",
-				"Protect",
-				"Hidden Power Flying"
-			],
-			"nature": "Serious"
-		},
 		"Team Aqua Grunt [#31]": {
 			"ability": "Thick Fat",
 			"item": "Leftovers",
@@ -25476,83 +22855,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Modest"
 		},
-		"Leader Juan [#798]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 46,
-			"moves": [
-				"Rain Dance",
-				"Water Pulse",
-				"Double Team",
-				"Hidden Power Electric"
-			],
-			"nature": "Hasty"
-		},
-		"Leader Juan [#799]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 51,
-			"moves": [
-				"Rain Dance",
-				"Water Pulse",
-				"Double Team",
-				"Hidden Power Electric"
-			],
-			"nature": "Brave"
-		},
-		"Leader Juan [#800]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 58,
-			"moves": [
-				"Rain Dance",
-				"Water Pulse",
-				"Double Team",
-				"Hidden Power Electric"
-			],
-			"nature": "Quirky"
-		},
-		"Leader Juan [#801]": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 63,
-			"moves": [
-				"Rain Dance",
-				"Water Pulse",
-				"Double Team",
-				"Hidden Power Electric"
-			],
-			"nature": "Quirky"
-		},
-		"Pokã©Mon Trainer Brendan [#521]": {
+		"Pokémon Trainer Brendan 2 [#521]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -25572,7 +22875,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Relaxed"
 		},
-		"Pokã©Mon Trainer Brendan [#524]": {
+		"Pokémon Trainer Brendan 2 [#524]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -25592,7 +22895,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Docile"
 		},
-		"Pokã©Mon Trainer May [#530]": {
+		"Pokémon Trainer May 2 [#530]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -25612,7 +22915,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Lonely"
 		},
-		"Pokã©Mon Trainer May [#533]": {
+		"Pokémon Trainer May 2 [#533]": {
 			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
@@ -25935,86 +23238,6 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Quirky"
 		},
-		"Leader Tate&Liza [#794]": {
-			"ability": "Synchronize",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 49,
-			"moves": [
-				"Psychic",
-				"Rest",
-				"Confuse Ray",
-				"Calm Mind"
-			],
-			"nature": "Serious"
-		},
-		"Leader Tate&Liza [#795]": {
-			"ability": "Synchronize",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 54,
-			"moves": [
-				"Psychic",
-				"Rest",
-				"Confuse Ray",
-				"Calm Mind"
-			],
-			"nature": "Brave"
-		},
-		"Leader Tate&Liza [#796]": {
-			"ability": "Synchronize",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 59,
-			"moves": [
-				"Psychic",
-				"Rest",
-				"Confuse Ray",
-				"Calm Mind"
-			],
-			"nature": "Serious"
-		},
-		"Leader Tate&Liza [#797]": {
-			"ability": "Synchronize",
-			"item": "Chesto Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 64,
-			"moves": [
-				"Psychic",
-				"Rest",
-				"Confuse Ray",
-				"Calm Mind"
-			],
-			"nature": "Lonely"
-		},
 		"Ninja Boy Jared [#401]": {
 			"ability": "Synchronize",
 			"item": "Lum Berry",
@@ -26238,7 +23461,7 @@ var CUSTOMHACKSETDEX_EK = {
 			],
 			"nature": "Calm"
 		},
-		"Pokã©Mon Ranger Jenna [#560]": {
+		"Pokémon Ranger Jenna [#560]": {
 			"ability": "Guts",
 			"item": "Silk Scarf",
 			"ivs": {

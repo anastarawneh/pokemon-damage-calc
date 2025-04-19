@@ -489,7 +489,7 @@
 	},
 	"Bird Keeper Alberto_012":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quirky",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -498,7 +498,7 @@
 	},
 	"Collector Ed_013":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -530,7 +530,7 @@
 	},
 	"Swimmer-M Declan_015":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1081,7 +1081,7 @@
 	},
 	"Expert Fredrick_029":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1202,7 +1202,7 @@
 			"item":"Lum Berry",
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Psychic", "Thunderpunch", "Yawn"],
+			"moves":["Surf", "Psychic", "Thunderpunch"],
 			"level":63
 		},
 		"Scizor_3":{
@@ -1356,7 +1356,7 @@
 	},
 	"Aroma Lady Daisy_036":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hasty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1585,7 +1585,7 @@
 	},
 	"Ruin Maniac Chip_045":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1594,7 +1594,7 @@
 	},
 	"Ruin Maniac Foster_046":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1735,7 +1735,7 @@
 	},
 	"Tuber Lola_057":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1744,7 +1744,7 @@
 	},
 	"Tuber Austina_058":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bold",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1753,7 +1753,7 @@
 	},
 	"Tuber Gwen_059":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -1826,7 +1826,7 @@
 	},
 	"Tuber Ricky_064":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -2096,7 +2096,7 @@
 	},
 	"Cooltrainer Braxton_075":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -2278,7 +2278,7 @@
 	},
 	"Cooltrainer Samuel_081":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -2479,7 +2479,7 @@
 	},
 	"Cooltrainer Warren_088":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -2638,7 +2638,7 @@
 	},
 	"Cooltrainer Wendy_092":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -2697,10 +2697,10 @@
 	},
 	"Cooltrainer Jennifer_095":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Sassy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -2906,7 +2906,7 @@
 	},
 	"Cooltrainer Julie_100":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bold",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -3023,7 +3023,7 @@
 	},
 	"Hex Maniac Kindra_106":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -3508,7 +3508,7 @@
 	},
 	"Beauty Jessica_127":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -3667,7 +3667,7 @@
 	},
 	"Beauty Tiffany_131":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -3766,7 +3766,7 @@
 	},
 	"Expert Mollie_137":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4032,7 +4032,7 @@
 	},
 	"Swimmer-M Luis_151":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4041,7 +4041,7 @@
 	},
 	"Swimmer-M Dominik_152":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hasty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4050,7 +4050,7 @@
 	},
 	"Swimmer-M Douglas_153":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4059,7 +4059,7 @@
 	},
 	"Swimmer-M Darrin_154":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4068,7 +4068,7 @@
 	},
 	"Swimmer-M Tony_155":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Relaxed",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4077,7 +4077,7 @@
 	},
 	"Swimmer-M Jerome_156":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4086,7 +4086,7 @@
 	},
 	"Swimmer-M Matthew_157":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lonely",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4095,7 +4095,7 @@
 	},
 	"Swimmer-M David_158":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4104,7 +4104,7 @@
 	},
 	"Swimmer-M Spencer_159":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4113,7 +4113,7 @@
 	},
 	"Swimmer-M Roland_160":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4122,7 +4122,7 @@
 	},
 	"Swimmer-M Nolen_161":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4131,7 +4131,7 @@
 	},
 	"Swimmer-M Stan_162":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4140,7 +4140,7 @@
 	},
 	"Swimmer-M Barry_163":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4149,7 +4149,7 @@
 	},
 	"Swimmer-M Dean_164":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Relaxed",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4158,7 +4158,7 @@
 	},
 	"Swimmer-M Rodney_165":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4167,7 +4167,7 @@
 	},
 	"Swimmer-M Richard_166":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Brave",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4176,7 +4176,7 @@
 	},
 	"Swimmer-M Herman_167":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quirky",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4185,7 +4185,7 @@
 	},
 	"Swimmer-M Santiago_168":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4194,7 +4194,7 @@
 	},
 	"Swimmer-M Gilbert_169":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quirky",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4203,7 +4203,7 @@
 	},
 	"Swimmer-M Franklin_170":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4212,7 +4212,7 @@
 	},
 	"Swimmer-M Kevin_171":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Calm",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4221,7 +4221,7 @@
 	},
 	"Swimmer-M Jack_172":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4253,7 +4253,7 @@
 	},
 	"Swimmer-M Chad_174":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4265,7 +4265,7 @@
 			"ability":"Rough Skin",
 			"nature":"Jolly",
 			"ivs":{"hp":1, "at":1, "df":1, "sa":1, "sd":1, "sp":1},
-			"moves":["Crunch", "Take Down", "Bounce", "Super Fang"],
+			"moves":["Take Down", "Bounce", "Super Fang", "Water Pulse"],
 			"level":30
 		}
 	},
@@ -4274,7 +4274,7 @@
 			"ability":"Rough Skin",
 			"nature":"Jolly",
 			"ivs":{"hp":2, "at":2, "df":2, "sa":2, "sd":2, "sp":2},
-			"moves":["Poison Fang", "Crunch", "Take Down", "Bounce"],
+			"moves":["Poison Fang", "Take Down", "Bounce", "Super Fang"],
 			"level":33
 		}
 	},
@@ -4316,7 +4316,7 @@
 			"item":"Lum Berry",
 			"nature":"Modest",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Thunderpunch", "Ice Punch", "Brick Break", "Quick Attack"],
+			"moves":["Thunderpunch", "Ice Punch", "Brick Break", "Seismic Toss"],
 			"level":31
 		},
 		"Magmar_2":{
@@ -4324,7 +4324,7 @@
 			"item":"Lum Berry",
 			"nature":"Sassy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Fire Punch", "Brick Break", "Thunderpunch", "Psychic"],
+			"moves":["Fire Punch", "Brick Break", "Seismic Toss", "Psychic"],
 			"level":31
 		},
 		"Hitmonchan_3":{
@@ -4354,7 +4354,7 @@
 	},
 	"Black Belt Hitoshi_180":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4363,7 +4363,7 @@
 	},
 	"Black Belt Kiyo_181":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4372,7 +4372,7 @@
 	},
 	"Black Belt Koichi_182":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4381,7 +4381,7 @@
 	},
 	"Black Belt Nob_183":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4611,7 +4611,7 @@
 	},
 	"Team Aqua Grunt_192":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -4696,7 +4696,7 @@
 	},
 	"Guitarist Fernando_195":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -5207,7 +5207,7 @@
 	},
 	"Camper Larry_213":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -5259,7 +5259,7 @@
 	},
 	"Camper Ethan_216":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -5389,34 +5389,34 @@
 	},
 	"Bug Maniac Brent_223":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bug Maniac Donald_224":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Calm",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bug Maniac Taylor_225":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bug Maniac Jeffrey_226":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hasty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -5801,7 +5801,7 @@
 	},
 	"Psychic Cameron_238":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -5874,7 +5874,7 @@
 	},
 	"Psychic Jaclyn_243":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -5983,7 +5983,7 @@
 	},
 	"Psychic Maura_246":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -6058,7 +6058,7 @@
 	},
 	"Psychic Jacki_249":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -6517,7 +6517,7 @@
 			"nature":"Lonely",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Brick Break", "Body Slam", "Bulk Up", "Milk Drink"],
-			"level":33
+			"level":32
 		},
 		"Breloom_3":{
 			"ability":"Effect Spore",
@@ -6766,7 +6766,7 @@
 			"item":"Lum Berry",
 			"nature":"Quiet",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Brick Break", "Rock Slide", "Bullet Punch", "Fake Out"],
+			"moves":["Brick Break", "Rock Slide", "Shadow Ball", "Fake Out"],
 			"level":75
 		},
 		"Mew_3":{
@@ -6854,7 +6854,7 @@
 	},
 	"School Kid Jerry_273":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -7070,14 +7070,14 @@
 	},
 	"Sr. And Jr. Kate & Joy_286":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
 			"level":1
 		},
 		"Ditto_2":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -7184,7 +7184,7 @@
 	},
 	"Pokéfan Miguel_293":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Sassy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -7293,7 +7293,7 @@
 	},
 	"Pokéfan Vanessa_300":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -7352,7 +7352,7 @@
 	},
 	"Pokéfan Isabel_302":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -7433,7 +7433,7 @@
 	},
 	"Expert Timothy_307":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -7819,7 +7819,7 @@
 		},
 		"Heracross_6":{
 			"ability":"Swarm",
-			"item":"Silverpowder",
+			"item":"Chesto Berry",
 			"nature":"Brave",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Megahorn", "Brick Break", "Swords Dance", "Substitute"],
@@ -7870,7 +7870,7 @@
 	},
 	"Youngster Dillon_327":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8067,7 +8067,7 @@
 	},
 	"Fisherman Andrew_336":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8127,7 +8127,7 @@
 	},
 	"Fisherman Elliot_339":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8192,10 +8192,10 @@
 	},
 	"Fisherman Nolan_342":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Modest",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -8244,7 +8244,7 @@
 	},
 	"Fisherman Carter_345":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8316,7 +8316,7 @@
 			"ability":"Rough Skin",
 			"nature":"Impish",
 			"ivs":{"hp":4, "at":4, "df":4, "sa":4, "sd":4, "sp":4},
-			"moves":["Crunch", "Take Down", "Bounce", "Super Fang"],
+			"moves":["Take Down", "Bounce", "Super Fang", "Water Pulse"],
 			"level":30
 		},
 		"Tentacruel_3":{
@@ -8346,7 +8346,7 @@
 			"ability":"Rough Skin",
 			"nature":"Mild",
 			"ivs":{"hp":5, "at":5, "df":5, "sa":5, "sd":5, "sp":5},
-			"moves":["Poison Fang", "Crunch", "Take Down", "Bounce"],
+			"moves":["Poison Fang", "Take Down", "Bounce", "Super Fang"],
 			"level":33
 		},
 		"Gyarados_3":{
@@ -8366,7 +8366,7 @@
 	},
 	"Fisherman Ronald_350":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8375,7 +8375,7 @@
 	},
 	"Triathlete Jacob_351":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Modest",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8384,7 +8384,7 @@
 	},
 	"Triathlete Anthony_352":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8393,7 +8393,7 @@
 	},
 	"Triathlete Benjamin_353":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8438,7 +8438,7 @@
 	},
 	"Triathlete Abigail_358":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8447,7 +8447,7 @@
 	},
 	"Triathlete Jasmine_359":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8551,10 +8551,10 @@
 	},
 	"Triathlete Maria_369":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Modest",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -8596,7 +8596,7 @@
 	},
 	"Triathlete Camden_374":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8621,7 +8621,7 @@
 	},
 	"Triathlete Isaiah_376":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Brave",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8630,7 +8630,7 @@
 	},
 	"Triathlete Pablo_377":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bold",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8639,7 +8639,7 @@
 	},
 	"Triathlete Chase_378":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Calm",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8684,7 +8684,7 @@
 	},
 	"Triathlete Isobel_383":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lonely",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8693,7 +8693,7 @@
 	},
 	"Triathlete Donny_384":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Calm",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8702,7 +8702,7 @@
 	},
 	"Triathlete Talia_385":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8711,7 +8711,7 @@
 	},
 	"Triathlete Katelyn_386":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8720,7 +8720,7 @@
 	},
 	"Triathlete Allison_387":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8860,7 +8860,7 @@
 	},
 	"Dragon Tamer Aaron_397":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -8869,16 +8869,16 @@
 	},
 	"Bird Keeper Perry_398":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bird Keeper Hugh_399":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Brave",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9029,7 +9029,7 @@
 	},
 	"Bird Keeper Presley_403":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hasty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9088,19 +9088,19 @@
 	},
 	"Bird Keeper Colin_405":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Sassy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bird Keeper Robert_406":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -9227,7 +9227,7 @@
 	},
 	"Bird Keeper Alex_413":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Modest",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9236,7 +9236,7 @@
 	},
 	"Bird Keeper Beck_414":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9245,7 +9245,7 @@
 	},
 	"Ninja Boy Yasu_415":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9397,7 +9397,7 @@
 	},
 	"Ninja Boy Lung_420":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9594,7 +9594,7 @@
 	},
 	"Battle Girl Cyndy_427":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9685,7 +9685,7 @@
 	},
 	"Parasol Lady Madeline_434":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9728,10 +9728,10 @@
 	},
 	"Parasol Lady Angelica_436":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -9787,7 +9787,7 @@
 	},
 	"Swimmer-F Beverly_441":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9796,7 +9796,7 @@
 	},
 	"Swimmer-F Imani_442":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9805,7 +9805,7 @@
 	},
 	"Swimmer-F Kyla_443":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9814,7 +9814,7 @@
 	},
 	"Swimmer-F Denise_444":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Modest",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9823,7 +9823,7 @@
 	},
 	"Swimmer-F Beth_445":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Relaxed",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9832,7 +9832,7 @@
 	},
 	"Swimmer-F Tara_446":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9841,7 +9841,7 @@
 	},
 	"Swimmer-F Missy_447":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9850,7 +9850,7 @@
 	},
 	"Swimmer-F Alice_448":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9859,7 +9859,7 @@
 	},
 	"Swimmer-F Jenny_449":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9868,7 +9868,7 @@
 	},
 	"Swimmer-F Grace_450":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9877,7 +9877,7 @@
 	},
 	"Swimmer-F Tanya_451":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9886,7 +9886,7 @@
 	},
 	"Swimmer-F Sharon_452":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9895,7 +9895,7 @@
 	},
 	"Swimmer-F Nikki_453":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9904,7 +9904,7 @@
 	},
 	"Swimmer-F Brenda_454":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9913,7 +9913,7 @@
 	},
 	"Swimmer-F Katie_455":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9922,7 +9922,7 @@
 	},
 	"Swimmer-F Susie_456":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lonely",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9931,7 +9931,7 @@
 	},
 	"Swimmer-F Kara_457":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9940,7 +9940,7 @@
 	},
 	"Swimmer-F Dana_458":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9949,7 +9949,7 @@
 	},
 	"Swimmer-F Sienna_459":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lonely",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9958,7 +9958,7 @@
 	},
 	"Swimmer-F Debra_460":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9967,7 +9967,7 @@
 	},
 	"Swimmer-F Linda_461":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Adamant",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -9992,7 +9992,7 @@
 	},
 	"Swimmer-F Laurel_463":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10001,7 +10001,7 @@
 	},
 	"Swimmer-F Carlee_464":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10266,7 +10266,7 @@
 	},
 	"Psychic Cedric_475":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Sassy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10275,10 +10275,10 @@
 	},
 	"Picnicker Irene_476":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":42
 		}
 	},
@@ -10376,7 +10376,7 @@
 	},
 	"Twins Amy & Liv_481":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10419,14 +10419,14 @@
 	},
 	"Twins Miu & Yuki_484":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Modest",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
 			"level":1
 		},
 		"Ditto_2":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Brave",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10515,7 +10515,7 @@
 	},
 	"Sailor Huey_490":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10524,7 +10524,7 @@
 	},
 	"Sailor Edmond_491":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10533,7 +10533,7 @@
 	},
 	"Sailor Ernest_492":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10796,7 +10796,7 @@
 	},
 	"Cooltrainer Jazmyn_503":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10805,7 +10805,7 @@
 	},
 	"Ninja Boy Jonas_504":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10814,7 +10814,7 @@
 	},
 	"Parasol Lady Kayley_505":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Adamant",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10823,7 +10823,7 @@
 	},
 	"Expert Auron_506":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10832,7 +10832,7 @@
 	},
 	"Sailor Kelvin_507":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10841,7 +10841,7 @@
 	},
 	"Cooltrainer Marley_508":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10850,7 +10850,7 @@
 	},
 	"Battle Girl Reyna_509":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10859,7 +10859,7 @@
 	},
 	"Sailor Hudson_510":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10868,7 +10868,7 @@
 	},
 	"Expert Conor_511":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -10900,7 +10900,7 @@
 	},
 	"Collector Hector_513":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -11244,10 +11244,10 @@
 		},
 		"Blastoise_5":{
 			"ability":"Torrent",
-			"item":"Lum Berry",
+			"item":"Leftovers",
 			"nature":"Hasty",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Mirror Coat", "Yawn"],
+			"moves":["Surf", "Ice Beam", "Mirror Coat", "Refresh"],
 			"level":63
 		},
 		"Meganium_6":{
@@ -11255,7 +11255,7 @@
 			"item":"Lum Berry",
 			"nature":"Sassy",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Sludge Bomb", "Double-Edge", "Rock Slide"],
+			"moves":["Giga Drain", "Sludge Bomb", "Weather Ball", "Rock Slide"],
 			"level":63
 		}
 	},
@@ -11356,7 +11356,7 @@
 			"item":"Lum Berry",
 			"nature":"Bashful",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Muddy Water", "Earthquake", "Rock Slide", "Ice Beam"],
+			"moves":["Muddy Water", "Earthquake", "Rock Slide", "Brick Break"],
 			"level":63
 		},
 		"Venusaur_6":{
@@ -11571,10 +11571,10 @@
 		},
 		"Blastoise_5":{
 			"ability":"Torrent",
-			"item":"Lum Berry",
+			"item":"Leftovers",
 			"nature":"Bold",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Surf", "Ice Beam", "Mirror Coat", "Yawn"],
+			"moves":["Surf", "Ice Beam", "Mirror Coat", "Refresh"],
 			"level":63
 		},
 		"Meganium_6":{
@@ -11582,7 +11582,7 @@
 			"item":"Lum Berry",
 			"nature":"Jolly",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Giga Drain", "Sludge Bomb", "Double-Edge", "Rock Slide"],
+			"moves":["Giga Drain", "Sludge Bomb", "Weather Ball", "Rock Slide"],
 			"level":63
 		}
 	},
@@ -11683,7 +11683,7 @@
 			"item":"Lum Berry",
 			"nature":"Serious",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
-			"moves":["Muddy Water", "Earthquake", "Rock Slide", "Ice Beam"],
+			"moves":["Muddy Water", "Earthquake", "Rock Slide", "Brick Break"],
 			"level":63
 		},
 		"Venusaur_6":{
@@ -11728,7 +11728,7 @@
 	},
 	"Bug Catcher Davis_539":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -12791,7 +12791,7 @@
 	},
 	"Hex Maniac Sylvia_575":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Relaxed",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -12800,7 +12800,7 @@
 	},
 	"Swimmer-M Leonardo_576":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -12809,7 +12809,7 @@
 	},
 	"Cooltrainer Athena_577":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -12818,7 +12818,7 @@
 	},
 	"Swimmer-M Harrison_578":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -12869,7 +12869,7 @@
 	},
 	"Swimmer-M Clarence_580":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -13037,7 +13037,7 @@
 	},
 	"Psychic Nicholas_585":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -13096,7 +13096,7 @@
 	},
 	"Team Magma Grunt_587":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -13273,7 +13273,7 @@
 	},
 	"Expert Paxton_594":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -13282,7 +13282,7 @@
 	},
 	"Triathlete Isabella_595":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Brave",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -13391,7 +13391,7 @@
 	},
 	"Cooltrainer Jonathan_598":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -13582,7 +13582,7 @@
 	},
 	"Lass Janice_605":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -13893,35 +13893,35 @@
 	},
 	"Bug Catcher Doug_618":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Calm",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bug Catcher Greg_619":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bug Catcher Kent_620":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Bug Catcher James_621":{
 		"Butterfree_1":{
 			"ability":"Compoundeyes",
-			"item":"Silverpowder",
+			"item":"Sitrus Berry",
 			"nature":"Lax",
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Hypnosis", "Psybeam", "Silver Wind", "Giga Drain"],
@@ -14032,7 +14032,7 @@
 	},
 	"Hiker Brice_626":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lonely",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -14182,7 +14182,7 @@
 	},
 	"Hiker Eric_632":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -14558,7 +14558,7 @@
 	},
 	"Ninja Boy Hideo_651":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -14567,7 +14567,7 @@
 	},
 	"Ninja Boy Keigo_652":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hasty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -14576,10 +14576,10 @@
 	},
 	"Ninja Boy Riley_653":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -15039,7 +15039,7 @@
 			"ability":"Rough Skin",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Poison Fang", "Crunch", "Take Down", "Bounce"],
+			"moves":["Poison Fang", "Take Down", "Bounce", "Super Fang"],
 			"level":32
 		}
 	},
@@ -15048,7 +15048,7 @@
 			"ability":"Rough Skin",
 			"nature":"Sassy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Crunch", "Take Down", "Bounce", "Super Fang"],
+			"moves":["Take Down", "Bounce", "Super Fang", "Water Pulse"],
 			"level":31
 		},
 		"Tentacruel_2":{
@@ -15084,7 +15084,7 @@
 	},
 	"Cooltrainer Alexa_670":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15093,7 +15093,7 @@
 	},
 	"Cooltrainer Ruben_671":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15102,7 +15102,7 @@
 	},
 	"Black Belt Koji_672":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15134,7 +15134,7 @@
 	},
 	"Bird Keeper Aidan_674":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Adamant",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15143,7 +15143,7 @@
 	},
 	"Swimmer-M Reed_675":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bold",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15152,7 +15152,7 @@
 	},
 	"Swimmer-F Tisha_676":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bold",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15178,14 +15178,14 @@
 	},
 	"Sr. And Jr. Kim & Iris_678":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
 			"level":1
 		},
 		"Ditto_2":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hardy",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15194,14 +15194,14 @@
 	},
 	"Sr. And Jr. Tyra & Ivy_679":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Docile",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
 			"level":1
 		},
 		"Ditto_2":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15210,14 +15210,14 @@
 	},
 	"Young Couple Mel & Paul_680":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Mild",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
 			"level":1
 		},
 		"Ditto_2":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15306,14 +15306,14 @@
 	},
 	"Sis And Bro Reli & Ian_686":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
 			"level":1
 		},
 		"Ditto_2":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Timid",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15322,10 +15322,10 @@
 	},
 	"Sis And Bro Lila & Roy_687":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -15395,14 +15395,14 @@
 	},
 	"Sis And Bro Lisa & Ray_692":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
 			"level":1
 		},
 		"Ditto_2":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15411,16 +15411,16 @@
 	},
 	"Fisherman Chris_693":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Gentle",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Rich Boy Dawson_694":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lonely",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15429,7 +15429,7 @@
 	},
 	"Lady Sarah_695":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Calm",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15447,7 +15447,7 @@
 	},
 	"Tuber Hailey_697":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15456,7 +15456,7 @@
 	},
 	"Tuber Chandler_698":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15545,7 +15545,7 @@
 	},
 	"Guitarist Marcos_702":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15554,7 +15554,7 @@
 	},
 	"Black Belt Rhett_703":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bold",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15631,25 +15631,25 @@
 	},
 	"Picnicker Bianca_706":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Lax",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Kindler Hayden_707":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Serious",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Picnicker Sophie_708":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hasty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15658,7 +15658,7 @@
 	},
 	"Bird Keeper Coby_709":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Impish",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15667,7 +15667,7 @@
 	},
 	"Camper Lawrence_710":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15676,7 +15676,7 @@
 	},
 	"Pokémaniac Wyatt_711":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Jolly",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -15727,25 +15727,25 @@
 	},
 	"Fisherman Kai_713":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Picnicker Charlotte_714":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
 	"Youngster Deandre_715":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quiet",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16399,7 +16399,7 @@
 	},
 	"Cooltrainer Darcy_733":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Rash",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16433,26 +16433,26 @@
 		}
 	},
 	"Swimmer-M Pete_735":{
-		"Tentacool_1":{
-			"ability":"Liquid Ooze",
-			"nature":"Hardy",
+		"Ditto_1":{
+			"ability":"Suction Cups",
+			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Water Pulse", "Wrap", "Poison Sting", "Water Gun"],
-			"level":15
+			"moves":["Harden"],
+			"level":1
 		}
 	},
 	"Swimmer-F Isabelle_736":{
-		"Marill_1":{
-			"ability":"Huge Power",
-			"nature":"Quirky",
+		"Ditto_1":{
+			"ability":"Suction Cups",
+			"nature":"Lonely",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Bubblebeam", "Water Gun", "Charm", "Tackle"],
-			"level":15
+			"moves":["Harden"],
+			"level":1
 		}
 	},
 	"Ruin Maniac Andres_737":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Hasty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16461,7 +16461,7 @@
 	},
 	"Bird Keeper Josue_738":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quirky",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16470,7 +16470,7 @@
 	},
 	"Triathlete Camron_739":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16479,7 +16479,7 @@
 	},
 	"Sailor Cory_740":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16488,7 +16488,7 @@
 	},
 	"Cooltrainer Carolina_741":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Quirky",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16497,7 +16497,7 @@
 	},
 	"Bird Keeper Elijah_742":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Modest",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16708,7 +16708,7 @@
 	},
 	"Triathlete Kyra_748":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Brave",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16717,7 +16717,7 @@
 	},
 	"Ninja Boy Jaiden_749":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Adamant",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16726,7 +16726,7 @@
 	},
 	"Psychic Alix_750":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16735,7 +16735,7 @@
 	},
 	"Battle Girl Helene_751":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16744,7 +16744,7 @@
 	},
 	"Psychic Marlene_752":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Adamant",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16753,10 +16753,10 @@
 	},
 	"Hiker Devan_753":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bold",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
-			"moves":["Transform"],
+			"moves":["Harden"],
 			"level":1
 		}
 	},
@@ -16863,7 +16863,7 @@
 	},
 	"Expert Makayla_758":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naughty",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -16872,7 +16872,7 @@
 	},
 	"Guitarist Fabian_759":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Bashful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -17041,7 +17041,7 @@
 	},
 	"Bug Maniac Cale_764":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Naive",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -17050,7 +17050,7 @@
 	},
 	"Pokã©Mon Breeder Myles_765":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Careful",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],
@@ -17059,7 +17059,7 @@
 	},
 	"Pokã©Mon Breeder Pat_766":{
 		"Ditto_1":{
-			"ability":"Limber",
+			"ability":"Suction Cups",
 			"nature":"Adamant",
 			"ivs":{"hp":0, "at":0, "df":0, "sa":0, "sd":0, "sp":0},
 			"moves":["Transform"],

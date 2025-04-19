@@ -148,9 +148,9 @@ var CUSTOMHACKTRAINERNAMES_EK = [
 	"Team Aqua Grunt [#19]",
 	"Aqua Admin Shelly [#32]",
 
-	"Pokémon Trainer May 3 [#528]",
 	"Pokémon Trainer May 3 [#531]",
 	"Pokémon Trainer May 3 [#534]",
+	"Pokémon Trainer May 3 [#537]",
 	"Pokémon Trainer Brendan 3 [#522]",
 	"Pokémon Trainer Brendan 3 [#525]",
 	"Pokémon Trainer Brendan 3 [#528]",

@@ -496,6 +496,13 @@ var CUSTOMHACKFLAGS_EK = {
             "Team Aqua Grunt [#416]",
            "Aqua Admin Shelly [#32]",
            "Aqua Admin Shelly [#569]",
+           "Pokémon Trainer May 3 [#531]",
+	        "Pokémon Trainer May 3 [#534]",
+	        "Pokémon Trainer May 3 [#537]",
+	        "Pokémon Trainer Brendan 3 [#522]",
+	        "Pokémon Trainer Brendan 3 [#525]",
+	        "Pokémon Trainer Brendan 3 [#528]",
+
            "Aqua Admin Matt [#30]",
            "Team Aqua Grunt [#7]",
            "Team Aqua Grunt [#6]",

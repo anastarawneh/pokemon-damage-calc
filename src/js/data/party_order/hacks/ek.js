@@ -999,7 +999,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Exeggutor",
 		"Torkoal"
 	],
-	"Pokã©Mon Trainer Brendan [#521]": [
+	"Pokémon Trainer Brendan 2 [#521]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -1007,7 +1007,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Whiscash",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer Brendan [#522]": [
+	"Pokémon Trainer Brendan 3 [#522]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -1015,7 +1015,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Feraligatr",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer Brendan [#524]": [
+	"Pokémon Trainer Brendan 2 [#524]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -1023,7 +1023,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Whiscash",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer Brendan [#525]": [
+	"Pokémon Trainer Brendan 3 [#525]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -1031,7 +1031,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Blastoise",
 		"Meganium"
 	],
-	"Pokã©Mon Trainer Brendan [#527]": [
+	"Pokémon Trainer Brendan 2 [#527]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -1039,7 +1039,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Swampert",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer Brendan [#528]": [
+	"Pokémon Trainer Brendan 3 [#528]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -1047,7 +1047,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Swampert",
 		"Venusaur"
 	],
-	"Pokã©Mon Trainer May [#530]": [
+	"Pokémon Trainer May 2 [#530]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -1055,7 +1055,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Whiscash",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer May [#531]": [
+	"Pokémon Trainer May 3 [#531]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -1063,7 +1063,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Feraligatr",
 		"Sceptile"
 	],
-	"Pokã©Mon Trainer May [#533]": [
+	"Pokémon Trainer May 2 [#533]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -1071,7 +1071,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Whiscash",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer May [#534]": [
+	"Pokémon Trainer May 3 [#534]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -1079,7 +1079,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Blastoise",
 		"Meganium"
 	],
-	"Pokã©Mon Trainer May [#536]": [
+	"Pokémon Trainer May 2 [#536]": [
 		"Skarmory",
 		"Pinsir",
 		"Espeon",
@@ -1087,7 +1087,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Swampert",
 		"Victreebel"
 	],
-	"Pokã©Mon Trainer May [#537]": [
+	"Pokémon Trainer May 3 [#537]": [
 		"Forretress",
 		"Jynx",
 		"Electrode",
@@ -1095,7 +1095,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Swampert",
 		"Venusaur"
 	],
-	"Pokã©Mon Breeder Isaac [#538]": [
+	"Pokémon Breeder Isaac [#538]": [
 		"Shroomish",
 		"Larvitar",
 		"Azurill",
@@ -1109,7 +1109,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Dragonite",
 		"Quagsire"
 	],
-	"Pokã©Mon Breeder Lydia [#545]": [
+	"Pokémon Breeder Lydia [#545]": [
 		"Corphish",
 		"Numel",
 		"Roselia",
@@ -1130,7 +1130,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Scizor",
 		"Poliwrath"
 	],
-	"Pokã©Mon Ranger Lorenzo [#553]": [
+	"Pokémon Ranger Lorenzo [#553]": [
 		"Granbull",
 		"Nidoqueen",
 		"Clefable",
@@ -1143,7 +1143,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Pinsir",
 		"Seaking"
 	],
-	"Pokã©Mon Ranger Jenna [#560]": [
+	"Pokémon Ranger Jenna [#560]": [
 		"Primeape",
 		"Seviper",
 		"Zangoose",
@@ -1393,7 +1393,7 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Mantine",
 		"Lanturn"
 	],
-	"Pokã©Mon Trainer Wally [#656]": [
+	"Pokémon Trainer Wally [#656]": [
 		"Ralts"
 	],
 	"Twins Tori & Tia [#677]": [
@@ -1632,202 +1632,6 @@ var CUSTOMHACKPARTYORDER_EK =
 		"Shuckle",
 		"Electabuzz",
 		"Claydol"
-	],
-	"Leader Roxanne [#770]": [
-		"Golem",
-		"Kabuto",
-		"Onix",
-		"Nosepass"
-	],
-	"Leader Roxanne [#771]": [
-		"Omanyte",
-		"Golem",
-		"Kabutops",
-		"Onix",
-		"Nosepass"
-	],
-	"Leader Roxanne [#772]": [
-		"Omastar",
-		"Golem",
-		"Kabutops",
-		"Onix",
-		"Nosepass"
-	],
-	"Leader Roxanne [#773]": [
-		"Aerodactyl",
-		"Golem",
-		"Omastar",
-		"Kabutops",
-		"Steelix",
-		"Nosepass"
-	],
-	"Leader Brawly [#774]": [
-		"Machamp",
-		"Meditite",
-		"Hitmontop",
-		"Hariyama"
-	],
-	"Leader Brawly [#775]": [
-		"Machamp",
-		"Medicham",
-		"Hitmontop",
-		"Hariyama"
-	],
-	"Leader Brawly [#776]": [
-		"Hitmonchan",
-		"Machamp",
-		"Medicham",
-		"Hitmontop",
-		"Hariyama"
-	],
-	"Leader Brawly [#777]": [
-		"Hitmonlee",
-		"Hitmonchan",
-		"Machamp",
-		"Medicham",
-		"Hitmontop",
-		"Hariyama"
-	],
-	"Leader Wattson [#778]": [
-		"Mareep",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Wattson [#779]": [
-		"Pikachu",
-		"Flaaffy",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Wattson [#780]": [
-		"Raichu",
-		"Ampharos",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Wattson [#781]": [
-		"Electabuzz",
-		"Raichu",
-		"Ampharos",
-		"Electrode",
-		"Magneton",
-		"Manectric"
-	],
-	"Leader Flannery [#782]": [
-		"Magcargo",
-		"Ponyta",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Flannery [#783]": [
-		"Growlithe",
-		"Magcargo",
-		"Ponyta",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Flannery [#784]": [
-		"Houndour",
-		"Growlithe",
-		"Magcargo",
-		"Rapidash",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Flannery [#785]": [
-		"Arcanine",
-		"Magcargo",
-		"Houndoom",
-		"Rapidash",
-		"Camerupt",
-		"Torkoal"
-	],
-	"Leader Winona [#790]": [
-		"Dratini",
-		"Tropius",
-		"Pelipper",
-		"Skarmory",
-		"Altaria"
-	],
-	"Leader Winona [#791]": [
-		"Hoothoot",
-		"Tropius",
-		"Dragonair",
-		"Pelipper",
-		"Skarmory",
-		"Altaria"
-	],
-	"Leader Winona [#793]": [
-		"Noctowl",
-		"Tropius",
-		"Pelipper",
-		"Dragonite",
-		"Skarmory",
-		"Altaria"
-	],
-	"Leader Tate&Liza [#794]": [
-		"Slowpoke",
-		"Claydol",
-		"Xatu",
-		"Lunatone",
-		"Solrock"
-	],
-	"Leader Tate&Liza [#795]": [
-		"Drowzee",
-		"Slowpoke",
-		"Claydol",
-		"Xatu",
-		"Lunatone",
-		"Solrock"
-	],
-	"Leader Tate&Liza [#796]": [
-		"Hypno",
-		"Claydol",
-		"Slowpoke",
-		"Xatu",
-		"Lunatone",
-		"Solrock"
-	],
-	"Leader Tate&Liza [#797]": [
-		"Hypno",
-		"Claydol",
-		"Slowking",
-		"Xatu",
-		"Lunatone",
-		"Solrock"
-	],
-	"Leader Juan [#798]": [
-		"Poliwag",
-		"Whiscash",
-		"Walrein",
-		"Crawdaunt",
-		"Kingdra"
-	],
-	"Leader Juan [#799]": [
-		"Poliwhirl",
-		"Whiscash",
-		"Walrein",
-		"Crawdaunt",
-		"Kingdra"
-	],
-	"Leader Juan [#800]": [
-		"Lapras",
-		"Whiscash",
-		"Poliwhirl",
-		"Walrein",
-		"Crawdaunt",
-		"Kingdra"
-	],
-	"Leader Juan [#801]": [
-		"Lapras",
-		"Whiscash",
-		"Politoed",
-		"Walrein",
-		"Crawdaunt",
-		"Kingdra"
 	],
 	"Bug Maniac Angelo [#802]": [
 		"Illumise",
