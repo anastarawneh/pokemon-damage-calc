@@ -539,10 +539,10 @@ function predictSwitchOrderEmerald() {
 	for (var i in partyMons) {
 		var dead = partyMons[i];
 		if ($(`.trainer-poke-switch[data-id='${dead.setName}']`).hasClass("dead")) {
-			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("Dead!");
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("Dead!").attr("title", "This Pokémon is already dead.");
 			deadList.push(dead);
 		} else {
-			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("That's it!");
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html("That's it!").attr("title", "There are no other Pokémon to bait.");
 		}
 	}
 	for (var i in partyMons) {
@@ -617,6 +617,7 @@ function predictSwitchOrderEmerald() {
 				var moves = [];
 				for (var k in next.moves) moves.push(new calc.Move(GENERATION, next.moves[k]));
 				var attacker = createPokemon(dead.setName);
+				if (attacker.name.includes("Castform")) attacker.types = ["Normal"];
 				attacker.moves = moves;
 				for (var j in attacker.moves) {
 					if (!advanced) {
@@ -672,8 +673,8 @@ function predictSwitchOrderEmerald() {
 		var xp = Math.floor(Math.floor(pokedex[dead.species].expYield * dead.level / 7) * 1.5);
 
 		if (nextMon) {
-			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html(`${nextMon} (Phase ${phase})`);
-			$(`.trainer-poke-switch-xp[data-id='${dead.setName}']`).html(`+${xp}`);
+			$(`.trainer-poke-switch-explain[data-id='${dead.setName}']`).html(`${nextMon} (Phase ${phase})`).attr("title", `Killing ${dead.species} with your ${p1.name} will bait ${nextMon}.`);
+			$(`.trainer-poke-switch-xp[data-id='${dead.setName}']`).html(`+${xp}`).attr("title", "The amount of experience this Pokémon will drop.");
 		}
 	}
 }
