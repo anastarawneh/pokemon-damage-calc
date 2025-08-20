@@ -321,7 +321,7 @@ var CUSTOMHACKPARTYORDER_EK = {
     "Pokémon Trainer May #4 [Sceptile]": ["Miltank", "Ampharos", "Nidoqueen", "Feraligatr", "Charizard", "Sceptile"],
     "Pokémon Trainer Brendan #4 [Blaziken]": ["Tauros", "Ampharos", "Nidoking", "Meganium", "Blastoise", "Blaziken"],
     "Pokémon Trainer Brendan #4 [Swampert]": ["Tauros", "Ampharos", "Nidoking", "Typhlosion", "Venusaur", "Swampert"],
-    "Pokémon Trainer Brendan #4 [Sceptile]": ["Tauros", "Ampharos", "Nidoking", "Feraligatr", "Charizard", "Sceptile"],
+    "Pokémon Trainer Brendan #4 [Sceptile]": ["Ampharos", "Tauros", "Nidoking", "Feraligatr", "Charizard", "Sceptile"],
     // Mt. Pyre
     "Young Couple Dez & Luke": ["Delcatty", "Machamp"],
     "Hex Maniac Leah": ["Misdreavus", "Absol", "Grumpig", "Golduck"],
