@@ -1707,15 +1707,19 @@ function loadDefaultLists() {
 			var pageSize = 30;
 			var results = [];
 			var options = getSetOptions();
+			var group;
 			for (var i = 0; i < options.length; i++) {
 				var option = options[i];
 				var pokeName = option.pokemon.toUpperCase();
+				if (!option.set) group = option;
+				var setName = option.set ? option.set.toUpperCase() : "";
 				if (!query.term || query.term.toUpperCase().split(" ").every(function (term) {
-					return pokeName.indexOf(term) === 0 || pokeName.indexOf("-" + term) >= 0 || pokeName.indexOf(" " + term) >= 0;
+					return pokeName.indexOf(term) === 0 || pokeName.indexOf("-" + term) >= 0 || pokeName.indexOf(" " + term) >= 0 || setName.includes(term);
 				})) {
 					if ($("#randoms").prop("checked")) {
 						if (option.id) results.push(option);
 					} else {
+						if (!results.includes(group) && option !== group) results.push(group);
 						results.push(option);
 					}
 				}
