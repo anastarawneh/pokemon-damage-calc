@@ -646,7 +646,7 @@ function predictSwitchOrderEmerald() {
 								category: new calc.Move(GENERATION, $(".last-move-used > select.move-selector").val()).hasType('Normal', 'Fighting', 'Flying', 'Ground', 'Rock', 'Bug', 'Ghost', 'Poison', 'Steel') ? "Physical" : "Special"
 							}
 						});
-						if (move.named(
+						if (attacker.moves[j].named(
 							"Fissure", "Horn Drill", "Guilotine", "Sheer Cold",
 							"Flail", "Frustration", "Low Kick", "Magnitude", "Present", "Return", "Reversal",
 							"Counter", "Mirror Coat",
