@@ -1712,7 +1712,7 @@ function loadDefaultLists() {
 				var option = options[i];
 				var pokeName = option.pokemon.toUpperCase();
 				if (!option.set) group = option;
-				var setName = option.set ? option.set.toUpperCase() : "";
+				var setName = option.set ? option.set.toUpperCase().split(" [")[0] : "";
 				if (!query.term || query.term.toUpperCase().split(" ").every(function (term) {
 					return pokeName.indexOf(term) === 0 || pokeName.indexOf("-" + term) >= 0 || pokeName.indexOf(" " + term) >= 0 || setName.includes(term);
 				})) {
