@@ -11033,7 +11033,7 @@ const SV: {[name: string]: SpeciesData} = extend(true, {}, SS, SV_PATCH, PLA_PAT
 
 export const SPECIES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
 
-export const HACK_SPECIES = [{}, EK];
+export const HACK_SPECIES = [{}, EK, EK];
 
 export class Species implements I.Species {
   private readonly gen: I.GenerationNum;

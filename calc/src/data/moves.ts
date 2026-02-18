@@ -246,7 +246,7 @@ const GSC_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Endure: {bp: 0, category: 'Status', type: 'Normal', priority: 2},
   Flail: {bp: 0, type: 'Normal'},
   Foresight: {bp: 0, category: 'Status', type: 'Normal'},
-  'Future Sight': {bp: 80, type: 'Psychic'},
+  'Future Sight': {bp: 120, type: 'Psychic'},
   'Heal Bell': {bp: 0, category: 'Status', type: 'Normal'},
   'Icy Wind': {bp: 55, type: 'Ice'},
   'Lock-On': {bp: 0, category: 'Status', type: 'Normal'},
@@ -661,6 +661,13 @@ EK['Overheat'] = {bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3]};
 EK['Psycho Boost'] = {bp: 140, type: 'Psychic', recoil: [1, 4]};
 EK['Superpower'] = {bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true};
 EK['Bone Rush'] = {bp: 100, type: 'Ground'};
+
+const EK1_1_PATCH: {[name: string]: DeepPartial<MoveData>} = {
+  'Future Sight': {bp: 80, type: 'Psychic'},
+  Pursuit: {bp: 50},
+};
+
+const EK1_1: {[name: string]: MoveData} = extend(true, {}, EK, EK1_1_PATCH);
 
 const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Absorb: {category: 'Special'},
@@ -5013,7 +5020,7 @@ const SV: {[name: string]: MoveData} = extend(true, {}, SS, SV_PATCH);
 
 export const MOVES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
 
-export const HACK_MOVES = [{}, EK];
+export const HACK_MOVES = [{}, EK, EK1_1];
 
 export class Moves implements I.Moves {
   private readonly gen: I.GenerationNum;
@@ -5129,6 +5136,7 @@ export const HACK_MOVES_BY_ID: Array<{[id: string]: Move}> = [];
 
 const HACKGEN = [
   0,
+  3,
   3
 ];
 
@@ -5137,7 +5145,7 @@ for (const moves of HACK_MOVES) {
   const map: {[id: string]: Move} = {};
   for (const move in moves) {
     const data = moves[move];
-    if ([1].includes(game)) {
+    if ([1, 2].includes(game)) {
       const m = new Move(move, data, HACKGEN[game]);
       map[m.id] = m;
     } else break;
