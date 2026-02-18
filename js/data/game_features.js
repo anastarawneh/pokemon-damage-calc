@@ -22,5 +22,9 @@ const GAME_FEATURES = {
     "Emerald Kaizo": {
         sync: true,
         upload: true
+    },
+    "Emerald Kaizo 1.1": {
+        sync: true,
+        upload: true
     }
 };

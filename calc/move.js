@@ -12,8 +12,8 @@ var Move = (function () {
         this.originalName = name;
         var data = (0, util_1.extend)(true, { name: name }, gen.moves.get((0, util_1.toID)(name)), options.overrides);
         var game = (((_a = document.querySelector("input[name='game']:checked + label")) === null || _a === void 0 ? void 0 : _a.innerHTML) || "None");
-        if (["Emerald Kaizo"].includes(game)) {
-            var hack_ids = { "Emerald Kaizo": 1 };
+        if (["Emerald Kaizo", "Emerald Kaizo 1.1"].includes(game)) {
+            var hack_ids = { "Emerald Kaizo": 1, "Emerald Kaizo 1.1": 2 };
             data = (0, util_1.extend)(true, { name: name }, moves_1.HACK_MOVES_BY_ID[hack_ids[game]][(0, util_1.toID)(name)], options.overrides);
         }
         this.hits = 1;

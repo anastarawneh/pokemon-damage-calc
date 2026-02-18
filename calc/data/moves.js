@@ -243,7 +243,7 @@ var GSC_PATCH = {
     Endure: { bp: 0, category: 'Status', type: 'Normal', priority: 2 },
     Flail: { bp: 0, type: 'Normal' },
     Foresight: { bp: 0, category: 'Status', type: 'Normal' },
-    'Future Sight': { bp: 80, type: 'Psychic' },
+    'Future Sight': { bp: 120, type: 'Psychic' },
     'Heal Bell': { bp: 0, category: 'Status', type: 'Normal' },
     'Icy Wind': { bp: 55, type: 'Ice' },
     'Lock-On': { bp: 0, category: 'Status', type: 'Normal' },
@@ -647,6 +647,11 @@ EK['Overheat'] = { bp: 120, type: 'Fire', makesContact: true, recoil: [1, 3] };
 EK['Psycho Boost'] = { bp: 140, type: 'Psychic', recoil: [1, 4] };
 EK['Superpower'] = { bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true };
 EK['Bone Rush'] = { bp: 100, type: 'Ground' };
+var EK1_1_PATCH = {
+    'Future Sight': { bp: 80, type: 'Psychic' },
+    Pursuit: { bp: 50 }
+};
+var EK1_1 = (0, util_1.extend)(true, {}, EK, EK1_1_PATCH);
 var DPP_PATCH = {
     Absorb: { category: 'Special' },
     'Arm Thrust': { category: 'Physical' },
@@ -4991,7 +4996,7 @@ var SV_PATCH = {
 };
 var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH);
 exports.MOVES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
-exports.HACK_MOVES = [{}, EK];
+exports.HACK_MOVES = [{}, EK, EK1_1];
 var Moves = (function () {
     function Moves(gen) {
         this.gen = gen;
@@ -5102,6 +5107,7 @@ finally {
 exports.HACK_MOVES_BY_ID = [];
 var HACKGEN = [
     0,
+    3,
     3
 ];
 var game = 0;
@@ -5111,7 +5117,7 @@ try {
         var map = {};
         for (var move in moves) {
             var data = moves[move];
-            if ([1].includes(game)) {
+            if ([1, 2].includes(game)) {
                 var m = new Move(move, data, HACKGEN[game]);
                 map[m.id] = m;
             }

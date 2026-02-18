@@ -2,7 +2,7 @@ var game, gameId, generation, isHack;
 $(".game").change(function() {
 	game = $("input[name='game']:checked + label").html();
     gameId = ~~$(this).val();
-	isHack = ["Emerald Kaizo"].includes(game);
+	isHack = ["Emerald Kaizo", "Emerald Kaizo 1.1"].includes(game);
     var params = new URLSearchParams(window.location.search);
 	if (game == "None") {
 		params.delete('game');
@@ -160,26 +160,31 @@ var CUSTOMFLAGS = [
 
 var CUSTOMHACKSETDEX = [
 	undefined, // None
-	typeof CUSTOMHACKSETDEX_EK === 'undefined' ? {} : CUSTOMHACKSETDEX_EK
+	typeof CUSTOMHACKSETDEX_EK === 'undefined' ? {} : CUSTOMHACKSETDEX_EK,
+	typeof CUSTOMHACKSETDEX_EK1_1 === 'undefined' ? {} : CUSTOMHACKSETDEX_EK1_1
 ];
 
 var HACKGEN = {
-	1: 3
+	1: 3,
+	2: 3
 };
 
 var CUSTOMHACKTRAINERNAMES = [
 	undefined,
-	typeof CUSTOMHACKTRAINERNAMES_EK === 'undefined' ? {} : CUSTOMHACKTRAINERNAMES_EK
+	typeof CUSTOMHACKTRAINERNAMES_EK === 'undefined' ? {} : CUSTOMHACKTRAINERNAMES_EK,
+	typeof CUSTOMHACKTRAINERNAMES_EK1_1 === 'undefined' ? {} : CUSTOMHACKTRAINERNAMES_EK1_1
 ];
 
 var CUSTOMHACKPARTYORDER = [
 	undefined,
-	typeof CUSTOMHACKPARTYORDER_EK === 'undefined' ? {} : CUSTOMHACKPARTYORDER_EK
+	typeof CUSTOMHACKPARTYORDER_EK === 'undefined' ? {} : CUSTOMHACKPARTYORDER_EK,
+	typeof CUSTOMHACKPARTYORDER_EK1_1 === 'undefined' ? {} : CUSTOMHACKPARTYORDER_EK1_1
 ];
 
 var CUSTOMHACKFLAGS = [
 	undefined,
-	typeof CUSTOMHACKFLAGS_EK === 'undefined' ? {} : CUSTOMHACKFLAGS_EK
+	typeof CUSTOMHACKFLAGS_EK === 'undefined' ? {} : CUSTOMHACKFLAGS_EK,
+	typeof CUSTOMHACKFLAGS_EK1_1 === 'undefined' ? {} : CUSTOMHACKFLAGS_EK1_1
 ];
 
 function updateGenOptions() {
@@ -460,6 +465,7 @@ function vanillaDamageCalcEmerald(attacker, defender, move, field) {
 function vanillaDamageCalc(attacker, defender, move, field) {
 	switch (game) {
 		case "Emerald Kaizo":
+		case "Emerald Kaizo 1.1":
 			return vanillaDamageCalcEmerald(attacker, defender, move, field);
 	}
 }
@@ -872,6 +878,7 @@ function predictSwitchOrder() {
 			predictSwitchOrderPlatinum();
 			break;
 		case "Emerald Kaizo":
+		case "Emerald Kaizo 1.1":
 			predictSwitchOrderEmerald();
 			break;
 	}
@@ -935,6 +942,7 @@ function predictMidTurnSwitchEmerald(p1, p2) {
 function predictMidTurnSwitch(p1, p2) {
 	switch (game) {
 		case "Emerald Kaizo":
+		case "Emerald Kaizo 1.1":
 			predictMidTurnSwitchEmerald(p1, p2);
 			break;
 	}
