@@ -389,6 +389,8 @@ function updateDex(customsets, callback = null) {
 			} else {
 				if (!CUSTOMHACKSETDEX_EK[pokemon]) CUSTOMHACKSETDEX_EK[pokemon] = {};
 				CUSTOMHACKSETDEX_EK[pokemon][moveset] = customsets[pokemon][moveset];
+				if (!CUSTOMHACKSETDEX_EK1_1[pokemon]) CUSTOMHACKSETDEX_EK1_1[pokemon] = {};
+				CUSTOMHACKSETDEX_EK1_1[pokemon][moveset] = customsets[pokemon][moveset];
 			}
 
 			var poke = {name: pokemon, nameProp: moveset};	
