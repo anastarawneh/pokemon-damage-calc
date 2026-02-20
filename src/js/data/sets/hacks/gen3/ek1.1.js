@@ -2033,7 +2033,7 @@ var CUSTOMHACKSETDEX_EK1_1 = {
         "Expert Clifford": {"ability": "Guts", "item": "Choice Band", "level": 66, "moves": ["Self-Destruct"], "nature": "Naive"},
         "Expert Fredrick": {"ability": "Guts", "item": "Leftovers", "level": 76, "moves": ["Facade", "Earthquake", "Shadow Ball", "Slack Off"], "nature": "Relaxed"},
         "Expert Julie": {"ability": "Guts", "item": "Leftovers", "level": 84, "moves": ["Self-Destruct", "Body Slam", "Earthquake", "Shadow Ball"], "nature": "Hasty"},
-        "Leader Norman": {"ability": "Guts", "item": "Leftovers", "level": 48, "moves": ["Block", "Double-Edge", "Dynamicpunch", "Attract"], "nature": "Relaxed"},
+        "Leader Norman": {"ability": "Guts", "item": "Leftovers", "level": 48, "moves": ["Block", "Double-Edge", "Dynamic Punch", "Attract"], "nature": "Relaxed"},
         "Pokémon Trainer Red #2": {"ability": "Guts", "item": "Leftovers", "level": 36, "moves": ["Curse", "Snore", "Earthquake", "Rest"], "nature": "Serious"},
         "Pokémon Trainer Red #3": {"ability": "Guts", "item": "Leftovers", "level": 89, "moves": ["Shadow Ball", "Earthquake", "Body Slam", "Counter"], "nature": "Naughty"},
         "Team Aqua Grunt #1 @ Aqua Hideout": {"ability": "Guts", "item": "Leftovers", "level": 60, "moves": ["Counter", "Body Slam", "Earthquake", "Shadow Ball"], "nature": "Adamant"},
