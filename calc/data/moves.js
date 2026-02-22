@@ -648,7 +648,7 @@ EK['Psycho Boost'] = { bp: 140, type: 'Psychic', recoil: [1, 4] };
 EK['Superpower'] = { bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: true };
 EK['Bone Rush'] = { bp: 100, type: 'Ground' };
 var EK1_1_PATCH = {
-    'Future Sight': { bp: 80, type: 'Psychic' },
+    'Future Sight': { bp: 120, type: 'Psychic' },
     Pursuit: { bp: 50 }
 };
 var EK1_1 = (0, util_1.extend)(true, {}, EK, EK1_1_PATCH);
