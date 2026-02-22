@@ -663,7 +663,7 @@ EK['Superpower'] = {bp: 120, type: 'Fighting', recoil: [1, 3], makesContact: tru
 EK['Bone Rush'] = {bp: 100, type: 'Ground'};
 
 const EK1_1_PATCH: {[name: string]: DeepPartial<MoveData>} = {
-  'Future Sight': {bp: 80, type: 'Psychic'},
+  'Future Sight': {bp: 120, type: 'Psychic'},
   Pursuit: {bp: 50},
 };
 
