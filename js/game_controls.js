@@ -630,7 +630,7 @@ function predictSwitchOrderEmerald() {
 						var move = attacker.moves[j];
 						if (move.named(
 							"Fissure", "Horn Drill", "Guilotine", "Sheer Cold",
-							"Flail", "Frustration", "Low Kick", "Magnitude", "Present", "Return", "Reversal",
+							"Flail", "Low Kick", "Magnitude", "Present", "Reversal",
 							"Counter", "Mirror Coat",
 							"Dragon Rage", "Endeavor", "Night Shade", "Psywave", "Seismic Toss", "Sonic Boom", "Sonicboom", "Super Fang",
 							"Bide", "Hidden Power"
@@ -654,7 +654,7 @@ function predictSwitchOrderEmerald() {
 						});
 						if (attacker.moves[j].named(
 							"Fissure", "Horn Drill", "Guilotine", "Sheer Cold",
-							"Flail", "Frustration", "Low Kick", "Magnitude", "Present", "Return", "Reversal",
+							"Flail", "Low Kick", "Magnitude", "Present", "Reversal",
 							"Counter", "Mirror Coat",
 							"Dragon Rage", "Endeavor", "Night Shade", "Psywave", "Seismic Toss", "Sonic Boom", "Sonicboom", "Super Fang",
 							"Bide", "Hidden Power"
